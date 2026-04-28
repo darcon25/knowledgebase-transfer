@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/darcon25/knowledgebase-transfer",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}

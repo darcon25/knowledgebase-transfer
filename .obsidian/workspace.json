@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "b3fc2ec1903228da",
+    "type": "split",
+    "children": [
+      {
+        "id": "89290be1a7646e08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9570b81e4df8a855",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84c2b9b63b9e3862",
+    "type": "split",
+    "children": [
+      {
+        "id": "9def6147031cb07b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ac3b669e12e44ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "644c541bf4107795",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "4e17e91e1ad1b200",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7b12371f27b1550",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9b902d41c05abb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dab79ab530e0f7bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-04-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026-04-28 的反向連結"
+            }
+          },
+          {
+            "id": "9618a3ee86af7720",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-04-28.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2026-04-28 的對外連結"
+            }
+          },
+          {
+            "id": "8eb514423b7dc9d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "9605d31411192b6b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "5dd7ecbec6f51717",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-04-28.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-04-28 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "9570b81e4df8a855",
+  "lastOpenFiles": [
+    "raw/instagram_2026-04-28_u2oubxff.md",
+    "2026-04-28.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "wiki/entities/AgentCrew Academy.md",
+    "wiki/concepts/個人知識庫與第二大腦.md",
+    "wiki/concepts/MCP工具協議.md",
+    "2026-04-27.md",
+    "wiki/concepts/Skill技能手冊.md",
+    "raw/重複的例行工作，讓 Claude 幫你打包成一個 Skill｜EP.26.md",
+    "wiki/sources/重複的例行工作讓Claude幫你打包成一個Skill-EP26.md",
+    "歡迎.md",
+    "CLAUDE.md",
+    "index.md",
+    "log.md",
+    "Clippings/重複的例行工作，讓 Claude 幫你打包成一個 Skill｜EP.26.md",
+    "Clippings",
+    "wiki/sources/session-2026-04-27-setup.md",
+    "wiki/overview.md",
+    "wiki/sources",
+    "wiki/entities",
+    "wiki/concepts",
+    "wiki",
+    "raw/assets",
+    "raw"
+  ]
+}

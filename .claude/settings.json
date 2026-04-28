@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 '/Users/mmfamily/Max KnowledgeBase/.claude/check-new-files.py' 2>/dev/null || true",
+            "timeout": 10,
+            "statusMessage": "掃描知識庫新檔案..."
+          }
+        ]
+      }
+    ]
+  }
+}
