@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b55eab91c5e2c47a",
+        "id": "439a32e64401257a",
         "type": "tabs",
         "children": [
           {
-            "id": "6286bc08d1601a3a",
+            "id": "6cc46caa811a1957",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "raw/threads_2026-04-28_9ipjkukm.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": -106,
+                  "y": -94,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "threads_2026-04-28_9ipjkukm"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -75,10 +78,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "944a400aedb911b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "477cbd2e1f65af5b",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 226.5
   },
   "right": {
     "id": "e7b12371f27b1550",
@@ -184,28 +203,30 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "6286bc08d1601a3a",
+  "active": "6cc46caa811a1957",
   "lastOpenFiles": [
-    "raw/threads_2026-04-28_yc93scdj.md",
+    "歡迎.md",
+    "未命名.base",
+    "未命名.canvas",
+    "Clippings/Post by @chihua.wang.3 on Threads.md",
+    "raw/threads_2026-04-28_9ipjkukm.md",
+    "wiki/entities/AgentCrew Academy.md",
     "wiki/concepts/個人知識庫與第二大腦.md",
+    "wiki/concepts/Skill技能手冊.md",
+    "wiki/concepts/MCP工具協議.md",
+    "raw/threads_2026-04-28_3cgctp4b.md",
+    "raw/threads_2026-04-28_yc93scdj.md",
     "wiki/overview.md",
     "wiki/sources/session-2026-04-27-setup.md",
     "wiki/sources/重複的例行工作讓Claude幫你打包成一個Skill-EP26.md",
-    "raw/threads_2026-04-28_9ipjkukm.md",
     "raw/重複的例行工作，讓 Claude 幫你打包成一個 Skill｜EP.26.md",
     "raw/instagram_2026-04-28_u2oubxff.md",
     "index.md",
     "log.md",
-    "未命名.canvas",
-    "歡迎.md",
     "2026-04-28.md",
     "2026-04-27.md",
-    "Clippings/Post by @chihua.wang.3 on Threads.md",
     "Clippings",
     "未命名 1.canvas",
-    "wiki/entities/AgentCrew Academy.md",
-    "wiki/concepts/MCP工具協議.md",
-    "wiki/concepts/Skill技能手冊.md",
     "CLAUDE.md",
     "Clippings/重複的例行工作，讓 Claude 幫你打包成一個 Skill｜EP.26.md",
     "wiki/sources",
