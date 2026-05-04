@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "22f753e2a21ffab4",
+        "id": "10ca42b0f55d8495",
         "type": "tabs",
         "children": [
           {
-            "id": "117b232ad0d3482e",
+            "id": "f292ff3d254708cd",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "raw/Claude Code + Obsidian 個人知識庫，token 用量直接節省 95%.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "Claude Code + Obsidian 個人知識庫，token 用量直接節省 95%"
             }
           }
         ]
@@ -73,8 +74,7 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "944a400aedb911b6",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.base",
+                "file": "raw/Claude Code + Obsidian 個人知識庫，token 用量直接節省 95%.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向連結"
+              "title": "Claude Code + Obsidian 個人知識庫，token 用量直接節省 95% 的反向連結"
             }
           },
           {
@@ -212,8 +212,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "644c541bf4107795",
+  "active": "f292ff3d254708cd",
   "lastOpenFiles": [
+    "raw/重複的例行工作，讓 Claude 幫你打包成一個 Skill｜EP.26.md",
+    "raw/threads_2026-04-28_yc93scdj.md",
+    "raw/threads_2026-04-28_9ipjkukm.md",
+    "raw/Claude Code + Obsidian 個人知識庫，token 用量直接節省 95%.md",
     "未命名.base",
     "Journals",
     "2026-04-28.md",
@@ -227,21 +231,17 @@
     "raw/threads_2026-04-29_4epbggax.md",
     "歡迎.md",
     "Clippings/Post by @chihua.wang.3 on Threads.md",
-    "raw/threads_2026-04-28_9ipjkukm.md",
     "wiki/entities/AgentCrew Academy.md",
     "wiki/concepts/個人知識庫與第二大腦.md",
     "wiki/concepts/Skill技能手冊.md",
     "wiki/concepts/MCP工具協議.md",
     "raw/threads_2026-04-28_3cgctp4b.md",
-    "raw/threads_2026-04-28_yc93scdj.md",
     "wiki/overview.md",
     "wiki/sources/session-2026-04-27-setup.md",
     "wiki/sources/重複的例行工作讓Claude幫你打包成一個Skill-EP26.md",
-    "raw/重複的例行工作，讓 Claude 幫你打包成一個 Skill｜EP.26.md",
     "raw/instagram_2026-04-28_u2oubxff.md",
     "index.md",
     "log.md",
-    "2026-04-27.md",
     "Clippings",
     "未命名 1.canvas",
     "wiki/sources",
