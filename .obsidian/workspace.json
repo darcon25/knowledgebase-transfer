@@ -11,10 +11,13 @@
             "id": "117b232ad0d3482e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
+              "type": "bases",
+              "state": {
+                "file": "未命名.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           }
         ]
@@ -70,7 +73,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "944a400aedb911b6",
@@ -90,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 317.5
   },
   "right": {
     "id": "e7b12371f27b1550",
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向連結"
+              "title": "未命名 的反向連結"
             }
           },
           {
@@ -207,8 +212,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ac3b669e12e44ad",
+  "active": "644c541bf4107795",
   "lastOpenFiles": [
+    "未命名.base",
     "Journals",
     "2026-04-28.md",
     "未命名.canvas",
@@ -220,7 +226,6 @@
     "raw/threads_2026-04-29_4lk1bf08.md",
     "raw/threads_2026-04-29_4epbggax.md",
     "歡迎.md",
-    "未命名.base",
     "Clippings/Post by @chihua.wang.3 on Threads.md",
     "raw/threads_2026-04-28_9ipjkukm.md",
     "wiki/entities/AgentCrew Academy.md",

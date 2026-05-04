@@ -198,12 +198,12 @@
       "icon": ""
     },
     {
+      "icon": "",
       "name": "Open weekly note",
-      "writeType": "week",
       "type": "same",
-      "openMode": "tab",
+      "writeType": "week",
       "showInRibbon": false,
-      "icon": ""
+      "openMode": "tab"
     },
     {
       "name": "Open monthly note",
