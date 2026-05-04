@@ -1,7 +1,7 @@
 ---
 tags: [concept]
-sources: 1
-updated: 2026-04-27
+sources: 3
+updated: 2026-05-05
 ---
 
 # Skill（技能手冊）
@@ -24,11 +24,24 @@ Skill 是 Claude Code 中一種封裝好的工作指令文件（`skill.md`），
 - 需要固定品質標準的任務（如去 AI 味寫作）
 - 多步驟工作流自動化
 
+## 實用 Skill 範例（Nate Herk 推薦）
+
+| Skill | 功能 |
+|-------|------|
+| **Skill Creator** | 將 SOP 自動轉化為 Skill，無需手寫 |
+| **Superpowers** | 強制 AI 先規劃→先測試→後寫 Code，提升代碼品質 |
+| **GSD & Context Mode** | 任務切分 + 日誌壓縮，解決長對話降智問題 |
+| **Ultrareview** | 多 Agent 平行審查，找出隱藏 Bug |
+| **Claude Mem** | 本地記憶，跨時段開發不失憶，節省 Token |
+
 ## 相關連結
 
 - [[concepts/MCP工具協議]]
 - [[concepts/個人知識庫與第二大腦]]
+- [[concepts/AI-Agent工作流]]
 
 ## 來源
 
 - [[sources/重複的例行工作讓Claude幫你打包成一個Skill-EP26]]
+- [[sources/Claude-Code六大核心技能]]
+- [[sources/Claude-Code-AI員工定位]]
