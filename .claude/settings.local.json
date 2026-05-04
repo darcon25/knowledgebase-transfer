@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(python3 '/Users/mmfamily/Max KnowledgeBase/.claude/check-new-files.py')",
-      "Bash(echo \"exit: $?\")"
+      "Bash(echo \"exit: $?\")",
+      "Read(//Users/mmfamily/Claude code/**)",
+      "Read(//Users/mmfamily/Documents/**)"
     ]
   }
 }
