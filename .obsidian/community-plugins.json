@@ -1,4 +1,6 @@
 [
   "github-sync",
-  "journals"
+  "journals",
+  "calendar",
+  "templater-obsidian"
 ]

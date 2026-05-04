@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "439a32e64401257a",
+        "id": "22f753e2a21ffab4",
         "type": "tabs",
         "children": [
           {
-            "id": "6cc46caa811a1957",
+            "id": "117b232ad0d3482e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": -106,
-                  "y": -94,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
             }
           }
         ]
@@ -113,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-04-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-04-28 的反向連結"
+              "title": "反向連結"
             }
           },
           {
@@ -183,8 +175,19 @@
               "icon": "lucide-list",
               "title": "2026-04-28 的大綱"
             }
+          },
+          {
+            "id": "9ac53ef8c359d5e2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -200,11 +203,15 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "bases:建立新的 base": false
+      "bases:建立新的 base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "6cc46caa811a1957",
+  "active": "9ac3b669e12e44ad",
   "lastOpenFiles": [
+    "Journals",
+    "2026-04-28.md",
+    "未命名.canvas",
     "raw/threads_2026-05-02_t37z3da5.md",
     "raw/threads_2026-04-29_ycnk6bky.md",
     "raw/threads_2026-04-29_y1pcnhog.md",
@@ -214,7 +221,6 @@
     "raw/threads_2026-04-29_4epbggax.md",
     "歡迎.md",
     "未命名.base",
-    "未命名.canvas",
     "Clippings/Post by @chihua.wang.3 on Threads.md",
     "raw/threads_2026-04-28_9ipjkukm.md",
     "wiki/entities/AgentCrew Academy.md",
@@ -230,11 +236,9 @@
     "raw/instagram_2026-04-28_u2oubxff.md",
     "index.md",
     "log.md",
-    "2026-04-28.md",
     "2026-04-27.md",
     "Clippings",
     "未命名 1.canvas",
-    "CLAUDE.md",
     "wiki/sources",
     "wiki/entities",
     "wiki/concepts",

@@ -1,7 +1,7 @@
 {
   "version": 3,
   "ui": {
-    "calendarShelf": null
+    "calendarShelf": "Personal developement"
   },
   "pendingMigrations": [],
   "dismissedNotifications": [
