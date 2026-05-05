@@ -43,7 +43,9 @@
       "Bash(python3 -m pytest tests/test_validation.py -v)",
       "Bash(python3 -c \"from providers.fixture_insider import get_fixture_insider_data; df = get_fixture_insider_data\\(\\); print\\(df.shape\\)\")",
       "Bash(python3 -m pytest tests/signals/tw_insider/test_signal.py -v)",
-      "Bash(python3 -m pytest tests/signals/tw_insider/ tests/test_validation.py -v)"
+      "Bash(python3 -m pytest tests/signals/tw_insider/ tests/test_validation.py -v)",
+      "Bash(python3 main.py)",
+      "Bash(python3 main.py --validate)"
     ]
   }
 }
