@@ -18,7 +18,12 @@
       "Bash(python3 -m pytest tests/signals/tw_etf_holdings/test_passive_rules.py -v)",
       "Bash(python3 -m pytest tests/signals/tw_etf_holdings/test_active_rules.py -v)",
       "Bash(python3 -m pytest tests/signals/tw_etf_holdings/test_predictor.py -v)",
-      "Bash(python3 -m pytest tests/signals/tw_etf_holdings/test_signal.py -v)"
+      "Bash(python3 -m pytest tests/signals/tw_etf_holdings/test_signal.py -v)",
+      "Bash(python3 -m pytest tests/signals/tw_etf_holdings/test_backtest.py -v)",
+      "Bash(python3 -m pytest -v)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(gh pr create --title 'feat: tw_etf_holdings - 台灣 14 大 ETF 持股分析與換股預測模組' --body ' *)"
     ]
   }
 }
