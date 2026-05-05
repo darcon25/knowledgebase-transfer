@@ -37,7 +37,8 @@
       "Bash(git commit *)",
       "Bash(/tmp/gh_extracted/gh_2.92.0_macOS_arm64/bin/gh pr create --title 'feat: tw_etf_holdings - 台灣 14 大 ETF 持股分析與換股預測模組' --body ' *)",
       "Bash(python3 -m pytest tests/providers/test_twse_market.py -v)",
-      "Bash(python3 -c ' *)"
+      "Bash(python3 -c ' *)",
+      "Bash(python3 -m pytest tests/ -v)"
     ]
   }
 }
