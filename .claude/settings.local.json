@@ -4,7 +4,13 @@
       "Bash(python3 '/Users/mmfamily/Max KnowledgeBase/.claude/check-new-files.py')",
       "Bash(echo \"exit: $?\")",
       "Read(//Users/mmfamily/Claude code/**)",
-      "Read(//Users/mmfamily/Documents/**)"
+      "Read(//Users/mmfamily/Documents/**)",
+      "Bash(pip install *)",
+      "Bash(pip3 install *)",
+      "Bash(python3 -c \"import requests, bs4, pandas, duckdb, pytest; print\\('all ok'\\)\")",
+      "Bash(python3 -m pytest --collect-only)",
+      "Bash(python3 -m pytest tests/providers/test_base.py -v)",
+      "Bash(python3 -m pytest tests/test_db.py -v)"
     ]
   }
 }
