@@ -23,7 +23,14 @@
       "Bash(python3 -m pytest -v)",
       "Bash(git remote *)",
       "Bash(git push *)",
-      "Bash(gh pr create --title 'feat: tw_etf_holdings - 台灣 14 大 ETF 持股分析與換股預測模組' --body ' *)"
+      "Bash(gh pr create --title 'feat: tw_etf_holdings - 台灣 14 大 ETF 持股分析與換股預測模組' --body ' *)",
+      "Bash(curl -s https://api.github.com/repos/cli/cli/releases/latest)",
+      "Bash(curl -L -o /tmp/gh.zip \"https://github.com/cli/cli/releases/download/v2.92.0/gh_2.92.0_macOS_arm64.zip\")",
+      "Read(//private/tmp/**)",
+      "Bash(unzip -o gh.zip -d gh_extracted)",
+      "Bash(sudo cp *)",
+      "Bash(cp /tmp/gh_extracted/gh_2.92.0_macOS_arm64/bin/gh ~/bin/gh)",
+      "Bash(/tmp/gh_extracted/gh_2.92.0_macOS_arm64/bin/gh --version)"
     ]
   }
 }
