@@ -46,7 +46,8 @@
       "Bash(python3 -m pytest tests/signals/tw_insider/ tests/test_validation.py -v)",
       "Bash(python3 main.py)",
       "Bash(python3 main.py --validate)",
-      "Bash(python3 -m pytest tests/ -v --tb=short)"
+      "Bash(python3 -m pytest tests/ -v --tb=short)",
+      "Bash(playwright install *)"
     ]
   }
 }
