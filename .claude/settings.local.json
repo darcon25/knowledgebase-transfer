@@ -30,7 +30,12 @@
       "Bash(unzip -o gh.zip -d gh_extracted)",
       "Bash(sudo cp *)",
       "Bash(cp /tmp/gh_extracted/gh_2.92.0_macOS_arm64/bin/gh ~/bin/gh)",
-      "Bash(/tmp/gh_extracted/gh_2.92.0_macOS_arm64/bin/gh --version)"
+      "Bash(/tmp/gh_extracted/gh_2.92.0_macOS_arm64/bin/gh --version)",
+      "Bash(git checkout *)",
+      "Bash(git fetch *)",
+      "Bash(git merge *)",
+      "Bash(git commit *)",
+      "Bash(/tmp/gh_extracted/gh_2.92.0_macOS_arm64/bin/gh pr create --title 'feat: tw_etf_holdings - 台灣 14 大 ETF 持股分析與換股預測模組' --body ' *)"
     ]
   }
 }
