@@ -10,7 +10,15 @@
       "Bash(python3 -c \"import requests, bs4, pandas, duckdb, pytest; print\\('all ok'\\)\")",
       "Bash(python3 -m pytest --collect-only)",
       "Bash(python3 -m pytest tests/providers/test_base.py -v)",
-      "Bash(python3 -m pytest tests/test_db.py -v)"
+      "Bash(python3 -m pytest tests/test_db.py -v)",
+      "Bash(python -m pytest tests/providers/test_mops_etf.py -v)",
+      "Bash(python3 -m pytest tests/providers/test_mops_etf.py -v)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(python3 -m pytest tests/signals/tw_etf_holdings/test_passive_rules.py -v)",
+      "Bash(python3 -m pytest tests/signals/tw_etf_holdings/test_active_rules.py -v)",
+      "Bash(python3 -m pytest tests/signals/tw_etf_holdings/test_predictor.py -v)",
+      "Bash(python3 -m pytest tests/signals/tw_etf_holdings/test_signal.py -v)"
     ]
   }
 }
