@@ -48,7 +48,8 @@
       "Bash(python3 main.py --validate)",
       "Bash(python3 -m pytest tests/ -v --tb=short)",
       "Bash(playwright install *)",
-      "Bash(python3 *)"
+      "Bash(python3 *)",
+      "Bash(curl *)"
     ]
   }
 }
