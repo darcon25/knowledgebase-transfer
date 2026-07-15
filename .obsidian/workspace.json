@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "wiki/sources/ChatGPT財經分析師應用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "ChatGPT財經分析師應用"
             }
           }
         ]
@@ -214,22 +214,24 @@
   },
   "active": "f292ff3d254708cd",
   "lastOpenFiles": [
-    "raw/threads_2026-05-04_iow8n0t3.md",
     "CLAUDE.md",
+    "raw/threads_2026-05-04_dyc72kls.md",
+    "raw/threads_2026-05-02_t37z3da5.md",
+    "raw/threads_2026-04-29_ycnk6bky.md",
     "index.md",
+    "raw/threads_2026-05-27_l9rl1ivs.md",
+    "raw/threads_2026-05-04_iow8n0t3.md",
+    "raw/threads_2026-07-14_228zu5dd.md",
     "wiki/concepts/Claude-Design.md",
     "wiki/sources/Claude-Code六大核心技能.md",
-    "raw/threads_2026-05-04_dyc72kls.md",
     "log.md",
     "未命名.base",
     "raw/Claude Code + Obsidian 個人知識庫，token 用量直接節省 95%.md",
     "未命名.canvas",
     "raw/重複的例行工作，讓 Claude 幫你打包成一個 Skill｜EP.26.md",
-    "raw/threads_2026-05-02_t37z3da5.md",
     "raw/threads_2026-04-29_iuttl8y5.md",
     "Clippings/別再只會手帳風 9種Nano Banana Pro旅遊地圖風格示範 複製貼上提示詞你也會用AI.md",
     "Clippings",
-    "raw/threads_2026-05-27_l9rl1ivs.md",
     "raw/threads_2026-05-07_t6zsrs4z.md",
     "raw/threads_2026-05-06_ofcr2zbd.md",
     "raw/instagram_2026-05-06_qxfb81gb.md",
@@ -241,8 +243,6 @@
     "wiki/sources/ChatGPT財經分析師應用.md",
     "wiki/sources/Google-2026數位人才探索計畫.md",
     "wiki/sources/Cloudflare轉型與75分雜學家.md",
-    "wiki/sources/AI製作PPT工具與Claude-Design.md",
-    "wiki/sources/Claude-Code-Obsidian知識庫節省Token.md",
     "Journals",
     "未命名 1.canvas",
     "wiki/sources",
