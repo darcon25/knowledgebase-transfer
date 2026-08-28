@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/Users/mmfamily/Max KnowledgeBase/tools/fetch_market.py", line 23, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/mmfamily/Max KnowledgeBase/tools/health_check.py", line 15, in <module>
+    import notify  # noqa: E402
+  File "/Users/mmfamily/Max KnowledgeBase/tools/notify.py", line 12, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
