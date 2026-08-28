@@ -20,7 +20,6 @@ WIKI = KB / "wiki"
 SOURCE_DIRS = ["raw", "Clippings"]
 
 STALE_DAYS = 3
-TRUNCATED_BYTES = 900          # 小於此值又有 frontmatter 的來源檔，很可能存到一半
 LINK_RE = re.compile(r"\[\[([^\]|#]+)")
 
 
@@ -56,16 +55,34 @@ def check_uningested() -> list:
 
 
 def check_truncated() -> list:
+    """抓被截斷的來源檔。
+
+    手機管道存進來的檔案有輸出長度上限，常常存到一半就斷在句子中間。
+    判斷方式：正文最後一行沒有以句尾標點結束 → 幾乎確定被截斷。
+    """
     out = []
     for folder in SOURCE_DIRS:
-        for f in (KB / folder).glob("*.md"):
+        for f in sorted((KB / folder).glob("*.md")):
             text = f.read_text(encoding="utf-8", errors="ignore")
-            if not text.startswith("---") or len(text.encode()) >= TRUNCATED_BYTES:
+            if not text.startswith("---"):
                 continue
-            body = text.split("---", 2)[-1]
-            # 內文從標點或半形括號開頭 → 幾乎確定是被截斷的片段
-            if re.search(r"\n\s*[）)、，,。]", body) or len(body.strip()) < 200:
-                out.append(f"疑似內容截斷：{folder}/{f.name}（{len(text.encode()):,} bytes）")
+            if "404" in text[:600]:          # Threads 失效頁，不是截斷
+                continue
+            # 只檢查手機管道（Threads/IG）的檔案：它們格式固定、句子完整。
+            # YouTube 逐字稿沒有標點、網頁剪存結尾是 HTML，套同一條規則會誤報。
+            if not re.search(r"^platform:\s*(threads|instagram)\s*$", text[:600], re.M):
+                continue
+            body = text.split("## 相關頁面")[0]
+            body = body.split("---", 2)[-1]
+            lines = [l.strip() for l in body.splitlines() if l.strip()]
+            if not lines:
+                continue
+            last = lines[-1]
+            if last.startswith("#"):          # 只有標題沒內容
+                out.append(f"內容截斷：{folder}/{f.name}（只有標題，沒有內文）")
+                continue
+            if not re.search(r"[。！？!?）)」』\]:：]$", last):
+                out.append(f"內容截斷：{folder}/{f.name} — 結尾斷在「…{last[-20:]}」")
     return out
 
 
