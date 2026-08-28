@@ -23,3 +23,21 @@
 **更新概念頁面（2）**：Skill技能手冊（新增六大核心技能表格）、個人知識庫與第二大腦（新增 Karpathy 方法說明）。
 
 **更新**：index.md（頁面總數 6 → 17）、overview.md。
+
+## [2026-08-28] update | 知識庫改造：多平台進料 × 投資關聯圖 × 每日健檢
+
+把知識庫從「一篇來源一頁摘要」改成投資分析層，連結數 38 → 500+。
+
+**新增工具**（`tools/`）：`capture.py`（YouTube 逐字稿、截圖歸檔）、`fetch_market.py`（月營收／估值／新聞，四個免費 API，含 3 次重試）、`watchlist.py`（36 檔 PCB/CCL 供應鏈名單）、`build_pages.py`（只覆寫 AUTO 區塊，手寫內容永不動）、`health_check.py`（七類問題巡檢）、`notify.py`（Telegram，含重試）、`daily.sh`。
+
+**新增頁面**：36 家公司頁、11 個環節頁、1 條產業鏈頁、3 個驅動因素頁、1 份分析（2026-08-28 PCB 鏈定價檢驗）、1 個月營收頁、4 個非投資主題頁、DATAROMA、知識庫進料管道。
+
+**消化積壓 10 檔**：投資相關 2 檔（半導體 HBM4 筆記、DATAROMA）深度處理；其餘 8 檔按主題歸入 `wiki/topics/`。
+
+**修正**：`check-new-files.py` 現在同時掃 `Clippings/`，並改用 `data/ingested.json` 明確清單比對（原本比對 log.md 文字，會把已消化的 16 檔全部誤報）。
+
+**自動化**：launchd `com.max.knowledgebase.daily` 每天 18:30 跑「抓取 → 建頁 → 健檢 → 推 Telegram」。
+
+**新增 agent**：`.claude/agents/kb-auditor.md`，唯讀稽核員，查需要判讀的問題（訊號矛盾、摘要失真、論點過期）。
+
+**首次健檢結果**：3 項真實問題——Clippings 有一篇重複存檔（cool3c 245188 存兩次）、2 個 raw 檔內容截斷。

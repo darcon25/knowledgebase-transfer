@@ -70,9 +70,10 @@ def check_truncated() -> list:
 
 
 def check_links() -> tuple:
+    # health.md 可以被連結，但不掃它的內容——報告裡的問題文字會自我汙染
     pages = {p.stem: p for p in WIKI.rglob("*.md")}
     dead, incoming = [], defaultdict(int)
-    for path in WIKI.rglob("*.md"):
+    for path in (p for p in pages.values() if p.name != "health.md"):
         for target in LINK_RE.findall(path.read_text(encoding="utf-8", errors="ignore")):
             target = target.strip().split("/")[-1]
             if target in pages:

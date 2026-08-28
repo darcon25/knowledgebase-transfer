@@ -214,6 +214,8 @@
   },
   "active": "f292ff3d254708cd",
   "lastOpenFiles": [
+    "tools/__pycache__/fetch_market.cpython-314.pyc",
+    "tools/daily.sh",
     "wiki/health.md",
     "tools/__pycache__/notify.cpython-314.pyc",
     "tools/health_check.py",
@@ -245,11 +247,9 @@
     "wiki/investing/companies/8213 志超.md",
     "wiki/investing/companies/8046 南電.md",
     "wiki/investing/companies/8039 台虹.md",
-    "wiki/investing/companies/8021 尖點.md",
     "wiki/investing/segments",
     "wiki/investing/companies",
     "wiki/investing/monthly",
-    "wiki/investing/chains",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
