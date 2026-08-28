@@ -3,10 +3,67 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:wiki/investing/chains",
+      "color": {
+        "a": 1,
+        "rgb": 15680580
+      }
+    },
+    {
+      "query": "path:wiki/investing/segments",
+      "color": {
+        "a": 1,
+        "rgb": 2278750
+      }
+    },
+    {
+      "query": "path:wiki/investing/themes",
+      "color": {
+        "a": 1,
+        "rgb": 16096779
+      }
+    },
+    {
+      "query": "path:wiki/investing/companies",
+      "color": {
+        "a": 1,
+        "rgb": 3900150
+      }
+    },
+    {
+      "query": "path:wiki/investing/insights",
+      "color": {
+        "a": 1,
+        "rgb": 15381256
+      }
+    },
+    {
+      "query": "path:wiki/investing/monthly",
+      "color": {
+        "a": 1,
+        "rgb": 9741240
+      }
+    },
+    {
+      "query": "path:wiki/sources",
+      "color": {
+        "a": 1,
+        "rgb": 10980346
+      }
+    },
+    {
+      "query": "path:wiki/topics",
+      "color": {
+        "a": 1,
+        "rgb": 13358561
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
