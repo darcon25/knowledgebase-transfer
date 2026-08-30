@@ -3,7 +3,8 @@
 
 用法：
     python3 tools/capture.py --youtube <網址>
-    python3 tools/capture.py --shot <圖片路徑> [--note "這是什麼"]
+    python3 tools/capture.py --shot <圖片> [<圖片2> ...] [--note "這是什麼"]
+    python3 tools/capture.py --shot <資料夾> --source <原貼文網址>
 """
 import argparse
 import json
@@ -117,10 +118,29 @@ def capture_youtube(url: str) -> Path:
     return path
 
 
-def capture_shot(image: str, note: str = "") -> Path:
-    src = Path(image).expanduser()
-    if not src.exists():
-        raise RuntimeError(f"找不到圖片：{src}")
+IMAGE_SUFFIXES = {".png", ".jpg", ".jpeg", ".webp", ".gif", ".heic"}
+
+
+def _expand_images(paths: list) -> list:
+    """展開輸入：檔案照原順序收；資料夾則取裡面的圖片並依檔名排序。"""
+    out = []
+    for raw_path in paths:
+        p = Path(raw_path).expanduser()
+        if p.is_dir():
+            out.extend(sorted(f for f in p.iterdir()
+                              if f.suffix.lower() in IMAGE_SUFFIXES))
+        elif p.exists():
+            out.append(p)
+        else:
+            raise RuntimeError(f"找不到圖片：{p}")
+    if not out:
+        raise RuntimeError("沒有可用的圖片")
+    return out
+
+
+def capture_shot(images: list, note: str = "", source: str = "") -> Path:
+    """一則筆記可以收多張圖（IG 輪播、多頁截圖都用這個）。"""
+    srcs = _expand_images(images)
     ASSETS.mkdir(parents=True, exist_ok=True)
     today = date.today().isoformat()
 
@@ -128,8 +148,20 @@ def capture_shot(image: str, note: str = "") -> Path:
     while (RAW / f"shot_{today}_{seq:02d}.md").exists():
         seq += 1
     stem = f"shot_{today}_{seq:02d}"
-    dest = ASSETS / f"{stem}{src.suffix.lower()}"
-    shutil.copy2(src, dest)
+
+    saved = []
+    for i, src in enumerate(srcs, 1):
+        suffix = f"_{i:02d}" if len(srcs) > 1 else ""
+        dest = ASSETS / f"{stem}{suffix}{src.suffix.lower()}"
+        shutil.copy2(src, dest)
+        saved.append(dest.name)
+
+    embeds = "\n".join(f"### 第 {i} 張\n\n![[{name}]]\n"
+                       for i, name in enumerate(saved, 1)) if len(saved) > 1 \
+        else f"![[{saved[0]}]]\n"
+    image_field = ("images:\n" + "".join(f"  - assets/{n}\n" for n in saved)) \
+        if len(saved) > 1 else f"image: assets/{saved[0]}\n"
+    source_field = f'original_url: "{source}"\n' if source else ""
 
     path = RAW / f"{stem}.md"
     path.write_text(
@@ -137,14 +169,20 @@ def capture_shot(image: str, note: str = "") -> Path:
         "tags:\n  - source\n  - screenshot\n"
         "type: screenshot\n"
         f"date_captured: {today}\n"
-        f"image: assets/{dest.name}\n"
+        f"{image_field}"
+        f"{source_field}"
+        f"image_count: {len(saved)}\n"
         "status: 待讀圖\n"
         "---\n\n"
-        f"# 📸 截圖存檔 {today} #{seq:02d}\n\n"
-        f"![[{dest.name}]]\n\n"
-        f"**我的備註**：{note or '（無）'}\n\n"
+        f"# 📸 截圖存檔 {today} #{seq:02d}"
+        f"{f'（{len(saved)} 張）' if len(saved) > 1 else ''}\n\n"
+        + (f"> 原始出處：{source}\n\n" if source else "")
+        + f"**我的備註**：{note or '（無）'}\n\n"
+        f"## 圖片\n\n{embeds}\n"
         "## 內容\n\n"
-        "（尚未讀圖。下次對話跟 Claude 說「消化這張截圖」，它會看圖並把內容寫在這裡。）\n",
+        "（尚未讀圖。下次對話跟 Claude 說「消化這則截圖」，"
+        f"它會依序看完{'這 ' + str(len(saved)) + ' 張圖' if len(saved) > 1 else '這張圖'}"
+        "並把內容寫在這裡。）\n",
         encoding="utf-8",
     )
     return path
@@ -154,12 +192,15 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="把外部內容抓進知識庫 raw/")
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--youtube", metavar="URL", help="YouTube 網址，抓逐字稿")
-    group.add_argument("--shot", metavar="IMAGE", help="截圖檔案路徑")
+    group.add_argument("--shot", metavar="IMAGE", nargs="+",
+                       help="截圖檔案路徑，可給多張或一個資料夾（IG 輪播用這個）")
     parser.add_argument("--note", default="", help="截圖的備註")
+    parser.add_argument("--source", default="", help="原始貼文網址（選填）")
     args = parser.parse_args()
 
     try:
-        path = capture_youtube(args.youtube) if args.youtube else capture_shot(args.shot, args.note)
+        path = (capture_youtube(args.youtube) if args.youtube
+                else capture_shot(args.shot, args.note, args.source))
     except Exception as exc:  # noqa: BLE001
         print(f"❌ 擷取失敗：{exc}", file=sys.stderr)
         return 1
