@@ -60,9 +60,12 @@ def check_truncated() -> list:
     手機管道存進來的檔案有輸出長度上限，常常存到一半就斷在句子中間。
     判斷方式：正文最後一行沒有以句尾標點結束 → 幾乎確定被截斷。
     """
+    accepted = (load_json(DATA / "known_issues.json") or {}).get("truncation_accepted", {})
     out = []
     for folder in SOURCE_DIRS:
         for f in sorted((KB / folder).glob("*.md")):
+            if f"{folder}/{f.name}" in accepted:      # 已確認處理過，不再重複提醒
+                continue
             text = f.read_text(encoding="utf-8", errors="ignore")
             if not text.startswith("---"):
                 continue

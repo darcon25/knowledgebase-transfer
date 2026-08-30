@@ -13,6 +13,7 @@
 import argparse
 import json
 import re
+import subprocess
 import sys
 import time
 import urllib.parse
@@ -39,6 +40,8 @@ SOURCES = {
     "revenue_tpex": "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap05_O",
     "valuation_twse": "https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL",
     "valuation_tpex": "https://www.tpex.org.tw/openapi/v1/tpex_mainboard_peratio_analysis",
+    "margin_twse": "https://openapi.twse.com.tw/v1/opendata/t187ap17_L",
+    "margin_tpex": "https://www.tpex.org.tw/openapi/v1/mopsfin_187ap17_O",
 }
 
 
@@ -50,6 +53,21 @@ def log(msg: str) -> None:
         fh.write(line + "\n")
 
 
+def _curl(url: str) -> str:
+    """用 curl 取代 requests。
+
+    櫃買中心（tpex.org.tw）用的 TWCA 憑證缺 Subject Key Identifier，
+    新版 OpenSSL 會直接拒絕，但 curl 走 macOS 系統信任庫可以驗過。
+    這是備援路徑，**憑證仍然有驗證**，不是關掉檢查。
+    """
+    result = subprocess.run(
+        ["curl", "-sS", "--fail", "--max-time", str(TIMEOUT), "-A", HEADERS["User-Agent"], url],
+        capture_output=True, text=True)
+    if result.returncode != 0:
+        raise RuntimeError(f"curl 失敗：{result.stderr.strip()[:200]}")
+    return result.stdout
+
+
 def get(url: str, parse_json: bool = True):
     """抓一個網址，失敗重試 3 次。全部失敗就拋例外，不回半殘資料。"""
     last = None
@@ -58,11 +76,19 @@ def get(url: str, parse_json: bool = True):
             resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
             resp.raise_for_status()
             return resp.json() if parse_json else resp.text
+        except requests.exceptions.SSLError as exc:
+            log(f"ℹ️  {url} 憑證驗證失敗，改用 curl 備援")
+            try:
+                text = _curl(url)
+                return json.loads(text) if parse_json else text
+            except Exception as curl_exc:  # noqa: BLE001
+                last = curl_exc
+                log(f"⚠️  第 {attempt}/{RETRIES} 次失敗（curl 備援也失敗）：{curl_exc}")
         except Exception as exc:  # noqa: BLE001
             last = exc
             log(f"⚠️  第 {attempt}/{RETRIES} 次失敗：{url} — {exc}")
-            if attempt < RETRIES:
-                time.sleep(BACKOFF)
+        if attempt < RETRIES:
+            time.sleep(BACKOFF)
     raise RuntimeError(f"{url} 重試 {RETRIES} 次仍失敗：{last}")
 
 
@@ -128,6 +154,41 @@ def fetch_valuation(codes: set) -> dict:
     return {"as_of": as_of, "companies": out}
 
 
+def fetch_margin(codes: set) -> dict:
+    """季度營益分析：毛利率、營業利益率、稅前／稅後純益率。
+
+    月營收看不出漲價有沒有吃到獲利，毛利率才看得出來。季度資料，比月營收慢。
+    """
+    out, period = {}, None
+    for r in get(SOURCES["margin_twse"]):
+        code = r.get("公司代號")
+        if code in codes:
+            period = period or f"{r.get('年度')}Q{r.get('季別')}"
+            out[code] = {
+                "name": r.get("公司名稱"),
+                "period": f"{r.get('年度')}Q{r.get('季別')}",
+                "revenue_mn": _num(r.get("營業收入(百萬元)")),
+                "gross_margin": _num(r.get("毛利率(%)(營業毛利)/(營業收入)")),
+                "op_margin": _num(r.get("營業利益率(%)(營業利益)/(營業收入)")),
+                "pretax_margin": _num(r.get("稅前純益率(%)(稅前純益)/(營業收入)")),
+                "net_margin": _num(r.get("稅後純益率(%)(稅後純益)/(營業收入)")),
+            }
+    for r in get(SOURCES["margin_tpex"]):
+        code = r.get("SecuritiesCompanyCode")
+        if code in codes:
+            period = period or f"{r.get('Year')}Q{r.get('季別')}"
+            out[code] = {
+                "name": r.get("CompanyName"),
+                "period": f"{r.get('Year')}Q{r.get('季別')}",
+                "revenue_mn": _num(r.get("營業收入百萬元")),
+                "gross_margin": _num(r.get("毛利率")),
+                "op_margin": _num(r.get("營業利益率")),
+                "pretax_margin": _num(r.get("稅前純益率")),
+                "net_margin": _num(r.get("稅後純益率")),
+            }
+    return {"period": period, "companies": out}
+
+
 def fetch_news(code: str, name: str, limit: int = 5) -> list:
     """Google News RSS。日後要換 Perplexity 只需改這個函式。"""
     query = urllib.parse.quote(f"{name} {code}")
@@ -180,6 +241,15 @@ def main() -> int:
             log(f"✅ 月營收 {len(revenue['companies'])} 檔（{iso}）")
         else:
             log("⚠️  月營收無資料")
+
+        margin = fetch_margin(codes)
+        if margin["period"]:
+            roc = margin["period"]                      # 例：115Q2
+            iso = f"{int(roc[:3]) + 1911}{roc[3:]}"     # 例：2026Q2
+            write_json(DATA / "margin" / f"{iso}.json", margin)
+            log(f"✅ 毛利率 {len(margin['companies'])} 檔（{iso}）")
+        else:
+            log("⚠️  毛利率無資料")
     except Exception as exc:  # noqa: BLE001
         log(f"❌ 抓取中止：{exc}")
         return 1

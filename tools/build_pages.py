@@ -74,6 +74,11 @@ def fmt_pct(value) -> str:
     return f"{value:+.1f}%"
 
 
+def fmt_pct_plain(value) -> str:
+    """不帶正負號的百分比，用在毛利率這種本來就是正值的欄位。"""
+    return "—" if value is None else f"{value:.1f}%"
+
+
 def fmt_x(value) -> str:
     return "—" if value is None else f"{value:.1f}x"
 
@@ -95,11 +100,12 @@ def write_auto(path: Path, auto_body: str, fresh_template: str) -> str:
     return "created"
 
 
-def build_company(code, rev, val, news, positions) -> str:
+def build_company(code, rev, val, news, positions, mar) -> str:
     name, segment = COMPANIES[code]
     up, down = neighbours(code)
     r = rev.get(code, {})
     v = val.get(code, {})
+    m = mar.get(code, {})
     pos = positions.get(code)
 
     lines = [f"## 定位\n",
@@ -130,6 +136,12 @@ def build_company(code, rev, val, news, positions) -> str:
     lines.append(f"| 股價淨值比 PBR | {fmt_x(v.get('pbr'))} |")
     yield_pct = v.get("yield_pct")
     lines.append(f"| 殖利率 | {'—' if yield_pct is None else f'{yield_pct:.2f}%'} |")
+    if m:
+        period = m.get("period", "")
+        iso = f"{int(period[:3]) + 1911}{period[3:]}" if period[:3].isdigit() else period
+        lines.append(f"| 毛利率（{iso}）| {fmt_pct_plain(m.get('gross_margin'))} |")
+        lines.append(f"| 營業利益率 | {fmt_pct_plain(m.get('op_margin'))} |")
+        lines.append(f"| 稅後純益率 | {fmt_pct_plain(m.get('net_margin'))} |")
     if r.get("note") and r["note"] != "-":
         lines.append(f"\n**公司對營收變化的說法**：{r['note']}\n")
 
@@ -215,7 +227,7 @@ updated: {today}
 """
 
 
-def build_chain(rev, val, positions, rev_period, val_date) -> str:
+def build_chain(rev, val, positions, rev_period, val_date, mar) -> str:
     lines = [f"**資料**：{rev_period} 月營收｜{val_date} 估值\n",
              "## 全鏈總覽（由上游到下游）\n"]
     for segment in SEGMENT_ORDER:
@@ -229,8 +241,8 @@ def build_chain(rev, val, positions, rev_period, val_date) -> str:
 
     lines.append("## 定價檢驗（成長 vs 估值）\n")
     lines.append("同樣的成長，市場給的價錢差很多——差距就是機會或風險所在。\n")
-    lines.append("| 公司 | 環節 | 營收 YoY | 本益比 | 每 1x 本益比買到的成長 |")
-    lines.append("|---|---|---|---|---|")
+    lines.append("| 公司 | 環節 | 營收 YoY | 毛利率 | 本益比 | 每 1x 本益比買到的成長 |")
+    lines.append("|---|---|---|---|---|---|")
     rows = []
     for code in COMPANIES:
         yoy = rev.get(code, {}).get("yoy_pct")
@@ -238,8 +250,10 @@ def build_chain(rev, val, positions, rev_period, val_date) -> str:
         ratio = (yoy / per) if (yoy and per and per > 0) else None
         rows.append((code, yoy, per, ratio))
     for code, yoy, per, ratio in sorted(rows, key=lambda x: -(x[3] or -999)):
+        gm = mar.get(code, {}).get("gross_margin")
         lines.append(f"| [[{code} {name_of(code)}]] | {COMPANIES[code][1]} | {fmt_pct(yoy)} "
-                     f"| {fmt_x(per)} | {'—' if ratio is None else f'{ratio:.2f}'} |")
+                     f"| {fmt_pct_plain(gm)} | {fmt_x(per)} "
+                     f"| {'—' if ratio is None else f'{ratio:.2f}'} |")
     lines.append("\n> 最後一欄愈高，代表用同樣的本益比買到愈多成長。這是相對指標，"
                  "不代表便宜就該買——要搭配下面的手寫判斷一起看。")
     return "\n".join(lines)
@@ -305,6 +319,7 @@ def main() -> int:
     val_data, val_date = latest("valuation")
     rev_data, rev_period = latest("revenue")
     news_data, _ = latest("news")
+    mar_data, mar_period = latest("margin")
     if not val_data or not rev_data:
         print("❌ data/ 沒有資料，請先跑 tools/fetch_market.py")
         return 1
@@ -312,6 +327,7 @@ def main() -> int:
     val = val_data["companies"]
     rev = rev_data["companies"]
     news = (news_data or {}).get("companies", {})
+    mar = (mar_data or {}).get("companies", {})
     positions = load_positions()
     today = date.today().isoformat()
     stats = {"created": 0, "updated": 0}
@@ -320,7 +336,7 @@ def main() -> int:
         path = INV / "companies" / f"{code} {name}.md"
         result = write_auto(
             path,
-            build_company(code, rev, val, news, positions),
+            build_company(code, rev, val, news, positions, mar),
             TEMPLATE_COMPANY.format(code=code, name=name, segment=segment, today=today))
         stats[result] += 1
 
@@ -331,7 +347,7 @@ def main() -> int:
         stats[result] += 1
 
     result = write_auto(INV / "chains" / "AI伺服器PCB鏈.md",
-                        build_chain(rev, val, positions, rev_period, val_date),
+                        build_chain(rev, val, positions, rev_period, val_date, mar),
                         TEMPLATE_CHAIN.format(today=today))
     stats[result] += 1
 
@@ -341,7 +357,7 @@ def main() -> int:
     stats[result] += 1
 
     print(f"✅ 頁面：新建 {stats['created']}、更新 {stats['updated']}"
-          f"（營收 {rev_period}、估值 {val_date}）")
+          f"（營收 {rev_period}、估值 {val_date}、毛利率 {mar_period or '無'}）")
     return 0
 
 
