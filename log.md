@@ -161,3 +161,15 @@ gemini-2.5-flash 預設開啟思考，思考 token 也計入這 1500 的額度�
 已在 launchd 的乾淨環境（`env -i`）實測 daily.sh 全綠。地雷紀錄寫進 CLAUDE.md。
 
 **教訓**：在終端機手動測試通過 ≠ 排程能跑。要用 `env -i HOME=$HOME PATH=/usr/bin:/bin bash script.sh` 模擬排程環境驗證。
+
+## [2026-08-31] update | 通知管道與 Maxtrading Review 切開；補上 .gitignore
+
+依使用者要求，知識庫的訊息不再發給 `MaxInvestmentreview_bot`。
+
+- `tools/notify.py` 現在**只讀 `Max KnowledgeBase/.env`**，移除對 `Maxtrading Review/.env` 的借用
+- `tools/daily.sh` 的 curl 告警同樣只讀知識庫自己的設定
+- 沒設定時**明確印出訊息並跳過推播**，報告仍寫入 `wiki/health.md`，不會靜默失敗
+
+**同時補上 `.gitignore`**：這個 vault 原本沒有 `.gitignore`，而 github-sync 外掛每 10 分鐘自動 commit＋push。若把含 token 的 `.env` 放進來會直接外洩。已忽略 `.env`、`data/*.log`、`__pycache__` 等，並附 `.env.example` 範本。
+
+待使用者提供「obsidian notify helper」的 chat_id 或 token 後即可接上。

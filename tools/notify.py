@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Telegram 推播（含 3 次重試）。
 
-Token 來源順序：
-  1. Max KnowledgeBase/.env
-  2. Maxtrading Review/.env（唯讀借用，不修改該專案）
+⚠️ **只讀知識庫自己的 .env**。刻意不去借 Maxtrading Review 的設定——
+知識庫的通知不應該混進交易報告的管道。沒設定就不送，只記在 log 與
+wiki/health.md，不會靜默失敗。
 """
 import os
 import time
@@ -12,22 +12,21 @@ from pathlib import Path
 import requests
 
 KB = Path(__file__).resolve().parent.parent
-ENV_FILES = [KB / ".env", Path("/Users/mmfamily/Maxtrading Review/.env")]
+ENV_FILE = KB / ".env"
 RETRIES = 3
 BACKOFF = 5
 
 
 def _load_env() -> dict:
     env = {}
-    for path in ENV_FILES:
-        if not path.exists():
+    if not ENV_FILE.exists():
+        return env
+    for line in ENV_FILE.read_text(encoding="utf-8", errors="ignore").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
             continue
-        for line in path.read_text(encoding="utf-8", errors="ignore").splitlines():
-            line = line.strip()
-            if not line or line.startswith("#") or "=" not in line:
-                continue
-            key, _, value = line.partition("=")
-            env.setdefault(key.strip(), value.strip().strip('"').strip("'"))
+        key, _, value = line.partition("=")
+        env.setdefault(key.strip(), value.strip().strip('"').strip("'"))
     return env
 
 
@@ -36,7 +35,8 @@ def send(text: str) -> bool:
     token = os.environ.get("TELEGRAM_BOT_TOKEN") or env.get("TELEGRAM_BOT_TOKEN")
     chat_id = os.environ.get("TELEGRAM_CHAT_ID") or env.get("TELEGRAM_CHAT_ID")
     if not token or not chat_id:
-        print("⚠️  找不到 TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID，略過推播")
+        print("ℹ️  尚未設定知識庫專用的通知管道（Max KnowledgeBase/.env），"
+              "本次不推播。報告仍寫在 wiki/health.md。")
         return False
 
     url = f"https://api.telegram.org/bot{token}/sendMessage"

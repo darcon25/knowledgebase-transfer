@@ -21,8 +21,9 @@ done
 # 找不到堪用的 Python 時，用 curl 直接告警——這條路不依賴任何 Python 套件
 alert() {
     local msg="$1"
-    local env_file="/Users/mmfamily/Maxtrading Review/.env"
-    [ -f "/Users/mmfamily/Max KnowledgeBase/.env" ] && env_file="/Users/mmfamily/Max KnowledgeBase/.env"
+    # 只用知識庫自己的設定，不借用 Maxtrading Review 的管道
+    local env_file="/Users/mmfamily/Max KnowledgeBase/.env"
+    [ -f "$env_file" ] || return
     local token chat
     token=$(grep -m1 '^TELEGRAM_BOT_TOKEN=' "$env_file" 2>/dev/null | cut -d= -f2- | tr -d '"'"'"' ')
     chat=$(grep -m1 '^TELEGRAM_CHAT_ID=' "$env_file" 2>/dev/null | cut -d= -f2- | tr -d '"'"'"' ')

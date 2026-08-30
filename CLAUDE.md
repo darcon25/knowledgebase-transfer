@@ -49,6 +49,14 @@ Max KnowledgeBase/
 | `tools/daily.sh` | 以上三件一次做完（launchd 每天 18:30 呼叫） |
 | `python3 tools/boot_check.py` | 開機時自動跑：等網路 → git pull → 健檢 → 有待處理才推 Telegram |
 
+### 通知管道
+
+知識庫的通知**只讀 `Max KnowledgeBase/.env`**，刻意不與 Maxtrading Review 共用。
+沒設定就不推播，報告仍寫在 `wiki/health.md`——不會靜默失敗，執行時會明講。
+
+設定方式：複製 `.env.example` 成 `.env` 填入 `TELEGRAM_BOT_TOKEN` 與 `TELEGRAM_CHAT_ID`。
+⚠️ 這個 vault 每 10 分鐘自動 push 到 GitHub，`.env` 已加進 `.gitignore`，**不要拿掉**。
+
 ### ⚠️ 排程的地雷（踩過一次）
 
 **launchd 的 PATH 很乾淨，`python3` 會指到 Apple 內建版本，那個版本沒有 `requests`。**
