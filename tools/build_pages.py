@@ -24,6 +24,16 @@ AUTO_START = "<!-- AUTO:START 由 tools/build_pages.py 產生，此區塊會被�
 AUTO_END = "<!-- AUTO:END -->"
 
 
+def revenue_history(months: int = 6) -> list:
+    """回傳最近幾期的月營收，由舊到新。用來看成長是加速還是減速。"""
+    files = sorted((DATA / "revenue").glob("*.json"))[-months:]
+    out = []
+    for f in files:
+        data = json.loads(f.read_text(encoding="utf-8"))
+        out.append((f.stem, data.get("companies", {})))
+    return out
+
+
 def latest(folder: str):
     files = sorted((DATA / folder).glob("*.json"))
     if not files:
@@ -100,7 +110,7 @@ def write_auto(path: Path, auto_body: str, fresh_template: str) -> str:
     return "created"
 
 
-def build_company(code, rev, val, news, positions, mar) -> str:
+def build_company(code, rev, val, news, positions, mar, history) -> str:
     name, segment = COMPANIES[code]
     up, down = neighbours(code)
     r = rev.get(code, {})
@@ -144,6 +154,19 @@ def build_company(code, rev, val, news, positions, mar) -> str:
         lines.append(f"| 稅後純益率 | {fmt_pct_plain(m.get('net_margin'))} |")
     if r.get("note") and r["note"] != "-":
         lines.append(f"\n**公司對營收變化的說法**：{r['note']}\n")
+
+    series = [(period, companies.get(code, {})) for period, companies in history]
+    series = [(p, d) for p, d in series if d.get("yoy_pct") is not None]
+    if len(series) >= 2:
+        lines.append("\n## 營收趨勢\n")
+        lines.append("| 期別 | " + " | ".join(p for p, _ in series) + " |")
+        lines.append("|---" * (len(series) + 1) + "|")
+        lines.append("| 年增 YoY | " + " | ".join(fmt_pct(d.get("yoy_pct")) for _, d in series) + " |")
+        lines.append("| 月增 MoM | " + " | ".join(fmt_pct(d.get("mom_pct")) for _, d in series) + " |")
+        first, last = series[0][1]["yoy_pct"], series[-1][1]["yoy_pct"]
+        trend = "加速中 📈" if last > first + 5 else ("減速中 📉" if last < first - 5 else "持平 ➡️")
+        lines.append(f"\n**成長方向**：{trend}"
+                     f"（{series[0][0]} {fmt_pct(first)} → {series[-1][0]} {fmt_pct(last)}）")
 
     items = news.get(code, [])
     lines.append("\n## 近期新聞\n")
@@ -328,6 +351,7 @@ def main() -> int:
     rev = rev_data["companies"]
     news = (news_data or {}).get("companies", {})
     mar = (mar_data or {}).get("companies", {})
+    history = revenue_history()
     positions = load_positions()
     today = date.today().isoformat()
     stats = {"created": 0, "updated": 0}
@@ -336,7 +360,7 @@ def main() -> int:
         path = INV / "companies" / f"{code} {name}.md"
         result = write_auto(
             path,
-            build_company(code, rev, val, news, positions, mar),
+            build_company(code, rev, val, news, positions, mar, history),
             TEMPLATE_COMPANY.format(code=code, name=name, segment=segment, today=today))
         stats[result] += 1
 

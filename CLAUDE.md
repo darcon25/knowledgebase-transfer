@@ -14,7 +14,9 @@ Max KnowledgeBase/
 │   └── assets/        ← 本地圖片檔案
 ├── data/              ← 程式抓回來的數據（不要手動編輯）
 │   ├── ingested.json  ← 已消化的來源檔清單
-│   ├── revenue/       ← 月營收
+│   ├── revenue/       ← 月營收（含回補的 12 個月歷史）
+│   ├── margin/        ← 季度毛利率與利潤率
+│   ├── known_issues.json ← 已確認處理／決定不處理的問題，健檢會略過
 │   ├── valuation/     ← 本益比、股價淨值比、殖利率
 │   └── news/          ← 個股新聞標題
 ├── tools/             ← 自動化程式（見下方「工具」段）
@@ -39,8 +41,9 @@ Max KnowledgeBase/
 | 指令 | 做什麼 |
 |---|---|
 | `python3 tools/capture.py --youtube <網址>` | 抓 YouTube 逐字稿進 raw/ |
-| `python3 tools/capture.py --shot <圖片> --note "說明"` | 截圖進 raw/（X、限動、付費內容走這條） |
-| `python3 tools/fetch_market.py` | 抓月營收、估值、新聞（每天 18:30 自動跑） |
+| `python3 tools/capture.py --shot <圖片…> --note "說明" [--source 網址]` | 截圖進 raw/，**可一次多張**（IG 輪播、X、限動、付費內容走這條） |
+| `python3 tools/fetch_market.py` | 抓月營收、估值、毛利率、新聞（每天 18:30 自動跑） |
+| `python3 tools/backfill_revenue.py --months 12` | 從 MOPS 回補歷史月營收（一次性，已補 12 個月） |
 | `python3 tools/build_pages.py` | 用資料更新公司頁與環節頁 |
 | `python3 tools/health_check.py` | 資料健檢，寫 health.md 並推 Telegram |
 | `tools/daily.sh` | 以上三件一次做完（launchd 排程呼叫） |
