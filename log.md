@@ -78,3 +78,16 @@
 **未解（2 項）**
 - 手機管道的輸出長度上限（根因）——需要找出設定位置
 - 30 家觀察股的論點空白——低優先，非缺陷
+
+## [2026-08-30] update | 查明 Telegram → n8n 進料管道，兩個缺陷歸因完成
+
+管道位置終於找到：n8n 自架於 Zeabur（`https://maxyyy.zeabur.app`，workflow `gMt3TVBIagJGA6PG`）。
+流程：Telegram Trigger → Extract URL → Jina Reader → Prepare Gemini Prompt → Call Gemini API（gemini-2.5-flash）→ Build Markdown → Commit to GitHub → Check Result → Send Telegram Reply。
+
+**缺陷 A｜Jina Reader 讀不動 Threads/IG**：抓到的常是錯誤頁而非貼文 → 那 6 篇「404 空頁」很可能**不是貼文失效**，管道修好後重傳即可。且 Jina 只回文字不回圖片 → 四個月來 `raw/assets/` 一張圖都沒有。此項無解，有圖貼文改走截圖管道。
+
+**缺陷 B｜Gemini 輸出長度上限**：15 篇裡 10 篇斷在句中。gemini-2.5-flash 的「思考」也吃輸出額度，額度不足時筆記會被切斷。待確認 `maxOutputTokens` 與 `thinkingConfig` 實際設定值。
+
+建議修法（三選一或全做）：拉高 maxOutputTokens 並關掉 thinking／把 Jina 原文一併寫進檔案／檢查 finishReason 為 MAX_TOKENS 時在 Telegram 告警。
+
+已更新 `wiki/entities/知識庫進料管道.md`（含查證過程與排除順序）、`wiki/待補資料清單.md`、`wiki/entities/資料源與限制.md`。
