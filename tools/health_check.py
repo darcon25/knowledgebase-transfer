@@ -89,6 +89,47 @@ def check_truncated() -> list:
     return out
 
 
+# 貼文自己提到有圖的線索。只能當優先度參考——文字被截斷時線索也會一起消失，
+# 十大封裝技術那篇就是這樣漏掉的。
+MEDIA_HINTS = ("一張圖", "如下圖", "這張圖", "這張表", "附圖", "見圖", "下圖",
+               "整理了一張", "如圖", "圖表", "輪播", "第一張", "如下表")
+
+
+def check_missing_media() -> list:
+    """Threads/IG 是以圖為主的平台，但 Jina Reader 拿不到圖。
+
+    與其猜哪篇有圖，不如反過來：這兩個平台來的貼文只要沒有對應截圖，
+    一律列為「圖片未確認」，由人逐篇看過後記進 known_issues。
+    """
+    checked = (load_json(DATA / "known_issues.json") or {}).get("media_checked", {})
+
+    # 已經用截圖補過的貼文網址
+    captured = set()
+    for f in (KB / "raw").glob("shot_*.md"):
+        text = f.read_text(encoding="utf-8", errors="ignore")
+        m = re.search(r'original_url:\s*"([^"]+)"', text)
+        if m:
+            captured.add(m.group(1).split("?")[0])
+
+    out = []
+    for f in sorted((KB / "raw").glob("*.md")):
+        rel = f"raw/{f.name}"
+        if rel in checked or f.name.startswith("shot_"):
+            continue
+        text = f.read_text(encoding="utf-8", errors="ignore")
+        if not re.search(r"^platform:\s*(threads|instagram)\s*$", text[:600], re.M):
+            continue
+        m = re.search(r'original_url:\s*"([^"]+)"', text)
+        url = m.group(1).split("?")[0] if m else ""
+        if url and url in captured:
+            continue
+        hints = [h for h in MEDIA_HINTS if h in text]
+        mark = f"（文中提到圖：{'、'.join(hints)}）" if hints else ""
+        out.append(f"圖片未確認：{rel}{mark}\n    {url}")
+    # 文中有線索的排前面
+    return sorted(out, key=lambda x: "文中提到圖" not in x)
+
+
 def check_links() -> tuple:
     # health.md 可以被連結，但不掃它的內容——報告裡的問題文字會自我汙染
     pages = {p.stem: p for p in WIKI.rglob("*.md")}
@@ -154,6 +195,7 @@ def main() -> int:
         ("重複存檔", check_duplicates()),
         ("尚未消化", check_uningested()),
         ("疑似截斷", check_truncated()),
+        ("圖片未確認", check_missing_media()),
         ("斷連結", dead),
         ("孤島頁", orphans),
         ("數字不符", check_numbers()),

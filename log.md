@@ -101,3 +101,24 @@
 **新增補救路徑並寫入 [[知識庫進料管道]]**：Claude 驅動使用者電腦上已登入的 Chrome 抓貼文與圖片，不需手機手動截圖。限制是需要電腦開機、有網路、且在對話中——**不是背景自動化**，所以與 n8n 雲端管道並存：n8n 負責 24 小時不漏接，電腦端負責補齊。
 
 **健檢首次歸零**（0 項問題）。
+
+## [2026-08-30] update | 截斷根因確認：Gemini maxOutputTokens = 1500
+
+查看 n8n `Call Gemini API` 節點的 Body/JSON，確認原設定為
+`generationConfig: { temperature: 0.3, maxOutputTokens: 1500 }`，且**沒有 thinkingConfig**。
+
+gemini-2.5-flash 預設開啟思考，思考 token 也計入這 1500 的額度。1500 token 中文約 1000–1500 字（UTF-8 約 2000–4500 bytes），與被截斷檔案的實際大小 2000–3400 bytes 完全吻合。
+
+建議修法已寫入 [[知識庫進料管道]]：把 maxOutputTokens 改為 8192 並加入 `thinkingConfig: { thinkingBudget: 0 }`；另建議把 Jina 原文一併存檔、以及在 Check Result 檢查 finishReason 為 MAX_TOKENS 時告警。
+
+## [2026-08-31] update | 加入漏圖偵測，並記錄關鍵字法的失敗
+
+**問題**：截斷偵測已有，但「這篇有圖沒抓到」完全沒有偵測能力。
+
+**失敗的嘗試**：關鍵字掃描（「一張圖」「如下圖」等）。實測發現它**漏掉了十大封裝技術那篇**——線索句在貼文開頭，而開頭連同整段被截斷，文字被切、線索也跟著被切。噪音也大（「1/」誤中日期、「影片」誤中純文字貼文）。
+
+**改用的規則**：Threads/IG 是以圖為主的平台且 Jina 拿不到圖，因此凡此兩平台來源、沒有對應 `shot_*.md` 的檔案，一律列為「圖片未確認」。噪音換不漏接，目前列出 13 筆。逐篇確認後記進 `data/known_issues.json` 的 `media_checked` 即不再提醒。
+
+**截斷偵測的盲點也記錄下來**：若 Gemini 剛好在句號處用完額度就抓不到，唯一可靠解是 n8n 端檢查 `finishReason == MAX_TOKENS`。
+
+**更精準的作法**：Jina 回傳的 markdown 含 `![](網址)`，在 Build Markdown 節點數量寫進 frontmatter `media_count`，健檢即可精準比對。屬修法二的附加好處。

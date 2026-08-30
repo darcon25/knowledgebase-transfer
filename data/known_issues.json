@@ -1,5 +1,5 @@
 {
-  "note": "已經處理過或已決定不處理的問題，健檢會略過但仍統計數量。新增時請寫原因。",
+  "note": "已經處理過或已決定不處理的問題，健檢會略過但仍統計數量。新增時請寫原因。truncation_accepted = 截斷已處理；media_checked = 圖片已確認（補了或確認沒圖）。",
   "truncation_accepted": {
     "raw/threads_2026-05-27_l9rl1ivs.md": "2026-08-30 已重抓補齊，完整內容在 wiki/topics/旅遊與生活.md",
     "raw/threads_2026-04-28_3cgctp4b.md": "2026-08-30 重抓確認與既有摘要一致，無資訊損失",
@@ -11,5 +11,8 @@
     "raw/threads_2026-05-04_hddvwayp.md": "同上",
     "raw/threads_2026-05-06_c1dhwjy8.md": "同上",
     "raw/threads_2026-07-14_228zu5dd.md": "2026-08-30 已用電腦 Chrome 截圖補齊，內容在 raw/shot_2026-08-30_01.md"
+  },
+  "media_checked": {
+    "raw/threads_2026-07-14_228zu5dd.md": "2026-08-30 已用電腦 Chrome 截圖補齊主圖，見 raw/shot_2026-08-30_01.md"
   }
 }
