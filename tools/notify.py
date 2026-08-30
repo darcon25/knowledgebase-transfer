@@ -5,6 +5,7 @@
 知識庫的通知不應該混進交易報告的管道。沒設定就不送，只記在 log 與
 wiki/health.md，不會靜默失敗。
 """
+import html
 import os
 import time
 from pathlib import Path
@@ -30,6 +31,12 @@ def _load_env() -> dict:
     return env
 
 
+def _strip_html(text: str) -> str:
+    """把 HTML 標籤拿掉，當作純文字送出的退路。"""
+    import re
+    return html.unescape(re.sub(r"<[^>]+>", "", text))
+
+
 def send(text: str) -> bool:
     env = _load_env()
     token = os.environ.get("TELEGRAM_BOT_TOKEN") or env.get("TELEGRAM_BOT_TOKEN")
@@ -40,17 +47,31 @@ def send(text: str) -> bool:
         return False
 
     url = f"https://api.telegram.org/bot{token}/sendMessage"
-    payload = {"chat_id": chat_id, "text": text[:4000], "parse_mode": "HTML",
-               "disable_web_page_preview": True}
+    body = text[:4000]
+
+    def _post(payload):
+        resp = requests.post(url, json=payload, timeout=20)
+        resp.raise_for_status()
+        return True
+
+    # 第一輪用 HTML 格式；若 Telegram 嫌格式有問題（400），改送純文字。
+    # 訊息內容常常夾雜程式碼、路徑、箭頭，HTML 解析很容易踩到。
+    attempts = [
+        {"chat_id": chat_id, "text": body, "parse_mode": "HTML",
+         "disable_web_page_preview": True},
+        {"chat_id": chat_id, "text": _strip_html(body),
+         "disable_web_page_preview": True},
+    ]
     for attempt in range(1, RETRIES + 1):
-        try:
-            resp = requests.post(url, json=payload, timeout=20)
-            resp.raise_for_status()
-            return True
-        except Exception as exc:  # noqa: BLE001
-            print(f"⚠️  推播第 {attempt}/{RETRIES} 次失敗：{exc}")
-            if attempt < RETRIES:
-                time.sleep(BACKOFF)
+        for payload in attempts:
+            try:
+                return _post(payload)
+            except Exception as exc:  # noqa: BLE001
+                # ⚠️ 絕對不要印出 exc 原文，裡面含有完整的 bot token
+                reason = getattr(getattr(exc, "response", None), "status_code", "連線失敗")
+                print(f"⚠️  推播第 {attempt}/{RETRIES} 次失敗（{reason}）")
+        if attempt < RETRIES:
+            time.sleep(BACKOFF)
     return False
 
 

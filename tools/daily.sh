@@ -44,6 +44,10 @@ echo "===== $(date '+%Y-%m-%d %H:%M:%S') 每日更新開始（$PY）====="
 failed=""
 "$PY" tools/fetch_market.py  || failed="${failed}抓取 "
 "$PY" tools/build_pages.py   || failed="${failed}建頁 "
+"$PY" tools/digest.py        || failed="${failed}統整 "
+
+# 判斷層：有未消化檔案才會真的呼叫 Claude，沒事不花錢
+bash tools/auto_ingest.sh    || failed="${failed}自動消化 "
 "$PY" tools/health_check.py  || failed="${failed}健檢 "
 
 if [ -n "$failed" ]; then

@@ -210,6 +210,11 @@
   },
   "active": "de304f5f5cac62f0",
   "lastOpenFiles": [
+    "wiki/topics/能源與基礎建設.md",
+    "tools/auto_ingest.sh",
+    "data/notable.json",
+    "wiki/今日值得注意.md",
+    "tools/digest.py",
     "wiki/investing/companies/6672 騰輝電子-KY.md",
     "log.md",
     "wiki/concepts/AI-Agent工作流.md",
@@ -228,9 +233,6 @@
     "raw/assets/shot_2026-08-31_01_01.jpg",
     "raw/shot_2026-08-30_01.md",
     "raw/assets/shot_2026-08-30_01.jpg",
-    "data/news/2026-08-30.json",
-    "data/revenue/2025-08.json",
-    "data/revenue/2025-09.json",
     "wiki/investing/themes/PTFE與材料世代轉換.md",
     "wiki/待補資料清單.md",
     "wiki/entities/資料源與限制.md",
@@ -250,8 +252,6 @@
     "wiki/investing/segments/電源散熱.md",
     "wiki/investing/segments/鑽針耗材.md",
     "wiki/investing/segments/銅箔.md",
-    "wiki/investing/segments/載板.md",
-    "wiki/investing/segments/軟板HDI.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

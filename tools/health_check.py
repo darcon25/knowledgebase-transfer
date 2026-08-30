@@ -232,15 +232,30 @@ def main() -> int:
     now = datetime.now()
     write_report(checks, total)
 
+    # 帶上 digest 產生的「今日值得注意」，兩者合成同一則通知
+    notable = (load_json(DATA / "notable.json") or {})
+    fresh = notable.get("date") == date.today().isoformat()
+    notable_items = notable.get("items", []) if fresh else []
+
     summary_items = [f"• {title} {len(items)}" for title, items in checks if items]
-    if total:
-        worst = [items[0] for _, items in checks if items][:3]
-        text = (f"📚 <b>知識庫健檢</b>　{now:%m/%d %H:%M}\n"
-                f"發現 {total} 項問題\n" + "\n".join(summary_items) +
-                "\n\n最需要看的：\n" + "\n".join(f"– {w.splitlines()[0]}" for w in worst))
+    if total or notable_items:
+        parts = [f"📚 <b>知識庫每日更新</b>　{now:%m/%d %H:%M}"]
+        if notable_items:
+            parts.append("\n<b>今日值得注意</b>")
+            parts += [f"• {i['text']}" for i in notable_items[:5]]
+        if total:
+            worst = [items[0] for _, items in checks if items][:2]
+            parts.append(f"\n<b>待處理 {total} 項</b>")
+            parts += summary_items
+            parts += [f"– {w.splitlines()[0]}" for w in worst]
+        text = "\n".join(parts)
     else:
-        text = f"📚 <b>知識庫健檢</b>　{now:%m/%d %H:%M}\n✅ 全部正常"
-    notify.send(text)
+        # 沒問題也沒變化就完全不推，不打擾
+        text = ""
+    if text:
+        notify.send(text)
+    else:
+        print("ℹ️  今天沒有問題也沒有值得注意的變化，不推播")
 
     print(f"✅ 健檢完成：{total} 項問題，已寫入 wiki/health.md")
     for title, items in checks:

@@ -46,7 +46,9 @@ Max KnowledgeBase/
 | `python3 tools/backfill_revenue.py --months 12` | 從 MOPS 回補歷史月營收（一次性，已補 12 個月） |
 | `python3 tools/build_pages.py` | 用資料更新公司頁與環節頁 |
 | `python3 tools/health_check.py` | 資料健檢，寫 health.md 並推 Telegram |
-| `tools/daily.sh` | 以上三件一次做完（launchd 每天 18:30 呼叫） |
+| `python3 tools/digest.py` | 每日統整：估值跳動、營收動能轉折、持倉環節排名 → `wiki/今日值得注意.md` |
+| `bash tools/auto_ingest.sh` | **判斷層自動化**：有未消化檔案時呼叫 `claude -p` 消化，沒有就不啟動（不花 token）|
+| `tools/daily.sh` | 以上全部一次做完（launchd 每天 18:30 呼叫） |
 | `python3 tools/boot_check.py` | 開機時自動跑：等網路 → git pull → 健檢 → 有待處理才推 Telegram |
 
 ### 通知管道
@@ -106,6 +108,7 @@ Telegram 的 webhook 與 `getUpdates` 互斥——**不要呼叫 `deleteWebhook`
 
 3. 歸進 `wiki/topics/` 對應主題頁的表格（一句話說明 + 原始檔路徑）
 4. 沒有對應主題就開一頁新的。**不要寫深度摘要**
+5. **開新主題頁時，務必到 `wiki/overview.md` 的「一般收藏」加一行連結**，否則會變成孤島頁
 
 **兩條路都要做的收尾**
 
