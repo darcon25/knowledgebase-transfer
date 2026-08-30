@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "10ca42b0f55d8495",
+        "id": "f409c2b333ceed46",
         "type": "tabs",
         "children": [
           {
-            "id": "f292ff3d254708cd",
+            "id": "de304f5f5cac62f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "icon": "lucide-file",
+              "title": "新分頁"
             }
           }
         ]
@@ -208,8 +208,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f292ff3d254708cd",
+  "active": "de304f5f5cac62f0",
   "lastOpenFiles": [
+    "wiki/investing/companies/6672 騰輝電子-KY.md",
     "log.md",
     "wiki/concepts/AI-Agent工作流.md",
     "wiki/concepts/個人知識庫與第二大腦.md",
@@ -251,7 +252,6 @@
     "wiki/investing/segments/銅箔.md",
     "wiki/investing/segments/載板.md",
     "wiki/investing/segments/軟板HDI.md",
-    "wiki/investing/segments/終端需求.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
