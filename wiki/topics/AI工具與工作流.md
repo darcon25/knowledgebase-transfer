@@ -11,7 +11,27 @@ updated: 2026-08-28
 |---|---|---|
 | Claude Code + Codex CLI 整合 | 在同一個終端機完成程式、生圖與自動化，減少視窗切換造成的注意力中斷 | `raw/threads_2026-05-06_c1dhwjy8.md` |
 | 多 Agent 組織架構 | 效率差距不在提示詞技巧，而在能否設計出讓多個 Agent 自動協作的迴圈 | `raw/threads_2026-05-07_t6zsrs4z.md` |
-| AI 生圖字體控制 | 用精準提示詞控制 32 種字體風格，解決 AI 生圖文字亂碼 | `raw/threads_2026-05-06_ofcr2zbd.md` |
+| AI 生圖字體控制 | 用精準提示詞控制 32 種字體風格，解決 AI 生圖文字亂碼。**完整 32 條指令見 [[設計靈感]]** | `raw/threads_2026-05-06_ofcr2zbd.md` + `raw/shot_2026-08-31_01.md` |
+
+## Claude Code 使用前該知道的 8 件事
+
+來源 `raw/threads_2026-05-04_2oh8tf9q.md` 原本只存到標題沒有內文，2026-08-31 用電腦 Chrome 開原貼文補齊。
+
+> Claude Code 不是比較會寫程式的聊天機器人，而是**能讀檔、改檔、跑指令的 AI 開發助理**。
+
+1. 新手先從 VS Code、Desktop 或 Web 開始
+2. **先設定權限邊界**，刪檔、部署、推送要人工確認
+3. 日常任務用 Sonnet，困難重構再用 Opus
+4. 寫好 `CLAUDE.md`，讓它看懂專案規則
+5. 重複流程可以整理成 Skills
+6. Subagents 和 MCP 不要一開始全開
+7. 提示詞要像任務規格書：先分析、再計畫、後修改
+8. 先懂 Git、Branch、Commit、Diff、PR、MCP 等基本術語
+
+> 核心不是把專案丟給 AI 放生，而是建立**可控、可檢查、可重複**的協作流程——先讓它懂規則，再讓它動手。
+
+出處：`https://www.threads.com/@journal_of_digital_narrative/post/DX6uTKbknWz`
+（原貼文另有 6 張圖卡，內容與上述 8 點相同，未另存）
 
 ## 相關連結
 
