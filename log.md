@@ -91,3 +91,13 @@
 建議修法（三選一或全做）：拉高 maxOutputTokens 並關掉 thinking／把 Jina 原文一併寫進檔案／檢查 finishReason 為 MAX_TOKENS 時在 Telegram 告警。
 
 已更新 `wiki/entities/知識庫進料管道.md`（含查證過程與排除順序）、`wiki/待補資料清單.md`、`wiki/entities/資料源與限制.md`。
+
+## [2026-08-30] ingest | 十大封裝技術補齊，驗證電腦 Chrome 補救路徑
+
+用電腦版 Chrome（已登入 Threads）開啟 `@solution_provider_/post/DavPf5mAcgp`，點開圖片放大後自動截圖，存為 `raw/shot_2026-08-30_01.md` + `raw/assets/shot_2026-08-30_01.jpg`。**這是 raw/assets/ 四個月來的第一張圖。**
+
+四個月前被 Jina Reader 漏掉的內容完整補回：十種封裝技術（打線、覆晶、WLCSP、Fan-In/Fan-Out WLP、SiP、Chiplet、2.5D、3D IC、Hybrid Bonding）的定義、特性與應用。[[HBM4與先進封裝]] 已改寫，補上 2.5D／3D IC／Hybrid Bonding 三者與 HBM4 的關係與技術演進脈絡。
+
+**新增補救路徑並寫入 [[知識庫進料管道]]**：Claude 驅動使用者電腦上已登入的 Chrome 抓貼文與圖片，不需手機手動截圖。限制是需要電腦開機、有網路、且在對話中——**不是背景自動化**，所以與 n8n 雲端管道並存：n8n 負責 24 小時不漏接，電腦端負責補齊。
+
+**健檢首次歸零**（0 項問題）。
