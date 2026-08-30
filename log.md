@@ -182,3 +182,20 @@ gemini-2.5-flash 預設開啟思考，思考 token 也計入這 1500 的額度�
 **過程中的一個發現**：這支 bot 設有 n8n 的 webhook，而 Telegram 的 webhook 與 `getUpdates` 互斥——所以查不到對話清單。**沒有去呼叫 deleteWebhook**（那會弄壞進料管道），改用「個人對話的 chat_id 等於使用者 Telegram ID、跨 bot 相同」這個特性直接寫入 `413748114`，實測送達。
 
 兩條通知路徑都已驗證：`notify.py`（Python）與 `daily.sh` 的 curl 緊急告警。相關注意事項寫進 CLAUDE.md。
+
+## [2026-08-31] 🔴 發現進料管道停擺一個半月：Gemini API 金鑰失效
+
+使用者連續傳了截圖與多種格式的資料源，GitHub 上完全沒有出現 `📥 Archive:` commit。查 git 歷史發現**最後一次成功存檔是 2026-07-14**，距今一個半月。
+
+n8n Executions 顯示 `Call Gemini API` 節點錯誤：
+`Bad request - API key not valid. Please pass a valid API key.`
+
+**兩個獨立問題要分清楚**
+1. `maxOutputTokens: 1500` → 5～7 月有進來但斷尾（使用者已修）
+2. **Gemini 金鑰失效** → 7/14 之後完全沒進來（待修）
+
+**待辦**：到 aistudio.google.com/apikey 申請新金鑰，更新 n8n 的 `Query Auth account 2` 憑證。
+
+**教訓**：若當初有做「Jina 原文一併存檔」，這一個半月的內容不會全數消失——AI 掛掉最多是「有原文沒摘要」。摘要可以補，原文丟了就沒了。
+
+**健檢盲點**：現行檢查只看「已進來的東西」，偵測不到「該進來卻沒進來」，所以斷了一個半月仍天天顯示 0 項問題。待加「raw/ 超過 N 天沒新檔就提醒」。
