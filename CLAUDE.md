@@ -46,7 +46,18 @@ Max KnowledgeBase/
 | `python3 tools/backfill_revenue.py --months 12` | 從 MOPS 回補歷史月營收（一次性，已補 12 個月） |
 | `python3 tools/build_pages.py` | 用資料更新公司頁與環節頁 |
 | `python3 tools/health_check.py` | 資料健檢，寫 health.md 並推 Telegram |
-| `tools/daily.sh` | 以上三件一次做完（launchd 排程呼叫） |
+| `tools/daily.sh` | 以上三件一次做完（launchd 每天 18:30 呼叫） |
+| `python3 tools/boot_check.py` | 開機時自動跑：等網路 → git pull → 健檢 → 有待處理才推 Telegram |
+
+### ⚠️ 排程的地雷（踩過一次）
+
+**launchd 的 PATH 很乾淨，`python3` 會指到 Apple 內建版本，那個版本沒有 `requests`。**
+2026-08-28～30 的每日排程因此連續失敗三天，而且「回報失敗」的健檢本身也是用 Python 寫的，所以連錯誤都送不出來。
+
+修法（已套用）：
+1. `daily.sh` 逐一測試候選路徑，挑出**真的能 `import requests`** 的那個 python
+2. 失敗時用 **curl** 直接送 Telegram 告警——這條路不依賴任何 Python 套件，不會跟主程式一起死
+3. launchd plist 一律寫**絕對路徑**，不要依賴 PATH
 
 **重要**：`build_pages.py` 只會覆寫 `<!-- AUTO:START -->` 到 `<!-- AUTO:END -->` 之間的內容。
 手寫的論點、觀察指標、事件時間軸**永遠不會被蓋掉**。

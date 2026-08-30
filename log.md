@@ -144,3 +144,20 @@ gemini-2.5-flash 預設開啟思考，思考 token 也計入這 1500 的額度�
 13 篇的確認結果全部記進 `data/known_issues.json` 的 `media_checked`，健檢回到 0 項。
 
 **副產品**：確認 JavaScript 讀 `img` 的 alt 與尺寸就能判斷有無圖片，不必逐篇截圖——之後批次檢查都用這個方法。
+
+## [2026-08-31] update | 開機自動檢查；並修掉讓每日排程失敗三天的地雷
+
+**新增開機檢查**：`tools/boot_check.py` + launchd `com.max.knowledgebase.boot`（RunAtLoad）。
+流程：等網路（最多 5 分鐘）→ `git pull --ff-only` 拉 n8n 存進 GitHub 的新檔 → 跑健檢 → **有待處理項目才推 Telegram**，沒事就安靜。通知會分成「需要在電腦前處理」（截斷、圖片未確認、尚未消化）與「其他」。
+
+**發現並修掉一個嚴重問題**：每日排程 2026-08-28、08-29、08-30 連續三天失敗。
+原因是 launchd 的 PATH 只有 `/usr/bin:/bin:...`，`python3` 指到 Apple 內建版本，**該版本沒有 requests**。抓取與健檢兩階段都掛掉，只有 build_pages 成功（它不 import requests）。更糟的是負責回報失敗的健檢本身也是 Python，**連錯誤都送不出來**。
+
+修法：
+1. `daily.sh` 逐一測試候選 python 路徑，挑出真的能 `import requests` 的那個
+2. 任何階段失敗時，用 **curl** 直接送 Telegram 告警——不依賴 Python 套件，不會跟主程式一起死（已實測 http=200）
+3. boot plist 改用絕對路徑
+
+已在 launchd 的乾淨環境（`env -i`）實測 daily.sh 全綠。地雷紀錄寫進 CLAUDE.md。
+
+**教訓**：在終端機手動測試通過 ≠ 排程能跑。要用 `env -i HOME=$HOME PATH=/usr/bin:/bin bash script.sh` 模擬排程環境驗證。
