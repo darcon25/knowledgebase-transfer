@@ -54,7 +54,13 @@ Max KnowledgeBase/
 知識庫的通知**只讀 `Max KnowledgeBase/.env`**，刻意不與 Maxtrading Review 共用。
 沒設定就不推播，報告仍寫在 `wiki/health.md`——不會靜默失敗，執行時會明講。
 
-設定方式：複製 `.env.example` 成 `.env` 填入 `TELEGRAM_BOT_TOKEN` 與 `TELEGRAM_CHAT_ID`。
+目前接的是 **@Obsidiannote_helperbot**（Obsidian notify helper）——**同一支 bot 也是 n8n 進料的 Telegram Trigger**，
+所以知識庫的「傳連結進來」與「健檢通知出去」都在同一個對話，不會跟交易報告混在一起。
+
+⚠️ **這支 bot 有 n8n 的 webhook**（`maxyyy.zeabur.app/webhook/...`）。
+Telegram 的 webhook 與 `getUpdates` 互斥——**不要呼叫 `deleteWebhook` 或 `getUpdates` 去搶**，會弄壞進料管道。
+需要 chat_id 時不必查詢：個人對話的 chat_id 就是使用者的 Telegram ID，跨 bot 相同。
+
 ⚠️ 這個 vault 每 10 分鐘自動 push 到 GitHub，`.env` 已加進 `.gitignore`，**不要拿掉**。
 
 ### ⚠️ 排程的地雷（踩過一次）

@@ -173,3 +173,12 @@ gemini-2.5-flash 預設開啟思考，思考 token 也計入這 1500 的額度�
 **同時補上 `.gitignore`**：這個 vault 原本沒有 `.gitignore`，而 github-sync 外掛每 10 分鐘自動 commit＋push。若把含 token 的 `.env` 放進來會直接外洩。已忽略 `.env`、`data/*.log`、`__pycache__` 等，並附 `.env.example` 範本。
 
 待使用者提供「obsidian notify helper」的 chat_id 或 token 後即可接上。
+
+## [2026-08-31] update | 健檢通知改接 @Obsidiannote_helperbot
+
+知識庫的通知不再走 `MaxInvestmentreview_bot`，改接 **@Obsidiannote_helperbot（Obsidian notify helper）**。
+這支正好也是 n8n 進料的 Telegram Trigger，所以「傳連結進來」與「健檢通知出去」在同一個對話，與交易報告完全分離。
+
+**過程中的一個發現**：這支 bot 設有 n8n 的 webhook，而 Telegram 的 webhook 與 `getUpdates` 互斥——所以查不到對話清單。**沒有去呼叫 deleteWebhook**（那會弄壞進料管道），改用「個人對話的 chat_id 等於使用者 Telegram ID、跨 bot 相同」這個特性直接寫入 `413748114`，實測送達。
+
+兩條通知路徑都已驗證：`notify.py`（Python）與 `daily.sh` 的 curl 緊急告警。相關注意事項寫進 CLAUDE.md。
