@@ -214,6 +214,12 @@
   },
   "active": "f292ff3d254708cd",
   "lastOpenFiles": [
+    "data/valuation/2026-08-31.json",
+    "data/boot_error.log",
+    "data/boot.log",
+    "tools/__pycache__/health_check.cpython-314.pyc",
+    "tools/__pycache__/boot_check.cpython-314.pyc",
+    "tools/boot_check.py",
     "raw/shot_2026-08-31_01.md",
     "raw/assets/shot_2026-08-31_01_02.jpg",
     "raw/assets/shot_2026-08-31_01_01.jpg",
@@ -224,11 +230,6 @@
     "data/revenue/2025-09.json",
     "data/revenue/2025-10.json",
     "data/revenue/2025-11.json",
-    "data/revenue/2025-12.json",
-    "data/revenue/2026-01.json",
-    "data/revenue/2026-02.json",
-    "data/revenue/2026-03.json",
-    "data/revenue/2026-04.json",
     "wiki/investing/themes/PTFE與材料世代轉換.md",
     "wiki/待補資料清單.md",
     "wiki/entities/資料源與限制.md",
@@ -255,7 +256,6 @@
     "wiki/investing/segments/樹脂.md",
     "wiki/investing/segments/封測.md",
     "wiki/investing/segments/PCB.md",
-    "wiki/investing/segments/CCL.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

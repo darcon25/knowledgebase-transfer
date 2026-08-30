@@ -188,7 +188,8 @@ def check_numbers() -> list:
     return out
 
 
-def main() -> int:
+def collect() -> list:
+    """跑完所有檢查，回傳 [(名稱, 問題清單), ...]。boot_check.py 也會用。"""
     checks = []
     dead, orphans = check_links()
     for title, items in (
@@ -202,8 +203,10 @@ def main() -> int:
         ("資料過期", check_stale()),
     ):
         checks.append((title, items))
+    return checks
 
-    total = sum(len(items) for _, items in checks)
+
+def write_report(checks: list, total: int) -> None:
     now = datetime.now()
     lines = [
         "---", "tags: [health]", f"updated: {now:%Y-%m-%d}", "---", "",
@@ -221,6 +224,13 @@ def main() -> int:
         lines.append("")
 
     (WIKI / "health.md").write_text("\n".join(lines), encoding="utf-8")
+
+
+def main() -> int:
+    checks = collect()
+    total = sum(len(items) for _, items in checks)
+    now = datetime.now()
+    write_report(checks, total)
 
     summary_items = [f"• {title} {len(items)}" for title, items in checks if items]
     if total:
