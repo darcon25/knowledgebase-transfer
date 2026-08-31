@@ -13,3 +13,30 @@
 ✅ 頁面：新建 0、更新 49（營收 2026-07、估值 2026-08-28）
 ⚠️ 健檢階段失敗
 ===== 2026-08-30 22:59:19 每日更新結束 =====
+===== 2026-08-31 18:34:25 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-08-31 18:34:25] === 開始抓取（41 檔）===
+[2026-08-31 18:34:25] ⚠️  第 1/3 次失敗：https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL — HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/exchangeReport/BWIBBU_ALL (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-08-31 18:35:15] ⚠️  第 2/3 次失敗：https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL — HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/exchangeReport/BWIBBU_ALL (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-08-31 18:35:28] ✅ 估值 38 檔（資料日 2026-08-28）
+[2026-08-31 18:35:29] ℹ️  https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap05_O 憑證驗證失敗，改用 curl 備援
+[2026-08-31 18:51:22] ⚠️  第 1/3 次失敗（curl 備援也失敗）：curl 失敗：curl: (28) Operation timed out after 953124 milliseconds with 48762 out of 494726 bytes received
+[2026-08-31 18:51:30] ✅ 月營收 38 檔（2026-07）
+[2026-08-31 18:51:32] ℹ️  https://www.tpex.org.tw/openapi/v1/mopsfin_187ap17_O 憑證驗證失敗，改用 curl 備援
+[2026-08-31 18:51:32] ✅ 毛利率 37 檔（2026Q2）
+[2026-08-31 19:07:22] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E8%8F%AF%E9%80%9A%202313&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Read timed out. (read timeout=30)
+[2026-08-31 20:20:50] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%8F%B0%E7%A9%8D%E9%9B%BB%202330&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%8F%B0%E7%A9%8D%E9%9B%BB%202330&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NewConnectionError("HTTPSConnection(host='news.google.com', port=443): Failed to establish a new connection: [Errno 51] Network is unreachable"))
+[2026-08-31 20:21:02] ✅ 新聞 36/36 檔有結果
+[2026-08-31 20:21:02] === 抓取完成 ===
+✅ 頁面：新建 0、更新 49（營收 2026-07、估值 2026-08-31、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 2、動能轉折 10、值得推播 1 項
+[2026-08-31 20:21:03] 沒有未消化的檔案，不啟動 Claude
+✅ 健檢完成：2 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 0
+   疑似截斷: 0
+   圖片未確認: 2
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+===== 2026-08-31 20:37:33 每日更新結束 =====
