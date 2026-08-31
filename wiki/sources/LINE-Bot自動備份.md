@@ -7,7 +7,7 @@ date_ingested: 2026-05-05
 # LINE Bot 自動備份至 Google Drive
 
 **類型**：Threads 貼文  
-**原始位置**：`raw/threads_2026-05-04_hddvwayp.md`  
+**原始位置**：`raw/threads_2026-05-04_LINEBot自動備份.md`  
 **捕獲日期**：2026-05-04  
 **作者**：@chengwei0911
 

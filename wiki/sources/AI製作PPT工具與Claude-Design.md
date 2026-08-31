@@ -7,7 +7,7 @@ date_ingested: 2026-05-05
 # AI 製作 PPT 工具與 Claude Design
 
 **類型**：Threads 貼文  
-**原始位置**：`raw/threads_2026-04-28_3cgctp4b.md`  
+**原始位置**：`raw/threads_2026-04-28_Claude-Design功能整理.md`  
 **捕獲日期**：2026-04-28  
 **作者**：@ironv.careerlife
 

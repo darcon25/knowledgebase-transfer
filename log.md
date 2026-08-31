@@ -94,7 +94,7 @@
 
 ## [2026-08-30] ingest | 十大封裝技術補齊，驗證電腦 Chrome 補救路徑
 
-用電腦版 Chrome（已登入 Threads）開啟 `@solution_provider_/post/DavPf5mAcgp`，點開圖片放大後自動截圖，存為 `raw/shot_2026-08-30_01.md` + `raw/assets/shot_2026-08-30_01.jpg`。**這是 raw/assets/ 四個月來的第一張圖。**
+用電腦版 Chrome（已登入 Threads）開啟 `@solution_provider_/post/DavPf5mAcgp`，點開圖片放大後自動截圖，存為 `raw/shot_2026-08-30_十大封裝技術總表.md` + `raw/assets/shot_2026-08-30_十大封裝技術總表.jpg`。**這是 raw/assets/ 四個月來的第一張圖。**
 
 四個月前被 Jina Reader 漏掉的內容完整補回：十種封裝技術（打線、覆晶、WLCSP、Fan-In/Fan-Out WLP、SiP、Chiplet、2.5D、3D IC、Hybrid Bonding）的定義、特性與應用。[[HBM4與先進封裝]] 已改寫，補上 2.5D／3D IC／Hybrid Bonding 三者與 HBM4 的關係與技術演進脈絡。
 
@@ -138,8 +138,8 @@ gemini-2.5-flash 預設開啟思考，思考 token 也計入這 1500 的額度�
 
 **實質補齊的兩篇**
 
-1. `threads_2026-05-06_ofcr2zbd`（AI 生圖字體）——32 種字體控制指令全在兩張圖裡，已抓下並整理成兩份可直接複製的清單（16 種字體名稱 + 16 種風格描述），寫入 `raw/shot_2026-08-31_01.md` 與 [[設計靈感]]。
-2. `threads_2026-05-04_2oh8tf9q`（Claude Code 8 件事）——原檔只有標題沒有內文，補齊完整 8 點寫入 [[AI工具與工作流]]。
+1. `threads_2026-05-06_AI生圖字體控制`（AI 生圖字體）——32 種字體控制指令全在兩張圖裡，已抓下並整理成兩份可直接複製的清單（16 種字體名稱 + 16 種風格描述），寫入 `raw/shot_2026-08-31_AI生圖32種字體指令.md` 與 [[設計靈感]]。
+2. `threads_2026-05-04_ClaudeCode使用前8件事`（Claude Code 8 件事）——原檔只有標題沒有內文，補齊完整 8 點寫入 [[AI工具與工作流]]。
 
 13 篇的確認結果全部記進 `data/known_issues.json` 的 `media_checked`，健檢回到 0 項。
 
@@ -202,7 +202,7 @@ n8n Executions 顯示 `Call Gemini API` 節點錯誤：
 
 ## [2026-08-31] ingest | SpaceX 自製燃氣渦輪機葉片（IG 存檔）
 
-消化 `raw/instagram_2026-08-30_9w3ir49c.md`。內容為 Elon Musk 證實 SpaceX 將自行鑄造燃氣渦輪機葉片與導葉，供資料中心用電，自製預計讓整機提前最多 18 個月上線。
+消化 `raw/instagram_2026-08-30_SpaceX自鑄渦輪機葉片.md`。內容為 Elon Musk 證實 SpaceX 將自行鑄造燃氣渦輪機葉片與導葉，供資料中心用電，自製預計讓整機提前最多 18 個月上線。
 
 **分流判斷：非投資**——未提及 watchlist 名單公司，也不屬 PCB／CCL／半導體／總經，故只做分類、不寫深度摘要。
 
@@ -224,7 +224,7 @@ digest 把值得推播的重點寫成 `data/notable.json`，健檢一起帶進�
 **C｜判斷層自動化**（`tools/auto_ingest.sh`）
 有未消化檔案時才呼叫 `claude -p`，沒有就不啟動（不花 token）。限制：只能寫 `wiki/`、不准碰 `raw/` 與 AUTO 區塊、每個事實都要有來源、寫入內容標 🤖 與日期。
 
-首次實測消化 `instagram_2026-08-30_9w3ir49c`（SpaceX 自製燃氣渦輪機葉片）：正確判為非投資、開了 `wiki/topics/能源與基礎建設.md`、主動註明「全文連結內容原文未收錄」、沒有動 raw/。**逐句比對來源，沒有幻覺。**
+首次實測消化 `instagram_2026-08-30_SpaceX自鑄渦輪機葉片`（SpaceX 自製燃氣渦輪機葉片）：正確判為非投資、開了 `wiki/topics/能源與基礎建設.md`、主動註明「全文連結內容原文未收錄」、沒有動 raw/。**逐句比對來源，沒有幻覺。**
 
 **同時修掉兩個 notify.py 的問題**
 1. 推播失敗時會把完整 bot token 印進 log（嚴重）→ 改成只印 HTTP 狀態碼
@@ -280,3 +280,20 @@ digest 把值得推播的重點寫成 `data/notable.json`，健檢一起帶進�
 **還沒做的是 n8n 那半段**：需要在 Telegram Trigger 後加 IF 分支，判斷訊息是不是以 `/` 開頭的指令，是就寫指令檔到 GitHub、不是就走原本的網址流程。
 
 **沒有做方案 B（Playwright 全自動）的理由**：維護成本高於其他所有元件加總，而且今天已經連續示範三次「自動化默默壞掉」（金鑰失效一個半月、排程失敗三天、URL 多一個空格）。多一個 Playwright 就多一個會壞而且不會馬上發現的東西。
+
+## [2026-08-31] update | raw/ 檔名改成看得懂的主題
+
+原本是 `threads_2026-04-28_3cgctp4b` 這種帶亂碼 ID 的檔名，在 Obsidian 檔案列表裡完全無法辨識內容，也沒辦法回頭查找。
+
+**改成 `<平台>_<日期>_<主題>.md`**，例如：
+- `threads_2026-04-28_3cgctp4b` → `threads_2026-04-28_Claude-Design功能整理`
+- `threads_2026-05-27_l9rl1ivs` → `threads_2026-05-27_桃機P4停車攻略`
+- `shot_2026-08-31_01` → `shot_2026-08-31_AI生圖32種字體指令`
+
+共改名 20 個檔案（含 assets 裡的圖片），同步更新 19 個引用檔（wiki 各頁、index、log、ingested.json、known_issues.json）。用 `git mv` 保留歷史。**原始 ID 寫進 frontmatter 的 `original_id`**，仍可對回 n8n 的執行紀錄。
+
+**同時確認 n8n 管道恢復正常**：期間自動進來兩筆新資料，皆完整無斷尾——
+- `instagram_2026-08-31_HBM記憶體牆與熱密度`（HBM 頻寬跟不上算力、Meta 訓練中斷 17%、熱密度、美光 HBM4／液冷／混合鍵合）
+- `instagram_2026-08-31_GoogleTPU受惠族群檢驗`（法人估值是否已納入 TPU 貢獻、世芯與聯發科案例）
+
+兩則都命中放寬後的投資線規則。**其中提到的世芯、聯發科目前不在 watchlist**，待評估是否納入。

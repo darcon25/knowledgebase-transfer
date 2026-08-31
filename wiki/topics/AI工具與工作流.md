@@ -9,13 +9,13 @@ updated: 2026-08-28
 
 | 資料 | 一句話 | 原始檔 |
 |---|---|---|
-| Claude Code + Codex CLI 整合 | 在同一個終端機完成程式、生圖與自動化，減少視窗切換造成的注意力中斷 | `raw/threads_2026-05-06_c1dhwjy8.md` |
-| 多 Agent 組織架構 | 效率差距不在提示詞技巧，而在能否設計出讓多個 Agent 自動協作的迴圈 | `raw/threads_2026-05-07_t6zsrs4z.md` |
-| AI 生圖字體控制 | 用精準提示詞控制 32 種字體風格，解決 AI 生圖文字亂碼。**完整 32 條指令見 [[設計靈感]]** | `raw/threads_2026-05-06_ofcr2zbd.md` + `raw/shot_2026-08-31_01.md` |
+| Claude Code + Codex CLI 整合 | 在同一個終端機完成程式、生圖與自動化，減少視窗切換造成的注意力中斷 | `raw/threads_2026-05-06_ClaudeCode整合CodexCLI.md` |
+| 多 Agent 組織架構 | 效率差距不在提示詞技巧，而在能否設計出讓多個 Agent 自動協作的迴圈 | `raw/threads_2026-05-07_多Agent組織架構.md` |
+| AI 生圖字體控制 | 用精準提示詞控制 32 種字體風格，解決 AI 生圖文字亂碼。**完整 32 條指令見 [[設計靈感]]** | `raw/threads_2026-05-06_AI生圖字體控制.md` + `raw/shot_2026-08-31_AI生圖32種字體指令.md` |
 
 ## Claude Code 使用前該知道的 8 件事
 
-來源 `raw/threads_2026-05-04_2oh8tf9q.md` 原本只存到標題沒有內文，2026-08-31 用電腦 Chrome 開原貼文補齊。
+來源 `raw/threads_2026-05-04_ClaudeCode使用前8件事.md` 原本只存到標題沒有內文，2026-08-31 用電腦 Chrome 開原貼文補齊。
 
 > Claude Code 不是比較會寫程式的聊天機器人，而是**能讀檔、改檔、跑指令的 AI 開發助理**。
 

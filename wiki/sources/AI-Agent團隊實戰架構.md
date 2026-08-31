@@ -7,7 +7,7 @@ date_ingested: 2026-05-05
 # AI Agent 團隊實戰架構
 
 **類型**：Threads 貼文  
-**原始位置**：`raw/threads_2026-05-04_iow8n0t3.md`  
+**原始位置**：`raw/threads_2026-05-04_AI-Agent團隊架構.md`  
 **捕獲日期**：2026-05-04  
 **作者**：@automoney_gda
 

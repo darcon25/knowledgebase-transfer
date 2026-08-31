@@ -7,7 +7,7 @@ date_ingested: 2026-05-05
 # ChatGPT 作為私人 AI 財經分析師
 
 **類型**：Threads 貼文  
-**原始位置**：`raw/threads_2026-05-02_t37z3da5.md`  
+**原始位置**：`raw/threads_2026-05-02_ChatGPT財經分析師提示詞.md`  
 **捕獲日期**：2026-05-02  
 **作者**：@btcreal_trade
 

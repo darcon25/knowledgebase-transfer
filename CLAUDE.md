@@ -11,6 +11,9 @@ Max KnowledgeBase/
 ├── index.md           ← 所有 wiki 頁面的目錄
 ├── log.md             ← 操作紀錄（只增不減）
 ├── raw/               ← 原始資料來源（Threads/IG/YouTube/截圖）
+│                      檔名格式：<平台>_<日期>_<主題>.md
+│                      主題要看得懂，不要用亂碼 ID。原始 ID 存在
+│                      frontmatter 的 original_id，仍可對回 n8n 紀錄
 │   └── assets/        ← 本地圖片檔案
 ├── data/              ← 程式抓回來的數據（不要手動編輯）
 │   ├── ingested.json  ← 已消化的來源檔清單

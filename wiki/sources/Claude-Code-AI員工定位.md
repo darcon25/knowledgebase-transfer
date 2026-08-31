@@ -7,7 +7,7 @@ date_ingested: 2026-05-05
 # Claude Code 作為 AI 員工的定位
 
 **類型**：Threads 貼文  
-**原始位置**：`raw/threads_2026-05-04_2oh8tf9q.md`  
+**原始位置**：`raw/threads_2026-05-04_ClaudeCode使用前8件事.md`  
 **捕獲日期**：2026-05-04  
 **作者**：@journal_of_digital_narrative
 

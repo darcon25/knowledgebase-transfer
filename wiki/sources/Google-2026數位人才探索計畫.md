@@ -7,7 +7,7 @@ date_ingested: 2026-05-05
 # Google 2026 數位人才探索計畫
 
 **類型**：Threads 貼文  
-**原始位置**：`raw/threads_2026-04-28_yc93scdj.md`  
+**原始位置**：`raw/threads_2026-04-28_Google數位人才探索計畫.md`  
 **捕獲日期**：2026-04-28  
 **作者**：@metaspax
 

@@ -7,7 +7,7 @@ date_ingested: 2026-05-05
 # Claude Code 六大核心技能（Nate Herk 推薦）
 
 **類型**：Threads 貼文  
-**原始位置**：`raw/threads_2026-05-04_dyc72kls.md`  
+**原始位置**：`raw/threads_2026-05-04_ClaudeCode六大核心技能.md`  
 **捕獲日期**：2026-05-04  
 **作者**：@ai.lanrenbao
 

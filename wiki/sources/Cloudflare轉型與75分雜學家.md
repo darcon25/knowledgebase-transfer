@@ -7,7 +7,7 @@ date_ingested: 2026-05-05
 # Cloudflare 轉型與 75 分雜學家知識策略
 
 **類型**：Threads 貼文  
-**原始位置**：`raw/threads_2026-04-28_9ipjkukm.md`  
+**原始位置**：`raw/threads_2026-04-28_Cloudflare全棧開發.md`  
 **捕獲日期**：2026-04-28  
 **作者**：@dankopeng（《曼報》創辦人 Manny）
 
