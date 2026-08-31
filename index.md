@@ -29,7 +29,9 @@
 |------|------|
 | [[wiki/investing/themes/玻纖布缺料]] | 全鏈最緊的一段，法人估缺貨到 2027 |
 | [[wiki/investing/themes/銅箔報價與銅價]] | 最上游價格訊號與轉嫁觀察 |
-| [[wiki/investing/themes/HBM4與先進封裝]] | 需求源頭（來源資料不完整）|
+| [[wiki/investing/themes/HBM4與先進封裝]] | 需求源頭，十大封裝技術已補齊 |
+| [[wiki/investing/themes/資料中心電力]] | 電力是資料中心擴張的真實瓶頸 |
+| [[wiki/investing/themes/PTFE與材料世代轉換]] | 材料世代轉換，威脅玻纖布多頭邏輯 |
 
 ### 環節（11）
 
