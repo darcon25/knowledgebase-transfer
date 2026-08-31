@@ -71,3 +71,5 @@
 [2026-08-31 20:20:50] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%8F%B0%E7%A9%8D%E9%9B%BB%202330&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%8F%B0%E7%A9%8D%E9%9B%BB%202330&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NewConnectionError("HTTPSConnection(host='news.google.com', port=443): Failed to establish a new connection: [Errno 51] Network is unreachable"))
 [2026-08-31 20:21:02] ✅ 新聞 36/36 檔有結果
 [2026-08-31 20:21:02] === 抓取完成 ===
+[2026-09-01 00:32:13] ⚠️ git pull 失敗，仍檢查本機指令：From https://github.com/darcon25/knowledgebase-transfer
+ * branch            mai
