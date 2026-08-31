@@ -208,8 +208,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de304f5f5cac62f0",
+  "active": "9ac3b669e12e44ad",
   "lastOpenFiles": [
+    "data/commands_error.log",
+    "data/commands.log",
+    "data/commands/亂打.json",
+    "data/commands/健檢.json",
+    "data/commands/補齊.json",
+    "data/commands",
+    "tools/command_poll.py",
+    "raw/shot_2026-08-31_02.md",
+    "raw/assets/shot_2026-08-31_02.png",
     "wiki/investing/themes/資料中心電力.md",
     "wiki/topics/能源與基礎建設.md",
     "tools/auto_ingest.sh",
@@ -223,12 +232,6 @@
     "Clippings/Web App & Website Design Inspiration.md",
     "raw/instagram_2026-08-30_9w3ir49c.md",
     "data/news/2026-08-31.json",
-    "data/valuation/2026-08-31.json",
-    "data/boot_error.log",
-    "data/boot.log",
-    "tools/__pycache__/health_check.cpython-314.pyc",
-    "tools/__pycache__/boot_check.cpython-314.pyc",
-    "tools/boot_check.py",
     "raw/shot_2026-08-31_01.md",
     "raw/assets/shot_2026-08-31_01_02.jpg",
     "raw/assets/shot_2026-08-31_01_01.jpg",
@@ -250,8 +253,6 @@
     "wiki/investing/themes/銅箔報價與銅價.md",
     "wiki/investing/themes/玻纖布缺料.md",
     "wiki/investing/themes/HBM4與先進封裝.md",
-    "wiki/investing/segments/電源散熱.md",
-    "wiki/investing/segments/鑽針耗材.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

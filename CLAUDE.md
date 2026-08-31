@@ -48,7 +48,28 @@ Max KnowledgeBase/
 | `python3 tools/health_check.py` | 資料健檢，寫 health.md 並推 Telegram |
 | `python3 tools/digest.py` | 每日統整：估值跳動、營收動能轉折、持倉環節排名 → `wiki/今日值得注意.md` |
 | `bash tools/auto_ingest.sh` | **判斷層自動化**：有未消化檔案時呼叫 `claude -p` 消化，沒有就不啟動（不花 token）|
+| `python3 tools/command_poll.py` | 每 5 分鐘檢查 `data/commands/` 有沒有從 Telegram 來的指令 |
 | `tools/daily.sh` | 以上全部一次做完（launchd 每天 18:30 呼叫） |
+
+### Telegram 遙控（2026-08-31）
+
+雲端的 n8n 連不到這台電腦，所以用 **GitHub 當信箱**：
+
+```
+你在 TG 打「/補齊」→ n8n 寫 data/commands/補齊.json 到 GitHub
+                   → 本機每 5 分鐘 git pull 看到 → 執行 → 刪檔 → 回 TG
+```
+
+支援的指令：
+
+| 指令 | 做什麼 |
+|---|---|
+| `/補齊` | 用 Chrome 開啟待補清單的第一個網址，並回報還剩幾項 |
+| `/健檢` | 立刻跑一次健檢並回報結果 |
+
+**為什麼不是直接讓 TG 叫 Claude 抓圖**：瀏覽器工具只存在於互動對話中，
+headless `claude -p` 沒有這組工具（2026-08-31 實測確認）。所以遙控只能做到
+「把畫面準備好」，實際抓取仍需開對話。
 | `python3 tools/boot_check.py` | 開機時自動跑：等網路 → git pull → 健檢 → 有待處理才推 Telegram |
 
 ### 通知管道
