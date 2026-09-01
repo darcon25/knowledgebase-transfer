@@ -73,3 +73,5 @@
 [2026-08-31 20:21:02] === 抓取完成 ===
 [2026-09-01 00:32:13] ⚠️ git pull 失敗，仍檢查本機指令：From https://github.com/darcon25/knowledgebase-transfer
  * branch            mai
+[2026-09-01 08:07:42] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-09-01 10:44:51] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
