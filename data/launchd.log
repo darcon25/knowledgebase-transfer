@@ -61,3 +61,23 @@ raw/threads_2026-09-01_6d8f2676.md
 raw/threads_2026-09-01_phdayfuc.md
 raw/threads_2026-09-01_ppzl4uig.md
 raw/threads_2026-09-01_vv3skbn4.md
+8 則來源全部消化完畢，全走投資線（6 則 A-2 主題相關、2 則 A-1 點名 watchlist 公司）。
+
+**新建 2 頁**：`themes/NvidiaCPX與Scale-out架構`（CPX 由 GDDR7 全面轉 HBM4、CoWoS 需求維持、乙太網路做水平擴展）與 `themes/半導體結構性失衡`（邏輯熱／記憶體緊到 2027／感測器長線／功率緩復甦），兩頁都已從 `overview.md` 與 `index.md` 連過去，不是孤島。
+
+**更新 4 個既有主題頁**（HBM4與先進封裝＋高通 HBC+TSV、PTFE與材料世代轉換＋「新材料先從高速層導入」、AI-ASIC與GoogleTPU供應鏈＋Google 轉 COT 模式、玻纖布缺料＋中低階訂單外溢）、**2 個環節頁**（CCL 三雄成長階段對照、載板家族變動）、**6 家公司的事件時間軸**（2330、3711、2317、2383、6274、6213）。所有段落標了「🤖 2026-09-01 自動消化」，凡原文沒給的數字或出處都明寫「原文未說明」，沒動任何 AUTO 區塊、沒建 insights、沒改「我的論點」。
+
+**8 檔來源已改名**成看得懂的主題名，`original_id` 先寫進 frontmatter 保留追溯性；`index.md`（80→82 頁）、`overview.md`、`log.md`、`data/ingested.json`（25→33 筆）同步更新。已驗證：JSON 合法、33 個路徑全部存在、wiki 斷連結 0、孤島頁 0。
+
+一點要提醒你：`git mv` 在這個 session 需要互動授權而執行不了，改用一般 `mv`（內容沒變，commit 時 git 仍會辨識成 rename）；另外 `.obsidian/workspace.json` 裡還有舊檔名，那是 Obsidian 自己維護的開啟紀錄，我沒手動改。
+✅ 已送出
+✅ 健檢完成：10 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 0
+   疑似截斷: 0
+   圖片未確認: 10
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+===== 2026-09-01 18:40:48 每日更新結束 =====
