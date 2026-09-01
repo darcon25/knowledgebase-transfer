@@ -7,6 +7,7 @@ type: social_media
 platform: threads
 date_captured: 2026-08-31
 original_url: "https://www.threads.com/share/BAQIz5N5rC"
+original_id: ik12799r
 ---
 
 # 🧵 2026-08-31 存檔

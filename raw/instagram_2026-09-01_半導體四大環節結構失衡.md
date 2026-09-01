@@ -7,6 +7,7 @@ type: social_media
 platform: instagram
 date_captured: 2026-09-01
 original_url: "https://www.instagram.com/reel/DcGu-IMkWwe/?igsi=MWMxODcwMGVqNzE1dA=="
+original_id: nn5gd5km
 ---
 
 # 📸 2026-09-01 存檔

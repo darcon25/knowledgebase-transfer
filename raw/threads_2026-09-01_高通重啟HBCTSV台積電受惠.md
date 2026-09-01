@@ -7,6 +7,7 @@ type: social_media
 platform: threads
 date_captured: 2026-09-01
 original_url: "https://www.threads.com/share/_mWQDsilX"
+original_id: vv3skbn4
 ---
 
 # 🧵 2026-09-01 存檔

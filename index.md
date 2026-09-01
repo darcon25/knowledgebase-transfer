@@ -2,7 +2,7 @@
 
 > 這份文件由 LLM 維護。公司頁與環節頁由 `tools/build_pages.py` 自動產生。
 
-**最後更新**：2026-08-31　**頁面總數**：80
+**最後更新**：2026-09-01　**頁面總數**：82
 
 ---
 
@@ -32,7 +32,9 @@
 | [[wiki/investing/themes/HBM4與先進封裝]] | 需求源頭，十大封裝技術已補齊；含記憶體牆與熱密度 |
 | [[wiki/investing/themes/資料中心電力]] | 電力是資料中心擴張的真實瓶頸 |
 | [[wiki/investing/themes/PTFE與材料世代轉換]] | 材料世代轉換，威脅玻纖布多頭邏輯 |
-| [[wiki/investing/themes/AI-ASIC與GoogleTPU供應鏈]] | 題材≠獲利，判斷 TPU 受惠族群的三問框架 |
+| [[wiki/investing/themes/AI-ASIC與GoogleTPU供應鏈]] | 題材≠獲利，判斷 TPU 受惠族群的三問框架；含 Google 轉 COT 模式 |
+| [[wiki/investing/themes/NvidiaCPX與Scale-out架構]] | CPX 轉向 HBM4、CoWoS 需求維持、乙太網路做水平擴展 |
+| [[wiki/investing/themes/半導體結構性失衡]] | AI 不是全面榮景：邏輯熱、記憶體緊、感測器慢、功率溫 |
 
 ### 環節（11）
 
