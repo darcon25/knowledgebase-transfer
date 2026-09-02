@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f409c2b333ceed46",
+        "id": "af3f5956931b444d",
         "type": "tabs",
         "children": [
           {
-            "id": "de304f5f5cac62f0",
+            "id": "3886668973ea98a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
             }
           }
         ]
@@ -208,8 +208,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ac3b669e12e44ad",
+  "active": "3886668973ea98a2",
   "lastOpenFiles": [
+    "index.md",
     "raw/instagram_2026-09-02_33fv8gh2.md",
     "raw/instagram_2026-09-02_nifw2dn9.md",
     "raw/threads_2026-09-02_064prm2s.md",
@@ -237,7 +238,6 @@
     "raw/threads_2026-09-01_phdayfuc.md",
     "raw/threads_2026-09-01_6d8f2676.md",
     "raw/instagram_2026-09-01_q97q556d.md",
-    "raw/instagram_2026-09-01_nn5gd5km.md",
     "raw/assets/shot_2026-08-31_SpaceX渦輪機葉片圖卡.png",
     "raw/assets/shot_2026-08-31_AI生圖32種字體指令_01.jpg",
     "raw/assets/shot_2026-08-31_AI生圖32種字體指令_02.jpg",
