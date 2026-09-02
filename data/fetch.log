@@ -92,3 +92,5 @@
 [2026-09-01 18:31:01] ✅ 新聞 36/36 檔有結果
 [2026-09-01 18:31:01] === 抓取完成 ===
 [2026-09-02 08:36:06] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-09-02 11:53:56] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-09-02 14:00:01] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
