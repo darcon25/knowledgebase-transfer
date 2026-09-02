@@ -81,3 +81,26 @@ raw/threads_2026-09-01_vv3skbn4.md
    數字不符: 0
    資料過期: 0
 ===== 2026-09-01 18:40:48 每日更新結束 =====
+===== 2026-09-02 18:30:04 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-09-02 18:30:04] === 開始抓取（41 檔）===
+[2026-09-02 18:30:10] ✅ 估值 38 檔（資料日 2026-09-01）
+[2026-09-02 18:30:12] ℹ️  https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap05_O 憑證驗證失敗，改用 curl 備援
+[2026-09-02 18:30:13] ✅ 月營收 38 檔（2026-07）
+[2026-09-02 18:30:14] ℹ️  https://www.tpex.org.tw/openapi/v1/mopsfin_187ap17_O 憑證驗證失敗，改用 curl 備援
+[2026-09-02 18:30:14] ✅ 毛利率 37 檔（2026Q2）
+[2026-09-02 18:46:19] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%AF%8C%E5%96%AC%201815&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Read timed out. (read timeout=30)
+[2026-09-02 18:47:19] ✅ 新聞 36/36 檔有結果
+[2026-09-02 18:47:19] === 抓取完成 ===
+✅ 頁面：新建 0、更新 49（營收 2026-07、估值 2026-09-02、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 6、動能轉折 10、值得推播 3 項
+[2026-09-02 18:47:20] 發現 10 個未消化檔案，啟動自動消化
+raw/instagram_2026-09-02_33fv8gh2.md
+raw/instagram_2026-09-02_nifw2dn9.md
+raw/threads_2026-09-01_24xfdzxa.md
+raw/threads_2026-09-01_cdi938yu.md
+raw/threads_2026-09-01_icyc9eoq.md
+raw/threads_2026-09-01_trwzsv6m.md
+raw/threads_2026-09-02_064prm2s.md
+raw/threads_2026-09-02_7wapaop3.md
+raw/threads_2026-09-02_kllxge7q.md
+raw/threads_2026-09-02_suz8kg7j.md
