@@ -2,7 +2,7 @@
 
 > 這份文件由 LLM 維護。公司頁與環節頁由 `tools/build_pages.py` 自動產生。
 
-**最後更新**：2026-09-01　**頁面總數**：82
+**最後更新**：2026-09-02　**頁面總數**：86
 
 ---
 
@@ -35,6 +35,10 @@
 | [[wiki/investing/themes/AI-ASIC與GoogleTPU供應鏈]] | 題材≠獲利，判斷 TPU 受惠族群的三問框架；含 Google 轉 COT 模式 |
 | [[wiki/investing/themes/NvidiaCPX與Scale-out架構]] | CPX 轉向 HBM4、CoWoS 需求維持、乙太網路做水平擴展 |
 | [[wiki/investing/themes/半導體結構性失衡]] | AI 不是全面榮景：邏輯熱、記憶體緊、感測器慢、功率溫 |
+| [[wiki/investing/themes/輝達法說會與AI資本支出]] | FY2Q27 法說會數字；成長受限於供給而非需求 |
+| [[wiki/investing/themes/ABF載板隱性減產]] | 載板缺貨不是產能不足，是規格升級造成合格顆數下降 |
+| [[wiki/investing/themes/液冷散熱滲透率]] | 氣冷轉水冷；奇鋐預估 2027 年液冷滲透率達五成 |
+| [[wiki/investing/themes/CPO共同封裝光學]] | CPO 價值鏈輪廓；訊號很弱，未點名任何公司 |
 
 ### 環節（11）
 

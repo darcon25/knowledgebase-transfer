@@ -7,6 +7,7 @@ type: social_media
 platform: instagram
 date_captured: 2026-09-02
 original_url: "https://www.instagram.com/p/DcvnKTojGS9/?img_index=2&igsi=MWhmdW5hNW0wcTJ5NQ=="
+original_id: nifw2dn9
 ---
 
 # 📸 2026-09-02 存檔

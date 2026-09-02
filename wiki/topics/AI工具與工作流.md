@@ -1,6 +1,6 @@
 ---
 tags: [topic]
-updated: 2026-08-28
+updated: 2026-09-02
 ---
 
 # AI 工具與工作流
@@ -12,6 +12,7 @@ updated: 2026-08-28
 | Claude Code + Codex CLI 整合 | 在同一個終端機完成程式、生圖與自動化，減少視窗切換造成的注意力中斷 | `raw/threads_2026-05-06_ClaudeCode整合CodexCLI.md` |
 | 多 Agent 組織架構 | 效率差距不在提示詞技巧，而在能否設計出讓多個 Agent 自動協作的迴圈 | `raw/threads_2026-05-07_多Agent組織架構.md` |
 | AI 生圖字體控制 | 用精準提示詞控制 32 種字體風格，解決 AI 生圖文字亂碼。**完整 32 條指令見 [[設計靈感]]** | `raw/threads_2026-05-06_AI生圖字體控制.md` + `raw/shot_2026-08-31_AI生圖32種字體指令.md` |
+| Perplexity 混合運算（Hybrid Compute）| 公開資料丟雲端、敏感檔案留在 Mac 本機跑，中間有 Privacy Gate 遮罩姓名／Email／電話。**門檻：Apple silicon、macOS 15+、統一記憶體至少 24GB（建議 32GB）**。⚠️ 不是完全離線，雲端仍參與部分任務，敏感資訊偵測也可能漏判 | `raw/threads_2026-09-02_Perplexity混合運算隱私.md` |
 
 ## Claude Code 使用前該知道的 8 件事
 
