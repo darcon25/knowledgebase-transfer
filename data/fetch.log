@@ -111,3 +111,5 @@
 [2026-09-03 18:30:09] ✅ 毛利率 37 檔（2026Q2）
 [2026-09-03 18:31:07] ✅ 新聞 36/36 檔有結果
 [2026-09-03 18:31:07] === 抓取完成 ===
+[2026-09-03 21:15:25] ⚠️ git pull 失敗，仍檢查本機指令：fatal: 'origin' does not appear to be a git repository
+fatal: Could not read fro
