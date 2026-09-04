@@ -39,6 +39,7 @@
 | [[wiki/investing/themes/ABF載板隱性減產]] | 載板缺貨不是產能不足，是規格升級造成合格顆數下降 |
 | [[wiki/investing/themes/液冷散熱滲透率]] | 氣冷轉水冷；奇鋐預估 2027 年液冷滲透率達五成 |
 | [[wiki/investing/themes/CPO共同封裝光學]] | CPO 價值鏈輪廓；訊號很弱，未點名任何公司 |
+| [[wiki/investing/themes/博通AI營收展望]] | 博通首度揭露 FY2027／FY2028 AI 營收展望；原文無金額、未點名台廠 |
 
 ### 環節（11）
 

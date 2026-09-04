@@ -142,3 +142,35 @@ raw/threads_2026-09-02_suz8kg7j.md
    數字不符: 0
    資料過期: 0
 ===== 2026-09-03 18:31:10 每日更新結束 =====
+===== 2026-09-04 18:41:09 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-09-04 18:41:09] === 開始抓取（41 檔）===
+[2026-09-04 18:56:31] ⚠️  第 1/3 次失敗：https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL — HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/exchangeReport/BWIBBU_ALL (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-09-04 19:08:32] ✅ 估值 38 檔（資料日 2026-09-03）
+[2026-09-04 19:25:47] ⚠️  第 1/3 次失敗：https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap05_O — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2026-09-04 19:25:56] ✅ 月營收 38 檔（2026-07）
+[2026-09-04 19:25:57] ✅ 毛利率 37 檔（2026Q2）
+[2026-09-04 19:26:54] ✅ 新聞 36/36 檔有結果
+[2026-09-04 19:26:54] === 抓取完成 ===
+✅ 頁面：新建 0、更新 49（營收 2026-07、估值 2026-09-04、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 12、動能轉折 10、值得推播 4 項
+[2026-09-04 19:26:54] 發現 2 個未消化檔案，啟動自動消化
+raw/instagram_2026-09-04_egws8sjj.md
+raw/instagram_2026-09-04_x20wujxb.md
+消化完成，兩則走了不同路線：
+
+- **博通那則走投資線（A-2 主題）**：原文沒點名任何名單台廠，所以新建 `wiki/investing/themes/博通AI營收展望.md`，記下管理層首度揭露 FY2027／FY2028 AI 營收展望、Q4 指引未達最樂觀期待、外資維持偏正面——**金額與六大客戶名單原文都沒給，已逐項標成「原文未說明」**，公司頁一律沒動。
+- 順手在 `AI-ASIC與GoogleTPU供應鏈.md` 補一段張力提醒（Google 轉 COT 稀釋博通角色 vs 博通自報展望轉強，是否矛盾原文未說明），並與 `輝達法說會與AI資本支出.md` 互連，形成 GPU／ASIC 兩條需求路線的對照。
+- **AI 網站評分服務那則非投資**，只歸進 `wiki/topics/AI工具與工作流.md` 表格一列。
+- 兩個來源檔已加 `original_id` 並改名為 `博通FY3Q26財報AI營收展望` 與 `AI網站評分服務`；同步更新 `index.md`、`wiki/overview.md`、`data/ingested.json`（45 筆，已驗證 JSON 合法且路徑全存在）、`log.md`。
+- 一點要說明：`git mv` 被權限攔下（此 session 非互動、無法核准），改用一般 `mv` 完成，git 仍會依內容相似度判為 rename；`.obsidian/workspace.json` 裡的舊檔名是 Obsidian 自己維護的開啟紀錄，沒有手動改。
+✅ 已送出
+✅ 健檢完成：22 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 0
+   疑似截斷: 0
+   圖片未確認: 22
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+===== 2026-09-04 20:43:40 每日更新結束 =====

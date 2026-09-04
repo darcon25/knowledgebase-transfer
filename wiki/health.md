@@ -1,11 +1,11 @@
 ---
 tags: [health]
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # 知識庫健檢
 
-**檢查時間**：2026-09-03 18:31　**發現問題**：20 項
+**檢查時間**：2026-09-04 20:43　**發現問題**：22 項
 
 > 這頁由 `tools/health_check.py` 每天自動覆寫，只查規則能判定的問題。
 > 需要判讀的（訊號矛盾、摘要失真、論點過期）請叫 kb-auditor 稽核。
@@ -22,7 +22,7 @@ updated: 2026-09-03
 
 - ✅ 沒有問題
 
-## 圖片未確認（20）
+## 圖片未確認（22）
 
 - 圖片未確認：raw/instagram_2026-08-31_GoogleTPU受惠族群檢驗.md
     https://www.instagram.com/p/Dcr9yYOimcX/
@@ -38,6 +38,10 @@ updated: 2026-09-03
     https://www.instagram.com/p/DcAZ5QNEQIQ/
 - 圖片未確認：raw/instagram_2026-09-02_輝達FY2Q27法說會重點.md
     https://www.instagram.com/p/DcvnKTojGS9/
+- 圖片未確認：raw/instagram_2026-09-04_AI網站評分服務.md
+    https://www.instagram.com/reel/Dc0e1soRu6O/
+- 圖片未確認：raw/instagram_2026-09-04_博通FY3Q26財報AI營收展望.md
+    https://www.instagram.com/p/Dc0PU7qkx3b/
 - 圖片未確認：raw/threads_2026-08-31_GoogleTPU轉COT模式.md
     https://www.threads.com/share/BAQIz5N5rC
 - 圖片未確認：raw/threads_2026-09-01_CPX轉HBM4與CoWoS受惠.md

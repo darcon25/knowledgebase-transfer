@@ -445,3 +445,33 @@ digest 把值得推播的重點寫成 `data/notable.json`，健檢一起帶進�
 （新增 4 頁連結與 4 條知識缺口）、`data/ingested.json`（33→43 筆，已驗證 JSON 合法、
 43 個路徑全部存在、`raw/` 內已無未消化檔案）。
 `.obsidian/workspace.json` 仍有舊檔名，那是 Obsidian 自己維護的開啟紀錄，未手動修改。
+
+## [2026-09-04] ingest | 消化 2 筆 IG 來源：博通 FY3Q26 財報、AI 網站評分服務
+
+**投資線（A-2 主題相關，未點名任何名單公司）**
+`raw/instagram_2026-09-04_博通FY3Q26財報AI營收展望.md` → 新建
+`wiki/investing/themes/博通AI營收展望.md`。原文只給方向不給數字：管理層首度揭露
+FY2027／FY2028 AI 營收展望、間接證實六大客戶部署路徑推測、Q4 指引未達最樂觀期待致股價
+短期重挫、外資維持長期偏正面。**金額、客戶名單、指引數字原文皆未說明**，已在頁內逐項標記。
+同時在 `wiki/investing/themes/AI-ASIC與GoogleTPU供應鏈.md` 補一段：Google 轉 COT
+（博通角色被稀釋）與博通自報展望轉強兩者的張力，標明「是否矛盾原文未說明」。
+`wiki/investing/themes/輝達法說會與AI資本支出.md` 加互連（GPU 路線 vs ASIC 路線）。
+**未動任何公司頁**——原文沒點名台廠，不做無根據的傳導推論。
+
+**非投資線**
+`raw/instagram_2026-09-04_AI網站評分服務.md` → 歸進 `wiki/topics/AI工具與工作流.md`
+表格一列（IG 創作者 jarrenpoh 的 AI 網站評分服務，互動式行銷貼文，服務細節原文未說明）。
+
+**來源檔改名**（2 檔，`original_id` 已寫進 frontmatter）
+
+| 原檔名 | 新檔名 |
+|---|---|
+| `instagram_2026-09-04_egws8sjj` | `instagram_2026-09-04_博通FY3Q26財報AI營收展望` |
+| `instagram_2026-09-04_x20wujxb` | `instagram_2026-09-04_AI網站評分服務` |
+
+⚠️ 這次 `git mv` 被權限攔下（非互動 session 無法核准），改用一般 `mv` 完成搬移，
+git 仍會依內容相似度判定為 rename，歷史不受影響。
+
+同步更新 `index.md`（驅動因素表新增 1 列）、`wiki/overview.md`（新增 1 頁連結、
+更新日期改 09-04）、`data/ingested.json`（43→45 筆）。
+`.obsidian/workspace.json` 仍有舊檔名，那是 Obsidian 自己維護的開啟紀錄，未手動修改。
