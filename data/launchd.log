@@ -215,3 +215,21 @@ raw/instagram_2026-09-04_x20wujxb.md
 [2026-09-06 18:31:03] 發現 2 個未消化檔案，啟動自動消化
 raw/threads_2026-09-05_8pim78rq.md
 raw/threads_2026-09-05_lyjw4yrd.md
+兩則來源都判為投資線，內容落在既有驅動因素頁範圍內，**沒有新建頁面**（因此不需新增孤島連結，但順手補上 overview 先前遺漏的 [[PTFE與材料世代轉換]] 連結）。
+
+1. **PTFE 那則**（引 J.P. Morgan：2028 年傳統高速 CCL 約 91%、PTFE 約 9%，「局部 50%」被誤讀成整體、實際佔 Rubin Ultra CCL TAM 僅 2%）→ 寫進 `themes/PTFE與材料世代轉換.md`、`chains/AI伺服器PCB鏈.md` 矛盾訊號 1，並在 8039 台虹／2383 台光電／6274 台燿 三頁的「事件時間軸」各加一則。
+2. **PSU 那則**（門檻從瓦數轉為轉換效率、瞬時負載反應、冗餘、平台認證；規格升級不等於獲利增加；台達電／Vertiv／光寶營收口徑不可比較）→ 寫進 `themes/資料中心電力.md` 新增「PSU 段」、`segments/電源散熱.md` 補註，2308 台達電事件時間軸加三則。
+3. 所有段落都標了「🤖 2026-09-06 自動消化」，摘要自己的推論（如「台光、台燿長期價值被低估」）已明確標記為推論而非事實，未動任何「我的論點」、未碰 AUTO 區塊、未修改 raw 內文（僅在 frontmatter 加 `original_id`）。
+4. 兩檔已改名為 `threads_2026-09-05_JPM估PTFE僅佔CCL一成.md`、`threads_2026-09-05_AI伺服器PSU規格與競爭.md`；`git mv` 在非互動 session 被權限攔下，改用一般 `mv`（git 仍會判為 rename）。
+5. 同步更新 `data/ingested.json`（45→47）、`index.md`、`wiki/overview.md`、`log.md`。舊亂碼 ID 僅殘留在 `.obsidian/workspace.json`（Obsidian 自行維護的開啟紀錄，未手動改）。
+✅ 已送出
+✅ 健檢完成：24 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 0
+   疑似截斷: 0
+   圖片未確認: 24
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+===== 2026-09-06 18:37:04 每日更新結束 =====

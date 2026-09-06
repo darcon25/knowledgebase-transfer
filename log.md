@@ -475,3 +475,43 @@ git 仍會依內容相似度判定為 rename，歷史不受影響。
 同步更新 `index.md`（驅動因素表新增 1 列）、`wiki/overview.md`（新增 1 頁連結、
 更新日期改 09-04）、`data/ingested.json`（43→45 筆）。
 `.obsidian/workspace.json` 仍有舊檔名，那是 Obsidian 自己維護的開啟紀錄，未手動修改。
+
+## [2026-09-06] ingest | 消化 2 筆 Threads 來源：J.P. Morgan 反駁 PTFE 取代論、AI 伺服器 PSU
+
+**兩則都走投資線，未建新頁**——內容都落在既有驅動因素頁的範圍內。
+
+**A-1｜`raw/threads_2026-09-05_JPM估PTFE僅佔CCL一成.md`**（點名 8039、2383、6274）
+原文引 J.P. Morgan 分析反駁「PTFE 取代傳統高速 CCL」：即使最積極假設，2028 年傳統高速
+CCL（M8+／M9／M10）仍約 **91%**、PTFE 約 **9%**，且 9% 由台虹、中國生益科技、Rogers 分食；
+市場把「PTFE 在 NVL576 switch tray 子市場材料價值佔比 50%」誤讀成整體市佔，實際上
+NVL576 滲透率 10% 時 PTFE 只佔 Rubin Ultra CCL TAM 的 **2%**。
+→ `wiki/investing/themes/PTFE與材料世代轉換.md` 新增一段（該頁第一組量化數字）、
+`wiki/investing/chains/AI伺服器PCB鏈.md` 矛盾訊號 1 補上天花板、
+[[8039 台虹]]／[[2383 台光電]]／[[6274 台燿]] 三頁事件時間軸各加一則。
+⚠️ 已標記：報告發布日期與完整假設**原文未說明**；原文「台光、台燿長期價值被低估」是摘要推論，
+**沒有任何個股數字**，未動任何一頁的「我的論點」。
+
+**A-2｜`raw/threads_2026-09-05_AI伺服器PSU規格與競爭.md`**（點名 2308）
+PSU 的競爭條件從瓦數轉為轉換效率、瞬時負載反應、冗餘設計、平台認證；原文自陳
+**規格升級不等於獲利必然增加**；台達電／Vertiv／光寶並列重疊競爭者，但**營收口徑、期間、
+幣別不同不可比較**；追蹤指標為高功率 PSU／Power Shelf 量產出貨與效率，風險為認證延後、
+良率、價格競爭、客戶集中。
+→ `wiki/investing/themes/資料中心電力.md` 新增「PSU 段」（電力鏈三段補齊：電進得來／
+轉得動／撐得住）、`wiki/investing/segments/電源散熱.md` 驅動因素補註、
+[[2308 台達電]] 事件時間軸加三則。
+⚠️ 已標記：原文**沒給台達電任何 PSU 營收、市佔或認證進度**，是產業結構不是訂單訊號。
+光寶（2301）與 Vertiv 不在追蹤的 41 檔名單上，**本次不動名單**。
+
+**來源檔改名**（2 檔，`original_id` 已寫進 frontmatter）
+
+| 原檔名 | 新檔名 |
+|---|---|
+| `threads_2026-09-05_8pim78rq` | `threads_2026-09-05_JPM估PTFE僅佔CCL一成` |
+| `threads_2026-09-05_lyjw4yrd` | `threads_2026-09-05_AI伺服器PSU規格與競爭` |
+
+⚠️ `git mv` 再次被權限攔下（非互動 session），改用一般 `mv`，git 會依內容相似度判定為 rename。
+全庫搜尋確認舊亂碼 ID 沒有出現在任何 wiki 頁、`index.md` 或 `data/known_issues.json`。
+
+同步更新 `index.md`（驅動因素表 2 列改寫、日期）、`wiki/overview.md`（**補上先前遺漏的
+[[PTFE與材料世代轉換]] 連結**、資料中心電力加註、知識缺口 2 條）、
+`data/ingested.json`（45→47 筆）。

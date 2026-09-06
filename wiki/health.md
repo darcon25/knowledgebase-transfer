@@ -1,11 +1,11 @@
 ---
 tags: [health]
-updated: 2026-09-05
+updated: 2026-09-06
 ---
 
 # 知識庫健檢
 
-**檢查時間**：2026-09-05 19:53　**發現問題**：22 項
+**檢查時間**：2026-09-06 18:37　**發現問題**：24 項
 
 > 這頁由 `tools/health_check.py` 每天自動覆寫，只查規則能判定的問題。
 > 需要判讀的（訊號矛盾、摘要失真、論點過期）請叫 kb-auditor 稽核。
@@ -22,7 +22,7 @@ updated: 2026-09-05
 
 - ✅ 沒有問題
 
-## 圖片未確認（22）
+## 圖片未確認（24）
 
 - 圖片未確認：raw/instagram_2026-08-31_GoogleTPU受惠族群檢驗.md
     https://www.instagram.com/p/Dcr9yYOimcX/
@@ -68,6 +68,10 @@ updated: 2026-09-05
     https://www.threads.com/share/_mevdCh1l
 - 圖片未確認：raw/threads_2026-09-02_Perplexity混合運算隱私.md
     https://www.threads.com/share/BAN7gvLFR7
+- 圖片未確認：raw/threads_2026-09-05_AI伺服器PSU規格與競爭.md
+    https://www.threads.com/share/_wBhqnvxy
+- 圖片未確認：raw/threads_2026-09-05_JPM估PTFE僅佔CCL一成.md
+    https://www.threads.com/share/_rtsCKn9Y
 
 ## 斷連結（0）
 
