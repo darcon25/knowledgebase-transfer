@@ -140,3 +140,12 @@ fatal: Could not read fro
 [2026-09-05 21:37:43] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': R
 [2026-09-06 00:22:53] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': R
 [2026-09-06 10:33:31] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': R
+[2026-09-06 18:30:00] === 開始抓取（41 檔）===
+[2026-09-06 18:30:02] ℹ️  https://www.tpex.org.tw/openapi/v1/tpex_mainboard_peratio_analysis 憑證驗證失敗，改用 curl 備援
+[2026-09-06 18:30:03] ✅ 估值 38 檔（資料日 2026-09-04）
+[2026-09-06 18:30:04] ℹ️  https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap05_O 憑證驗證失敗，改用 curl 備援
+[2026-09-06 18:30:04] ✅ 月營收 38 檔（2026-07）
+[2026-09-06 18:30:04] ℹ️  https://www.tpex.org.tw/openapi/v1/mopsfin_187ap17_O 憑證驗證失敗，改用 curl 備援
+[2026-09-06 18:30:05] ✅ 毛利率 37 檔（2026Q2）
+[2026-09-06 18:31:02] ✅ 新聞 36/36 檔有結果
+[2026-09-06 18:31:02] === 抓取完成 ===
