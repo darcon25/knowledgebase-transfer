@@ -2,7 +2,7 @@
 
 > 這份文件由 LLM 維護。公司頁與環節頁由 `tools/build_pages.py` 自動產生。
 
-**最後更新**：2026-09-06　**頁面總數**：86
+**最後更新**：2026-09-07　**頁面總數**：86
 
 ---
 
@@ -27,14 +27,14 @@
 
 | 頁面 | 說明 |
 |------|------|
-| [[wiki/investing/themes/玻纖布缺料]] | 全鏈最緊的一段，法人估缺貨到 2027 |
-| [[wiki/investing/themes/銅箔報價與銅價]] | 最上游價格訊號與轉嫁觀察 |
-| [[wiki/investing/themes/HBM4與先進封裝]] | 需求源頭，十大封裝技術已補齊；含記憶體牆與熱密度 |
+| [[wiki/investing/themes/玻纖布缺料]] | 全鏈最緊的一段，法人估缺貨到 2027；吃緊的是 Low CTE 玻纖布與 Low Dk2 |
+| [[wiki/investing/themes/銅箔報價與銅價]] | 最上游價格訊號與轉嫁觀察；高階銅箔的門檻是 HVLP4 認證與良率 |
+| [[wiki/investing/themes/HBM4與先進封裝]] | 需求源頭，十大封裝技術已補齊；含記憶體牆與熱密度；⚠️ HBM 用量方向出現矛盾訊號 |
 | [[wiki/investing/themes/資料中心電力]] | 電力是資料中心擴張的真實瓶頸；含 BBU 與 PSU 兩段產業結構 |
-| [[wiki/investing/themes/PTFE與材料世代轉換]] | 材料世代轉換，威脅玻纖布多頭邏輯；J.P. Morgan 估 2028 年 PTFE 僅約 9% |
+| [[wiki/investing/themes/PTFE與材料世代轉換]] | 材料世代轉換，威脅玻纖布多頭邏輯；J.P. Morgan 估 2028 年 PTFE 僅約 9%；含無布化的編織效應與超高層板難點 |
 | [[wiki/investing/themes/AI-ASIC與GoogleTPU供應鏈]] | 題材≠獲利，判斷 TPU 受惠族群的三問框架；含 Google 轉 COT 模式 |
 | [[wiki/investing/themes/NvidiaCPX與Scale-out架構]] | CPX 轉向 HBM4、CoWoS 需求維持、乙太網路做水平擴展 |
-| [[wiki/investing/themes/半導體結構性失衡]] | AI 不是全面榮景：邏輯熱、記憶體緊、感測器慢、功率溫 |
+| [[wiki/investing/themes/半導體結構性失衡]] | AI 不是全面榮景：邏輯熱、記憶體緊、感測器慢、功率溫；野村估 2026 年 DRAM 均價漲 240% |
 | [[wiki/investing/themes/輝達法說會與AI資本支出]] | FY2Q27 法說會數字；成長受限於供給而非需求 |
 | [[wiki/investing/themes/ABF載板隱性減產]] | 載板缺貨不是產能不足，是規格升級造成合格顆數下降 |
 | [[wiki/investing/themes/液冷散熱滲透率]] | 氣冷轉水冷；奇鋐預估 2027 年液冷滲透率達五成 |

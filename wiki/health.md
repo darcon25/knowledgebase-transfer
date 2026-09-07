@@ -1,11 +1,11 @@
 ---
 tags: [health]
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 # 知識庫健檢
 
-**檢查時間**：2026-09-06 18:37　**發現問題**：24 項
+**檢查時間**：2026-09-07 18:38　**發現問題**：27 項
 
 > 這頁由 `tools/health_check.py` 每天自動覆寫，只查規則能判定的問題。
 > 需要判讀的（訊號矛盾、摘要失真、論點過期）請叫 kb-auditor 稽核。
@@ -22,7 +22,7 @@ updated: 2026-09-06
 
 - ✅ 沒有問題
 
-## 圖片未確認（24）
+## 圖片未確認（27）
 
 - 圖片未確認：raw/instagram_2026-08-31_GoogleTPU受惠族群檢驗.md
     https://www.instagram.com/p/Dcr9yYOimcX/
@@ -72,6 +72,12 @@ updated: 2026-09-06
     https://www.threads.com/share/_wBhqnvxy
 - 圖片未確認：raw/threads_2026-09-05_JPM估PTFE僅佔CCL一成.md
     https://www.threads.com/share/_rtsCKn9Y
+- 圖片未確認：raw/threads_2026-09-06_輝達砍HBM與DRAM漲價.md
+    https://www.threads.com/share/BCKzUlmrS2
+- 圖片未確認：raw/threads_2026-09-07_PCB無布化技術可行性.md
+    https://www.threads.com/share/_7JojHSJ9
+- 圖片未確認：raw/threads_2026-09-07_高階CCL潛力與金居HVLP擴產.md
+    https://www.threads.com/share/BApDhZZN8R
 
 ## 斷連結（0）
 
