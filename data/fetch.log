@@ -187,3 +187,6 @@ fatal: Could not read fro
 [2026-09-09 12:14:29] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': S
 [2026-09-09 16:04:46] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': S
 [2026-09-09 17:48:19] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-09-09 18:33:09] === 開始抓取（41 檔）===
+[2026-09-09 18:33:21] ℹ️  https://www.tpex.org.tw/openapi/v1/tpex_mainboard_peratio_analysis 憑證驗證失敗，改用 curl 備援
+[2026-09-09 18:33:21] ✅ 估值 38 檔（資料日 2026-09-08）
