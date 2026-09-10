@@ -1,11 +1,11 @@
 ---
 tags: [health]
-updated: 2026-09-09
+updated: 2026-09-11
 ---
 
 # 知識庫健檢
 
-**檢查時間**：2026-09-09 19:36　**發現問題**：37 項
+**檢查時間**：2026-09-11 00:42　**發現問題**：39 項
 
 > 這頁由 `tools/health_check.py` 每天自動覆寫，只查規則能判定的問題。
 > 需要判讀的（訊號矛盾、摘要失真、論點過期）請叫 kb-auditor 稽核。
@@ -14,16 +14,17 @@ updated: 2026-09-09
 
 - ✅ 沒有問題
 
-## 尚未消化（2）
+## 尚未消化（3）
 
-- 尚未消化：raw/threads_2026-09-08_5d0qbe1w.md
-- 尚未消化：raw/threads_2026-09-08_jnqx1ycm.md
+- 尚未消化：raw/threads_2026-09-08_AI資料中心佔六成與長約.md
+- 尚未消化：raw/threads_2026-09-08_禾伸堂AI電源被動元件.md
+- 尚未消化：raw/threads_2026-09-10_花旗估2030年CPU份額.md
 
 ## 疑似截斷（0）
 
 - ✅ 沒有問題
 
-## 圖片未確認（35）
+## 圖片未確認（36）
 
 - 圖片未確認：raw/instagram_2026-08-31_GoogleTPU受惠族群檢驗.md
     https://www.instagram.com/p/Dcr9yYOimcX/
@@ -81,20 +82,22 @@ updated: 2026-09-09
     https://www.threads.com/share/_7JojHSJ9
 - 圖片未確認：raw/threads_2026-09-07_高階CCL潛力與金居HVLP擴產.md
     https://www.threads.com/share/BApDhZZN8R
-- 圖片未確認：raw/threads_2026-09-08_5d0qbe1w.md
-    https://www.threads.com/share/BAWp1KKQsz
 - 圖片未確認：raw/threads_2026-09-08_AGI硬體需求與載板記憶體.md
     https://www.threads.com/share/_6bDR14Jx
+- 圖片未確認：raw/threads_2026-09-08_AI資料中心佔六成與長約.md
+    https://www.threads.com/share/_c_DzOKrv
 - 圖片未確認：raw/threads_2026-09-08_CPO時程2027轉折2028量產.md
     https://www.threads.com/share/_5FPuhQxC
 - 圖片未確認：raw/threads_2026-09-08_DRAM營收暴增靠漲價.md
     https://www.threads.com/share/BAZRnImDMF
 - 圖片未確認：raw/threads_2026-09-08_NVL72佔伺服器市場過半.md
     https://www.threads.com/share/BAW_2YIrzi
-- 圖片未確認：raw/threads_2026-09-08_jnqx1ycm.md
-    https://www.threads.com/share/_c_DzOKrv
+- 圖片未確認：raw/threads_2026-09-08_禾伸堂AI電源被動元件.md
+    https://www.threads.com/share/BAWp1KKQsz
 - 圖片未確認：raw/threads_2026-09-08_高盛上修光收發模組出貨.md
     https://www.threads.com/share/_gN2pBN9H
+- 圖片未確認：raw/threads_2026-09-10_花旗估2030年CPU份額.md
+    https://www.threads.com/share/_wu4O37pJ
 
 ## 斷連結（0）
 
