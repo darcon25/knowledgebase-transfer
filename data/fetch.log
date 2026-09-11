@@ -214,3 +214,4 @@ fatal: Could not read fro
 [2026-09-10 21:11:36] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E7%B7%AF%E5%89%B5%203231&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ("Connection broken: ConnectionResetError(54, 'Connection reset by peer')", ConnectionResetError(54, 'Connection reset by peer'))
 [2026-09-10 21:11:50] ✅ 新聞 36/36 檔有結果
 [2026-09-10 21:11:50] === 抓取完成 ===
+[2026-09-11 13:57:56] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': R
