@@ -5,7 +5,7 @@ updated: 2026-09-11
 
 # 知識庫健檢
 
-**檢查時間**：2026-09-11 00:42　**發現問題**：39 項
+**檢查時間**：2026-09-11 19:24　**發現問題**：43 項
 
 > 這頁由 `tools/health_check.py` 每天自動覆寫，只查規則能判定的問題。
 > 需要判讀的（訊號矛盾、摘要失真、論點過期）請叫 kb-auditor 稽核。
@@ -14,17 +14,19 @@ updated: 2026-09-11
 
 - ✅ 沒有問題
 
-## 尚未消化（3）
+## 尚未消化（5）
 
 - 尚未消化：raw/threads_2026-09-08_AI資料中心佔六成與長約.md
 - 尚未消化：raw/threads_2026-09-08_禾伸堂AI電源被動元件.md
 - 尚未消化：raw/threads_2026-09-10_花旗估2030年CPU份額.md
+- 尚未消化：raw/threads_2026-09-11_2darl64d.md
+- 尚未消化：raw/threads_2026-09-11_phq5f9vc.md
 
 ## 疑似截斷（0）
 
 - ✅ 沒有問題
 
-## 圖片未確認（36）
+## 圖片未確認（38）
 
 - 圖片未確認：raw/instagram_2026-08-31_GoogleTPU受惠族群檢驗.md
     https://www.instagram.com/p/Dcr9yYOimcX/
@@ -98,6 +100,10 @@ updated: 2026-09-11
     https://www.threads.com/share/_gN2pBN9H
 - 圖片未確認：raw/threads_2026-09-10_花旗估2030年CPU份額.md
     https://www.threads.com/share/_wu4O37pJ
+- 圖片未確認：raw/threads_2026-09-11_2darl64d.md
+    https://www.threads.com/share/_y-3rfAE5
+- 圖片未確認：raw/threads_2026-09-11_phq5f9vc.md
+    https://www.threads.com/share/BAW2S2P2-X
 
 ## 斷連結（0）
 

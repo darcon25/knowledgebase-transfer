@@ -370,3 +370,32 @@ API Error: Your computer went to sleep mid-response. The response above may be i
    資料過期: 0
 ===== 2026-09-11 00:42:17 每日更新結束 =====
 ===== 2026-09-11 18:35:30 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-09-11 18:35:30] === 開始抓取（41 檔）===
+[2026-09-11 18:35:32] ℹ️  https://www.tpex.org.tw/openapi/v1/tpex_mainboard_peratio_analysis 憑證驗證失敗，改用 curl 備援
+[2026-09-11 18:35:34] ✅ 估值 38 檔（資料日 2026-09-10）
+[2026-09-11 18:35:35] ℹ️  https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap05_O 憑證驗證失敗，改用 curl 備援
+[2026-09-11 18:35:36] ✅ 月營收 38 檔（2026-07）
+[2026-09-11 18:35:41] ℹ️  https://www.tpex.org.tw/openapi/v1/mopsfin_187ap17_O 憑證驗證失敗，改用 curl 備援
+[2026-09-11 18:35:41] ✅ 毛利率 37 檔（2026Q2）
+[2026-09-11 19:09:37] ✅ 新聞 36/36 檔有結果
+[2026-09-11 19:09:37] === 抓取完成 ===
+✅ 頁面：新建 0、更新 49（營收 2026-07、估值 2026-09-11、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 6、動能轉折 11、值得推播 5 項
+[2026-09-11 19:09:38] 發現 5 個未消化檔案，啟動自動消化
+raw/threads_2026-09-08_AI資料中心佔六成與長約.md
+raw/threads_2026-09-08_禾伸堂AI電源被動元件.md
+raw/threads_2026-09-10_花旗估2030年CPU份額.md
+raw/threads_2026-09-11_2darl64d.md
+raw/threads_2026-09-11_phq5f9vc.md
+Failed to authenticate: OAuth session expired and could not be refreshed
+✅ 已送出
+✅ 健檢完成：43 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 5
+   疑似截斷: 0
+   圖片未確認: 38
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+===== 2026-09-11 19:24:54 每日更新結束 =====
