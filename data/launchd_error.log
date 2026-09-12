@@ -28,3 +28,4 @@ Traceback (most recent call last):
   File "/Users/mmfamily/Max KnowledgeBase/tools/notify.py", line 12, in <module>
     import requests
 ModuleNotFoundError: No module named 'requests'
+curl: (6) Could not resolve host: api.telegram.org
