@@ -6,6 +6,7 @@ tags:
 type: social_media
 platform: threads
 date_captured: 2026-09-13
+original_id: er1shvs4
 original_url: "https://www.threads.com/share/BAQ0yoeoq2"
 ---
 

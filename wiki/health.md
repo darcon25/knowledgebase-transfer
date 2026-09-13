@@ -1,11 +1,11 @@
 ---
 tags: [health]
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # 知識庫健檢
 
-**檢查時間**：2026-09-12 18:34　**發現問題**：43 項
+**檢查時間**：2026-09-13 23:21　**發現問題**：42 項
 
 > 這頁由 `tools/health_check.py` 每天自動覆寫，只查規則能判定的問題。
 > 需要判讀的（訊號矛盾、摘要失真、論點過期）請叫 kb-auditor 稽核。
@@ -14,19 +14,15 @@ updated: 2026-09-12
 
 - ✅ 沒有問題
 
-## 尚未消化（5）
+## 尚未消化（0）
 
-- 尚未消化：raw/threads_2026-09-08_AI資料中心佔六成與長約.md
-- 尚未消化：raw/threads_2026-09-08_禾伸堂AI電源被動元件.md
-- 尚未消化：raw/threads_2026-09-10_花旗估2030年CPU份額.md
-- 尚未消化：raw/threads_2026-09-11_2darl64d.md
-- 尚未消化：raw/threads_2026-09-11_phq5f9vc.md
+- ✅ 沒有問題
 
 ## 疑似截斷（0）
 
 - ✅ 沒有問題
 
-## 圖片未確認（38）
+## 圖片未確認（42）
 
 - 圖片未確認：raw/instagram_2026-08-31_GoogleTPU受惠族群檢驗.md
     https://www.instagram.com/p/Dcr9yYOimcX/
@@ -100,10 +96,18 @@ updated: 2026-09-12
     https://www.threads.com/share/_gN2pBN9H
 - 圖片未確認：raw/threads_2026-09-10_花旗估2030年CPU份額.md
     https://www.threads.com/share/_wu4O37pJ
-- 圖片未確認：raw/threads_2026-09-11_2darl64d.md
+- 圖片未確認：raw/threads_2026-09-11_南亞EPS預估與群聯殖利率.md
     https://www.threads.com/share/_y-3rfAE5
-- 圖片未確認：raw/threads_2026-09-11_phq5f9vc.md
+- 圖片未確認：raw/threads_2026-09-11_量子供應生態貼文.md
     https://www.threads.com/share/BAW2S2P2-X
+- 圖片未確認：raw/threads_2026-09-13_CCL配方護城河與上膠機瓶頸.md
+    https://www.threads.com/share/BAQ0yoeoq2
+- 圖片未確認：raw/threads_2026-09-13_QuiverQuantitative追蹤工具.md
+    https://www.threads.com/share/BAUbJ8a-ga
+- 圖片未確認：raw/threads_2026-09-13_臻鼎57廠與5mm厚板.md
+    https://www.threads.com/share/BAWfcbHBgm
+- 圖片未確認：raw/threads_2026-09-13_輝達估值低於JPM的恐慌訊號.md
+    https://www.threads.com/share/BAVLpMLWzv
 
 ## 斷連結（0）
 
