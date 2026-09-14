@@ -102,6 +102,7 @@ Max KnowledgeBase/
 | `python3 tools/capture.py --shot <圖片…> --note "說明" [--source 網址]` | 截圖進 raw/，**可一次多張**（IG 輪播、X、限動、付費內容走這條） |
 | `python3 tools/fetch_market.py` | 抓月營收、估值、毛利率、新聞（每天 18:30 自動跑） |
 | `python3 tools/fetch_media.py` | **補回 Threads/IG 貼文的圖片**（每天 18:30 自動跑）。重讀原貼文、抓主文圖片、存成 `raw/shot_*.md` + `raw/assets/`。`--dry-run` 只看不寫 |
+| `bash tools/read_shots.sh [篇數]` | **讀圖層**：叫 `claude -p` 打開 shot_ 檔的圖、把數字抄成表格寫進「## 內容」。沒有待讀圖就不啟動（不燒 token），預設一次 8 篇 |
 | `python3 tools/backfill_revenue.py --months 12` | 從 MOPS 回補歷史月營收（一次性，已補 12 個月） |
 | `python3 tools/build_pages.py` | 用資料更新公司頁與環節頁 |
 | `python3 tools/health_check.py` | 資料健檢，寫 health.md 並推 Telegram |

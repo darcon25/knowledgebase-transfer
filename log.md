@@ -721,3 +721,40 @@ Goldman Sachs 伺服器模型（NVL72 2028 占比 51%）、J.P. Morgan ODM 矩�
 
 **健檢**：`圖片未確認` 45 → **0**。另修掉 companion 檔造成的「重複存檔」誤報 36 筆
 （shot_ 檔與原筆記共用 original_url 是設計如此）。目前 40 項，其中 39 項是新 shot_ 檔尚未消化進 wiki/。
+
+## [2026-09-14] update | n8n 修好了，並補上缺的「讀圖層」
+
+**n8n 檢查結果**：08-30 建議的修法一早就套用了（`maxOutputTokens: 8192` + `thinkingBudget: 0`），
+截斷已修。但漏圖的根因比早上判斷的**更前面一步**——
+
+`Jina Reader` 節點設了 `X-Return-Format: text`，等於明確叫 Jina 不要回 markdown。
+實測同一則貼文：不帶 header 回 35,169 bytes、41 個圖片語法；帶這個 header 回 5,132 bytes、**0 個**。
+**圖片網址在 Jina 那端就被拿掉了，根本沒進到 n8n**，不是 Build Markdown 丟的。一個 header 的事。
+
+順便發現兩個沒注意到的：`Prepare Gemini Prompt` 有第二個截斷點（輸入端 `substring(0, 6000)`，
+就算輸出額度給到 8192 也沒用）；`Check Result` 只看 GitHub 成功與否，Gemini 失敗時會存下空殼檔卻回 ✅。
+
+**修正版已匯入並上線**（使用者當場測一篇，15:23 存檔成功）：
+Jina 改 markdown + timeout 45s／Gemini 輸入洗雜訊且上限拉到 12000／
+Build Markdown 寫 `media_count` 與 `media_urls`、原文一律存檔、截斷與無摘要標 status／
+Check Result 回報截斷、無摘要、圖片張數。
+驗證：n8n 記的圖片 ID 與本機 fetch_media 抓的**完全一致**（`809235334_17904109119486338`）。
+
+**新增讀圖層 `tools/read_shots.sh`**。使用者問「圖的內容會在下載時才補上嗎」——答案是不會，
+`fetch_media.py` 只負責下載，「## 內容」一直是佔位符。今天那 37 篇是在對話裡一張一張讀的，不是自動的。
+很多貼文的重點整個在圖裡（法說圖卡、投行表格），圖抓回來沒人讀等於沒補。
+這支腳本掃 `status: 待讀圖` → 叫 `claude -p` 實際 Read 圖片 → 把數字抄成表格寫進「## 內容」。
+沒有待讀就不啟動。已插進 `daily.sh` 的 **fetch_media 之後、auto_ingest 之前**（順序很重要）。
+
+**首跑抓到一個既有的真 bug**：`shot_2026-08-30`／`08-31` 那四張舊截圖的嵌入連結**全是壞的**——
+有人把 assets 改成主題命名（`shot_2026-08-30_十大封裝技術總表.jpg`），
+但沒更新筆記裡的 `![[shot_2026-08-30_01.jpg]]`，Obsidian 裡一片空白。已修好四條。
+
+**健檢補兩條規則**（這才是系統性的修法，不然還會再犯）：
+`圖片連結壞掉`（`![[]]` 與 frontmatter `image:` 指向不存在的檔）、
+`圖片尚未判讀`（shot_ 檔還是 `status: 待讀圖`）。
+另修掉新版原文區塊造成的截斷誤報（結尾是 ``` 會被當成斷句），改為優先採信
+n8n 回報的 `status: 摘要被截斷`，比猜標點可靠。
+
+**目前健檢 42 項**：重複存檔 1、尚未消化 41，其餘全 0。
+那 41 項是 37 個新 shot_ 檔加新進的原始筆記，等 auto_ingest 消化進 wiki/。

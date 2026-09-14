@@ -81,8 +81,17 @@ def check_truncated() -> list:
             # YouTube 逐字稿沒有標點、網頁剪存結尾是 HTML，套同一條規則會誤報。
             if not re.search(r"^platform:\s*(threads|instagram)\s*$", text[:600], re.M):
                 continue
-            body = text.split("## 相關頁面")[0]
+            # n8n 2026-09-14 改版後，筆記尾端多了「## 原文（Jina Reader）」的 ``` 區塊，
+            # 直接看最後一行會抓到 ``` 而誤判截斷。摘要在原文區塊之前，從那裡切開。
+            body = text.split("## 原文")[0]
+            body = body.split("## 主文圖片")[0]
+            body = body.split("## 相關頁面")[0]
             body = body.split("---", 2)[-1]
+
+            # 新版 frontmatter 會直接標記，比猜標點可靠
+            if re.search(r"^status:\s*摘要被截斷\s*$", text[:1500], re.M):
+                out.append(f"內容截斷：{folder}/{f.name}（n8n 回報 finishReason=MAX_TOKENS）")
+                continue
             lines = [l.strip() for l in body.splitlines() if l.strip()]
             if not lines:
                 continue
@@ -99,6 +108,36 @@ def check_truncated() -> list:
 # 十大封裝技術那篇就是這樣漏掉的。
 MEDIA_HINTS = ("一張圖", "如下圖", "這張圖", "這張表", "附圖", "見圖", "下圖",
                "整理了一張", "如圖", "圖表", "輪播", "第一張", "如下表")
+
+
+def check_broken_embeds() -> list:
+    """![[圖片]] 指向不存在的檔案。
+
+    2026-09-14 發現四張舊截圖全是壞的：有人把 assets 改成主題命名，
+    但沒更新筆記裡的嵌入，Obsidian 裡一片空白，而健檢當時偵測不到。
+    圖是這個知識庫最貴的資料，壞了要立刻知道。
+    """
+    out = []
+    for f in sorted((KB / "raw").glob("*.md")):
+        text = f.read_text(encoding="utf-8", errors="ignore")
+        for name in re.findall(r"!\[\[([^\]]+)\]\]", text):
+            name = name.split("|")[0].strip()
+            if not (KB / "raw" / "assets" / name).exists():
+                out.append(f"圖片連結壞掉：raw/{f.name} → assets/{name} 不存在")
+        m = re.search(r"^image:\s*assets/(.+)$", text[:800], re.M)
+        if m and not (KB / "raw" / "assets" / m.group(1).strip()).exists():
+            out.append(f"frontmatter image 壞掉：raw/{f.name} → assets/{m.group(1).strip()} 不存在")
+    return out
+
+
+def check_unread_shots() -> list:
+    """圖抓回來了但沒人讀——等於沒補。由 tools/read_shots.sh 處理。"""
+    out = []
+    for f in sorted((KB / "raw").glob("shot_*.md")):
+        text = f.read_text(encoding="utf-8", errors="ignore")
+        if re.search(r"^status:\s*待讀圖\s*$", text[:1500], re.M) or "（待讀圖後填寫）" in text:
+            out.append(f"圖片尚未判讀：raw/{f.name}")
+    return out
 
 
 def check_missing_media() -> list:
@@ -203,6 +242,8 @@ def collect() -> list:
         ("尚未消化", check_uningested()),
         ("疑似截斷", check_truncated()),
         ("圖片未確認", check_missing_media()),
+        ("圖片連結壞掉", check_broken_embeds()),
+        ("圖片尚未判讀", check_unread_shots()),
         ("斷連結", dead),
         ("孤島頁", orphans),
         ("數字不符", check_numbers()),

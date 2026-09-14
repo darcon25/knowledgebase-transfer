@@ -210,6 +210,7 @@
   },
   "active": "3886668973ea98a2",
   "lastOpenFiles": [
+    "tools/read_shots.sh",
     "raw/shot_2026-09-14_3wvehs4j.md",
     "raw/assets/threads_2026-09-14_3wvehs4j_01.jpg",
     "raw/threads_2026-09-14_3wvehs4j.md",
@@ -245,7 +246,6 @@
     "raw/shot_2026-09-14_金像電晶技力積電營運展望.md",
     "raw/shot_2026-09-14_載板家族變動與ABF預告.md",
     "raw/shot_2026-09-14_聯茂伺服器CCL營運展望.md",
-    "raw/shot_2026-09-14_CPX轉HBM4與CoWoS受惠.md",
     "tools/fetch_media.py",
     "data/news/2026-09-11.json",
     "data/valuation/2026-09-11.json",
