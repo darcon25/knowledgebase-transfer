@@ -67,6 +67,16 @@ def normalize_url(url: str) -> str:
     return url
 
 
+def expected_min(url: str) -> int:
+    """IG 網址裡的 img_index=N 代表使用者當初看到第 N 張，所以輪播至少有 N 張。
+
+    登出狀態的 IG 只吐得出前一兩張，這個數字是唯一能自動察覺「抓不齊」的線索。
+    Threads 沒有這個參數，但實測它會把整組輪播都放進 HTML，抓得齊。
+    """
+    m = re.search(r"[?&]img_index=(\d+)", url)
+    return int(m.group(1)) if m else 0
+
+
 def is_profile_pic(alt: str, url: str) -> bool:
     """IG CDN 慣例：路徑含 `-19` 的是大頭貼，`-15` 才是貼文本體的圖／影片縮圖。"""
     if alt and "profile picture" in alt:
@@ -159,7 +169,7 @@ def companion_path(src: Path, day: str) -> Path:
     return base
 
 
-def write_companion(src: Path, url: str, files: list, day: str) -> Path:
+def write_companion(src: Path, url: str, files: list, day: str, want: int = 0) -> Path:
     """把圖片寫成獨立的 shot_ 檔，原筆記一個字都不動。"""
     out = companion_path(src, day)
     embeds = []
@@ -178,6 +188,7 @@ date_captured: {day}
 image: assets/{files[0][0].name}
 original_url: "{url}"
 image_count: {len(files)}
+expected_min: {want or len(files)}
 captured_by: fetch_media
 source_note: "{src.name}"
 status: 待讀圖
@@ -189,7 +200,11 @@ status: 待讀圖
 > 對應筆記：[[{src.stem}]]
 
 **取得方式**：`tools/fetch_media.py` 從 Jina Reader 回傳的 markdown 取出主文圖片網址並下載。
-n8n 管道把這些網址丟掉了，所以由本機補。
+n8n 管道把這些網址丟掉了，所以由本機補。""" + (
+        f"\n\n⚠️ **這組輪播沒抓齊**：原網址的 `img_index={want}` 顯示至少有 {want} 張，這裡只有 {len(files)} 張。\n"
+        "登出狀態的 IG 只吐得出前一兩張，其餘要用已登入的 Chrome 開貼文逐張補。"
+        if want > len(files) else ""
+    ) + """
 
 ## 圖片
 
@@ -225,6 +240,7 @@ def main() -> int:
     got_images = 0
     no_images = 0
     failed = []
+    incomplete = []
     results = {}
 
     for path in note_candidates(args.file):
@@ -276,7 +292,12 @@ def main() -> int:
                 log(f"      ❌ 第 {i} 張下載失敗：{e}")
         if saved:
             got_images += 1
-            comp = write_companion(path, url, saved, today)
+            want = expected_min(url)
+            if want > len(saved):
+                short = f"網址顯示至少 {want} 張，只抓到 {len(saved)} 張"
+                log(f"      ⚠️ {short}（IG 輪播登出看不到後面幾張，需走 Chrome 補救）")
+                incomplete.append((path.name, short))
+            comp = write_companion(path, url, saved, today, want)
             log(f"      📝 {comp.name}")
             kinds = "、".join("影片封面" if v else "圖" for _, v in saved)
             results[f"raw/{path.name}"] = (
@@ -292,6 +313,10 @@ def main() -> int:
     log(f"處理 {done} 篇：補到圖 {got_images} 篇、確認沒圖 {no_images} 篇、失敗 {len(failed)} 篇")
     for name, why in failed:
         log(f"  ❌ {name}：{why}")
+    if incomplete:
+        log(f"\n⚠️ 以下 {len(incomplete)} 篇是 IG 輪播，沒抓齊（要用已登入的 Chrome 補）：")
+        for name, why in incomplete:
+            log(f"  · {name}：{why}")
     return 0
 
 
