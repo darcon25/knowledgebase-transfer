@@ -1,0 +1,29 @@
+---
+tags:
+  - source
+  - screenshot
+type: screenshot
+date_captured: 2026-09-14
+image: assets/threads_2026-09-14_vtuypwd8_01.webp
+original_url: "https://www.threads.com/share/BAWtWRBFvr"
+image_count: 1
+captured_by: fetch_media
+source_note: "threads_2026-09-14_vtuypwd8.md"
+status: 待讀圖
+---
+
+# 📸 原貼文圖片 2026-09-14 — threads_2026-09-14_vtuypwd8
+
+> 原始出處：https://www.threads.com/share/BAWtWRBFvr
+> 對應筆記：[[threads_2026-09-14_vtuypwd8]]
+
+**取得方式**：`tools/fetch_media.py` 從 Jina Reader 回傳的 markdown 取出主文圖片網址並下載。
+n8n 管道把這些網址丟掉了，所以由本機補。
+
+## 圖片
+
+![[threads_2026-09-14_vtuypwd8_01.webp]]
+
+## 內容
+
+（待讀圖後填寫）
