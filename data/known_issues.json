@@ -1,5 +1,5 @@
 {
-  "note": "已經處理過或已決定不處理的問題，健檢會略過但仍統計數量。新增時請寫原因。truncation_accepted = 截斷已處理；media_checked = 圖片已確認（補了或確認沒圖）。",
+  "note": "已經處理過或已決定不處理的問題，健檢會略過但仍統計數量。新增時請寫原因。truncation_accepted = 截斷已處理；media_checked = 圖片已確認（補了或確認沒圖）。 duplicate_accepted = 已確認的重複存檔。",
   "truncation_accepted": {
     "raw/threads_2026-05-27_桃機P4停車攻略.md": "2026-08-30 已重抓補齊，完整內容在 wiki/topics/旅遊與生活.md",
     "raw/threads_2026-04-28_Claude-Design功能整理.md": "2026-08-30 重抓確認與既有摘要一致，無資訊損失",
@@ -73,5 +73,8 @@
     "raw/threads_2026-09-13_臻鼎57廠與5mm厚板.md": "2026-09-14 fetch_media 自動補齊 1 張（影片封面），見 raw/shot_2026-09-14_臻鼎57廠與5mm厚板.md",
     "raw/threads_2026-09-13_輝達估值低於JPM的恐慌訊號.md": "2026-09-14 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-09-14_輝達估值低於JPM的恐慌訊號.md",
     "raw/threads_2026-09-14_3wvehs4j.md": "2026-09-14 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-09-14_3wvehs4j.md"
+  },
+  "duplicate_accepted": {
+    "https://www.threads.com/share/BAWtWRBFvr": "2026-09-14 同一則貼文（FOMO 研究院光模組）被傳了兩次，n8n 各存一份：raw/threads_2026-09-14_vtuypwd8.md（已補圖並消化）與 raw/threads_2026-09-14_pwhwol1r.md（純重複）。依 raw/ 唯讀原則不刪除，以 vtuypwd8 為主。"
   }
 }

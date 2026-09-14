@@ -45,8 +45,10 @@ def check_duplicates() -> list:
             m = re.search(r'^(?:source|original_url):\s*"?([^"\n]+)"?', head, re.M)
             if m:
                 by_url[m.group(1).strip()].append(f"{folder}/{f.name}")
+    accepted = (load_json(DATA / "known_issues.json") or {}).get("duplicate_accepted", {})
     return [f"重複存檔：{url}\n    → " + "\n    → ".join(files)
-            for url, files in by_url.items() if len(files) > 1]
+            for url, files in by_url.items()
+            if len(files) > 1 and url not in accepted]
 
 
 def check_uningested() -> list:
@@ -178,11 +180,19 @@ def check_missing_media() -> list:
 def check_links() -> tuple:
     # health.md 可以被連結，但不掃它的內容——報告裡的問題文字會自我汙染
     pages = {p.stem: p for p in WIKI.rglob("*.md")}
+
+    # Obsidian 是跨整個 vault 解析 [[連結]] 的，wiki/ 連到 raw/ 的截圖檔完全有效。
+    # 2026-09-14 以前只掃 wiki/，導致 [[shot_*]] 一律被誤報成斷連結。
+    # 這些只當「合法的連結目標」，不納入孤島頁判斷（raw/ 不需要被連進來）。
+    link_targets = dict(pages)
+    for folder in ("raw", "Clippings"):
+        for f in (KB / folder).glob("*.md"):
+            link_targets.setdefault(f.stem, f)
     dead, incoming = [], defaultdict(int)
     for path in (p for p in pages.values() if p.name != "health.md"):
         for target in LINK_RE.findall(path.read_text(encoding="utf-8", errors="ignore")):
             target = target.strip().split("/")[-1]
-            if target in pages:
+            if target in link_targets:
                 incoming[target] += 1
             elif target:
                 dead.append(f"斷連結：{path.relative_to(KB)} → [[{target}]]")
