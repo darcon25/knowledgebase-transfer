@@ -4,13 +4,13 @@ tags:
   - screenshot
 type: screenshot
 date_captured: 2026-09-14
-image: assets/instagram_2026-08-31_GoogleTPU受惠族群檢驗_01.png
+image: assets/instagram_2026-08-31_GoogleTPU受惠族群檢驗_01.jpg
 original_url: "https://www.instagram.com/p/Dcr9yYOimcX/?img_index=7&igsi=eHZxM2t3aGliZGJm"
-image_count: 2
-expected_min: 7
+image_count: 8
+expected_min: 8
 captured_by: fetch_media
 source_note: "instagram_2026-08-31_GoogleTPU受惠族群檢驗.md"
-status: 已讀圖
+status: 待讀圖
 ---
 
 # 📸 原貼文圖片 2026-09-14 — instagram_2026-08-31_GoogleTPU受惠族群檢驗
@@ -21,14 +21,25 @@ status: 已讀圖
 **取得方式**：`tools/fetch_media.py` 從 Jina Reader 回傳的 markdown 取出主文圖片網址並下載。
 n8n 管道把這些網址丟掉了，所以由本機補。
 
-⚠️ **這組輪播沒抓齊**：原網址的 `img_index=7` 顯示至少有 7 張，這裡只有 2 張。
-登出狀態的 IG 只吐得出前一兩張，其餘要用已登入的 Chrome 開貼文逐張補。
+✅ **2026-09-14 已用已登入的 Chrome 補齊全部 8 張**（`tools/grab_carousel.sh`）。原本登出狀態只抓得到前一兩張。
 
 ## 圖片
 
-![[instagram_2026-08-31_GoogleTPU受惠族群檢驗_01.png]]
+![[instagram_2026-08-31_GoogleTPU受惠族群檢驗_01.jpg]]
 
-![[instagram_2026-08-31_GoogleTPU受惠族群檢驗_02.png]]
+![[instagram_2026-08-31_GoogleTPU受惠族群檢驗_02.jpg]]
+
+![[instagram_2026-08-31_GoogleTPU受惠族群檢驗_03.jpg]]
+
+![[instagram_2026-08-31_GoogleTPU受惠族群檢驗_04.jpg]]
+
+![[instagram_2026-08-31_GoogleTPU受惠族群檢驗_05.jpg]]
+
+![[instagram_2026-08-31_GoogleTPU受惠族群檢驗_06.jpg]]
+
+![[instagram_2026-08-31_GoogleTPU受惠族群檢驗_07.jpg]]
+
+![[instagram_2026-08-31_GoogleTPU受惠族群檢驗_08.jpg]]
 
 ## 內容
 
