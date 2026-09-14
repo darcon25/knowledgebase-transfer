@@ -106,6 +106,7 @@ Max KnowledgeBase/
 | `python3 tools/capture.py --shot <圖片…> --note "說明" [--source 網址]` | 截圖進 raw/，**可一次多張**（IG 輪播、X、限動、付費內容走這條） |
 | `python3 tools/fetch_market.py` | 抓月營收、估值、毛利率、新聞（每天 18:30 自動跑） |
 | `python3 tools/fetch_media.py` | **補回 Threads/IG 貼文的圖片**（每天 18:30 自動跑）。重讀原貼文、抓主文圖片、存成 `raw/shot_*.md` + `raw/assets/`。`--dry-run` 只看不寫 |
+| `bash tools/grab_carousel.sh <IG網址> <前綴>` | **抓 IG 輪播完整圖片**（登出只看得到前一兩張）。需兩道鎖：系統設定→自動化→終端機→勾 Chrome；Chrome→檢視→開發人員→**允許 Apple 事件的 JavaScript**（用完建議關掉）|
 | `bash tools/catchup.sh` | **補讀機制**：每 2 小時自動跑。git pull → 補圖 → 讀圖，冪等且安靜；同一篇連續失敗 3 次才推播 |
 | `bash tools/read_shots.sh [篇數]` | **讀圖層**：叫 `claude -p` 打開 shot_ 檔的圖、把數字抄成表格寫進「## 內容」。沒有待讀圖就不啟動（不燒 token），預設一次 8 篇 |
 | `python3 tools/backfill_revenue.py --months 12` | 從 MOPS 回補歷史月營收（一次性，已補 12 個月） |

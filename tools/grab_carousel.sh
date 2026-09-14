@@ -19,22 +19,38 @@ URL="${1:?請給 IG 貼文網址}"
 PREFIX="${2:?請給存檔前綴（不含編號與副檔名）}"
 MAX_SLIDES="${3:-20}"
 
+WID=""          # 目標視窗 id，開好之後填入
+
 js() {
+  # ⚠️ 用視窗 id 鎖定，不能用 front window：
+  #    使用者在抓取途中切到別的視窗，front window 就會指到錯的地方（2026-09-14 踩過）。
   osascript -e "with timeout of 40 seconds
 tell application \"Google Chrome\"
-  return execute front window's active tab javascript \"$1\"
+  return execute active tab of (first window whose id is $WID) javascript \"$1\"
 end tell
 end timeout" 2>&1 | head -5
 }
 
 echo "▶ 開新視窗載入：$URL"
-osascript -e "with timeout of 30 seconds
+WID=$(osascript -e "with timeout of 30 seconds
 tell application \"Google Chrome\"
   set w to make new window
   set URL of active tab of w to \"$URL\"
+  return id of w
 end tell
-end timeout" >/dev/null 2>&1
-sleep 8
+end timeout" 2>&1 | tr -d '\n')
+echo "   視窗 id=$WID"
+
+# 等到網址真的變成目標貼文為止，不要盲目 sleep
+for _ in $(seq 1 8); do
+  sleep 4
+  CUR=$(osascript -e "tell application \"Google Chrome\" to return URL of active tab of (first window whose id is $WID)" 2>&1)
+  case "$CUR" in *instagram.com/p/*) break;; esac
+done
+case "$CUR" in
+  *instagram.com/p/*) echo "   已載入" ;;
+  *) echo "❌ 頁面沒載入成功（目前是 $CUR）"; exit 1 ;;
+esac
 
 if js "document.title" | grep -qi "error\|未獲授權\|已關閉"; then
     echo "❌ 無法執行 JavaScript，請確認上面兩道鎖都開了"; exit 1
@@ -90,14 +106,16 @@ if [ "$DOTS" -gt 0 ] 2>/dev/null && [ "$TOTAL" -lt "$DOTS" ] 2>/dev/null; then
 fi
 
 TMP=$(mktemp)
+# ⚠️ 這裡**不可以**接 head：網址清單有幾張就是幾行，截斷了不會有任何錯誤訊息
 osascript -e "with timeout of 40 seconds
 tell application \"Google Chrome\"
-  return execute front window's active tab javascript \"window.__kb.join(String.fromCharCode(10))\"
+  return execute active tab of (first window whose id is $WID) javascript \"window.__kb.join(String.fromCharCode(10))\"
 end tell
 end timeout" > "$TMP" 2>&1
 
 n=1
-while read -r u; do
+# `|| [ -n "$u" ]` 是為了讀到最後一行沒有換行字元的情況
+while IFS= read -r u || [ -n "$u" ]; do
   [ -z "$u" ] && continue
   f=$(printf "%s/raw/assets/%s_%02d.jpg" "$KB" "$PREFIX" "$n")
   code=$(curl -s -m 60 -o "$f" -w "%{http_code}" "$u")
@@ -107,5 +125,10 @@ done < "$TMP"
 rm -f "$TMP"
 
 # 抓完就關掉這個視窗，不留在使用者的分頁堆裡
-osascript -e 'tell application "Google Chrome" to close front window' >/dev/null 2>&1
-echo "✅ 完成，共 $((n-1)) 張"
+osascript -e "tell application \"Google Chrome\" to close (first window whose id is $WID)" >/dev/null 2>&1
+GOT=$((n-1))
+echo "✅ 完成，共 $GOT 張"
+if [ "$DOTS" -gt 0 ] 2>/dev/null && [ "$GOT" -lt "$DOTS" ] 2>/dev/null; then
+  echo "⚠️ 只抓到 $GOT 張但圓點有 $DOTS 格，請重跑"
+  exit 2
+fi
