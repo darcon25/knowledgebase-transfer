@@ -12,6 +12,13 @@
 #   - 一次最多處理 MAX_BATCH 篇，避免單次跑太久或爆量
 cd "/Users/mmfamily/Max KnowledgeBase" || exit 1
 
+# ⚠️ 地雷：claude CLI 的憑證存在 macOS Keychain，**沒有 USER 環境變數就讀不到**，
+# 會回「OAuth session expired and could not be refreshed」而整個消化階段靜默失敗。
+# launchd 的環境很乾淨，不能假設有這個變數。2026-09-14 實測確認。
+export USER="${USER:-$(id -un)}"
+export LOGNAME="${LOGNAME:-$USER}"
+
+
 MAX_BATCH="${1:-8}"
 
 PY=""

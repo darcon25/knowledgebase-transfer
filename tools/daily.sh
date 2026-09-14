@@ -3,6 +3,13 @@
 # 由 launchd 排程呼叫，也可以手動執行
 cd "/Users/mmfamily/Max KnowledgeBase" || exit 1
 
+# ⚠️ 地雷：claude CLI 的憑證存在 macOS Keychain，**沒有 USER 環境變數就讀不到**，
+# 會回「OAuth session expired and could not be refreshed」而整個消化階段靜默失敗。
+# launchd 的環境很乾淨，不能假設有這個變數。2026-09-14 實測確認。
+export USER="${USER:-$(id -un)}"
+export LOGNAME="${LOGNAME:-$USER}"
+
+
 # ⚠️ 一定要用絕對路徑。launchd 的 PATH 很乾淨，python3 會指到 Apple 內建版本，
 # 那個版本沒有 requests，2026-08-28～30 的排程就是這樣連續失敗三天沒人知道。
 PY=""
@@ -38,6 +45,16 @@ if [ -z "$PY" ]; then
     echo "❌ 找不到裝有 requests 的 python3"
     alert "🚨 知識庫排程失敗：找不到裝有 requests 的 python3，今天沒有更新。"
     exit 1
+fi
+
+# ⚠️ 一定要先拉。github-sync 是 Obsidian 外掛，**Obsidian 沒開就不會同步**，
+# n8n 存進 GitHub 的新檔在本機根本不存在，後面的補圖與消化全都會漏掉。
+echo "----- git pull -----"
+if git -C "/Users/mmfamily/Max KnowledgeBase" pull --ff-only 2>&1; then
+    echo "✅ 已同步遠端"
+else
+    echo "⚠️ git pull 失敗，繼續用本機現有檔案（可能漏掉 n8n 新存的）"
+    alert "⚠️ 知識庫 git pull 失敗，今天的補圖／消化可能漏掉 n8n 新存的檔案。"
 fi
 
 echo "===== $(date '+%Y-%m-%d %H:%M:%S') 每日更新開始（$PY）====="

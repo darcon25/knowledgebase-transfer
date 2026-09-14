@@ -8,6 +8,13 @@
 #   - 寫入的內容一律標 🤖 與日期，方便事後辨識與稽核
 cd "/Users/mmfamily/Max KnowledgeBase" || exit 1
 
+# ⚠️ 地雷：claude CLI 的憑證存在 macOS Keychain，**沒有 USER 環境變數就讀不到**，
+# 會回「OAuth session expired and could not be refreshed」而整個消化階段靜默失敗。
+# launchd 的環境很乾淨，不能假設有這個變數。2026-09-14 實測確認。
+export USER="${USER:-$(id -un)}"
+export LOGNAME="${LOGNAME:-$USER}"
+
+
 PY=""
 for c in /Library/Frameworks/Python.framework/Versions/3.14/bin/python3 \
          /opt/homebrew/bin/python3 /usr/local/bin/python3 /usr/bin/python3; do

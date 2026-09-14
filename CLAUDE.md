@@ -23,6 +23,7 @@
 | `com.max.knowledgebase.daily` | 每天 18:30 | 抓數字 → 建頁 → 統整變化 → **自動消化新資料** → 健檢推播 |
 | `com.max.knowledgebase.boot` | 每次開機 | 等網路 → git pull → 健檢 → 有待處理才通知 |
 | `com.max.knowledgebase.commands` | 每 5 分鐘 | 讀 `data/commands/` 的 Telegram 遙控指令 |
+| `com.max.knowledgebase.catchup` | **每 2 小時** | git pull → 補圖 → 讀圖。18:30 那次漏掉的，當天還有多次機會補 |
 
 ### 刻意不自動化的部分
 
@@ -39,6 +40,9 @@
 | `maxOutputTokens: 1500` | 15 篇有 10 篇斷尾 | 改 8192 + `thinkingBudget: 0` |
 | 櫃買 TWCA 憑證 | Python 拒絕連線 | curl 備援（憑證仍有驗證） |
 | notify 印出完整 token | 金鑰外流到 log | 只印 HTTP 狀態碼 |
+| **launchd 沒有 `USER` 變數** | `claude -p` 讀不到 Keychain 憑證，回「OAuth session expired」，**自動消化與讀圖整段靜默失敗** | 三支呼叫 claude 的腳本開頭都 `export USER="${USER:-$(id -un)}"` |
+| **daily.sh 沒有 git pull** | github-sync 是 Obsidian 外掛，**Obsidian 沒開就不同步**，n8n 存的新檔本機根本沒有 | daily.sh 與 catchup.sh 開頭都先 `git pull --ff-only` |
+| Jina 回錯誤頁被當成「沒有圖」 | 暫時性失敗被永久記進 known_issues，再也不重試 | 解析不到大頭貼就判定為抓取失敗（丟 LookupError），下次重試 |
 | vault 沒有 `.gitignore` | `.env` 會被自動推上 GitHub | 已補，**不要拿掉** |
 
 **共同教訓**：終端機測得過 ≠ 排程跑得動。用
@@ -102,6 +106,7 @@ Max KnowledgeBase/
 | `python3 tools/capture.py --shot <圖片…> --note "說明" [--source 網址]` | 截圖進 raw/，**可一次多張**（IG 輪播、X、限動、付費內容走這條） |
 | `python3 tools/fetch_market.py` | 抓月營收、估值、毛利率、新聞（每天 18:30 自動跑） |
 | `python3 tools/fetch_media.py` | **補回 Threads/IG 貼文的圖片**（每天 18:30 自動跑）。重讀原貼文、抓主文圖片、存成 `raw/shot_*.md` + `raw/assets/`。`--dry-run` 只看不寫 |
+| `bash tools/catchup.sh` | **補讀機制**：每 2 小時自動跑。git pull → 補圖 → 讀圖，冪等且安靜；同一篇連續失敗 3 次才推播 |
 | `bash tools/read_shots.sh [篇數]` | **讀圖層**：叫 `claude -p` 打開 shot_ 檔的圖、把數字抄成表格寫進「## 內容」。沒有待讀圖就不啟動（不燒 token），預設一次 8 篇 |
 | `python3 tools/backfill_revenue.py --months 12` | 從 MOPS 回補歷史月營收（一次性，已補 12 個月） |
 | `python3 tools/build_pages.py` | 用資料更新公司頁與環節頁 |

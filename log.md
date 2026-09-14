@@ -795,3 +795,48 @@ n8n 回報的 `status: 摘要被截斷`，比猜標點可靠。
 
 ⚠️ 仍待補：四篇 IG 輪播沒抓齊（台股散熱 1/5 最關鍵，六家公司內容全缺）、
 玻璃核心（glass core）完全沒資料、十餘家這次扮演要角的公司不在觀察名單。清單見 [[待補資料清單]]。
+
+## [2026-09-14] update | 稽核自動讀圖機制，抓到四個會漏的洞並全部修掉
+
+使用者要求「確認每天的自動讀圖機制不會漏掉」。**沒有直接宣稱沒問題，而是逐項實測失效情境**，
+結果四個都會漏，其中兩個是靜默失敗（不會有任何告警）。
+
+### 洞 1｜daily.sh 沒有 git pull（靜默）
+github-sync 是 **Obsidian 外掛**，**Obsidian 沒開就不會同步**。n8n 已經把新檔推到 GitHub，
+但本機根本沒有那個檔，18:30 跑的時候完全看不到，整篇漏掉且不會報錯。
+→ daily.sh 與新的 catchup.sh 開頭都先 `git pull --ff-only`，失敗會告警。
+**實測當場就證實了**：加上之後立刻拉到一篇本機沒有的 `threads_2026-09-14_k114whdv.md`。
+
+### 洞 2｜n8n 的 media_count 沒人拿來比對（靜默）
+09-14 上午改好的 n8n 已經在寫 `media_count`，但**沒有任何程式讀它**。
+IG 輪播抓不齊（宣告 3 張只抓到 1 張）不會有人發現。
+→ 健檢新增 `圖片張數對不上`：比對原始筆記宣告的張數與 shot_ 檔實際的 `![[]]` 數量。
+**用假資料實測過**：把 media_count 改成 4（實際 1 張），健檢正確報出「宣告 4 張，實際只抓到 1 張」。
+
+### 洞 3｜Jina 回錯誤頁會被永久標成「沒有圖」
+`extract_main_media()` 在頁面沒解析成功時回傳空陣列，主流程就記進 `known_issues.media_checked`，
+**之後永遠跳過、再也不重試**。網路抖一下就永久漏掉一篇。
+→ 沒有解析出任何大頭貼 = 這頁沒載入成功，改丟 `LookupError` 當失敗處理。
+實測：餵一個錯誤頁會正確攔截，正常頁仍解析得出主文圖。
+
+### 洞 4｜launchd 沒有 USER 變數，claude CLI 讀不到 Keychain（靜默）
+實跑 daily.sh 時看到 `Failed to authenticate: OAuth session expired and could not be refreshed`。
+逐項隔離後確認：**只要缺 `USER` 環境變數，claude CLI 就讀不到 macOS Keychain 裡的憑證**。
+`HOME+PATH` 失敗，補上 `USER` 立刻成功。
+→ 這代表 **auto_ingest 與 read_shots 在排程裡是整段靜默失敗的**。
+`daily.sh`、`read_shots.sh`、`auto_ingest.sh` 三支開頭都加 `export USER="${USER:-$(id -un)}"`。
+
+**這與 08-31 那次「launchd 的 python3 沒有 requests」是同一類地雷**，已一併寫進 CLAUDE.md 的坑表。
+
+### 新增補讀機制（使用者要求：當天要有多次機會，隔天也要能補）
+`tools/catchup.sh` + launchd `com.max.knowledgebase.catchup`，**每 2 小時**跑一次：
+git pull → 補圖 → 讀圖。設計為**冪等**（做過的自動跳過，重複執行不會做白工也不會重複扣費）、
+**安靜**（沒事不推播）、**輕量**（不跑建頁／統整／消化，那些留給 18:30）。
+
+`tools/fetch_media.py` 新增失敗追蹤 `data/media_retry.json`（記 attempts／last_error／last_try），
+成功就清除。**同一篇連續失敗 3 次才推 Telegram**——避免每兩小時吵一次，但也不會無聲無息卡住。
+
+→ **當天**：18:30 那一次之外，每 2 小時還有一次機會（一天約 12 次）。
+→ **隔天**：待處理項目本來就留著，且洞 3 修好後暫時性失敗不會被永久標記，隔天必定重試。
+
+已實測 launchd 載入成功並執行（`data/catchup.log`）。

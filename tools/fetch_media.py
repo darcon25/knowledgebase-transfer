@@ -24,7 +24,7 @@ import json
 import re
 import sys
 import time
-from datetime import date
+from datetime import date, datetime
 from pathlib import Path
 
 import requests
@@ -95,6 +95,12 @@ def extract_main_media(markdown: str) -> list:
     hits = [(m.start(), m.end(), m.group("alt") or "", m.group("url"))
             for m in IMG_RE.finditer(markdown)]
     profiles = [pos for pos, _, alt, url in hits if is_profile_pic(alt, url)]
+
+    # 沒有任何大頭貼 = 這頁根本沒解析成功（Jina 可能回錯誤頁或內容不全）。
+    # 這種情況**不能**判定為「沒有圖」，否則會被永久記進 known_issues 再也不重試。
+    if not profiles:
+        raise LookupError("頁面沒解析出大頭貼，判定為抓取失敗而非沒有圖")
+
     end = profiles[1] if len(profiles) > 1 else len(markdown)
 
     out, seen = [], set()
@@ -217,6 +223,31 @@ n8n 管道把這些網址丟掉了，所以由本機補。""" + (
     return out
 
 
+RETRY_FILE = "media_retry.json"
+
+
+def load_retry() -> dict:
+    return load_json(DATA / RETRY_FILE) or {}
+
+
+def save_retry(d: dict) -> None:
+    (DATA / RETRY_FILE).write_text(
+        json.dumps(d, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def mark_failed(retry: dict, name: str, why: str) -> int:
+    """記一次失敗並回傳累計次數。沒有這份紀錄就分不出『還沒輪到』與『一直失敗』。"""
+    e = retry.setdefault(f"raw/{name}", {"attempts": 0})
+    e["attempts"] += 1
+    e["last_error"] = why[:200]
+    e["last_try"] = datetime.now().isoformat(timespec="seconds")
+    return e["attempts"]
+
+
+def clear_failed(retry: dict, name: str) -> None:
+    retry.pop(f"raw/{name}", None)
+
+
 def record_checked(results: dict) -> None:
     p = DATA / "known_issues.json"
     d = load_json(p) or {}
@@ -234,6 +265,7 @@ def main() -> int:
 
     ASSETS.mkdir(parents=True, exist_ok=True)
     today = date.today().isoformat()
+    retry = load_retry()
     already = captured_urls()
     checked = (load_json(DATA / "known_issues.json") or {}).get("media_checked", {})
     done = 0
@@ -260,16 +292,27 @@ def main() -> int:
         try:
             md = fetch_markdown(url)
         except Exception as e:
-            log(f"    ❌ 讀不到原貼文：{e}")
-            failed.append((path.name, str(e)[:120]))
+            n = mark_failed(retry, path.name, str(e))
+            log(f"    ❌ 讀不到原貼文（第 {n} 次失敗）：{e}")
+            failed.append((path.name, f"{str(e)[:100]}（累計 {n} 次）"))
             time.sleep(PAUSE)
             continue
 
-        media = extract_main_media(md)
+        try:
+            media = extract_main_media(md)
+        except LookupError as e:
+            # 解析失敗要當成失敗處理，下次會重試；不可記成「沒有圖」
+            n = mark_failed(retry, path.name, str(e))
+            log(f"    ⚠️ 解析失敗（第 {n} 次）：{e}（稍後會再重試）")
+            failed.append((path.name, f"{e}（累計 {n} 次）"))
+            time.sleep(PAUSE)
+            continue
+
         if not media:
             log("    · 主文沒有圖")
             no_images += 1
             if not args.dry_run:
+                clear_failed(retry, path.name)
                 results[f"raw/{path.name}"] = f"{today} fetch_media 自動確認：主文沒有圖"
             time.sleep(PAUSE)
             continue
@@ -292,6 +335,7 @@ def main() -> int:
                 log(f"      ❌ 第 {i} 張下載失敗：{e}")
         if saved:
             got_images += 1
+            clear_failed(retry, path.name)
             want = expected_min(url)
             if want > len(saved):
                 short = f"網址顯示至少 {want} 張，只抓到 {len(saved)} 張"
@@ -303,11 +347,14 @@ def main() -> int:
             results[f"raw/{path.name}"] = (
                 f"{today} fetch_media 自動補齊 {len(saved)} 張（{kinds}），見 raw/{comp.name}")
         else:
-            failed.append((path.name, "圖片全部下載失敗"))
+            n = mark_failed(retry, path.name, "圖片全部下載失敗")
+            failed.append((path.name, f"圖片全部下載失敗（累計 {n} 次）"))
         time.sleep(PAUSE)
 
     if results:
         record_checked(results)
+    if not args.dry_run:
+        save_retry(retry)
 
     log("\n===== 完成 =====")
     log(f"處理 {done} 篇：補到圖 {got_images} 篇、確認沒圖 {no_images} 篇、失敗 {len(failed)} 篇")

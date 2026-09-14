@@ -112,6 +112,44 @@ MEDIA_HINTS = ("一張圖", "如下圖", "這張圖", "這張表", "附圖", "�
                "整理了一張", "如圖", "圖表", "輪播", "第一張", "如下表")
 
 
+def check_media_shortfall() -> list:
+    """n8n 說有幾張圖，本機實際抓到幾張——對不起來就報。
+
+    2026-09-14 起 n8n 的 Build Markdown 會把主文圖片數寫進 frontmatter `media_count`。
+    這是**唯一精準**的漏圖偵測：先前只能用「Threads/IG 沒有對應截圖就列為未確認」的寬鬆規則猜。
+
+    典型會抓到的情況：IG 輪播登出只吐得出前一兩張（Threads 沒這問題）。
+    """
+    out = []
+    # 每篇原始筆記宣告的張數
+    for f in sorted((KB / "raw").glob("*.md")):
+        if f.name.startswith("shot_"):
+            continue
+        text = f.read_text(encoding="utf-8", errors="ignore")
+        m = re.search(r"^media_count:\s*(\d+)\s*$", text[:3000], re.M)
+        if not m:
+            continue                      # 舊檔沒有這個欄位，跳過
+        declared = int(m.group(1))
+        if declared == 0:
+            continue
+        u = re.search(r'^original_url:\s*"?([^"\n]+)"?\s*$', text[:800], re.M)
+        url = u.group(1).split("?")[0] if u else ""
+
+        # 找對應的 shot_ 檔，數它實際有幾張
+        got = None
+        for sf in (KB / "raw").glob("shot_*.md"):
+            st = sf.read_text(encoding="utf-8", errors="ignore")
+            su = re.search(r'original_url:\s*"([^"]+)"', st)
+            if su and su.group(1).split("?")[0] == url:
+                got = len(re.findall(r"^!\[\[", st, re.M))
+                break
+        if got is None:
+            out.append(f"漏圖：raw/{f.name} 宣告 {declared} 張，但完全沒有對應的 shot_ 檔")
+        elif got < declared:
+            out.append(f"漏圖：raw/{f.name} 宣告 {declared} 張，實際只抓到 {got} 張")
+    return out
+
+
 def check_broken_embeds() -> list:
     """![[圖片]] 指向不存在的檔案。
 
@@ -252,6 +290,7 @@ def collect() -> list:
         ("尚未消化", check_uningested()),
         ("疑似截斷", check_truncated()),
         ("圖片未確認", check_missing_media()),
+        ("圖片張數對不上", check_media_shortfall()),
         ("圖片連結壞掉", check_broken_embeds()),
         ("圖片尚未判讀", check_unread_shots()),
         ("斷連結", dead),
