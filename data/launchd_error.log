@@ -29,3 +29,5 @@ Traceback (most recent call last):
     import requests
 ModuleNotFoundError: No module named 'requests'
 curl: (6) Could not resolve host: api.telegram.org
+curl: (6) Could not resolve host: api.telegram.org
+curl: (6) Could not resolve host: api.telegram.org
