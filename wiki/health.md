@@ -1,28 +1,32 @@
 ---
 tags: [health]
-updated: 2026-09-13
+updated: 2026-09-14
 ---
 
 # 知識庫健檢
 
-**檢查時間**：2026-09-13 23:21　**發現問題**：42 項
+**檢查時間**：2026-09-14 12:26　**發現問題**：49 項
 
 > 這頁由 `tools/health_check.py` 每天自動覆寫，只查規則能判定的問題。
 > 需要判讀的（訊號矛盾、摘要失真、論點過期）請叫 kb-auditor 稽核。
 
-## 重複存檔（0）
+## 重複存檔（1）
 
-- ✅ 沒有問題
+- 重複存檔：https://www.threads.com/share/BAWtWRBFvr
+    → raw/threads_2026-09-14_pwhwol1r.md
+    → raw/threads_2026-09-14_vtuypwd8.md
 
-## 尚未消化（0）
+## 尚未消化（3）
 
-- ✅ 沒有問題
+- 尚未消化：raw/threads_2026-09-13_5et7pf9l.md
+- 尚未消化：raw/threads_2026-09-14_pwhwol1r.md
+- 尚未消化：raw/threads_2026-09-14_vtuypwd8.md
 
 ## 疑似截斷（0）
 
 - ✅ 沒有問題
 
-## 圖片未確認（42）
+## 圖片未確認（45）
 
 - 圖片未確認：raw/instagram_2026-08-31_GoogleTPU受惠族群檢驗.md
     https://www.instagram.com/p/Dcr9yYOimcX/
@@ -100,6 +104,8 @@ updated: 2026-09-13
     https://www.threads.com/share/_y-3rfAE5
 - 圖片未確認：raw/threads_2026-09-11_量子供應生態貼文.md
     https://www.threads.com/share/BAW2S2P2-X
+- 圖片未確認：raw/threads_2026-09-13_5et7pf9l.md
+    https://www.threads.com/share/BAQeIsQELu
 - 圖片未確認：raw/threads_2026-09-13_CCL配方護城河與上膠機瓶頸.md
     https://www.threads.com/share/BAQ0yoeoq2
 - 圖片未確認：raw/threads_2026-09-13_QuiverQuantitative追蹤工具.md
@@ -108,6 +114,10 @@ updated: 2026-09-13
     https://www.threads.com/share/BAWfcbHBgm
 - 圖片未確認：raw/threads_2026-09-13_輝達估值低於JPM的恐慌訊號.md
     https://www.threads.com/share/BAVLpMLWzv
+- 圖片未確認：raw/threads_2026-09-14_pwhwol1r.md
+    https://www.threads.com/share/BAWtWRBFvr
+- 圖片未確認：raw/threads_2026-09-14_vtuypwd8.md
+    https://www.threads.com/share/BAWtWRBFvr
 
 ## 斷連結（0）
 
