@@ -1,0 +1,190 @@
+---
+tags:
+  - source
+  - social_media
+  - threads
+type: social_media
+platform: threads
+date_captured: 2026-09-14
+original_url: "https://www.threads.com/share/BAXU8cStqA"
+media_count: 0
+---
+
+# 🧵 2026-09-14 存檔
+
+> 原文：[查看貼文](https://www.threads.com/share/BAXU8cStqA)
+
+## 摘要
+這系列貼文深入探討輝達（NVIDIA）在AI浪潮下的驚人成長與潛在風險。儘管營收和獲利屢創新高，並預期未來仍將大幅成長，但其營收過度集中於少數大型客戶的現象日益明顯，這些大客戶同時也是潛在的AI晶片開發者，對輝達構成長期挑戰。然而，輝達也正積極拓展海外市場和多元客戶群，顯示AI基礎建設的需求正從少數巨頭擴散至更廣泛的市場。
+
+## 重點整理
+*   **營收集中度飆升與潛在風險：** 輝達上半年有三家客戶貢獻超過44%營收，且應收帳款高度集中，付款期限拉長，顯示對大客戶依賴度高，存在客戶自研晶片導致依賴度降低的風險。
+*   **AI資料中心需求大爆發：** AI資料中心營收從150億美元飆升至1937億美元，且預計將持續翻倍成長，是輝達營收成長的主要驅動力。
+*   **驚人的成長預期：** 輝達財務長預估下個會計年度營收將成長70%，遠高於市場預期，顯示公司對未來AI市場的強烈信心，並可能超越蘋果和Google的營收規模。
+*   **客戶結構多元化趨勢：** 儘管目前客戶集中，但黃仁勳指出AI基礎建設的商機正在擴大，除了大型科技公司，區域型AI公司、雲端業者、新創公司、企業與各國主權AI需求也開始加入，顯示市場正在從少數大客戶向更廣泛的市場擴散。
+*   **資金流向與基礎建設：** 貼文強調，企業願意投入巨資購買算力，是因為AI背後的基礎建設成為兵家必爭之地，理解資金流向比預測股價漲跌更為重要。
+
+## 關鍵概念
+*   **營收集中度 (Revenue Concentration)：** 指一家公司的營收過度依賴少數客戶的現象，可能帶來風險。
+*   **AI資料中心 (AI Data Center)：** 專為支援人工智慧運算而設計的資料中心，是AI發展的基礎設施。
+*   **算力 (Compute Power)：** 進行計算和處理數據的能力，是AI模型訓練和運行的核心資源。
+*   **AI基礎建設 (AI Infrastructure)：** 支援AI系統運作所需的硬體、軟體、網路和資料中心等基礎設施。
+*   **營收分潤 (Revenue Sharing)：** 一種商業模式，供應商除了銷售產品外，還從客戶後續的營運收入中抽取分成。
+*   **主權AI (Sovereign AI)：** 指國家或地區為確保自身在AI領域的自主性、安全性和競爭力而發展的AI能力和基礎設施。
+
+## 可行動洞察
+*   **深入研究輝達的客戶結構變化：** 持續追蹤輝達未來財報中客戶營收集中度的變化，以及新興市場和多元客戶群的成長數據，以評估其去風險化的成效。
+*   **關注AI基礎建設供應鏈：** 輝達的成長凸顯AI基礎建設的重要性，可進一步研究整個AI供應鏈中其他關鍵參與者，如記憶體、散熱、網路設備等，尋找潛在投資機會。
+*   **分析大型科技公司自研晶片進度：** 密切關注微軟、Meta等大型科技公司在AI晶片研發上的進展，這將直接影響輝達未來的市場份額和議價能力。
+*   **探索AI應用擴散的機會：** AI算力需求從少數巨頭擴散至更廣泛的市場（如區域型AI公司、新創、企業），這意味著AI應用場景將更加多元，可關注這些新興應用領域的發展。
+*   **學習資金流向分析：** 貼文強調「看懂資金流向，可能比猜明天漲跌更重要」，這啟發我應加強對宏觀經濟趨勢、產業資金配置和技術發展方向的分析能力，而不僅僅是關注短期股價波動。
+
+## 原文（Jina Reader）
+
+```
+Title: 謝琮凱 (@cfdjungle) on Threads
+
+URL Source: https://www.threads.com/share/BAXU8cStqA
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread 144 views](https://www.threads.com/@cfdjungle/post/DdQlXhhDnp8?xmt=AQG0kETUBqG_8i_oWDk6RAgumti1E92ybNckRNav034qx4_10VP7PFpU91fwB7rBaDOCy3mJ&slof=1)
+
+[![Image 1: cfdjungle's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/494126388_1499672854340328_1149533390671385660_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MDYuYzIifQ&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHvwHItrty0baAlQiXRAO-ss83GbXEj2sv09du0CCX8UbfhzEAsuZh4_QpD-fiPTRU&_nc_ohc=cWb6uGxl2vMQ7kNvwHQOCcs&_nc_gid=tflsx--Y5Ewokv5Wh0DLcQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLA1dddXrT86HTd-N-dULA0Qyi7sWk12cgzmqcUXQN7cQ&oe=6AAD8EDD&_nc_sid=10d13b)](https://www.threads.com/@cfdjungle)
+
+[cfdjungle](https://www.threads.com/@cfdjungle)
+
+[28m](https://www.threads.com/@cfdjungle/post/DdQlXhhDnp8)
+
+輝達現在真的有點像「被大戶綁住」的公司。最新數據顯示，今年上半年有三家客戶各自貢獻超過10%營收，加起來高達44%，等於快一半收入都靠這幾位大咖。對比之前，2023財年根本沒任何單一客戶超過10%，現在集中度飆升超明顯。
+
+為什麼會這樣？因為AI資料中心需求大爆發，輝達資料中心營收從150億美元衝到1937億美元，今年还可能再翻倍。大客戶像戴爾、鴻海，買晶片做成伺服器再賣出去，微軟、Meta、SpaceX也都在蓋AI資料中心，自然是採購大戶。
+
+但風險來了。這些大客戶同時在研發自己的AI晶片，哪天成熟了，對輝達的依賴就可能降低。而且應收帳款也超集中，五家客戶占70%，付款期限還從45天拉長到60天，甚至可能到90天或更長，現金回收變慢，財務跟大客戶綁更緊。
+
+輝達也開始往海外和新興市場布局，像澳洲、印度、亞美尼亞，培養更多客戶，不要只靠美國大戶。簡單說，生意超好，但客戶太集中，是接下來要觀察的重點。
+
+Translate
+
+Related threads
+
+[![Image 2: cfdjungle's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/494126388_1499672854340328_1149533390671385660_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MDYuYzIifQ&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHvwHItrty0baAlQiXRAO-ss83GbXEj2sv09du0CCX8UbfhzEAsuZh4_QpD-fiPTRU&_nc_ohc=cWb6uGxl2vMQ7kNvwHQOCcs&_nc_gid=tflsx--Y5Ewokv5Wh0DLcQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLA1dddXrT86HTd-N-dULA0Qyi7sWk12cgzmqcUXQN7cQ&oe=6AAD8EDD&_nc_sid=10d13b)](https://www.threads.com/@cfdjungle)
+
+[cfdjungle](https://www.threads.com/@cfdjungle)
+
+[美股](https://www.threads.com/search?q=%E7%BE%8E%E8%82%A1&serp_type=tags&tag_id=18276457747091566)
+
+[08/27/26](https://www.threads.com/@cfdjungle/post/DciUHbtkT8j)
+
+輝達財報一出，直接把市場嚇歪了！最新一季營收直接翻倍成長，不過最猛的是他們家財務長在電話會議上丟出一顆震撼彈：下個年度營收還要再飆70%！這數字比分析師原本預期的44%高出超級多。
+
+簡單講，輝達現在正處於2027會計年度，市場預估營收約3960億美元，但財務長喊出2028年度要衝上6730億美元。這規模有多大？預估會直接超車蘋果和Google，在美國科技巨頭中只輸給亞馬遜。
+
+其實輝達這幾年在AI熱潮下成長超猛，現在已經是全世界市值最高的公司。執行長黃仁勳在電話會議上透露，其實需求比70%還高，只是因為供應鏈限制才給出這個數字。他也提到，過去AI資料中心主要靠少數大型科技公司在撐，但現在市場結構變了，愈來愈多不同類型的客戶加入，包括區域型AI公司、雲端業者還有新創公司。
+
+這其實意味著AI基礎建設的商機正在擴大，輝達不再只是靠那幾家雲端巨頭吃飯，而是整個生態系都在蓬勃發展。
+
+Translate
+
+8
+
+[![Image 3: qweop0226's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/790945154_17981910792111999_4060873730670943481_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHvwHItrty0baAlQiXRAO-ss83GbXEj2sv09du0CCX8UbfhzEAsuZh4_QpD-fiPTRU&_nc_ohc=kZsFMKKUcTQQ7kNvwHfiMXo&_nc_gid=tflsx--Y5Ewokv5Wh0DLcQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJYS0jwt0Oy1C4_94LpFC0J_XExONFPamx-uco3Vw8xmg&oe=6AAD9288&_nc_sid=10d13b)](https://www.threads.com/@qweop0226)
+
+[qweop0226](https://www.threads.com/@qweop0226)
+
+[08/31/26](https://www.threads.com/@qweop0226/post/DcskyyAEVZK)
+
+輝達最新財報出來，
+
+我第一個注意到的，不是股價漲多少。 而是一個很誇張的數字：Q2營收年增106%。 等於去年做100塊，今年直接做到206塊。
+
+更扯的是， 輝達甚至預估2028年度營收還可能再成長約70%。
+
+很多人看到這種新聞，第一個反應都是：「那現在還能不能買？」
+
+但我覺得真正值得思考的是另一件事：
+
+為什麼這個世界願意花這麼多錢買算力？ 因為現在企業搶的，已經不只是AI工具， 而是AI背後的基礎建設。但也別只看好的。
+
+記憶體成本正在上升、客戶也開始自己做晶片， 所以再強的公司，都不是「買了就一定賺」。
+
+我以前看財經新聞，只會想：會漲還是會跌？ 現在反而比較想知道：錢到底正在往哪裡流？
+
+看懂資金流向，可能比猜明天漲跌更重要。
+
+Translate
+
+2
+
+[![Image 4: shang_lin_kuo's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/358352191_6300040273424702_2205167418994774152_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHvwHItrty0baAlQiXRAO-ss83GbXEj2sv09du0CCX8UbfhzEAsuZh4_QpD-fiPTRU&_nc_ohc=R33BnCVT8n8Q7kNvwEOA02h&_nc_gid=tflsx--Y5Ewokv5Wh0DLcQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIAbWFG_6yiHws0-1Gx2PwfmRIA7oIiqSSam5kRWTDzrA&oe=6AAD81A9&_nc_sid=10d13b)](https://www.threads.com/@shang_lin_kuo)
+
+[shang_lin_kuo](https://www.threads.com/@shang_lin_kuo)
+
+[08/28/26](https://www.threads.com/@shang_lin_kuo/post/DckdnIGkyqn)
+
+輝達不再只靠科技巨頭。第二季超大規模雲端服務商為輝達貢獻487億美元營收，比去年同期增加超過一倍；AI雲端、工業與企業客戶則貢獻403億美元，年增高達138%。
+
+這個變化很重要，因為市場過去最大的疑慮之一，就是輝達營收過度集中在少數科技巨頭，如今AI實驗室、新創公司、一般企業與各國主權AI需求開始接棒，代表AI算力支出，正在從少數大客戶逐步向更廣泛的市場擴散。
+
+黃仁勳所說的轉折點，其實就是AI基礎建設正在進入下一個階段。過去最尖端的大型模型主要由少數科技公司推動，現在愈來愈多AI實驗室同步擴充算力，開放模型、企業AI與實體AI也陸續進入大規模部署。
+
+Translate
+
+[![Image 5](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/788438699_17981724960118173_1868448378032543020_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk3MzA3NzI1NDgwOTA3ODEyMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mR3hJ0YxsLwQ7kNvwGsQhT8&_nc_oc=AdrGgvj1Uqy_rkAmYyM7oGaFszRvPmOUmKCiuc6aSBqTTgAzad3dq4UgR8Sln465L1Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=tflsx--Y5Ewokv5Wh0DLcQ&_nc_ss=7a22e&oh=00_AQIlg6x5Hlf-iXuodgPJSt4DBVpjbLPJExH-KFvCZ6mJlg&oe=6AAD92D2) [jackieyutw](https://www.threads.com/@jackieyutw/post/DcjNLaGFElo)](https://www.threads.com/@shang_lin_kuo/post/DckdnIGkyqn/media)
+
+[![Image 6: ziningda's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/627150940_18094314604974255_6968157449978105542_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHvwHItrty0baAlQiXRAO-ss83GbXEj2sv09du0CCX8UbfhzEAsuZh4_QpD-fiPTRU&_nc_ohc=SMwI6yfsuYEQ7kNvwFORFkK&_nc_gid=tflsx--Y5Ewokv5Wh0DLcQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJmSSVUfsv3rs3wByZ8a5JtXYw04_Tz9f8t7Lsr_PPlDA&oe=6AAD8B2B&_nc_sid=10d13b)](https://www.threads.com/@ziningda)
+
+[ziningda](https://www.threads.com/@ziningda)
+
+[08/27/26](https://www.threads.com/@ziningda/post/DchqHvgG5nU)
+
+輝達最新一季獲利596億美元、營收962億美元，均成長逾一倍；執行長黃仁勳所稱的「AI轉折點」正逐步實現，企業加速將AI導入客服、藥物研發及金融交易。財務長預估下個會計年度營收將成長70%，遠高於市場預期的45%，帶動股價回升。
+
+Translate
+
+5
+
+[![Image 7: stock.jizii's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/639845921_18053762699485632_8151527310975213884_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHvwHItrty0baAlQiXRAO-ss83GbXEj2sv09du0CCX8UbfhzEAsuZh4_QpD-fiPTRU&_nc_ohc=kBUzyKdRi2UQ7kNvwHpbmTL&_nc_gid=tflsx--Y5Ewokv5Wh0DLcQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQK3F1fRhqxiu1YPIZvIf57dOzoN81EpbcCosZGV0LESJA&oe=6AAD8A5F&_nc_sid=10d13b)](https://www.threads.com/@stock.jizii)
+
+[stock.jizii](https://www.threads.com/@stock.jizii)
+
+[08/28/26](https://www.threads.com/@stock.jizii/post/DckIi2Hk8SQ)
+
+今天學一個詞：營收分潤
+
+就是輝達把晶片賣給 AI 雲端公司之後，還從對方後續的營運收入裡再抽一份。
+
+它為什麼今天重要：華爾街日報報導輝達正在暫停這種協議。
+
+一家公司主動放棄一筆收入，通常是因為那筆收入帶來的麻煩比金額大 🙃
+
+Translate
+
+Log in or sign up for Threads See what people are talking about and join the conversation.
+
+Continue with Instagram
+
+[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+
+*   © 2026
+*   [Threads Terms](https://help.instagram.com/769983657850450)
+*   [Privacy Policy](https://help.instagram.com/515230437301944)
+*   [Cookies Policy](https://help.instagram.com/1896641480634370/)
+*   Report a problem 
+
+Say more with Threads
+
+Join Threads to share thoughts, find out what's going on, follow your people and more.
+
+Continue with Instagram
+
+```
+
+## 相關頁面
+
+<!-- [[]] -->
