@@ -5,7 +5,7 @@ updated: 2026-09-14
 
 # 知識庫健檢
 
-**檢查時間**：2026-09-14 14:51　**發現問題**：40 項
+**檢查時間**：2026-09-14 15:25　**發現問題**：43 項
 
 > 這頁由 `tools/health_check.py` 每天自動覆寫，只查規則能判定的問題。
 > 需要判讀的（訊號矛盾、摘要失真、論點過期）請叫 kb-auditor 稽核。
@@ -16,8 +16,9 @@ updated: 2026-09-14
     → raw/threads_2026-09-14_pwhwol1r.md
     → raw/threads_2026-09-14_vtuypwd8.md
 
-## 尚未消化（39）
+## 尚未消化（41）
 
+- 尚未消化：raw/shot_2026-09-14_3wvehs4j.md
 - 尚未消化：raw/shot_2026-09-14_5et7pf9l.md
 - 尚未消化：raw/shot_2026-09-14_ABF載板隱性減產拆解.md
 - 尚未消化：raw/shot_2026-09-14_AGI硬體需求與載板記憶體.md
@@ -55,12 +56,13 @@ updated: 2026-09-14
 - 尚未消化：raw/shot_2026-09-14_高階CCL三雄成長階段比較.md
 - 尚未消化：raw/shot_2026-09-14_高階CCL潛力與金居HVLP擴產.md
 - 尚未消化：raw/threads_2026-09-13_5et7pf9l.md
+- 尚未消化：raw/threads_2026-09-14_3wvehs4j.md
 - 尚未消化：raw/threads_2026-09-14_pwhwol1r.md
 - 尚未消化：raw/threads_2026-09-14_vtuypwd8.md
 
-## 疑似截斷（0）
+## 疑似截斷（1）
 
-- ✅ 沒有問題
+- 內容截斷：raw/threads_2026-09-14_3wvehs4j.md — 結尾斷在「…```」
 
 ## 圖片未確認（0）
 
