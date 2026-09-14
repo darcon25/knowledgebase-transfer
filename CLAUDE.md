@@ -65,6 +65,8 @@ Max KnowledgeBase/
 ├── log.md             ← 操作紀錄（只增不減）
 ├── raw/               ← 原始資料來源（Threads/IG/YouTube/截圖）
 │                      檔名格式：<平台>_<日期>_<主題>.md
+│                      shot_*.md 是圖片檔（手動截圖或 fetch_media 自動補），
+│                      與原筆記共用 original_url，原筆記一個字都不會被改
 │                      主題要看得懂，不要用亂碼 ID。原始 ID 存在
 │                      frontmatter 的 original_id，仍可對回 n8n 紀錄
 │   └── assets/        ← 本地圖片檔案
@@ -99,6 +101,7 @@ Max KnowledgeBase/
 | `python3 tools/capture.py --youtube <網址>` | 抓 YouTube 逐字稿進 raw/ |
 | `python3 tools/capture.py --shot <圖片…> --note "說明" [--source 網址]` | 截圖進 raw/，**可一次多張**（IG 輪播、X、限動、付費內容走這條） |
 | `python3 tools/fetch_market.py` | 抓月營收、估值、毛利率、新聞（每天 18:30 自動跑） |
+| `python3 tools/fetch_media.py` | **補回 Threads/IG 貼文的圖片**（每天 18:30 自動跑）。重讀原貼文、抓主文圖片、存成 `raw/shot_*.md` + `raw/assets/`。`--dry-run` 只看不寫 |
 | `python3 tools/backfill_revenue.py --months 12` | 從 MOPS 回補歷史月營收（一次性，已補 12 個月） |
 | `python3 tools/build_pages.py` | 用資料更新公司頁與環節頁 |
 | `python3 tools/health_check.py` | 資料健檢，寫 health.md 並推 Telegram |

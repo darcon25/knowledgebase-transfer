@@ -43,6 +43,7 @@ fi
 echo "===== $(date '+%Y-%m-%d %H:%M:%S') 每日更新開始（$PY）====="
 failed=""
 "$PY" tools/fetch_market.py  || failed="${failed}抓取 "
+"$PY" tools/fetch_media.py   || failed="${failed}補圖 "
 "$PY" tools/build_pages.py   || failed="${failed}建頁 "
 "$PY" tools/digest.py        || failed="${failed}統整 "
 

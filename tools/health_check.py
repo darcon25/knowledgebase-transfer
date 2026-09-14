@@ -31,11 +31,17 @@ def load_json(path: Path):
 
 
 def check_duplicates() -> list:
-    """同一個來源網址存了多份。"""
+    """同一個來源網址存了多份。
+
+    例外：`fetch_media.py` 產生的 shot_ 檔本來就與原筆記共用 original_url
+    （圖片另存一檔是為了不修改 raw/ 的既有筆記），這是設計如此，不算重複。
+    """
     by_url = defaultdict(list)
     for folder in SOURCE_DIRS:
         for f in (KB / folder).glob("*.md"):
             head = f.read_text(encoding="utf-8", errors="ignore")[:1200]
+            if "captured_by: fetch_media" in head:
+                continue
             m = re.search(r'^(?:source|original_url):\s*"?([^"\n]+)"?', head, re.M)
             if m:
                 by_url[m.group(1).strip()].append(f"{folder}/{f.name}")
