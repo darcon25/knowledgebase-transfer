@@ -5,7 +5,7 @@ updated: 2026-09-15
 
 # 知識庫健檢
 
-**檢查時間**：2026-09-15 10:09　**發現問題**：9 項
+**檢查時間**：2026-09-15 10:32　**發現問題**：0 項
 
 > 這頁由 `tools/health_check.py` 每天自動覆寫，只查規則能判定的問題。
 > 需要判讀的（訊號矛盾、摘要失真、論點過期）請叫 kb-auditor 稽核。
@@ -14,17 +14,9 @@ updated: 2026-09-15
 
 - ✅ 沒有問題
 
-## 尚未消化（9）
+## 尚未消化（0）
 
-- 尚未消化：raw/shot_2026-09-15_0krph4ry.md
-- 尚未消化：raw/shot_2026-09-15_gmnbxuie.md
-- 尚未消化：raw/shot_2026-09-15_qbh4rm6r.md
-- 尚未消化：raw/shot_2026-09-15_x29z9z00.md
-- 尚未消化：raw/threads_2026-09-14_0krph4ry.md
-- 尚未消化：raw/threads_2026-09-14_tzrvh03s.md
-- 尚未消化：raw/threads_2026-09-14_x29z9z00.md
-- 尚未消化：raw/threads_2026-09-15_gmnbxuie.md
-- 尚未消化：raw/threads_2026-09-15_qbh4rm6r.md
+- ✅ 沒有問題
 
 ## 疑似截斷（0）
 
