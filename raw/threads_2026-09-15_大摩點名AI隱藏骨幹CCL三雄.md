@@ -6,6 +6,7 @@ tags:
 type: social_media
 platform: threads
 date_captured: 2026-09-15
+original_id: gtf2gzvj
 original_url: "https://www.threads.com/share/BAUuReQo3B"
 media_count: 1
 media_urls:

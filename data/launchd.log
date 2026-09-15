@@ -507,3 +507,68 @@ fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
    資料過期: 0
 ⚠️ 失敗階段：抓取 
 ===== 2026-09-14 18:34:52 每日更新結束 =====
+----- git pull -----
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> main
+
+⚠️ git pull 失敗，繼續用本機現有檔案（可能漏掉 n8n 新存的）
+===== 2026-09-15 18:30:07 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-09-15 18:30:08] === 開始抓取（64 檔）===
+[2026-09-15 18:30:11] ✅ 估值 61 檔（資料日 2026-09-14）
+[2026-09-15 18:30:15] ✅ 月營收 60 檔（2026-08）
+[2026-09-15 18:30:19] ✅ 毛利率 60 檔（2026Q2）
+[2026-09-15 18:31:52] ✅ 新聞 59/59 檔有結果
+[2026-09-15 18:31:52] === 抓取完成 ===
+⏭  2026Q2.json 已有 61 家，跳過
+⏭  2026Q1.json 已有 61 家，跳過
+⏭  2025Q4.json 已有 61 家，跳過
+⏭  2025Q3.json 已有 61 家，跳過
+⏭  2025Q2.json 已有 61 家，跳過
+⏭  2025Q1.json 已有 59 家，跳過
+⏭  2024Q4.json 已有 61 家，跳過
+⏭  2024Q3.json 已有 59 家，跳過
+
+完成：新增/更新 0 季，跳過 8 季
+
+===== 完成 =====
+處理 0 篇：補到圖 0 篇、確認沒圖 0 篇、失敗 0 篇
+[2026-09-15 18:31:52] 沒有待讀圖的檔案，不啟動 Claude
+✅ 頁面：新建 0、更新 76（營收 2026-08、估值 2026-09-15、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 7、動能轉折 15、值得推播 1 項
+[2026-09-15 18:31:53] 發現 2 個未消化檔案，啟動自動消化
+raw/shot_2026-09-15_gtf2gzvj.md
+raw/threads_2026-09-15_gtf2gzvj.md
+消化完成。
+
+**做了什麼**：這兩支來源檔是同一則工商時報 Threads 貼文＋圖。貼文文字只有一句「大摩點名AI『隱藏骨幹』！」，**三家名單全部來自圖**——台光電 8,400 元、台燿 2,700 元、金居 730 元，評等都是「優於大盤」。走投資線 A-1（三家都在 41 檔名單上）。
+
+**動到的檔案**：
+- 事件時間軸各加一筆：`wiki/investing/companies/2383 台光電.md`、`6274 台燿.md`、`8358 金居.md`
+- 環節頁各加一節（三家同時牽動）：`wiki/investing/segments/CCL.md`（含三家對照表）、`銅箔.md`
+- `data/ingested.json`（兩個路徑）、`data/known_issues.json`、`log.md`、`index.md`
+- 來源檔改名為 `raw/threads_2026-09-15_大摩點名AI隱藏骨幹CCL三雄.md` 與對應 `shot_` 檔，frontmatter 補 `original_id: gtf2gzvj`
+
+**已標註的限制**：圖上只有「公司／評等／目標價」三欄——沒有發布日期、沒有前次目標價、沒有寫調升或維持、沒有任何財務預估、**也沒有寫看多的理由**，資料來源欄只寫「外資券商研究報告」無法對回特定一份報告。全部標成「外資觀點、非財報數字」，未建 insights、未改任何「我的論點」。
+
+兩點提醒：`git mv` 沒拿到權限，改用一般 `mv`（git 會看成刪除＋新增，內容無損）；健檢沒跑，因為預設 `python3` 缺 `requests`，而換 Homebrew 版的指令也需要授權。
+✅ 已送出
+✅ 健檢完成：0 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 0
+   疑似截斷: 0
+   圖片未確認: 0
+   圖片張數對不上: 0
+   圖片連結壞掉: 0
+   圖片尚未判讀: 0
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+===== 2026-09-15 18:33:38 每日更新結束 =====

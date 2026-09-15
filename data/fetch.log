@@ -320,3 +320,9 @@ curl failed to verify the legitimacy of the server and therefore could
 [2026-09-14 18:34:51] ❌ 抓取中止：https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL 重試 3 次仍失敗：HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/exchangeReport/BWIBBU_ALL (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
 [2026-09-14 18:57:40] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
 [2026-09-14 20:32:25] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-09-15 18:30:08] === 開始抓取（64 檔）===
+[2026-09-15 18:30:11] ✅ 估值 61 檔（資料日 2026-09-14）
+[2026-09-15 18:30:15] ✅ 月營收 60 檔（2026-08）
+[2026-09-15 18:30:19] ✅ 毛利率 60 檔（2026Q2）
+[2026-09-15 18:31:52] ✅ 新聞 59/59 檔有結果
+[2026-09-15 18:31:52] === 抓取完成 ===

@@ -4,19 +4,20 @@ tags:
   - screenshot
 type: screenshot
 date_captured: 2026-09-15
+original_id: gtf2gzvj
 image: assets/threads_2026-09-15_gtf2gzvj_01.jpg
 original_url: "https://www.threads.com/share/BAUuReQo3B"
 image_count: 1
 expected_min: 1
 captured_by: fetch_media
-source_note: "threads_2026-09-15_gtf2gzvj.md"
+source_note: "threads_2026-09-15_大摩點名AI隱藏骨幹CCL三雄.md"
 status: 已讀圖
 ---
 
 # 📸 原貼文圖片 2026-09-15 — threads_2026-09-15_gtf2gzvj
 
 > 原始出處：https://www.threads.com/share/BAUuReQo3B
-> 對應筆記：[[threads_2026-09-15_gtf2gzvj]]
+> 對應筆記：[[threads_2026-09-15_大摩點名AI隱藏骨幹CCL三雄]]
 
 **取得方式**：`tools/fetch_media.py` 從 Jina Reader 回傳的 markdown 取出主文圖片網址並下載。
 n8n 管道把這些網址丟掉了，所以由本機補。
@@ -50,7 +51,7 @@ n8n 管道把這些網址丟掉了，所以由本機補。
 
 ⚠️ 圖文對照的落差（兩點，都不是矛盾，是資訊缺口）：
 
-1. Threads 貼文的文字只有一句「大摩點名AI『隱藏骨幹』！」，**沒有點出是哪三家**。三家公司名單完全來自這張圖——這正是原純文字摘要整個漏掉的部分。原筆記 [[threads_2026-09-15_gtf2gzvj]] 的「關鍵概念」段落還在猜「隱藏骨幹可能是資料中心、連接器、散熱模組……」，實際上圖已經直接給答案：**是 CCL／銅箔這條材料鏈**。原貼文的 hashtag 也標了 `CCL`，與圖一致。
+1. Threads 貼文的文字只有一句「大摩點名AI『隱藏骨幹』！」，**沒有點出是哪三家**。三家公司名單完全來自這張圖——這正是原純文字摘要整個漏掉的部分。原筆記 [[threads_2026-09-15_大摩點名AI隱藏骨幹CCL三雄]] 的「關鍵概念」段落還在猜「隱藏骨幹可能是資料中心、連接器、散熱模組……」，實際上圖已經直接給答案：**是 CCL／銅箔這條材料鏈**。原貼文的 hashtag 也標了 `CCL`，與圖一致。
 2. 圖裡只寫「外資券商研究報告」，標題寫「摩根士丹利」。兩者指的應是同一份，但圖沒有明寫報告名稱或日期，**目標價無法對回特定一份報告**，引用時要標明只有工商時報轉述這一層來源。
 
 對應的名單代號（依 `tools/watchlist.py` 命名，圖上只有中文公司名，代號是對照補的）：台光電＝2383、台燿＝6274、金居＝8358。
