@@ -1,0 +1,39 @@
+{
+  "code": "2383",
+  "name": "台光電",
+  "broker": "福邦投顧",
+  "report_date": "2026-07-30",
+  "report_title": "福邦投顧 股市個股早報",
+  "source_file": "Google Drive: 福邦-2383 台光電、8261 富鼎-20260730.pdf",
+  "source_file_id": "17bUa9GQOFQGY9-0EooRyqSgsM5ni07da",
+  "rating": "強力買進",
+  "target_price": 5500,
+  "target_basis": "20x 2027F EPS",
+  "price_at_report": 4100,
+  "note": "券商預估值，非實際財報。不可與 data/financials/（MOPS 實際數字）混用。",
+  "annual": {
+    "2025A": {"revenue_mn": 94261, "gross_margin": 29.8, "op_margin": 20.3, "net_margin": 15.5, "eps": 40.88},
+    "2026F": {"revenue_mn": 201085, "gross_margin": 33.7, "op_margin": 26.8, "net_margin": 20.9, "eps": 117.06, "rev_yoy": 113.3, "eps_yoy": 186.3},
+    "2027F": {"revenue_mn": 410897, "gross_margin": 37.1, "op_margin": 30.2, "net_margin": 23.6, "eps": 270.85, "rev_yoy": 104.3, "eps_yoy": 131.4}
+  },
+  "quarterly": {
+    "2026Q1A": {"revenue_mn": 33067, "gross_margin": 29.4, "eps": 14.90},
+    "2026Q2A": {"revenue_mn": 47275, "gross_margin": 33.9, "eps": 27.55},
+    "2026Q3F": {"revenue_mn": 55778, "gross_margin": 34.4, "eps": 33.81},
+    "2026Q4F": {"revenue_mn": 64965, "gross_margin": 35.3, "eps": 40.80},
+    "2027Q1F": {"revenue_mn": 77966, "gross_margin": 35.5, "eps": 48.57},
+    "2027Q2F": {"revenue_mn": 90782, "gross_margin": 36.6, "eps": 58.82},
+    "2027Q3F": {"revenue_mn": 105190, "gross_margin": 37.7, "eps": 70.91},
+    "2027Q4F": {"revenue_mn": 136958, "gross_margin": 37.8, "eps": 92.55}
+  },
+  "key_assumptions": {
+    "capacity_mn_sheets_per_month": {"2026": 615, "2027": 930, "2028": 1110},
+    "capacity_yoy": {"2027": "+51%", "2028": "+19%"},
+    "m7_plus_mix": {"2025Q3": "50%", "2025Q4": "55~60%", "2026Q1": "55~60%", "2026Q2": "60~65%", "2026F": "70%", "2027F": "80%"},
+    "upstream_price": "E-glass 薄布累計至 7 月漲幅已達一倍以上；2026 供應鏈態度看有機會達 150~200%",
+    "pricing_strategy": "調價做法有望延續至 2027",
+    "abf_substrate": "積極驗證 ABF 載板銅箔基板，2027 年載板相關材料出貨有望較 2026 翻倍",
+    "customers": "新一代 GPU SwitchTray 主要板材供應商；Amazon Trainium3 與 Google TPU v8 的 PCB 板材主要供應商",
+    "historical_per_range": "過去 5 年多數落在 9x–33x"
+  }
+}

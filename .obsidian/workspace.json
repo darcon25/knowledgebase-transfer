@@ -210,6 +210,8 @@
   },
   "active": "3886668973ea98a2",
   "lastOpenFiles": [
+    "data/estimates/2383_台光電_福邦投顧_20260730.json",
+    "data/estimates",
     "raw/shot_2026-09-15_gtf2gzvj.md",
     "raw/assets/threads_2026-09-15_gtf2gzvj_01.jpg",
     "raw/threads_2026-09-15_gtf2gzvj.md",
@@ -224,7 +226,6 @@
     "data/financials/2026Q1.json",
     "data/financials/2026Q2.json",
     "data/financials",
-    "tools/fetch_financials.py",
     "wiki/investing/insights/2026-09-15-CCL成長持續性檢驗.md",
     "raw/shot_2026-09-15_qbh4rm6r.md",
     "raw/assets/threads_2026-09-15_qbh4rm6r_02.jpg",
@@ -255,7 +256,6 @@
     "wiki/investing/companies/2421 建準.md",
     "wiki/investing/companies/3653 健策.md",
     "wiki/investing/companies/3450 聯鈞.md",
-    "wiki/investing/companies/3163 波若威.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
