@@ -326,3 +326,5 @@ curl failed to verify the legitimacy of the server and therefore could
 [2026-09-15 18:30:19] ✅ 毛利率 60 檔（2026Q2）
 [2026-09-15 18:31:52] ✅ 新聞 59/59 檔有結果
 [2026-09-15 18:31:52] === 抓取完成 ===
+[2026-09-15 23:14:10] ⚠️ git pull 失敗，仍檢查本機指令：fatal: 'origin' does not appear to be a git repository
+fatal: Could not read fro
