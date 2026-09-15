@@ -73,7 +73,12 @@
     "raw/threads_2026-09-13_臻鼎57廠與5mm厚板.md": "2026-09-14 fetch_media 自動補齊 1 張（影片封面），見 raw/shot_2026-09-14_臻鼎57廠與5mm厚板.md",
     "raw/threads_2026-09-13_輝達估值低於JPM的恐慌訊號.md": "2026-09-14 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-09-14_輝達估值低於JPM的恐慌訊號.md",
     "raw/threads_2026-09-14_3wvehs4j.md": "2026-09-14 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-09-14_3wvehs4j.md",
-    "raw/threads_2026-09-14_輝達客戶集中度與營收分潤.md": "2026-09-14 fetch_media 自動確認：主文沒有圖"
+    "raw/threads_2026-09-14_輝達客戶集中度與營收分潤.md": "2026-09-14 fetch_media 自動確認：主文沒有圖",
+    "raw/threads_2026-09-14_0krph4ry.md": "2026-09-15 fetch_media 自動補齊 3 張（圖、圖、圖），見 raw/shot_2026-09-15_0krph4ry.md",
+    "raw/threads_2026-09-14_tzrvh03s.md": "2026-09-15 fetch_media 自動確認：主文沒有圖",
+    "raw/threads_2026-09-14_x29z9z00.md": "2026-09-15 fetch_media 自動補齊 5 張（圖、圖、圖、圖、圖），見 raw/shot_2026-09-15_x29z9z00.md",
+    "raw/threads_2026-09-15_gmnbxuie.md": "2026-09-15 fetch_media 自動補齊 6 張（圖、圖、圖、圖、圖、圖），見 raw/shot_2026-09-15_gmnbxuie.md",
+    "raw/threads_2026-09-15_qbh4rm6r.md": "2026-09-15 fetch_media 自動補齊 2 張（圖、圖），見 raw/shot_2026-09-15_qbh4rm6r.md"
   },
   "duplicate_accepted": {
     "https://www.threads.com/share/BAWtWRBFvr": "2026-09-14 同一則貼文（FOMO 研究院光模組）被傳了兩次，n8n 各存一份：raw/threads_2026-09-14_vtuypwd8.md（已補圖並消化）與 raw/threads_2026-09-14_pwhwol1r.md（純重複）。依 raw/ 唯讀原則不刪除，以 vtuypwd8 為主。"
