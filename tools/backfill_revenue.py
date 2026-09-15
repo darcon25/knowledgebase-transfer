@@ -78,9 +78,18 @@ def main() -> int:
         year, month = total // 12, total % 12 + 1
         iso = f"{year}-{month:02d}"
         path = DATA / f"{iso}.json"
+        # ⚠️ 不能只看檔案在不在就跳過。觀察名單擴編後（2026-09-14 由 36 → 59 家），
+        #    舊檔只有 35 家，新公司永遠補不到歷史，而且不會有任何錯誤訊息。
         if path.exists():
-            skipped += 1
-            continue
+            try:
+                import json as _json
+                have = len(_json.loads(path.read_text(encoding="utf-8"))["companies"])
+            except Exception:
+                have = 0
+            if have >= len(codes) * 0.8:
+                skipped += 1
+                continue
+            print(f"♻️  {iso} 只有 {have} 家（名單 {len(codes)} 家），重抓")
         roc = year - 1911
         companies = {}
         for market in ("sii", "otc"):

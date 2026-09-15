@@ -109,6 +109,7 @@ Max KnowledgeBase/
 | `bash tools/grab_carousel.sh <IG網址> <前綴>` | **抓 IG 輪播完整圖片**（登出只看得到前一兩張）。需兩道鎖：系統設定→自動化→終端機→勾 Chrome；Chrome→檢視→開發人員→**允許 Apple 事件的 JavaScript**（用完建議關掉）|
 | `bash tools/catchup.sh` | **補讀機制**：每 2 小時自動跑。git pull → 補圖 → 讀圖，冪等且安靜；同一篇連續失敗 3 次才推播 |
 | `bash tools/read_shots.sh [篇數]` | **讀圖層**：叫 `claude -p` 打開 shot_ 檔的圖、把數字抄成表格寫進「## 內容」。沒有待讀圖就不啟動（不燒 token），預設一次 8 篇 |
+| `python3 tools/fetch_financials.py --quarters 8` | **從 MOPS 回補季度損益表**（營收／成本／毛利／EPS）到 `data/financials/`。`t187ap17_L` 只有最新一季，**毛利率趨勢要靠這支**。已與官方資料交叉驗證吻合 |
 | `python3 tools/backfill_revenue.py --months 12` | 從 MOPS 回補歷史月營收（一次性，已補 12 個月） |
 | `python3 tools/build_pages.py` | 用資料更新公司頁與環節頁 |
 | `python3 tools/health_check.py` | 資料健檢，寫 health.md 並推 Telegram |

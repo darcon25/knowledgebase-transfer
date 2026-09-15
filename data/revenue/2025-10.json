@@ -21,6 +21,16 @@
       "note": "",
       "source": "MOPS 歷史月報表"
     },
+    "8996": {
+      "name": "高力",
+      "revenue": 673208.0,
+      "mom_pct": 5.71,
+      "yoy_pct": 94.54,
+      "cum_revenue": 4962885.0,
+      "cum_yoy_pct": 47.98,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
     "1717": {
       "name": "長興",
       "revenue": 3102020.0,
@@ -51,6 +61,36 @@
       "note": "",
       "source": "MOPS 歷史月報表"
     },
+    "2344": {
+      "name": "華邦電",
+      "revenue": 8225204.0,
+      "mom_pct": 3.85,
+      "yoy_pct": 34.88,
+      "cum_revenue": 71006301.0,
+      "cum_yoy_pct": 2.88,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "2408": {
+      "name": "南亞科",
+      "revenue": 7907729.0,
+      "mom_pct": 18.66,
+      "yoy_pct": 262.37,
+      "cum_revenue": 44400631.0,
+      "cum_yoy_pct": 49.3,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "2454": {
+      "name": "聯發科",
+      "revenue": 52026251.0,
+      "mom_pct": -4.24,
+      "yoy_pct": 1.78,
+      "cum_revenue": 497803923.0,
+      "cum_yoy_pct": 12.2,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
     "2481": {
       "name": "強茂",
       "revenue": 1026508.0,
@@ -71,6 +111,26 @@
       "note": "",
       "source": "MOPS 歷史月報表"
     },
+    "3443": {
+      "name": "創意",
+      "revenue": 3715719.0,
+      "mom_pct": 2.85,
+      "yoy_pct": 150.6,
+      "cum_revenue": 25457048.0,
+      "cum_yoy_pct": 24.15,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3450": {
+      "name": "聯鈞",
+      "revenue": 698870.0,
+      "mom_pct": 8.29,
+      "yoy_pct": -19.17,
+      "cum_revenue": 7161517.0,
+      "cum_yoy_pct": 20.25,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
     "3711": {
       "name": "日月光投控",
       "revenue": 60231106.0,
@@ -78,6 +138,26 @@
       "yoy_pct": 6.74,
       "cum_revenue": 527703579.0,
       "cum_yoy_pct": 7.79,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "6770": {
+      "name": "力積電",
+      "revenue": 4134047.0,
+      "mom_pct": 4.6,
+      "yoy_pct": 5.62,
+      "cum_revenue": 38368918.0,
+      "cum_yoy_pct": 2.3,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "2301": {
+      "name": "光寶科",
+      "revenue": 15204242.0,
+      "mom_pct": -1.47,
+      "yoy_pct": 22.65,
+      "cum_revenue": 136935063.0,
+      "cum_yoy_pct": 23.12,
       "note": "",
       "source": "MOPS 歷史月報表"
     },
@@ -108,6 +188,16 @@
       "yoy_pct": 92.2,
       "cum_revenue": 1650643368.0,
       "cum_yoy_pct": 94.57,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3563": {
+      "name": "牧德",
+      "revenue": 206216.0,
+      "mom_pct": -9.73,
+      "yoy_pct": 12.21,
+      "cum_revenue": 2735369.0,
+      "cum_yoy_pct": 146.51,
       "note": "",
       "source": "MOPS 歷史月報表"
     },
@@ -161,6 +251,36 @@
       "note": "",
       "source": "MOPS 歷史月報表"
     },
+    "2421": {
+      "name": "建準",
+      "revenue": 1593501.0,
+      "mom_pct": -9.36,
+      "yoy_pct": 35.56,
+      "cum_revenue": 15353339.0,
+      "cum_yoy_pct": 28.55,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "2467": {
+      "name": "志聖",
+      "revenue": 560854.0,
+      "mom_pct": 13.13,
+      "yoy_pct": 50.99,
+      "cum_revenue": 4916114.0,
+      "cum_yoy_pct": 27.55,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3026": {
+      "name": "禾伸堂",
+      "revenue": 1073704.0,
+      "mom_pct": -13.53,
+      "yoy_pct": -0.59,
+      "cum_revenue": 11169402.0,
+      "cum_yoy_pct": 4.68,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
     "3037": {
       "name": "欣興",
       "revenue": 11327098.0,
@@ -168,6 +288,16 @@
       "yoy_pct": 8.08,
       "cum_revenue": 107877094.0,
       "cum_yoy_pct": 11.82,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3653": {
+      "name": "健策",
+      "revenue": 1700899.0,
+      "mom_pct": 0.23,
+      "yoy_pct": 29.82,
+      "cum_revenue": 16704108.0,
+      "cum_yoy_pct": 49.56,
       "note": "",
       "source": "MOPS 歷史月報表"
     },
@@ -221,6 +351,16 @@
       "note": "",
       "source": "MOPS 歷史月報表"
     },
+    "7795": {
+      "name": "長廣",
+      "revenue": 136868.0,
+      "mom_pct": 20.36,
+      "yoy_pct": 32.22,
+      "cum_revenue": 1399763.0,
+      "cum_yoy_pct": -23.92,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
     "8039": {
       "name": "台虹",
       "revenue": 959706.0,
@@ -261,6 +401,16 @@
       "note": "",
       "source": "MOPS 歷史月報表"
     },
+    "2360": {
+      "name": "致茂",
+      "revenue": 2375758.0,
+      "mom_pct": 6.14,
+      "yoy_pct": 31.88,
+      "cum_revenue": 22106323.0,
+      "cum_yoy_pct": 27.3,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
     "8021": {
       "name": "尖點",
       "revenue": 437571.0,
@@ -281,6 +431,16 @@
       "note": "",
       "source": "MOPS 歷史月報表"
     },
+    "6187": {
+      "name": "萬潤",
+      "revenue": 307792.0,
+      "mom_pct": -44.49,
+      "yoy_pct": -39.83,
+      "cum_revenue": 4786176.0,
+      "cum_yoy_pct": 7.59,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
     "6510": {
       "name": "精測",
       "revenue": 406499.0,
@@ -291,6 +451,46 @@
       "note": "",
       "source": "MOPS 歷史月報表"
     },
+    "8299": {
+      "name": "群聯",
+      "revenue": 7065326.0,
+      "mom_pct": 8.44,
+      "yoy_pct": 90.08,
+      "cum_revenue": 56930759.0,
+      "cum_yoy_pct": 13.68,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3455": {
+      "name": "由田",
+      "revenue": 184647.0,
+      "mom_pct": 7.56,
+      "yoy_pct": -9.72,
+      "cum_revenue": 1429752.0,
+      "cum_yoy_pct": 2.87,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3163": {
+      "name": "波若威",
+      "revenue": 186088.0,
+      "mom_pct": -2.11,
+      "yoy_pct": 17.85,
+      "cum_revenue": 1788835.0,
+      "cum_yoy_pct": 10.25,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3363": {
+      "name": "上詮",
+      "revenue": 134292.0,
+      "mom_pct": -23.12,
+      "yoy_pct": 31.58,
+      "cum_revenue": 1635512.0,
+      "cum_yoy_pct": 47.87,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
     "1815": {
       "name": "富喬",
       "revenue": 565058.0,
@@ -298,6 +498,16 @@
       "yoy_pct": 45.35,
       "cum_revenue": 4902719.0,
       "cum_yoy_pct": 46.41,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3485": {
+      "name": "敘豐",
+      "revenue": 40058.0,
+      "mom_pct": 10.47,
+      "yoy_pct": -10.46,
+      "cum_revenue": 450961.0,
+      "cum_yoy_pct": -9.66,
       "note": "",
       "source": "MOPS 歷史月報表"
     },
@@ -328,6 +538,16 @@
       "yoy_pct": 40.57,
       "cum_revenue": 24069452.0,
       "cum_yoy_pct": 28.09,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "6664": {
+      "name": "群翊",
+      "revenue": 227693.0,
+      "mom_pct": 2.07,
+      "yoy_pct": -1.13,
+      "cum_revenue": 2076881.0,
+      "cum_yoy_pct": -0.19,
       "note": "",
       "source": "MOPS 歷史月報表"
     },

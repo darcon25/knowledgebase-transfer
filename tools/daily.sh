@@ -60,6 +60,8 @@ fi
 echo "===== $(date '+%Y-%m-%d %H:%M:%S') 每日更新開始（$PY）====="
 failed=""
 "$PY" tools/fetch_market.py  || failed="${failed}抓取 "
+# 季報用的，沒有新的一季就會自己跳過，不會每天重抓
+"$PY" tools/fetch_financials.py --quarters 8 || failed="${failed}財報 "
 "$PY" tools/fetch_media.py   || failed="${failed}補圖 "
 bash tools/read_shots.sh     || failed="${failed}讀圖 "
 "$PY" tools/build_pages.py   || failed="${failed}建頁 "

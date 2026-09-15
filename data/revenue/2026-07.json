@@ -3,421 +3,574 @@
   "companies": {
     "1303": {
       "name": "南亞",
-      "industry": "塑膠工業",
-      "period": "11507",
       "revenue": 30572583.0,
       "mom_pct": 12.67,
       "yoy_pct": 44.53,
       "cum_revenue": 182815859.0,
       "cum_yoy_pct": 19.94,
-      "note": "-"
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
     "1446": {
       "name": "宏和",
-      "industry": "紡織纖維",
-      "period": "11507",
       "revenue": 10920.0,
       "mom_pct": -5.68,
       "yoy_pct": -87.65,
       "cum_revenue": 343652.0,
       "cum_yoy_pct": -59.82,
-      "note": "本月營建無認列收入"
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "8996": {
+      "name": "高力",
+      "revenue": 922666.0,
+      "mom_pct": 27.31,
+      "yoy_pct": 57.63,
+      "cum_revenue": 6650869.0,
+      "cum_yoy_pct": 115.43,
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
     "1717": {
       "name": "長興",
-      "industry": "化學工業",
-      "period": "11507",
       "revenue": 4092959.0,
       "mom_pct": 6.82,
       "yoy_pct": 23.86,
       "cum_revenue": 26261809.0,
       "cum_yoy_pct": 10.48,
-      "note": "-"
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
     "1802": {
       "name": "台玻",
-      "industry": "玻璃陶瓷",
-      "period": "11507",
       "revenue": 4581358.0,
       "mom_pct": 8.9,
       "yoy_pct": 28.45,
       "cum_revenue": 26881780.0,
       "cum_yoy_pct": 14.22,
-      "note": "-"
-    },
-    "2308": {
-      "name": "台達電",
-      "industry": "電子零組件業",
-      "period": "11507",
-      "revenue": 67073192.0,
-      "mom_pct": 2.24,
-      "yoy_pct": 47.75,
-      "cum_revenue": 409681924.0,
-      "cum_yoy_pct": 42.08,
-      "note": "-"
-    },
-    "2313": {
-      "name": "華通",
-      "industry": "電子零組件業",
-      "period": "11507",
-      "revenue": 6955176.0,
-      "mom_pct": 0.58,
-      "yoy_pct": 16.01,
-      "cum_revenue": 46495206.0,
-      "cum_yoy_pct": 13.61,
-      "note": "-"
-    },
-    "2316": {
-      "name": "楠梓電",
-      "industry": "電子零組件業",
-      "period": "11507",
-      "revenue": 510275.0,
-      "mom_pct": 59.19,
-      "yoy_pct": 74.43,
-      "cum_revenue": 2664539.0,
-      "cum_yoy_pct": 37.52,
-      "note": "係因終端客戶需求增加，使得營收增加。"
-    },
-    "2317": {
-      "name": "鴻海",
-      "industry": "其他電子業",
-      "period": "11507",
-      "revenue": 946512543.0,
-      "mom_pct": 15.18,
-      "yoy_pct": 54.19,
-      "cum_revenue": 5589373251.0,
-      "cum_yoy_pct": 37.89,
-      "note": "主要受惠於伺服器產品需求提升及出貨成長所致"
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
     "2330": {
       "name": "台積電",
-      "industry": "半導體業",
-      "period": "11507",
       "revenue": 467580548.0,
       "mom_pct": 5.62,
       "yoy_pct": 44.69,
       "cum_revenue": 2872064238.0,
       "cum_yoy_pct": 37.01,
-      "note": "-"
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
-    "2368": {
-      "name": "金像電",
-      "industry": "電子零組件業",
-      "period": "11507",
-      "revenue": 10014527.0,
-      "mom_pct": 21.31,
-      "yoy_pct": 77.38,
-      "cum_revenue": 53674953.0,
-      "cum_yoy_pct": 70.29,
-      "note": "接單量增加"
+    "2344": {
+      "name": "華邦電",
+      "revenue": 26773179.0,
+      "mom_pct": 29.99,
+      "yoy_pct": 291.55,
+      "cum_revenue": 124869508.0,
+      "cum_yoy_pct": 160.97,
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
-    "2382": {
-      "name": "廣達",
-      "industry": "電腦及週邊設備業",
-      "period": "11507",
-      "revenue": 366274080.0,
-      "mom_pct": -4.91,
-      "yoy_pct": 131.32,
-      "cum_revenue": 2212087847.0,
-      "cum_yoy_pct": 92.67,
-      "note": "產品組合變更"
+    "2408": {
+      "name": "南亞科",
+      "revenue": 43867609.0,
+      "mom_pct": 49.27,
+      "yoy_pct": 719.61,
+      "cum_revenue": 175503614.0,
+      "cum_yoy_pct": 660.87,
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
-    "2383": {
-      "name": "台光電",
-      "industry": "電子零組件業",
-      "period": "11507",
-      "revenue": 19206698.0,
-      "mom_pct": 8.31,
-      "yoy_pct": 129.4,
-      "cum_revenue": 99549142.0,
-      "cum_yoy_pct": 89.4,
-      "note": "受惠於AI伺服器成長力道"
+    "2454": {
+      "name": "聯發科",
+      "revenue": 48474930.0,
+      "mom_pct": -16.44,
+      "yoy_pct": 12.16,
+      "cum_revenue": 349808051.0,
+      "cum_yoy_pct": 0.84,
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
     "2481": {
       "name": "強茂",
-      "industry": "半導體業",
-      "period": "11507",
       "revenue": 1447660.0,
       "mom_pct": 4.23,
       "yoy_pct": 30.98,
       "cum_revenue": 8824383.0,
       "cum_yoy_pct": 16.46,
-      "note": "-"
-    },
-    "2885": {
-      "name": "元大金",
-      "industry": "金融保險業",
-      "period": "11507",
-      "revenue": 17560416.0,
-      "mom_pct": -10.3,
-      "yoy_pct": 78.99,
-      "cum_revenue": 119160191.0,
-      "cum_yoy_pct": 130.25,
-      "note": "營收淨額增加係分離帳戶保險資產淨損益、保險財務收益費用、手續費及佣金淨損益、透過損益按公允價值衡量金融資產及負債損益等。"
-    },
-    "3017": {
-      "name": "奇鋐",
-      "industry": "電腦及週邊設備業",
-      "period": "11507",
-      "revenue": 18590152.0,
-      "mom_pct": 5.52,
-      "yoy_pct": 57.39,
-      "cum_revenue": 116749062.0,
-      "cum_yoy_pct": 80.34,
-      "note": "因客戶需求增加,使營收成長"
-    },
-    "3037": {
-      "name": "欣興",
-      "industry": "電子零組件業",
-      "period": "11507",
-      "revenue": 16253637.0,
-      "mom_pct": 9.11,
-      "yoy_pct": 43.69,
-      "cum_revenue": 96589910.0,
-      "cum_yoy_pct": 30.76,
-      "note": "-"
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
     "3189": {
       "name": "景碩",
-      "industry": "半導體業",
-      "period": "11507",
       "revenue": 4548833.0,
       "mom_pct": 7.69,
       "yoy_pct": 35.85,
       "cum_revenue": 28150053.0,
       "cum_yoy_pct": 30.74,
-      "note": "-"
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
-    "3231": {
-      "name": "緯創",
-      "industry": "電腦及週邊設備業",
-      "period": "11507",
-      "revenue": 308219198.0,
-      "mom_pct": -4.23,
-      "yoy_pct": 60.76,
-      "cum_revenue": 2049964840.0,
-      "cum_yoy_pct": 88.16,
-      "note": "主係客戶需求增加，較去年同期成長。"
+    "3443": {
+      "name": "創意",
+      "revenue": 5769170.0,
+      "mom_pct": 17.06,
+      "yoy_pct": 158.38,
+      "cum_revenue": 31113539.0,
+      "cum_yoy_pct": 102.55,
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
-    "3665": {
-      "name": "貿聯-KY",
-      "industry": "其他電子業",
-      "period": "11507",
-      "revenue": 9630165.0,
-      "mom_pct": 13.06,
-      "yoy_pct": 59.59,
-      "cum_revenue": 53740718.0,
-      "cum_yoy_pct": 37.93,
-      "note": "高效能運算和半導體客戶出貨量持續強勁"
+    "3450": {
+      "name": "聯鈞",
+      "revenue": 1218533.0,
+      "mom_pct": 7.02,
+      "yoy_pct": 98.0,
+      "cum_revenue": 6282055.0,
+      "cum_yoy_pct": 20.29,
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
     "3711": {
       "name": "日月光投控",
-      "industry": "半導體業",
-      "period": "11507",
       "revenue": 73783701.0,
       "mom_pct": 12.16,
       "yoy_pct": 43.15,
       "cum_revenue": 438509375.0,
       "cum_yoy_pct": 25.13,
-      "note": "-"
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
-    "4958": {
-      "name": "臻鼎-KY",
-      "industry": "電子零組件業",
-      "period": "11507",
-      "revenue": 17600546.0,
-      "mom_pct": 3.33,
-      "yoy_pct": 31.82,
-      "cum_revenue": 106759389.0,
-      "cum_yoy_pct": 16.5,
-      "note": "-"
+    "6770": {
+      "name": "力積電",
+      "revenue": 6668883.0,
+      "mom_pct": 3.01,
+      "yoy_pct": 70.54,
+      "cum_revenue": 37531529.0,
+      "cum_yoy_pct": 42.68,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "2301": {
+      "name": "光寶科",
+      "revenue": 19005536.0,
+      "mom_pct": 1.88,
+      "yoy_pct": 37.61,
+      "cum_revenue": 115117861.0,
+      "cum_yoy_pct": 26.99,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "2382": {
+      "name": "廣達",
+      "revenue": 366274080.0,
+      "mom_pct": -4.91,
+      "yoy_pct": 131.32,
+      "cum_revenue": 2212087847.0,
+      "cum_yoy_pct": 92.67,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3017": {
+      "name": "奇鋐",
+      "revenue": 18590152.0,
+      "mom_pct": 5.52,
+      "yoy_pct": 57.39,
+      "cum_revenue": 116749062.0,
+      "cum_yoy_pct": 80.34,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3231": {
+      "name": "緯創",
+      "revenue": 308219198.0,
+      "mom_pct": -4.23,
+      "yoy_pct": 60.76,
+      "cum_revenue": 2049964840.0,
+      "cum_yoy_pct": 88.16,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3563": {
+      "name": "牧德",
+      "revenue": 359659.0,
+      "mom_pct": 1.28,
+      "yoy_pct": 31.84,
+      "cum_revenue": 2270703.0,
+      "cum_yoy_pct": 11.61,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "2308": {
+      "name": "台達電",
+      "revenue": 67073192.0,
+      "mom_pct": 2.24,
+      "yoy_pct": 47.75,
+      "cum_revenue": 409681924.0,
+      "cum_yoy_pct": 42.08,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "2313": {
+      "name": "華通",
+      "revenue": 6955176.0,
+      "mom_pct": 0.58,
+      "yoy_pct": 16.01,
+      "cum_revenue": 46495206.0,
+      "cum_yoy_pct": 13.61,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "2316": {
+      "name": "楠梓電",
+      "revenue": 510275.0,
+      "mom_pct": 59.19,
+      "yoy_pct": 74.43,
+      "cum_revenue": 2664539.0,
+      "cum_yoy_pct": 37.52,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "2368": {
+      "name": "金像電",
+      "revenue": 10014527.0,
+      "mom_pct": 21.31,
+      "yoy_pct": 77.38,
+      "cum_revenue": 53674953.0,
+      "cum_yoy_pct": 70.29,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "2383": {
+      "name": "台光電",
+      "revenue": 19206698.0,
+      "mom_pct": 8.31,
+      "yoy_pct": 129.4,
+      "cum_revenue": 99549142.0,
+      "cum_yoy_pct": 89.4,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "2421": {
+      "name": "建準",
+      "revenue": 2119438.0,
+      "mom_pct": 14.25,
+      "yoy_pct": 31.65,
+      "cum_revenue": 12557555.0,
+      "cum_yoy_pct": 20.34,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "2467": {
+      "name": "志聖",
+      "revenue": 1167511.0,
+      "mom_pct": 34.33,
+      "yoy_pct": 132.73,
+      "cum_revenue": 6211561.0,
+      "cum_yoy_pct": 87.05,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3026": {
+      "name": "禾伸堂",
+      "revenue": 1500937.0,
+      "mom_pct": 8.89,
+      "yoy_pct": 37.05,
+      "cum_revenue": 9216573.0,
+      "cum_yoy_pct": 18.63,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3037": {
+      "name": "欣興",
+      "revenue": 16253637.0,
+      "mom_pct": 9.11,
+      "yoy_pct": 43.69,
+      "cum_revenue": 96589910.0,
+      "cum_yoy_pct": 30.76,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3653": {
+      "name": "健策",
+      "revenue": 3213171.0,
+      "mom_pct": 21.26,
+      "yoy_pct": 90.96,
+      "cum_revenue": 15792903.0,
+      "cum_yoy_pct": 35.95,
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
     "5469": {
       "name": "瀚宇博",
-      "industry": "電子零組件業",
-      "period": "11507",
       "revenue": 6589531.0,
       "mom_pct": 12.71,
       "yoy_pct": 24.09,
       "cum_revenue": 39128609.0,
       "cum_yoy_pct": 24.44,
-      "note": "-"
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
     "6141": {
       "name": "柏承",
-      "industry": "電子零組件業",
-      "period": "11507",
       "revenue": 254902.0,
       "mom_pct": 15.25,
       "yoy_pct": 79.49,
       "cum_revenue": 1345880.0,
       "cum_yoy_pct": 23.81,
-      "note": "資料係自行結算數"
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
     "6153": {
       "name": "嘉聯益",
-      "industry": "電子零組件業",
-      "period": "11507",
       "revenue": 565587.0,
       "mom_pct": 1.59,
       "yoy_pct": 20.6,
       "cum_revenue": 3296497.0,
       "cum_yoy_pct": 3.68,
-      "note": "-"
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
     "6213": {
       "name": "聯茂",
-      "industry": "電子零組件業",
-      "period": "11507",
       "revenue": 4749174.0,
       "mom_pct": 12.71,
       "yoy_pct": 96.88,
       "cum_revenue": 25422252.0,
       "cum_yoy_pct": 34.73,
-      "note": "受惠於漲價效應和AI相關需求成長"
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
     "6269": {
       "name": "台郡",
-      "industry": "電子零組件業",
-      "period": "11507",
       "revenue": 2045178.0,
       "mom_pct": 19.21,
       "yoy_pct": 3.97,
       "cum_revenue": 12892244.0,
       "cum_yoy_pct": 2.03,
-      "note": "-"
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
-    "6672": {
-      "name": "騰輝電子-KY",
-      "industry": "電子零組件業",
-      "period": "11507",
-      "revenue": 665315.0,
-      "mom_pct": 16.01,
-      "yoy_pct": 90.82,
-      "cum_revenue": 3525029.0,
-      "cum_yoy_pct": 42.48,
-      "note": "航太與國防領域高毛利聚醯亞胺（PI）材料需求成長、漲價效應及高速訂單增加"
-    },
-    "8021": {
-      "name": "尖點",
-      "industry": "其他電子業",
-      "period": "11507",
-      "revenue": 730488.0,
-      "mom_pct": 7.33,
-      "yoy_pct": 102.56,
-      "cum_revenue": 3896083.0,
-      "cum_yoy_pct": 72.33,
-      "note": "本月增減百分比或本年增減百分比達50%以上：主要係市場需求增加所致。"
+    "7795": {
+      "name": "長廣",
+      "revenue": 183826.0,
+      "mom_pct": 4.56,
+      "yoy_pct": 61.01,
+      "cum_revenue": 1074024.0,
+      "cum_yoy_pct": 9.7,
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
     "8039": {
       "name": "台虹",
-      "industry": "電子零組件業",
-      "period": "11507",
       "revenue": 847235.0,
       "mom_pct": 1.44,
       "yoy_pct": -6.06,
       "cum_revenue": 5958828.0,
       "cum_yoy_pct": 1.15,
-      "note": "自結數尚未經會計師簽證，特此說明。"
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
     "8046": {
       "name": "南電",
-      "industry": "電子零組件業",
-      "period": "11507",
       "revenue": 5439751.0,
       "mom_pct": 16.13,
       "yoy_pct": 50.24,
       "cum_revenue": 30192467.0,
       "cum_yoy_pct": 39.38,
-      "note": "因受市場需求成長影響"
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
     "8213": {
       "name": "志超",
-      "industry": "電子零組件業",
-      "period": "11507",
       "revenue": 2189059.0,
       "mom_pct": 23.76,
       "yoy_pct": 38.39,
       "cum_revenue": 12338173.0,
       "cum_yoy_pct": 14.72,
-      "note": "-"
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
-    "1815": {
-      "name": "富喬",
-      "industry": "電子零組件業",
-      "period": "11508",
-      "revenue": 912400.0,
-      "mom_pct": 6.79,
-      "yoy_pct": 79.21,
-      "cum_revenue": 5779410.0,
-      "cum_yoy_pct": 51.2,
-      "note": "主要受惠於AI伺服器與高速傳輸需求帶動高階產品出貨比重提高，電子級玻纖布產品市場價格走高。"
+    "2317": {
+      "name": "鴻海",
+      "revenue": 946512543.0,
+      "mom_pct": 15.18,
+      "yoy_pct": 54.19,
+      "cum_revenue": 5589373251.0,
+      "cum_yoy_pct": 37.89,
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
-    "3324": {
-      "name": "雙鴻",
-      "industry": "其他電子業",
-      "period": "11508",
-      "revenue": 3141249.0,
-      "mom_pct": -16.58,
-      "yoy_pct": 67.18,
-      "cum_revenue": 24155518.0,
-      "cum_yoy_pct": 81.01,
-      "note": "成長動能來自AI伺服器液冷散熱系統市佔率持續攀升。"
+    "2360": {
+      "name": "致茂",
+      "revenue": 5434240.0,
+      "mom_pct": 32.09,
+      "yoy_pct": 175.26,
+      "cum_revenue": 30823368.0,
+      "cum_yoy_pct": 101.53,
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
-    "5340": {
-      "name": "建榮",
-      "industry": "電子零組件業",
-      "period": "11508",
-      "revenue": 284845.0,
-      "mom_pct": 4.37,
-      "yoy_pct": 47.77,
-      "cum_revenue": 1893108.0,
-      "cum_yoy_pct": 27.8,
-      "note": "-"
+    "8021": {
+      "name": "尖點",
+      "revenue": 730488.0,
+      "mom_pct": 7.33,
+      "yoy_pct": 102.56,
+      "cum_revenue": 3896083.0,
+      "cum_yoy_pct": 72.33,
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
-    "5475": {
-      "name": "德宏",
-      "industry": "電子零組件業",
-      "period": "11508",
-      "revenue": 254708.0,
-      "mom_pct": 11.06,
-      "yoy_pct": 271.88,
-      "cum_revenue": 1318517.0,
-      "cum_yoy_pct": 166.79,
-      "note": "市場價格及需求數量上漲"
+    "2885": {
+      "name": "元大金",
+      "revenue": 17560416.0,
+      "mom_pct": -10.3,
+      "yoy_pct": 78.99,
+      "cum_revenue": 119160191.0,
+      "cum_yoy_pct": 130.25,
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
-    "6274": {
-      "name": "台燿",
-      "industry": "電子零組件業",
-      "period": "11508",
-      "revenue": 5914540.0,
-      "mom_pct": 0.11,
-      "yoy_pct": 132.48,
-      "cum_revenue": 36178244.0,
-      "cum_yoy_pct": 97.01,
-      "note": "產品組合優化"
+    "6187": {
+      "name": "萬潤",
+      "revenue": 1054680.0,
+      "mom_pct": 4.17,
+      "yoy_pct": 73.44,
+      "cum_revenue": 4820761.0,
+      "cum_yoy_pct": 42.72,
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
     "6510": {
       "name": "精測",
-      "industry": "半導體業",
-      "period": "11508",
-      "revenue": 638311.0,
-      "mom_pct": 3.86,
-      "yoy_pct": 54.27,
-      "cum_revenue": 4249901.0,
-      "cum_yoy_pct": 33.14,
-      "note": "本月營收受惠於AI所帶動之高效能運算(HPC)訂單需求暢旺，整體訂單增長，致營收變動達50%以上。"
+      "revenue": 614606.0,
+      "mom_pct": 7.09,
+      "yoy_pct": 49.87,
+      "cum_revenue": 3611590.0,
+      "cum_yoy_pct": 30.0,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "8299": {
+      "name": "群聯",
+      "revenue": 27161687.0,
+      "mom_pct": 9.29,
+      "yoy_pct": 377.55,
+      "cum_revenue": 136016896.0,
+      "cum_yoy_pct": 263.52,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3455": {
+      "name": "由田",
+      "revenue": 149552.0,
+      "mom_pct": 78.1,
+      "yoy_pct": -9.38,
+      "cum_revenue": 652264.0,
+      "cum_yoy_pct": -27.92,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3163": {
+      "name": "波若威",
+      "revenue": 210064.0,
+      "mom_pct": 15.94,
+      "yoy_pct": 28.65,
+      "cum_revenue": 1458010.0,
+      "cum_yoy_pct": 18.96,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3363": {
+      "name": "上詮",
+      "revenue": 170843.0,
+      "mom_pct": 8.51,
+      "yoy_pct": 12.09,
+      "cum_revenue": 982000.0,
+      "cum_yoy_pct": -14.3,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "1815": {
+      "name": "富喬",
+      "revenue": 854379.0,
+      "mom_pct": 24.01,
+      "yoy_pct": 68.11,
+      "cum_revenue": 4867010.0,
+      "cum_yoy_pct": 46.9,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3485": {
+      "name": "敘豐",
+      "revenue": 57534.0,
+      "mom_pct": -8.21,
+      "yoy_pct": 38.24,
+      "cum_revenue": 355382.0,
+      "cum_yoy_pct": 8.62,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "5340": {
+      "name": "建榮",
+      "revenue": 272928.0,
+      "mom_pct": 9.85,
+      "yoy_pct": 47.48,
+      "cum_revenue": 1608263.0,
+      "cum_yoy_pct": 24.81,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "5475": {
+      "name": "德宏",
+      "revenue": 229336.0,
+      "mom_pct": 31.61,
+      "yoy_pct": 264.03,
+      "cum_revenue": 1063809.0,
+      "cum_yoy_pct": 149.88,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "6274": {
+      "name": "台燿",
+      "revenue": 5908074.0,
+      "mom_pct": 20.69,
+      "yoy_pct": 121.52,
+      "cum_revenue": 30263704.0,
+      "cum_yoy_pct": 91.3,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "6664": {
+      "name": "群翊",
+      "revenue": 274733.0,
+      "mom_pct": 10.04,
+      "yoy_pct": 30.21,
+      "cum_revenue": 1655490.0,
+      "cum_yoy_pct": 16.75,
+      "note": "",
+      "source": "MOPS 歷史月報表"
     },
     "8358": {
       "name": "金居",
-      "industry": "電子零組件業",
-      "period": "11508",
-      "revenue": 1056242.0,
-      "mom_pct": 4.72,
-      "yoy_pct": 59.71,
-      "cum_revenue": 7401876.0,
-      "cum_yoy_pct": 46.82,
-      "note": "本月營收較去年同期增加,係需求增加及優化產品組合所致"
+      "revenue": 1008644.0,
+      "mom_pct": 4.82,
+      "yoy_pct": 54.87,
+      "cum_revenue": 6345634.0,
+      "cum_yoy_pct": 44.88,
+      "note": "",
+      "source": "MOPS 歷史月報表"
+    },
+    "3324": {
+      "name": "雙鴻",
+      "revenue": 3765466.0,
+      "mom_pct": 38.54,
+      "yoy_pct": 116.7,
+      "cum_revenue": 21014269.0,
+      "cum_yoy_pct": 83.28,
+      "note": "",
+      "source": "MOPS 歷史月報表"
     }
-  }
+  },
+  "source": "backfill"
 }
