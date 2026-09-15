@@ -1,0 +1,495 @@
+{
+  "period": "115Q1",
+  "roc_year": 115,
+  "season": 1,
+  "companies": {
+    "1303": {
+      "name": "南亞",
+      "revenue": 68596393.0,
+      "cost": 60407722.0,
+      "gross_profit": 8188671.0,
+      "eps": 1.8,
+      "gross_margin": 11.94
+    },
+    "1446": {
+      "name": "宏和",
+      "revenue": 180694.0,
+      "cost": 110036.0,
+      "gross_profit": 70658.0,
+      "eps": 0.5,
+      "gross_margin": 39.1
+    },
+    "1717": {
+      "name": "長興",
+      "revenue": 10243036.0,
+      "cost": 7973080.0,
+      "gross_profit": 2269956.0,
+      "eps": 0.37,
+      "gross_margin": 22.16
+    },
+    "1802": {
+      "name": "台玻",
+      "revenue": 10244189.0,
+      "cost": 8274698.0,
+      "gross_profit": 1969491.0,
+      "eps": 0.2,
+      "gross_margin": 19.23
+    },
+    "2301": {
+      "name": "光寶科",
+      "revenue": 43407292.0,
+      "cost": 34004359.0,
+      "gross_profit": 9402933.0,
+      "eps": 1.66,
+      "gross_margin": 21.66
+    },
+    "2308": {
+      "name": "台達電",
+      "revenue": 159352652.0,
+      "cost": 100391781.0,
+      "gross_profit": 58960871.0,
+      "eps": 7.91,
+      "gross_margin": 37.0
+    },
+    "2313": {
+      "name": "華通",
+      "revenue": 19548062.0,
+      "cost": 16032884.0,
+      "gross_profit": 3515178.0,
+      "eps": 1.26,
+      "gross_margin": 17.98
+    },
+    "2316": {
+      "name": "楠梓電",
+      "revenue": 1022324.0,
+      "cost": 958962.0,
+      "gross_profit": 63362.0,
+      "eps": 3.53,
+      "gross_margin": 6.2
+    },
+    "2317": {
+      "name": "鴻海",
+      "revenue": 2119533391.0,
+      "cost": 1988552831.0,
+      "gross_profit": 130980560.0,
+      "eps": 3.56,
+      "gross_margin": 6.18
+    },
+    "2330": {
+      "name": "台積電",
+      "revenue": 1134103440.0,
+      "cost": 382808019.0,
+      "gross_profit": 751295421.0,
+      "eps": 22.08,
+      "gross_margin": 66.25
+    },
+    "2344": {
+      "name": "華邦電",
+      "revenue": 38253064.0,
+      "cost": 17838062.0,
+      "gross_profit": 20415002.0,
+      "eps": 2.25,
+      "gross_margin": 53.37
+    },
+    "2360": {
+      "name": "致茂",
+      "revenue": 11859669.0,
+      "cost": 4435610.0,
+      "gross_profit": 7424059.0,
+      "eps": 9.12,
+      "gross_margin": 62.6
+    },
+    "2368": {
+      "name": "金像電",
+      "revenue": 19312774.0,
+      "cost": 12590421.0,
+      "gross_profit": 6722353.0,
+      "eps": 6.87,
+      "gross_margin": 34.81
+    },
+    "2382": {
+      "name": "廣達",
+      "revenue": 809221055.0,
+      "cost": 770524024.0,
+      "gross_profit": 38697031.0,
+      "eps": 5.5,
+      "gross_margin": 4.78
+    },
+    "2383": {
+      "name": "台光電",
+      "revenue": 33067261.0,
+      "cost": 23338108.0,
+      "gross_profit": 9729153.0,
+      "eps": 14.9,
+      "gross_margin": 29.42
+    },
+    "2408": {
+      "name": "南亞科",
+      "revenue": 49086932.0,
+      "cost": 15761450.0,
+      "gross_profit": 33325482.0,
+      "eps": 8.41,
+      "gross_margin": 67.89
+    },
+    "2421": {
+      "name": "建準",
+      "revenue": 5019470.0,
+      "cost": 3430135.0,
+      "gross_profit": 1589335.0,
+      "eps": 2.36,
+      "gross_margin": 31.66
+    },
+    "2454": {
+      "name": "聯發科",
+      "revenue": 149150510.0,
+      "cost": 80095157.0,
+      "gross_profit": 69055353.0,
+      "eps": 15.17,
+      "gross_margin": 46.3
+    },
+    "2467": {
+      "name": "志聖",
+      "revenue": 2261506.0,
+      "cost": 1142670.0,
+      "gross_profit": 1118836.0,
+      "eps": 3.06,
+      "gross_margin": 49.47
+    },
+    "2481": {
+      "name": "強茂",
+      "revenue": 3421155.0,
+      "cost": 2301199.0,
+      "gross_profit": 1119956.0,
+      "eps": 0.75,
+      "gross_margin": 32.74
+    },
+    "3017": {
+      "name": "奇鋐",
+      "revenue": 49037946.0,
+      "cost": 34440545.0,
+      "gross_profit": 14597401.0,
+      "eps": 20.17,
+      "gross_margin": 29.77
+    },
+    "3026": {
+      "name": "禾伸堂",
+      "revenue": 3618451.0,
+      "cost": 2741412.0,
+      "gross_profit": 877039.0,
+      "eps": 2.86,
+      "gross_margin": 24.24
+    },
+    "3037": {
+      "name": "欣興",
+      "revenue": 37446455.0,
+      "cost": 30720413.0,
+      "gross_profit": 6726042.0,
+      "eps": 3.28,
+      "gross_margin": 17.96
+    },
+    "3189": {
+      "name": "景碩",
+      "revenue": 11104965.0,
+      "cost": 8755466.0,
+      "gross_profit": 2349499.0,
+      "eps": 1.17,
+      "gross_margin": 21.16
+    },
+    "3231": {
+      "name": "緯創",
+      "revenue": 846303026.0,
+      "cost": 802209079.0,
+      "gross_profit": 44093947.0,
+      "eps": 3.06,
+      "gross_margin": 5.21
+    },
+    "3443": {
+      "name": "創意",
+      "revenue": 11447812.0,
+      "cost": 8334505.0,
+      "gross_profit": 3113307.0,
+      "eps": 12.28,
+      "gross_margin": 27.2
+    },
+    "3450": {
+      "name": "聯鈞",
+      "revenue": 2086881.0,
+      "cost": 1569244.0,
+      "gross_profit": 517637.0,
+      "eps": 0.69,
+      "gross_margin": 24.8
+    },
+    "3563": {
+      "name": "牧德",
+      "revenue": 863415.0,
+      "cost": 340330.0,
+      "gross_profit": 523085.0,
+      "eps": 4.61,
+      "gross_margin": 60.58
+    },
+    "3653": {
+      "name": "健策",
+      "revenue": 5305216.0,
+      "cost": 3088564.0,
+      "gross_profit": 2216652.0,
+      "eps": 9.53,
+      "gross_margin": 41.78
+    },
+    "3661": {
+      "name": "世芯-KY",
+      "revenue": 4186855.0,
+      "cost": 2086003.0,
+      "gross_profit": 2100852.0,
+      "eps": 17.55,
+      "gross_margin": 50.18
+    },
+    "3665": {
+      "name": "貿聯-KY",
+      "revenue": 20863649.0,
+      "cost": 14861808.0,
+      "gross_profit": 6001841.0,
+      "eps": 11.66,
+      "gross_margin": 28.77
+    },
+    "3711": {
+      "name": "日月光投控",
+      "revenue": 173662152.0,
+      "cost": 138812313.0,
+      "gross_profit": 34849839.0,
+      "eps": 3.24,
+      "gross_margin": 20.07
+    },
+    "4958": {
+      "name": "臻鼎-KY",
+      "revenue": 40728186.0,
+      "cost": 31916500.0,
+      "gross_profit": 8811686.0,
+      "eps": 1.33,
+      "gross_margin": 21.64
+    },
+    "5469": {
+      "name": "瀚宇博",
+      "revenue": 15693986.0,
+      "cost": 13151922.0,
+      "gross_profit": 2542064.0,
+      "eps": 1.23,
+      "gross_margin": 16.2
+    },
+    "6141": {
+      "name": "柏承",
+      "revenue": 492434.0,
+      "cost": 458141.0,
+      "gross_profit": 34293.0,
+      "eps": -0.58,
+      "gross_margin": 6.96
+    },
+    "6153": {
+      "name": "嘉聯益",
+      "revenue": 1180166.0,
+      "cost": 1282853.0,
+      "gross_profit": -102687.0,
+      "eps": -0.56,
+      "gross_margin": -8.7
+    },
+    "6213": {
+      "name": "聯茂",
+      "revenue": 9143071.0,
+      "cost": 8098820.0,
+      "gross_profit": 1044251.0,
+      "eps": 0.87,
+      "gross_margin": 11.42
+    },
+    "6269": {
+      "name": "台郡",
+      "revenue": 5467013.0,
+      "cost": 5542613.0,
+      "gross_profit": -75600.0,
+      "eps": -2.6,
+      "gross_margin": -1.38
+    },
+    "6672": {
+      "name": "騰輝電子-KY",
+      "revenue": 1245827.0,
+      "cost": 822050.0,
+      "gross_profit": 423777.0,
+      "eps": 1.73,
+      "gross_margin": 34.02
+    },
+    "6770": {
+      "name": "力積電",
+      "revenue": 13572462.0,
+      "cost": 12184249.0,
+      "gross_profit": 1388213.0,
+      "eps": 3.36,
+      "gross_margin": 10.23
+    },
+    "7795": {
+      "name": "長廣",
+      "revenue": 417748.0,
+      "cost": 253165.0,
+      "gross_profit": 164583.0,
+      "eps": 0.21,
+      "gross_margin": 39.4
+    },
+    "8021": {
+      "name": "尖點",
+      "revenue": 1339565.0,
+      "cost": 849478.0,
+      "gross_profit": 490087.0,
+      "eps": 1.17,
+      "gross_margin": 36.59
+    },
+    "8039": {
+      "name": "台虹",
+      "revenue": 2415476.0,
+      "cost": 1883307.0,
+      "gross_profit": 532169.0,
+      "eps": 0.65,
+      "gross_margin": 22.03
+    },
+    "8046": {
+      "name": "南電",
+      "revenue": 11177241.0,
+      "cost": 9405796.0,
+      "gross_profit": 1771445.0,
+      "eps": 2.03,
+      "gross_margin": 15.85
+    },
+    "8213": {
+      "name": "志超",
+      "revenue": 4846214.0,
+      "cost": 4332979.0,
+      "gross_profit": 513235.0,
+      "eps": 0.3,
+      "gross_margin": 10.59
+    },
+    "8996": {
+      "name": "高力",
+      "revenue": 3422971.0,
+      "cost": 2429574.0,
+      "gross_profit": 993397.0,
+      "eps": 6.54,
+      "gross_margin": 29.02
+    },
+    "2885": {
+      "name": "元大金",
+      "revenue": 11256497.0,
+      "cost": 28728437.0,
+      "gross_profit": -2007589.0,
+      "eps": 1.08,
+      "gross_margin": -17.83
+    },
+    "1815": {
+      "name": "富喬",
+      "revenue": 1881439.0,
+      "cost": 1204773.0,
+      "gross_profit": 676666.0,
+      "eps": 0.79,
+      "gross_margin": 35.97
+    },
+    "3163": {
+      "name": "波若威",
+      "revenue": 656095.0,
+      "cost": 532385.0,
+      "gross_profit": 123710.0,
+      "eps": 3.03,
+      "gross_margin": 18.86
+    },
+    "3324": {
+      "name": "雙鴻",
+      "revenue": 8551657.0,
+      "cost": 6015134.0,
+      "gross_profit": 2536523.0,
+      "eps": 12.61,
+      "gross_margin": 29.66
+    },
+    "3363": {
+      "name": "上詮",
+      "revenue": 381969.0,
+      "cost": 374772.0,
+      "gross_profit": 7197.0,
+      "eps": -0.98,
+      "gross_margin": 1.88
+    },
+    "3455": {
+      "name": "由田",
+      "revenue": 147174.0,
+      "cost": 66907.0,
+      "gross_profit": 80267.0,
+      "eps": -0.81,
+      "gross_margin": 54.54
+    },
+    "3485": {
+      "name": "敘豐",
+      "revenue": 135603.0,
+      "cost": 63449.0,
+      "gross_profit": 72154.0,
+      "eps": 1.69,
+      "gross_margin": 53.21
+    },
+    "5340": {
+      "name": "建榮",
+      "revenue": 629408.0,
+      "cost": 496031.0,
+      "gross_profit": 133377.0,
+      "eps": 0.46,
+      "gross_margin": 21.19
+    },
+    "5475": {
+      "name": "德宏",
+      "revenue": 318887.0,
+      "cost": 228581.0,
+      "gross_profit": 90306.0,
+      "eps": 0.24,
+      "gross_margin": 28.32
+    },
+    "6187": {
+      "name": "萬潤",
+      "revenue": 1411444.0,
+      "cost": 680590.0,
+      "gross_profit": 730854.0,
+      "eps": 3.37,
+      "gross_margin": 51.78
+    },
+    "6274": {
+      "name": "台燿",
+      "revenue": 10053966.0,
+      "cost": 7525408.0,
+      "gross_profit": 2528558.0,
+      "eps": 4.36,
+      "gross_margin": 25.15
+    },
+    "6510": {
+      "name": "精測",
+      "revenue": 1357386.0,
+      "cost": 586787.0,
+      "gross_profit": 770599.0,
+      "eps": 10.43,
+      "gross_margin": 56.77
+    },
+    "6664": {
+      "name": "群翊",
+      "revenue": 667210.0,
+      "cost": 345416.0,
+      "gross_profit": 321794.0,
+      "eps": 3.73,
+      "gross_margin": 48.23
+    },
+    "8299": {
+      "name": "群聯",
+      "revenue": 40966953.0,
+      "cost": 15642302.0,
+      "gross_profit": 25324651.0,
+      "eps": 68.8,
+      "gross_margin": 61.82
+    },
+    "8358": {
+      "name": "金居",
+      "revenue": 2532020.0,
+      "cost": 1805002.0,
+      "gross_profit": 727018.0,
+      "eps": 2.06,
+      "gross_margin": 28.71
+    }
+  }
+}
