@@ -1,0 +1,183 @@
+---
+tags:
+  - source
+  - social_media
+  - instagram
+type: social_media
+platform: instagram
+date_captured: 2026-09-16
+original_url: "https://www.instagram.com/p/DdS0wDTE9Xx/?stkn=MXR3NGdseDB2eTAyMQ=="
+media_count: 1
+media_urls:
+  - "https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/809465141_18190761451393886_1890954516810376708_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk4NjQ4MDYyMDY3MTA2MzUzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lafZi2WWZvIQ7kNvwHhcKXT&_nc_oc=AdqQfv4-6-Gd3Y70ZSa_p4ESLvzO7tnahbVTBdyStT_rMvKAxlqOPhimjTjCDhBopGY&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=mmi3y7FNKi_Lsht1i_3J8g&_nc_ss=7b689&oh=00_AQKBQtsGSLLH5sqFg_z8Lb5eY6V2IrlW98C-oYgneFbDEA&oe=6AB041FD"
+---
+
+# 📸 2026-09-16 存檔
+
+> 原文：[查看貼文](https://www.instagram.com/p/DdS0wDTE9Xx/?stkn=MXR3NGdseDB2eTAyMQ==)
+
+## 摘要
+台達電（Delta）透過其新加坡子公司DEISG宣布啟動一項15億美元的海外可交換公司債計畫，旨在為其業務擴張籌措資金。此計畫以台達電持有的泰達電（DET）股份作為交換標的，並分為1年期和5年期兩種債券，發行後台達電股價盤中強勁反彈。
+
+## 重點整理
+*   **資金籌措計畫：** 台達電代子公司DEISG發行15億美元（約新台幣476億元）的海外可交換公司債。
+*   **交換標的與期限：** 該公司債以台達電持有的泰達電（DET）股份作為交換標的，分為1年期A券和5年期B券。
+*   **交換價格溢價：** 初始交換價格分別較參考價格溢價15%（A券）及30%（B券）。
+*   **資金用途：** 募得資金將用於充實現有業務及未來拓展的營運資金。
+*   **市場反應：** 消息公布後，台達電股價開低走高，盤中強彈近6%，重返1700元；同期光寶科則在平盤附近震盪。
+
+## 關鍵概念
+*   **海外可交換公司債 (Exchangeable Bond)：** 一種允許持有人在特定條件下將債券轉換為發行公司或其關係企業所持有之其他公司股票的債券。與可轉換公司債 (Convertible Bond) 的主要區別在於，可交換債轉換的是「他公司」股票，而非發行公司本身的股票。
+*   **泰達電 (DET)：** 台達電在泰國的子公司，其股票被用作此次可交換債的交換標的。
+*   **溢價發行 (Premium Issuance)：** 指債券的初始交換價格高於參考價格，通常反映市場對未來股價上漲的預期。
+*   **營運資金 (Working Capital)：** 企業日常營運所需的流動資金，包括現金、存貨、應收帳款等，是維持企業正常運作和擴張的基礎。
+
+## 可行動洞察
+*   **關注企業融資策略：** 了解企業如何透過不同金融工具（如可交換債）來籌措資金，這反映了其對未來發展的規劃和資金需求。對於投資人而言，這是一個評估公司成長潛力與財務彈性的重要指標。
+*   **分析可交換債對股價的影響：** 雖然發行可交換債可能稀釋未來股權，但若市場認為資金運用得當，有利於公司長期發展，短期內反而可能提振股價。觀察台達電股價在消息公布後的反應，可作為未來類似事件的參考。
+*   **研究子公司價值與策略：** 台達電以泰達電股份作為交換標的，顯示泰達電在集團中的戰略地位和價值。深入研究泰達電的業務表現和前景，有助於更全面地評估台達電的投資價值。
+*   **比較同業表現：** 貼文中提及光寶科在同期股價表現平穩，這提供了一個對比視角。分析台達電與同業在面對市場消息時的不同反應，有助於理解各公司的市場定位、投資者信心和基本面差異。
+*   **學習金融術語：** 掌握「海外可交換公司債」、「溢價發行」等金融術語，對於理解財經新聞和投資決策至關重要。
+
+## 主文圖片
+
+原貼文主文有 1 張圖。本機 `tools/fetch_media.py` 會下載成 `raw/shot_*.md`。
+（下列網址帶簽章，約一週後失效，僅作線索。）
+
+1. https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/809465141_18190761451393886_1890954516810376708_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk4NjQ4MDYyMDY3MTA2MzUzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lafZi2WWZvIQ7kNvwHhcKXT&_nc_oc=AdqQfv4-6-Gd3Y70ZSa_p4ESLvzO7tnahbVTBdyStT_rMvKAxlqOPhimjTjCDhBopGY&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=mmi3y7FNKi_Lsht1i_3J8g&_nc_ss=7b689&oh=00_AQKBQtsGSLLH5sqFg_z8Lb5eY6V2IrlW98C-oYgneFbDEA&oe=6AB041FD
+
+## 原文（Jina Reader）
+
+```
+Title: USTV非凡新聞 on Instagram: "#台達電 今（15）日代子公司宣布啟動15億美元（約新台幣476億元）海外可交換公司債計畫，為業務擴張備妥資金。
+
+台達電代新加坡子公司DEISG公告，決議發行海外可交換公司債，總金額達15億美元，以持有的泰達電（DET）股份作為交換標的，分為1年期A券及5年期B券，初始交換價格分別較參考價格溢價15%及30%。
+
+台達電表示，募得資金將用於充實現有業務及未來拓展的營運資金。
+
+今日股價開低後迅速翻紅，盤中強彈近6%，重返1700元，反觀 #光寶科 則在平盤附近震盪。
+
+#熱門股 #台股 #盤中 #海外可交換債 #新聞 #非凡新聞"
+
+URL Source: https://www.instagram.com/p/DdS0wDTE9Xx/?stkn=MXR3NGdseDB2eTAyMQ==
+
+Markdown Content:
+[](https://www.instagram.com/)
+
+[Log In](https://www.instagram.com/accounts/login/?next=%2Fp%2FDdS0wDTE9Xx%2F%3Fstkn%3DMXR3NGdseDB2eTAyMQ%253D%253D&source=desktop_nav)
+
+[Sign Up](https://www.instagram.com/accounts/emailsignup/)
+
+![Image 1: ustvnews's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.75761-19/501275385_18140402074393886_2933014830327813084_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=wucSFIIK8DwQ7kNvwEqoWza&_nc_oc=AdqI2rh_Zv-mqTEx5hwuMiyYivvxa2BrAFFYhS3t5CS2o6ueIY4vz9_6PNq-Kcr0xvo&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=mmi3y7FNKi_Lsht1i_3J8g&_nc_ss=7b689&oh=00_AQKjaScHwwqyt5fjg-rH2_5VX96DJhEo2V6zE8pg1rxbhQ&oe=6AB0492A)
+
+Never miss a post from ustvnews
+
+Sign up for Instagram to stay in the loop.
+
+[Sign up](https://www.instagram.com/accounts/emailsignup/)
+
+[Log in](https://www.instagram.com/accounts/login/?source=desktop_dynamic_landing_dialog)
+
+![Image 2: Photo by USTV非凡新聞 on September 14, 2026. May be an image of text that says '非凡新聞 O 站回1700元 子公司發15億美元海外可交換債 台達電翻紅漲近6%'.](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/809465141_18190761451393886_1890954516810376708_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk4NjQ4MDYyMDY3MTA2MzUzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lafZi2WWZvIQ7kNvwHhcKXT&_nc_oc=AdqQfv4-6-Gd3Y70ZSa_p4ESLvzO7tnahbVTBdyStT_rMvKAxlqOPhimjTjCDhBopGY&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=mmi3y7FNKi_Lsht1i_3J8g&_nc_ss=7b689&oh=00_AQKBQtsGSLLH5sqFg_z8Lb5eY6V2IrlW98C-oYgneFbDEA&oe=6AB041FD)
+
+![Image 3: ustvnews's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.75761-19/501275385_18140402074393886_2933014830327813084_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=wucSFIIK8DwQ7kNvwEqoWza&_nc_oc=AdqI2rh_Zv-mqTEx5hwuMiyYivvxa2BrAFFYhS3t5CS2o6ueIY4vz9_6PNq-Kcr0xvo&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=mmi3y7FNKi_Lsht1i_3J8g&_nc_ss=7b689&oh=00_AQKjaScHwwqyt5fjg-rH2_5VX96DJhEo2V6zE8pg1rxbhQ&oe=6AB0492A)
+
+[ustvnews](https://www.instagram.com/ustvnews/)
+
+•
+
+Follow
+
+* * *
+
+[![Image 4: ustvnews's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.75761-19/501275385_18140402074393886_2933014830327813084_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=wucSFIIK8DwQ7kNvwEqoWza&_nc_oc=AdqI2rh_Zv-mqTEx5hwuMiyYivvxa2BrAFFYhS3t5CS2o6ueIY4vz9_6PNq-Kcr0xvo&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=mmi3y7FNKi_Lsht1i_3J8g&_nc_ss=7b689&oh=00_AQKjaScHwwqyt5fjg-rH2_5VX96DJhEo2V6zE8pg1rxbhQ&oe=6AB0492A)](https://www.instagram.com/ustvnews/)
+
+[ustvnews](https://www.instagram.com/ustvnews/)1d
+
+[#台達電](https://www.instagram.com/explore/tags/%E5%8F%B0%E9%81%94%E9%9B%BB/) 今（15）日代子公司宣布啟動15億美元（約新台幣476億元）海外可交換公司債計畫，為業務擴張備妥資金。  
+  
+台達電代新加坡子公司DEISG公告，決議發行海外可交換公司債，總金額達15億美元，以持有的泰達電（DET）股份作為交換標的，分為1年期A券及5年期B券，初始交換價格分別較參考價格溢價15%及30%。  
+  
+台達電表示，募得資金將用於充實現有業務及未來拓展的營運資金。  
+  
+今日股價開低後迅速翻紅，盤中強彈近6%，重返1700元，反觀 [#光寶科](https://www.instagram.com/explore/tags/%E5%85%89%E5%AF%B6%E7%A7%91/) 則在平盤附近震盪。  
+  
+[#熱門股](https://www.instagram.com/explore/tags/%E7%86%B1%E9%96%80%E8%82%A1/)[#台股](https://www.instagram.com/explore/tags/%E5%8F%B0%E8%82%A1/)[#盤中](https://www.instagram.com/explore/tags/%E7%9B%A4%E4%B8%AD/)[#海外可交換債](https://www.instagram.com/explore/tags/%E6%B5%B7%E5%A4%96%E5%8F%AF%E4%BA%A4%E6%8F%9B%E5%82%B5/)[#新聞](https://www.instagram.com/explore/tags/%E6%96%B0%E8%81%9E/)[#非凡新聞](https://www.instagram.com/explore/tags/%E9%9D%9E%E5%87%A1%E6%96%B0%E8%81%9E/)
+
+## No comments yet.
+
+Start the conversation.
+
+348
+
+[1 day ago](https://www.instagram.com/ustvnews/p/DdS0wDTE9Xx/)
+
+[Log in](https://www.instagram.com/accounts/login/?next=%2Fp%2FDdS0wDTE9Xx%2F&source=post_comment_input) to like or comment.
+
+* * *
+
+More posts from [ustvnews](https://www.instagram.com/ustvnews/)
+
+[![Image 5: Photo by USTV非凡新聞 on September 16, 2026. May be an image of text that says '非凡新聞 財經第一品牌 品 IIN EPS0.8元 EPS 0.8元 强源：非凡新聞 金居8月自結獲利年增123% 大摩目標價喊上7字頭'.](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/795430672_18190885771393886_6301048811829572912_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=0IhD67hSTjAQ7kNvwEFIQSC&_nc_oc=AdplhgsMKRoZvkbbB9NokaUsEu_ICYjp2BFVihsaCbBWO8EAF-IibG2xc0EIKyd-Tq4&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=mmi3y7FNKi_Lsht1i_3J8g&_nc_ss=7b689&oh=00_AQJWKlMN5_4LswNR4HslY2PDd08vKH-CB-FyXYAaTqv73Q&oe=6AB017F9)](https://www.instagram.com/ustvnews/p/DdV8ZgZk-bB/)
+
+[![Image 6: Video by USTV非凡新聞 on September 16, 2026. May be an image of one or more people, newspaper, newsroom and text that says '電 非 凡 新 聞 群益期貨分析師 徐模格 非凡 我 謝四！ 翻場 新聞 台股基本面非常强勁 Fed利率決議即將公布！ 台股漲337點觸46K'.](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/813177740_18190885381393886_1260483201063376423_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=pKIzJxahXZMQ7kNvwGVXvJW&_nc_oc=AdpN7Z2z_ZP6aeqDohsH2JDEwZurJhiwZyREpT6cbLjpKmsldL1JXf0SrZbnqCDar2A&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=mmi3y7FNKi_Lsht1i_3J8g&_nc_ss=7b689&oh=00_AQJ6-1josrno4TMBqS9Ki0cD88jXDSkYHA5nu6497QWkJw&oe=6AB029A8)](https://www.instagram.com/ustvnews/reel/DdV79h4uN84/)
+
+[![Image 7: Photo by USTV非凡新聞 on September 15, 2026.](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/797337134_18190876912393886_6832527568595481304_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=wLJWpdTmTDQQ7kNvwEpACy3&_nc_oc=AdokAMxW7FAF_iZDAAlWStybzJ0Jb4LOJmRxAvO-iWjXqRSGKAZUGNOiMCA1LJO5RF8&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=mmi3y7FNKi_Lsht1i_3J8g&_nc_ss=7b689&oh=00_AQIk7QpP8vmjydccTQCbsa9w6FJcH5I9e3BE4iN2OE9fdg&oe=6AB04BEB)](https://www.instagram.com/ustvnews/p/DdVsmvvkwDE/)
+
+[![Image 8: Photo by USTV非凡新聞 on September 15, 2026. May be an image of text that says '非凡新聞 財經第一品牌 一品 ី METEK 天機9600旗艦晶片亮相 收復5日、10日線 收復5日 10日線 聯發科强彈逾4% 4%'.](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/806280621_18190869136393886_6202895011593345511_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=f-Q44Zpk9CEQ7kNvwFchCoV&_nc_oc=AdrP1048iE4CXOZqasOi6aXWcl8F0xkAv58vRXIGNuAj7fWE2irAQl10tTnTIdlfqNE&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=mmi3y7FNKi_Lsht1i_3J8g&_nc_ss=7b689&oh=00_AQKEn5Af87U1aee3h7GpOH_mbkaOftkwG-t_DyfOtRENQg&oe=6AB02C8F)](https://www.instagram.com/ustvnews/p/DdVb7smk4SP/)
+
+[![Image 9: Video by USTV非凡新聞 on September 15, 2026. May be an image of one or more people, hair and text that says '非凡新聞 非凡新聞HD HD FEMEEETEELER! 比較小坪數的產品'.](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/795341840_18190868740393886_7587017992975857739_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=i29yZ7KOVIcQ7kNvwF6gybp&_nc_oc=AdpmgErExa1sxtiEVUWsIpNFDPbA5xvREaQYfW5QtBT8Q-4CJVZYtyx1f1YShy4eRsg&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=mmi3y7FNKi_Lsht1i_3J8g&_nc_ss=7b689&oh=00_AQILIAPqo4XkQWri-K_lhsltVYfC9AksayiyzLRqeucVZQ&oe=6AB0288D)](https://www.instagram.com/ustvnews/reel/DdVarryRd92/)
+
+[![Image 10: Photo by USTV非凡新聞 on September 15, 2026. May be an image of text that says '非凡新聞 財經第一品牌 光通訊復活 眾達-KY現增申購倒數亮燈 眾達- 光環 環、聯鈞等飆漲停 显源:Corporate+ :Corporate+'.](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/800259511_18190868185393886_4245819565772418266_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=m_C6nEY-dg0Q7kNvwEFvMoP&_nc_oc=Adrloz3WvpH-cW607RCArYtbkHVol1hreFDaAaVhmpIM2kmFuZjx2XgDr_BZecKLSYk&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=mmi3y7FNKi_Lsht1i_3J8g&_nc_ss=7b689&oh=00_AQI-LWLusB5FRtfcQGZWxBHlEXzyWt_eDHv4-BTAS4F6Ew&oe=6AB02F2F)](https://www.instagram.com/ustvnews/p/DdVaQbqkyqS/)
+
+[![Image 11: Photo by USTV非凡新聞 on September 15, 2026. May be an image of text that says '非凡新聞 財經第一品牌 財經第一品牌 시 馬斯克抛合併想像 美國首曝部署太空武器 低軌衛星股升空'.](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/813212443_18190867621393886_8438496093462310093_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=clk2IL6XX5kQ7kNvwHA_mu0&_nc_oc=AdrSbcO7Er2TWTn1jJBysjGqBngAbdAAKF80n2TtehGXFrnrNiS9Lk92wV6g-nwHQ0M&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=mmi3y7FNKi_Lsht1i_3J8g&_nc_ss=7b689&oh=00_AQKZbwDnaVbKhmYdFCPuuBTnyOPVSNYBQNXhvjjcv-Y1lA&oe=6AB0387F)](https://www.instagram.com/ustvnews/p/DdVZeUqk7dS/)
+
+[![Image 12: Photo by USTV非凡新聞 on September 15, 2026. May be an image of text that says '非凡新聞 財經第一品牌 品牌 ts tsme 權王除息秀 連5次當日達陣 台積電翻紅填息'.](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/795235048_18190866067393886_8586041411082515406_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jO3B-btOHhcQ7kNvwGb3-2c&_nc_oc=AdquhqmScpH6uSn-R32JTkce7K6qS-L_Pdg4fULahzBfOBD30eqhJbUEtxkbC9nuOP8&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=mmi3y7FNKi_Lsht1i_3J8g&_nc_ss=7b689&oh=00_AQKZqB-j6u8M1YlA_fJYAjhq7BarjwXZ8N1mtu1UtyfZQg&oe=6AB028ED)](https://www.instagram.com/ustvnews/p/DdVXEjek3ao/)
+
+[![Image 13: Photo by USTV非凡新聞 on September 15, 2026.](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/791942766_18190854238393886_72235045778360685_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=d9VSdzKUFqEQ7kNvwGfUplX&_nc_oc=AdryLTA0n8bJAlxhpbS-FHsgZC1GWeD4E6UY3V0jrpTvUuzj6RJoKi4DGTjOPb00WZY&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=mmi3y7FNKi_Lsht1i_3J8g&_nc_ss=7b689&oh=00_AQJgDb1cXJtytgHyBKRf1l_24APl9qxNFoOmXefGWAQwmA&oe=6AB0218F)](https://www.instagram.com/ustvnews/p/DdVCVf4kyym/)
+
+[See more posts](https://www.instagram.com/ustvnews/)
+
+* * *
+
+[Meta](https://about.meta.com/)
+
+[About](https://about.instagram.com/)
+
+[Blog](https://about.instagram.com/blog/)
+
+[Jobs](https://about.instagram.com/about-us/careers)
+
+[Help](https://help.instagram.com/)
+
+[API](https://developers.facebook.com/docs/instagram)
+
+[Privacy](https://www.instagram.com/legal/privacy/)
+
+[Terms](https://www.instagram.com/legal/terms/)
+
+[Locations](https://www.instagram.com/explore/locations/)
+
+[Popular](https://www.instagram.com/popular/)
+
+[Instagram Lite](https://www.instagram.com/web/lite/)
+
+[Meta AI](https://www.meta.ai/?utm_source=foa_web_footer)
+
+[Muse](https://muse.ai/)
+
+[Threads](https://www.threads.com/)
+
+[Contact Uploading & Non-Users](https://www.facebook.com/help/instagram/261704639352628)
+
+[Meta Verified](https://www.instagram.com/accounts/meta_verified/?entrypoint=web_footer)
+
+English
+
+© 2026 Instagram from Meta
+
+```
+
+## 相關頁面
+
+<!-- [[]] -->
