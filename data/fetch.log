@@ -330,3 +330,4 @@ curl failed to verify the legitimacy of the server and therefore could
 fatal: Could not read fro
 [2026-09-15 23:44:17] ⚠️ git pull 失敗，仍檢查本機指令：From https://github.com/darcon25/knowledgebase-transfer
  * branch            mai
+[2026-09-16 11:31:43] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
