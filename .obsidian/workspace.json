@@ -210,6 +210,12 @@
   },
   "active": "3886668973ea98a2",
   "lastOpenFiles": [
+    "tools/_verify_0916.py",
+    "tools/_finish_0916.py",
+    "tools/_append_0916_d.py",
+    "tools/_append_0916_c.py",
+    "tools/_append_0916_b.py",
+    "tools/_append_0916_a.py",
     "raw/assets/threads_2026-09-16_大摩AI機櫃PCB含量_01.jpg",
     "raw/assets/threads_2026-09-16_TrendForce供需鬆緊雷達_01.jpg",
     "raw/assets/threads_2026-09-16_AI伺服器六組交期瓶頸_01.jpg",
@@ -220,7 +226,6 @@
     "raw/assets/instagram_2026-09-16_台達電15億美元可交換債_01.jpg",
     "raw/assets/instagram_2026-09-16_奇鋐ASIC散熱升級_02.jpg",
     "raw/assets/instagram_2026-09-16_奇鋐ASIC散熱升級_01.jpg",
-    "raw/assets/instagram_2026-09-16_BloomEnergy燃料電池供電_01.jpg",
     "tools/_rename_assets_0916.py",
     "raw/threads_2026-09-16_RubinUltra架構降規.md",
     "raw/shot_2026-09-16_大摩AI機櫃PCB含量.md",
@@ -251,11 +256,6 @@
     "data/news/2026-09-16.json",
     "data/valuation/2026-09-16.json",
     "data/news/2026-09-15.json",
-    "data/valuation/2026-09-15.json",
-    "data/estimates/2383_台光電_福邦投顧_20260730.json",
-    "data/estimates",
-    "data/financials/2024Q3.json",
-    "data/financials/2024Q4.json",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
