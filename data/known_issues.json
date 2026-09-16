@@ -92,7 +92,9 @@
     "raw/instagram_2026-09-16_台達電15億美元可交換債.md": "2026-09-16 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-09-16_台達電15億美元可交換債.md",
     "raw/threads_2026-09-16_摩根大通GPU與ASIC出貨預測.md": "2026-09-16 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-09-16_摩根大通GPU與ASIC出貨預測.md",
     "raw/threads_2026-09-16_AI伺服器六組交期瓶頸.md": "2026-09-16 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-09-16_AI伺服器六組交期瓶頸.md",
-    "raw/threads_2026-09-16_RubinUltra架構降規.md": "2026-09-16 fetch_media 自動確認：主文沒有圖"
+    "raw/threads_2026-09-16_RubinUltra架構降規.md": "2026-09-16 fetch_media 自動確認：主文沒有圖",
+    "raw/instagram_2026-09-16_158w2d5o.md": "2026-09-17 fetch_media 自動補齊 2 張（圖、圖），見 raw/shot_2026-09-17_158w2d5o.md",
+    "raw/instagram_2026-09-16_dfmy5fe3.md": "2026-09-17 fetch_media 自動補齊 2 張（圖、圖），見 raw/shot_2026-09-17_dfmy5fe3.md"
   },
   "duplicate_accepted": {
     "https://www.threads.com/share/BAWtWRBFvr": "2026-09-14 同一則貼文（FOMO 研究院光模組）被傳了兩次，n8n 各存一份：raw/threads_2026-09-14_vtuypwd8.md（已補圖並消化）與 raw/threads_2026-09-14_pwhwol1r.md（純重複）。依 raw/ 唯讀原則不刪除，以 vtuypwd8 為主。"
