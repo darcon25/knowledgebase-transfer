@@ -644,3 +644,53 @@ If you wish to set tracking information for this branch you can do so with:
 
 [7] threads_2026-09-16_y2nmshm5.md
     https://www.threads.com/share/BASLJMU0NM
+    · 主文沒有圖
+
+===== 完成 =====
+處理 7 篇：補到圖 6 篇、確認沒圖 1 篇、失敗 0 篇
+[2026-09-16 19:42:33] 發現 6 個待讀圖檔案
+raw/shot_2026-09-16_4zjur0dm.md
+raw/shot_2026-09-16_e3bbhadz.md
+raw/shot_2026-09-16_n48zecyb.md
+raw/shot_2026-09-16_oo17t40t.md
+raw/shot_2026-09-16_orcx7gvl.md
+raw/shot_2026-09-16_vwclwdjt.md
+驗證通過：6 檔皆改完、佔位符清空，`raw/` 只有這 6 檔被修改，原始 threads_/instagram_ 筆記與 `wiki/` 完全沒動。
+
+讀了 **6 篇、7 張圖**（oo17t40t 是輪播抓到 2 張）。
+
+最有價值的是 **4zjur0dm**（GPU/ASIC 出貨量堆疊圖，2022–2028E 七個年度目測估讀成表，原本文字只剩「超過 2500 萬台」一句）與 **e3bbhadz**（工商時報表格，聯發科 48.10／瑞昱 11.90／聯詠 9.07 億美元，純文字摘要只留了名次）。**vwclwdjt** 的六組交期雖不在圖上，但「GPU 已回到平衡、瓶頸移到互補元件」是一則反市場共識的判斷，值得進鏈頁。
+
+三個交叉發現：4zjur0dm 目測的 ASIC 超車年（2027E）與 oo17t40t 圖上寫的「2027 ASIC 有望超越 GPU」**互相印證**；n48zecyb（資料中心缺電到要自己發電）與 orcx7gvl（台達電籌 15 億美元擴張）是同一因果鏈兩端。另外標了三個坑：oo17t40t **輪播缺 02–05 頁**、圖 1「奇鋐為何比健策便宜」在貼文裡從未被回答、原摘要把 LPU 擅自展開成「Liquid Processing Unit」缺乏出處。
+
+要我接著消化這批檔案進 wiki 嗎？（未消化清單目前有 26 個檔案）
+✅ 已送出
+✅ 頁面：新建 0、更新 76（營收 2026-08、估值 2026-09-16、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 11、動能轉折 15、值得推播 1 項
+[2026-09-16 21:13:57] 發現 26 個未消化檔案，啟動自動消化
+raw/instagram_2026-09-16_4gs6k1g4.md
+raw/instagram_2026-09-16_e3bbhadz.md
+raw/instagram_2026-09-16_n48zecyb.md
+raw/instagram_2026-09-16_oo17t40t.md
+raw/instagram_2026-09-16_orcx7gvl.md
+raw/instagram_2026-09-16_pe3npua6.md
+raw/shot_2026-09-16_4gs6k1g4.md
+raw/shot_2026-09-16_4zjur0dm.md
+raw/shot_2026-09-16_e3bbhadz.md
+raw/shot_2026-09-16_g980dlkr.md
+raw/shot_2026-09-16_n48zecyb.md
+raw/shot_2026-09-16_oo17t40t.md
+raw/shot_2026-09-16_orcx7gvl.md
+raw/shot_2026-09-16_qpty5bm5.md
+raw/shot_2026-09-16_tagaye72.md
+raw/shot_2026-09-16_vwclwdjt.md
+raw/shot_2026-09-16_wpy4125a.md
+raw/shot_2026-09-16_xqc1c1xk.md
+raw/threads_2026-09-16_4zjur0dm.md
+raw/threads_2026-09-16_g980dlkr.md
+raw/threads_2026-09-16_qpty5bm5.md
+raw/threads_2026-09-16_tagaye72.md
+raw/threads_2026-09-16_vwclwdjt.md
+raw/threads_2026-09-16_wpy4125a.md
+raw/threads_2026-09-16_xqc1c1xk.md
+raw/threads_2026-09-16_y2nmshm5.md

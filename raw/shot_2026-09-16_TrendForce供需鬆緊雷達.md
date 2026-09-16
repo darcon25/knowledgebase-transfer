@@ -4,26 +4,27 @@ tags:
   - screenshot
 type: screenshot
 date_captured: 2026-09-16
-image: assets/threads_2026-09-16_wpy4125a_01.jpg
+image: assets/threads_2026-09-16_TrendForce供需鬆緊雷達_01.jpg
 original_url: "https://www.threads.com/share/_qkD99vOO"
 image_count: 1
 expected_min: 1
 captured_by: fetch_media
-source_note: "threads_2026-09-16_wpy4125a.md"
+source_note: "threads_2026-09-16_TrendForce供需鬆緊雷達.md"
 status: 已讀圖
+original_id: wpy4125a
 ---
 
-# 📸 原貼文圖片 2026-09-16 — threads_2026-09-16_wpy4125a
+# 📸 原貼文圖片 2026-09-16 — threads_2026-09-16_TrendForce供需鬆緊雷達
 
 > 原始出處：https://www.threads.com/share/_qkD99vOO
-> 對應筆記：[[threads_2026-09-16_wpy4125a]]
+> 對應筆記：[[threads_2026-09-16_TrendForce供需鬆緊雷達]]
 
 **取得方式**：`tools/fetch_media.py` 從 Jina Reader 回傳的 markdown 取出主文圖片網址並下載。
 n8n 管道把這些網址丟掉了，所以由本機補。
 
 ## 圖片
 
-![[threads_2026-09-16_wpy4125a_01.jpg]]
+![[threads_2026-09-16_TrendForce供需鬆緊雷達_01.jpg]]
 
 ## 內容
 
@@ -86,4 +87,4 @@ n8n 管道把這些網址丟掉了，所以由本機補。
 - **GPU 是唯一 Balanced**，且註明 B300/GB300 自 2Q26 起如期出貨 → [[輝達法說會與AI資本支出]]、[[終端需求]]
 - 整體「瓶頸從晶片轉到週邊」的結構 → [[半導體結構性失衡]]、[[AI伺服器PCB鏈]]
 
-同批次另兩則貼文見 [[shot_2026-09-16_xqc1c1xk]]（大摩 AI 機櫃 PCB content）與 [[shot_2026-09-16_tagaye72]]（先進製程良率）。
+同批次另兩則貼文見 [[shot_2026-09-16_大摩AI機櫃PCB含量]]（大摩 AI 機櫃 PCB content）與 [[shot_2026-09-16_Intel18A良率追到80]]（先進製程良率）。

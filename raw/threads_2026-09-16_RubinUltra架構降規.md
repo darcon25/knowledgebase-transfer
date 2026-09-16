@@ -8,6 +8,7 @@ platform: threads
 date_captured: 2026-09-16
 original_url: "https://www.threads.com/share/BASLJMU0NM"
 media_count: 0
+original_id: y2nmshm5
 ---
 
 # 🧵 2026-09-16 存檔

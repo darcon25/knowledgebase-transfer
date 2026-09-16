@@ -4,26 +4,27 @@ tags:
   - screenshot
 type: screenshot
 date_captured: 2026-09-16
-image: assets/threads_2026-09-16_xqc1c1xk_01.jpg
+image: assets/threads_2026-09-16_大摩AI機櫃PCB含量_01.jpg
 original_url: "https://www.threads.com/share/BAUz_bUILK"
 image_count: 1
 expected_min: 1
 captured_by: fetch_media
-source_note: "threads_2026-09-16_xqc1c1xk.md"
+source_note: "threads_2026-09-16_大摩AI機櫃PCB含量.md"
 status: 已讀圖
+original_id: xqc1c1xk
 ---
 
-# 📸 原貼文圖片 2026-09-16 — threads_2026-09-16_xqc1c1xk
+# 📸 原貼文圖片 2026-09-16 — threads_2026-09-16_大摩AI機櫃PCB含量
 
 > 原始出處：https://www.threads.com/share/BAUz_bUILK
-> 對應筆記：[[threads_2026-09-16_xqc1c1xk]]
+> 對應筆記：[[threads_2026-09-16_大摩AI機櫃PCB含量]]
 
 **取得方式**：`tools/fetch_media.py` 從 Jina Reader 回傳的 markdown 取出主文圖片網址並下載。
 n8n 管道把這些網址丟掉了，所以由本機補。
 
 ## 圖片
 
-![[threads_2026-09-16_xqc1c1xk_01.jpg]]
+![[threads_2026-09-16_大摩AI機櫃PCB含量_01.jpg]]
 
 ## 內容
 
@@ -111,4 +112,4 @@ CF = Copper Foil（銅箔）。單位皆為 **US$ per rack（每機櫃美元）*
 - PCB 廠 → [[2368 金像電]]、[[4958 臻鼎-KY]]、[[2313 華通]]
 - 貼文文字另外帶到的 PTFE 線索（留言串裡的台虹、亞電）→ [[PTFE與材料世代轉換]]、[[8039 台虹]]
 
-同批次另兩則貼文見 [[shot_2026-09-16_wpy4125a]]（TrendForce 供需鬆緊表，ABF 是全表最緊）與 [[shot_2026-09-16_tagaye72]]（先進製程良率）。三則放在一起看：**含量在漲（本圖）、上游在缺（TrendForce）、製程競爭在變（Intel）**。
+同批次另兩則貼文見 [[shot_2026-09-16_TrendForce供需鬆緊雷達]]（TrendForce 供需鬆緊表，ABF 是全表最緊）與 [[shot_2026-09-16_Intel18A良率追到80]]（先進製程良率）。三則放在一起看：**含量在漲（本圖）、上游在缺（TrendForce）、製程競爭在變（Intel）**。
