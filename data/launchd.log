@@ -572,3 +572,75 @@ raw/threads_2026-09-15_gtf2gzvj.md
    數字不符: 0
    資料過期: 0
 ===== 2026-09-15 18:33:38 每日更新結束 =====
+----- git pull -----
+From https://github.com/darcon25/knowledgebase-transfer
+   b761b27..392de7f  main       -> origin/main
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> main
+
+⚠️ git pull 失敗，繼續用本機現有檔案（可能漏掉 n8n 新存的）
+===== 2026-09-16 18:39:26 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-09-16 18:39:27] === 開始抓取（64 檔）===
+[2026-09-16 18:39:28] ✅ 估值 61 檔（資料日 2026-09-15）
+[2026-09-16 18:39:29] ✅ 月營收 61 檔（2026-08）
+[2026-09-16 18:39:30] ✅ 毛利率 60 檔（2026Q2）
+[2026-09-16 18:55:19] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E9%87%91%E5%83%8F%E9%9B%BB%202368&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2026-09-16 19:41:34] ✅ 新聞 59/59 檔有結果
+[2026-09-16 19:41:34] === 抓取完成 ===
+⏭  2026Q2.json 已有 61 家，跳過
+⏭  2026Q1.json 已有 61 家，跳過
+⏭  2025Q4.json 已有 61 家，跳過
+⏭  2025Q3.json 已有 61 家，跳過
+⏭  2025Q2.json 已有 61 家，跳過
+⏭  2025Q1.json 已有 59 家，跳過
+⏭  2024Q4.json 已有 61 家，跳過
+⏭  2024Q3.json 已有 59 家，跳過
+
+完成：新增/更新 0 季，跳過 8 季
+
+[1] instagram_2026-09-16_e3bbhadz.md
+    https://www.instagram.com/p/DdSxryMEbLK/?stkn=MTViZDQ1N3U5ejB6NQ==
+    · 主文有 1 張
+      ✅ instagram_2026-09-16_e3bbhadz_01.jpg (316 KB)
+      📝 shot_2026-09-16_e3bbhadz.md
+
+[2] instagram_2026-09-16_n48zecyb.md
+    https://www.instagram.com/p/DdVib69ARlL/?stkn=aXpyeW9zdXM4bDlj
+    · 主文有 1 張
+      ✅ instagram_2026-09-16_n48zecyb_01.jpg (164 KB)
+      📝 shot_2026-09-16_n48zecyb.md
+
+[3] instagram_2026-09-16_oo17t40t.md
+    https://www.instagram.com/p/DdS9_UIAQ8k/?stkn=MWhtNm83NzF0cng1Zg==
+    · 主文有 2 張
+      ✅ instagram_2026-09-16_oo17t40t_01.jpg (159 KB)
+      ✅ instagram_2026-09-16_oo17t40t_02.jpg (349 KB)
+      📝 shot_2026-09-16_oo17t40t.md
+
+[4] instagram_2026-09-16_orcx7gvl.md
+    https://www.instagram.com/p/DdS0wDTE9Xx/?stkn=MXR3NGdseDB2eTAyMQ==
+    · 主文有 1 張
+      ✅ instagram_2026-09-16_orcx7gvl_01.jpg (219 KB)
+      📝 shot_2026-09-16_orcx7gvl.md
+
+[5] threads_2026-09-16_4zjur0dm.md
+    https://www.threads.com/share/BAMJjHBzUP
+    · 主文有 1 張
+      ✅ threads_2026-09-16_4zjur0dm_01.jpg (23 KB)
+      📝 shot_2026-09-16_4zjur0dm.md
+
+[6] threads_2026-09-16_vwclwdjt.md
+    https://www.threads.com/share/_4WNUw822
+    · 主文有 1 張
+      ✅ threads_2026-09-16_vwclwdjt_01.jpg (232 KB)
+      📝 shot_2026-09-16_vwclwdjt.md
+
+[7] threads_2026-09-16_y2nmshm5.md
+    https://www.threads.com/share/BASLJMU0NM
