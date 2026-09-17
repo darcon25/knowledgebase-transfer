@@ -735,3 +735,70 @@ If you wish to set tracking information for this branch you can do so with:
 
 ⚠️ git pull 失敗，繼續用本機現有檔案（可能漏掉 n8n 新存的）
 ===== 2026-09-17 18:43:38 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-09-17 18:43:39] === 開始抓取（64 檔）===
+[2026-09-17 18:43:39] ✅ 估值 61 檔（資料日 2026-09-16）
+[2026-09-17 18:43:48] ✅ 月營收 61 檔（2026-08）
+[2026-09-17 18:43:50] ✅ 毛利率 60 檔（2026Q2）
+[2026-09-17 19:00:18] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%BE%B7%E5%AE%8F%205475&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%BE%B7%E5%AE%8F%205475&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NewConnectionError("HTTPSConnection(host='news.google.com', port=443): Failed to establish a new connection: [Errno 51] Network is unreachable"))
+[2026-09-17 20:19:55] ✅ 新聞 59/59 檔有結果
+[2026-09-17 20:19:55] === 抓取完成 ===
+⏭  2026Q2.json 已有 61 家，跳過
+⏭  2026Q1.json 已有 61 家，跳過
+⏭  2025Q4.json 已有 61 家，跳過
+⏭  2025Q3.json 已有 61 家，跳過
+⏭  2025Q2.json 已有 61 家，跳過
+⏭  2025Q1.json 已有 59 家，跳過
+⏭  2024Q4.json 已有 61 家，跳過
+⏭  2024Q3.json 已有 59 家，跳過
+
+完成：新增/更新 0 季，跳過 8 季
+
+[1] instagram_2026-09-16_Anthropic算力承諾與IPO.md
+    https://www.instagram.com/p/DdTe1HhDt2j/?stkn=NmhoaGZqcGJtYmw2
+    · 主文有 1 張
+      ✅ instagram_2026-09-16_Anthropic算力承諾與IPO_01.jpg (191 KB)
+      📝 shot_2026-09-17_Anthropic算力承諾與IPO.md
+
+===== 完成 =====
+處理 1 篇：補到圖 1 篇、確認沒圖 0 篇、失敗 0 篇
+[2026-09-17 20:20:02] 發現 1 個待讀圖檔案
+raw/shot_2026-09-17_Anthropic算力承諾與IPO.md
+讀了 **1 篇 shot_ 檔、1 張圖**（`instagram_2026-09-16_Anthropic算力承諾與IPO_01.jpg`），是 TechNews 的資訊圖，已把 12 筆合約的金額、電力規模、時間全部抄成表格。
+
+最有價值的是這張圖本身：它把 Anthropic 單一客戶的算力承諾攤到供應商層級，已揭露金額加總 **5,168 億美元**、電力加總約 **14.9 GW**（兩個加總數字圖上沒寫，我從圖上數字算出並註明來源）。
+
+標了 7 個 ⚠️：配色沒照自己的圖例、「數百億／數十億」被塗成未揭露的灰、副標的合約期間與圈外的 2026～2027 時間對不上且沒說是簽約日還是上線日、標題 5,100 億只是下限、微軟與 NVIDIA 合併成一圈、Google 與 Google Cloud 分成兩筆可能重複、以及**整張圖完全沒有 IPO 內容**（檔名有但圖上沒有）。
+
+status 已改為 `已讀圖`，未動 raw/ 其他檔案，未寫 wiki/。
+✅ 已送出
+✅ 頁面：新建 0、更新 76（營收 2026-08、估值 2026-09-17、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 10、動能轉折 15、值得推播 2 項
+[2026-09-17 20:50:29] 發現 5 個未消化檔案，啟動自動消化
+raw/instagram_2026-09-16_158w2d5o.md
+raw/instagram_2026-09-16_dfmy5fe3.md
+raw/shot_2026-09-17_158w2d5o.md
+raw/shot_2026-09-17_Anthropic算力承諾與IPO.md
+raw/shot_2026-09-17_dfmy5fe3.md
+完成。5 個來源檔全部消化，**沒有一個點名台廠**，所以全走 A-2 主題線，未動任何公司頁、未動「我的論點」、未動 41 檔名單。
+
+**做了什麼**
+- **新建 2 個驅動因素頁**：`themes/AI資本支出的融資結構.md`（五大雲端＋輝達近 12 個月 capex＋研發 8,700 億美元、2026 年至今發債 3,200 億含 SPV）與 `themes/跨園區光傳輸與薄膜濾光片.md`（三道牆 → Scale-across → DWDM 96 波長 → 薄膜濾光片）。
+- **補進既有 7 頁**：資料中心電力（Anthropic 單一客戶約 14.9 GW）、輝達法說會與AI資本支出、長期合約LTA、AI-ASIC與GoogleTPU供應鏈、光收發模組與矽光子、CPO共同封裝光學、NvidiaCPX與Scale-out架構，全部以「🤖 2026-09-17 自動消化」起頭，未碰 AUTO 區塊。
+- **標出三組口徑打架**（發債占公債 68%／50%／70%、「近九成」是 capex 而「九倍」是發債、波長數 40～96 vs 48／96），並註明 Anthropic 那張圖完全沒提到 IPO、Google 與 Google Cloud 可能重複計算。
+- **改名 4 個亂碼檔**（`158w2d5o` → `AI發債熱潮推高美債殖利率`、`dfmy5fe3` → `跨園區光傳輸與薄膜濾光片`），frontmatter 已加 `original_id`，連同 4 個圖檔與 `known_issues.json`／`ingested.json`（現 149 筆）一併更新，`![[...]]` 嵌入驗證無斷鏈。同步更新 `overview.md`、`index.md`、`log.md`。
+
+**兩點要回報**：`git mv` 被權限擋下，改用一般搬移完成（git 仍會以相似度判定為改名）；另外查到 `index.md` 與 `log.md` 裡的 `[[wiki/topics/能源與基礎建設]]` 指向不存在的頁面，是本次之前就有的斷鏈，我沒有動它。
+✅ 已送出
+✅ 健檢完成：0 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 0
+   疑似截斷: 0
+   圖片未確認: 0
+   圖片張數對不上: 0
+   圖片連結壞掉: 0
+   圖片尚未判讀: 0
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+===== 2026-09-17 22:08:50 每日更新結束 =====
