@@ -802,3 +802,52 @@ raw/shot_2026-09-17_dfmy5fe3.md
    數字不符: 0
    資料過期: 0
 ===== 2026-09-17 22:08:50 每日更新結束 =====
+----- git pull -----
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> main
+
+⚠️ git pull 失敗，繼續用本機現有檔案（可能漏掉 n8n 新存的）
+===== 2026-09-18 18:45:50 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-09-18 18:45:50] === 開始抓取（64 檔）===
+[2026-09-18 18:45:53] ✅ 估值 61 檔（資料日 2026-09-17）
+[2026-09-18 18:45:54] ✅ 月營收 61 檔（2026-08）
+[2026-09-18 18:45:54] ✅ 毛利率 60 檔（2026Q2）
+[2026-09-18 18:47:27] ✅ 新聞 59/59 檔有結果
+[2026-09-18 18:47:27] === 抓取完成 ===
+⏭  2026Q2.json 已有 61 家，跳過
+⏭  2026Q1.json 已有 61 家，跳過
+⏭  2025Q4.json 已有 61 家，跳過
+⏭  2025Q3.json 已有 61 家，跳過
+⏭  2025Q2.json 已有 61 家，跳過
+⏭  2025Q1.json 已有 59 家，跳過
+⏭  2024Q4.json 已有 61 家，跳過
+⏭  2024Q3.json 已有 59 家，跳過
+
+完成：新增/更新 0 季，跳過 8 季
+
+===== 完成 =====
+處理 0 篇：補到圖 0 篇、確認沒圖 0 篇、失敗 0 篇
+[2026-09-18 18:47:28] 沒有待讀圖的檔案，不啟動 Claude
+✅ 頁面：新建 0、更新 76（營收 2026-08、估值 2026-09-18、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 9、動能轉折 15、值得推播 2 項
+[2026-09-18 18:47:28] 沒有未消化的檔案，不啟動 Claude
+✅ 健檢完成：0 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 0
+   疑似截斷: 0
+   圖片未確認: 0
+   圖片張數對不上: 0
+   圖片連結壞掉: 0
+   圖片尚未判讀: 0
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+===== 2026-09-18 18:47:29 每日更新結束 =====
