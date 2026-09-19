@@ -365,3 +365,5 @@ fatal: Could not read fro
 [2026-09-19 18:30:10] ✅ 毛利率 60 檔（2026Q2）
 [2026-09-19 18:47:16] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%AE%8F%E5%92%8C%201446&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%AE%8F%E5%92%8C%201446&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
 [2026-09-19 19:05:48] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E4%B8%96%E8%8A%AF-KY%203661&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Read timed out. (read timeout=30)
+[2026-09-19 20:00:54] ✅ 新聞 59/59 檔有結果
+[2026-09-19 20:00:54] === 抓取完成 ===
