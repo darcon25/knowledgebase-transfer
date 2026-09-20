@@ -902,3 +902,49 @@ If you wish to set tracking information for this branch you can do so with:
    數字不符: 0
    資料過期: 0
 ===== 2026-09-19 20:00:57 每日更新結束 =====
+----- git pull -----
+fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': Could not resolve host: github.com
+⚠️ git pull 失敗，繼續用本機現有檔案（可能漏掉 n8n 新存的）
+===== 2026-09-20 18:38:49 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-09-20 18:38:49] === 開始抓取（64 檔）===
+[2026-09-20 18:38:49] ⚠️  第 1/3 次失敗：https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL — HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/exchangeReport/BWIBBU_ALL (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-09-20 18:38:54] ⚠️  第 2/3 次失敗：https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL — HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/exchangeReport/BWIBBU_ALL (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-09-20 18:38:59] ⚠️  第 3/3 次失敗：https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL — HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/exchangeReport/BWIBBU_ALL (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-09-20 18:38:59] ❌ 抓取中止：https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL 重試 3 次仍失敗：HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/exchangeReport/BWIBBU_ALL (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
+⏭  2026Q2.json 已有 61 家，跳過
+⏭  2026Q1.json 已有 61 家，跳過
+⏭  2025Q4.json 已有 61 家，跳過
+⏭  2025Q3.json 已有 61 家，跳過
+⏭  2025Q2.json 已有 61 家，跳過
+⏭  2025Q1.json 已有 59 家，跳過
+⏭  2024Q4.json 已有 61 家，跳過
+⏭  2024Q3.json 已有 59 家，跳過
+
+完成：新增/更新 0 季，跳過 8 季
+
+===== 完成 =====
+處理 0 篇：補到圖 0 篇、確認沒圖 0 篇、失敗 0 篇
+[2026-09-20 18:39:00] 沒有待讀圖的檔案，不啟動 Claude
+✅ 頁面：新建 0、更新 76（營收 2026-08、估值 2026-09-19、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 9、動能轉折 15、值得推播 3 項
+[2026-09-20 18:39:00] 沒有未消化的檔案，不啟動 Claude
+⚠️  推播第 1/3 次失敗（連線失敗）
+⚠️  推播第 1/3 次失敗（連線失敗）
+⚠️  推播第 2/3 次失敗（連線失敗）
+⚠️  推播第 2/3 次失敗（連線失敗）
+⚠️  推播第 3/3 次失敗（連線失敗）
+⚠️  推播第 3/3 次失敗（連線失敗）
+✅ 健檢完成：0 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 0
+   疑似截斷: 0
+   圖片未確認: 0
+   圖片張數對不上: 0
+   圖片連結壞掉: 0
+   圖片尚未判讀: 0
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+⚠️ 失敗階段：抓取 
+===== 2026-09-20 18:39:10 每日更新結束 =====
