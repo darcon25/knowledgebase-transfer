@@ -1,0 +1,124 @@
+---
+tags:
+  - source
+  - social_media
+  - threads
+type: social_media
+platform: threads
+date_captured: 2026-09-21
+original_url: "https://www.threads.com/share/_skN32vEm"
+media_count: 6
+media_urls:
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/819524128_18115183714855954_5630740070192265938_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5MDkzMjA4MTk3MTk5Mzk2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=hOZKrqjzBEcQ7kNvwE334jl&_nc_oc=Adqd94DaUQMHWHlYXMu1PYiQ8iwU0pinoCdWXvpyDptO5yolOnDNvsHkWyreXS3DesQ&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQKNG5ENj8EJeHEv9ELSD2u6cm9DiEj8NIbj9slcPWYhxg&oe=6AB69BC0"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/819272079_18115183225855954_2752964536474352044_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5MDkzMjQ4MzYyNTAwNzE4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=lgTS9Ud3ntIQ7kNvwHERwgY&_nc_oc=AdrB0H6PsleL770LLq8CHEt4m3n3G0dEAjO_D7NX_LMCSfTO1rMi6XaLkGLxTkQeinc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQK3_9LsbQ7PVRBcUqsNBhr67nGOSBgW6qjmmF5ag6ooTQ&oe=6AB6BCDB"
+  - "https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/809146742_18115183681855954_3721161511291472859_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk5MDkzMjA4MzEyOTQ2MzgwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=w7AIvNhaDx4Q7kNvwEonL9Y&_nc_oc=AdoAlgR8dWMycV7lMLXrN2vLCMts1n20wB-A2sI3ERffQEUHbiOiKE0g4YOmIeg5UBY&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQJrsyhcS2NIuTK_aRSiLTiZEGRu92TVQ_M3DpZ9CrkNxQ&oe=6AB6AE39"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/819483145_18115183711855954_7438722991963102322_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5MDkzMjA4MzQwNjMzMDI2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=lFEBr1O3EhoQ7kNvwE6l5w-&_nc_oc=AdoHRcgARC0PHBM6-5-2trTcXn_qu7yQ2xrlXVLrOMbFMsSdrA2dXpElU-2q7ka5dQw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQIrOd-auGejpW3vHdsJWiKQrIzUuoD8oNFhGmwmGddIdg&oe=6AB6B044"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/809039486_18115183690855954_9157766527133028002_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk5MDkzMjA4NDM4Nzk3NTY4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=yTkFTfDZ068Q7kNvwGt51Ft&_nc_oc=AdqIxRApkjr20HTP6yVCK_aPttU1QWxlCCOnwXgkpBnqzfqq329fx1Z3hunTXzmXfG0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQJZzt8RY2sg-r75Rhku8l_MZYwFM6CaMCZ2g5HTokj9Hg&oe=6AB6B2AC"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/808008304_18115183717855954_6937191540159854510_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5MDkzMjA4NDU4OTE1Mzk3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=1uoHcGzdHxsQ7kNvwHQMQGP&_nc_oc=AdovLzkTKaxEulVBF6TXSKTZ8DoKmDdHSBrjuG4JWlht-uiZnKo3HPfs3uiilWfXIY0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQKBAJEurryVlF2PbEED-CO_eFx0Upb8hs-wnX_EtnAQ4A&oe=6AB6C419"
+---
+
+# 🧵 2026-09-21 存檔
+
+> 原文：[查看貼文](https://www.threads.com/share/_skN32vEm)
+
+## 摘要
+這篇貼文分析了台股緯穎近期股價大跌65.8%的現象，指出其基本面營收擴張與二級市場評價嚴重脫鉤，主因是產品平均售價面臨下修壓力。儘管緯穎營收成長強勁且客戶多為美系大型雲端服務商，但高度集中的客戶結構使其在平均售價走弱時難以維持利潤，同時也面臨AI伺服器需求不如預期、一般伺服器復甦緩慢及市場競爭加劇等潛在風險。
+
+## 重點整理
+*   **股價與基本面脫鉤：** 緯穎近20個交易日跌幅達65.8%，但營收仍持續擴張，顯示二級市場評價與基本面出現嚴重脫鉤。
+*   **平均售價下修壓力：** 股價下跌的關鍵因素是出貨放量過程中，產品平均售價面臨下修壓力，影響公司利潤。
+*   **營收成長與客戶結構：** 緯穎營收成長強勁，2026年8月營收年增50.4%，累計營收達8166.58億元。客戶高度集中於美系大型雲端服務商，亞馬遜、Meta、微軟合計佔比達96%。
+*   **生產基地擴張：** 公司正加速擴充美國、墨西哥與馬來西亞生產基地，以應對北美主要雲端客戶的拉貨需求。
+*   **潛在風險：** 主要風險包括AI伺服器需求成長不如預期、一般伺服器需求復甦緩慢，以及伺服器ODM市場競爭加劇。
+
+## 關鍵概念
+*   **二級市場評價脫鉤：** 指股票市場的價格表現與公司實際的營運狀況（如營收、獲利）出現不一致的現象。
+*   **平均售價 (ASP, Average Selling Price)：** 產品的平均銷售價格，是影響公司營收和毛利率的重要指標。
+*   **客戶集中度：** 指公司營收過度依賴少數幾個大客戶的程度。高客戶集中度可能帶來較高的經營風險。
+*   **ODM (Original Design Manufacturer)：** 原始設計製造商，指公司負責產品的設計與製造，再由品牌商銷售。
+*   **AI伺服器：** 專為人工智慧應用設計的伺服器，通常配備高性能GPU，用於訓練和推論AI模型。
+
+## 可行動洞察
+*   **深入研究緯穎財報：** 針對緯穎的毛利率、淨利率變化趨勢進行深入分析，特別關注平均售價對獲利的影響。
+*   **評估客戶集中風險：** 檢視緯穎主要客戶的未來資本支出計畫和供應鏈策略，評估其對緯穎營收穩定性的潛在影響。
+*   **追蹤AI伺服器市場動態：** 持續關注AI伺服器需求的實際成長情況，以及主要雲端服務商的AI投資進度，以判斷緯穎相關業務的潛力。
+*   **比較ODM同業：** 分析伺服器ODM市場的競爭格局，比較緯穎與其他競爭對手在技術、成本、客戶關係等方面的優劣勢。
+*   **關注生產基地擴張效益：** 追蹤緯穎新擴建生產基地的投產進度及對營運成本、供應鏈彈性的影響。
+
+## 主文圖片
+
+原貼文主文有 6 張圖。本機 `tools/fetch_media.py` 會下載成 `raw/shot_*.md`。
+（下列網址帶簽章，約一週後失效，僅作線索。）
+
+1. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/819524128_18115183714855954_5630740070192265938_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5MDkzMjA4MTk3MTk5Mzk2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=hOZKrqjzBEcQ7kNvwE334jl&_nc_oc=Adqd94DaUQMHWHlYXMu1PYiQ8iwU0pinoCdWXvpyDptO5yolOnDNvsHkWyreXS3DesQ&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQKNG5ENj8EJeHEv9ELSD2u6cm9DiEj8NIbj9slcPWYhxg&oe=6AB69BC0
+2. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/819272079_18115183225855954_2752964536474352044_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5MDkzMjQ4MzYyNTAwNzE4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=lgTS9Ud3ntIQ7kNvwHERwgY&_nc_oc=AdrB0H6PsleL770LLq8CHEt4m3n3G0dEAjO_D7NX_LMCSfTO1rMi6XaLkGLxTkQeinc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQK3_9LsbQ7PVRBcUqsNBhr67nGOSBgW6qjmmF5ag6ooTQ&oe=6AB6BCDB
+3. https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/809146742_18115183681855954_3721161511291472859_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk5MDkzMjA4MzEyOTQ2MzgwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=w7AIvNhaDx4Q7kNvwEonL9Y&_nc_oc=AdoAlgR8dWMycV7lMLXrN2vLCMts1n20wB-A2sI3ERffQEUHbiOiKE0g4YOmIeg5UBY&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQJrsyhcS2NIuTK_aRSiLTiZEGRu92TVQ_M3DpZ9CrkNxQ&oe=6AB6AE39
+4. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/819483145_18115183711855954_7438722991963102322_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5MDkzMjA4MzQwNjMzMDI2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=lFEBr1O3EhoQ7kNvwE6l5w-&_nc_oc=AdoHRcgARC0PHBM6-5-2trTcXn_qu7yQ2xrlXVLrOMbFMsSdrA2dXpElU-2q7ka5dQw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQIrOd-auGejpW3vHdsJWiKQrIzUuoD8oNFhGmwmGddIdg&oe=6AB6B044
+5. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/809039486_18115183690855954_9157766527133028002_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk5MDkzMjA4NDM4Nzk3NTY4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=yTkFTfDZ068Q7kNvwGt51Ft&_nc_oc=AdqIxRApkjr20HTP6yVCK_aPttU1QWxlCCOnwXgkpBnqzfqq329fx1Z3hunTXzmXfG0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQJZzt8RY2sg-r75Rhku8l_MZYwFM6CaMCZ2g5HTokj9Hg&oe=6AB6B2AC
+6. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/808008304_18115183717855954_6937191540159854510_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5MDkzMjA4NDU4OTE1Mzk3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=1uoHcGzdHxsQ7kNvwHQMQGP&_nc_oc=AdovLzkTKaxEulVBF6TXSKTZ8DoKmDdHSBrjuG4JWlht-uiZnKo3HPfs3uiilWfXIY0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQKBAJEurryVlF2PbEED-CO_eFx0Upb8hs-wnX_EtnAQ4A&oe=6AB6C419
+
+## 原文（Jina Reader）
+
+```
+Title: @AHIJournal投資筆記 (@ahijournal) on Threads
+
+URL Source: https://www.threads.com/share/_skN32vEm
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread](https://www.threads.com/@ahijournal/post/Ddio_Txib87?xmt=AQG01GVZxnPu1_OWfh30bHcQI4uTAcUhvmmznzjr7lvXGWCjv7fzD7BXFNzn7vTDDdUTWA0&slof=1)
+
+[![Image 1: ahijournal's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/796460789_18113763121855954_4899095159826015930_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzIifQ%3D%3D&_nc_ohc=Zzhf5jTEI1sQ7kNvwHPf5pr&_nc_oc=AdqwcQR90IBv8SdWbncMtBvzF6GEtO_CNn0cWq8Bi20aEjGkUSoQyd3SnG7pcZimO3s&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQJhe8Dg8nPs-Du_GKhrUtIeABYOMThkyCrtnA6zHCdMAQ&oe=6AB6C0F9)](https://www.threads.com/@ahijournal)
+
+[ahijournal](https://www.threads.com/@ahijournal)
+
+[台股](https://www.threads.com/search?q=%E5%8F%B0%E8%82%A1&serp_type=tags&tag_id=18280855960087606)
+
+[7m](https://www.threads.com/@ahijournal/post/Ddio_Txib87)
+
+緯穎近 20 個交易日跌幅達 65.8%，
+
+目前基本面營收擴張與二級市場評價出現嚴重脫鉤，關鍵在於出貨放量過程中產品平均售價面臨下修壓力。從最新營運軌跡來看，2026 年 8 月營收達 1443.12 億元，較去年同期成長 50.4%，今年前 8 個月累計營收已達 8166.58 億元，且今年剩餘 4 個月待公告，營運規模並未失速。
+
+在業務占比方面，報告揭露客戶結構高度集中於美系大型雲端服務商：亞馬遜佔比達 49%、Meta佔 29%、微軟佔 18%，其餘如甲骨文與超微亦有合作。產品組合涵蓋一般伺服器、AMD Helios機架及GB系列機架。雖然出貨端受惠北美主要雲端客戶擴大拉貨，且公司正加速擴充美國、墨西哥與馬來西亞生產基地，但單一客戶比重過高意味著平均售價走弱時難以透過轉嫁維持利潤。
+
+反方論點主要鎖定 3 大潛在風險：
+
+首先是AI伺服器需求成長若弱於預期，產能擴張將壓抑營運彈性；其次是一般伺服器需求復甦緩慢，將加重單一產品線負擔；最後是伺服器ODM市場競爭加劇。
+
+![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/819524128_18115183714855954_5630740070192265938_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5MDkzMjA4MTk3MTk5Mzk2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=hOZKrqjzBEcQ7kNvwE334jl&_nc_oc=Adqd94DaUQMHWHlYXMu1PYiQ8iwU0pinoCdWXvpyDptO5yolOnDNvsHkWyreXS3DesQ&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQKNG5ENj8EJeHEv9ELSD2u6cm9DiEj8NIbj9slcPWYhxg&oe=6AB69BC0)
+
+![Image 3](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/819272079_18115183225855954_2752964536474352044_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5MDkzMjQ4MzYyNTAwNzE4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=lgTS9Ud3ntIQ7kNvwHERwgY&_nc_oc=AdrB0H6PsleL770LLq8CHEt4m3n3G0dEAjO_D7NX_LMCSfTO1rMi6XaLkGLxTkQeinc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQK3_9LsbQ7PVRBcUqsNBhr67nGOSBgW6qjmmF5ag6ooTQ&oe=6AB6BCDB)
+
+![Image 4](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/809146742_18115183681855954_3721161511291472859_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk5MDkzMjA4MzEyOTQ2MzgwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=w7AIvNhaDx4Q7kNvwEonL9Y&_nc_oc=AdoAlgR8dWMycV7lMLXrN2vLCMts1n20wB-A2sI3ERffQEUHbiOiKE0g4YOmIeg5UBY&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQJrsyhcS2NIuTK_aRSiLTiZEGRu92TVQ_M3DpZ9CrkNxQ&oe=6AB6AE39)
+
+![Image 5](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/819483145_18115183711855954_7438722991963102322_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5MDkzMjA4MzQwNjMzMDI2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=lFEBr1O3EhoQ7kNvwE6l5w-&_nc_oc=AdoHRcgARC0PHBM6-5-2trTcXn_qu7yQ2xrlXVLrOMbFMsSdrA2dXpElU-2q7ka5dQw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQIrOd-auGejpW3vHdsJWiKQrIzUuoD8oNFhGmwmGddIdg&oe=6AB6B044)
+
+![Image 6](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/809039486_18115183690855954_9157766527133028002_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk5MDkzMjA4NDM4Nzk3NTY4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=yTkFTfDZ068Q7kNvwGt51Ft&_nc_oc=AdqIxRApkjr20HTP6yVCK_aPttU1QWxlCCOnwXgkpBnqzfqq329fx1Z3hunTXzmXfG0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQJZzt8RY2sg-r75Rhku8l_MZYwFM6CaMCZ2g5HTokj9Hg&oe=6AB6B2AC)
+
+![Image 7](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/808008304_18115183717855954_6937191540159854510_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5MDkzMjA4NDU4OTE1Mzk3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=1uoHcGzdHxsQ7kNvwHQMQGP&_nc_oc=AdovLzkTKaxEulVBF6TXSKTZ8DoKmDdHSBrjuG4JWlht-uiZnKo3HPfs3uiilWfXIY0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=E0kkudEtfUdsc8UXdQdEPw&_nc_ss=7b289&oh=00_AQKBAJEurryVlF2PbEED-CO_eFx0Upb8hs-wnX_EtnAQ4A&oe=6AB6C419)
+
+4
+
+1
+
+1
+
+Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+
+*   © 2026
+*   [Threads Terms](https://help.instagram.com/769983657850450)
+*   [Privacy Policy](https://help.instagram.com/515230437301944)
+*   [Cookies Policy](https://help.instagram.com/1896641480634370/)
+*   Report a problem
+
+```
+
+## 相關頁面
+
+<!-- [[]] -->
