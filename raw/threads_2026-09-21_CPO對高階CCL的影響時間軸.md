@@ -8,6 +8,7 @@ platform: threads
 date_captured: 2026-09-21
 original_url: "https://www.threads.com/share/__HyenIPt"
 media_count: 0
+original_id: cvixfvjc
 ---
 
 # 🧵 2026-09-21 存檔

@@ -1006,3 +1006,28 @@ raw/threads_2026-09-21_cq2qq8ih.md
 raw/threads_2026-09-21_cvixfvjc.md
 raw/threads_2026-09-21_uqfxqh5s.md
 raw/threads_2026-09-21_xev9n41v.md
+19 個檔案都被 git 認定為改名（無刪除），驗證通過。
+
+**做了什麼**
+
+消化 11 個來源檔（7 則貼文 + 4 張讀圖），全部走投資線。**新增 1 頁** `wiki/investing/themes/CoWoS-L與EMIB-T封裝路線之爭.md`（已在 `overview.md` 與 `index.md` 加連結，非孤島頁），並補進 5 個驅動因素頁（CPU市佔與ARM競爭、HBM4與先進封裝、AI-ASIC與GoogleTPU供應鏈、AI資本支出的融資結構、CPO共同封裝光學）、5 個環節頁（CCL、封測、設備、載板、終端需求）、`AI伺服器PCB鏈`（新增一組矛盾訊號：終端客戶的資產負債表），以及 **10 個公司頁**的事件時間軸：2383、6274、6213、2330、3711、3037、3189、8046、3231、2382。
+
+**三個重點**：①這是知識庫第一條 CPU 路線（CPU socket → ABF 載板 → 先進封裝 → 伺服器 ODM），但那張對照表的 ✔／△ 是「公開揭露程度」不是營收占比，AMD 欄全 ✔ 是取樣偏誤；②TrendForce 說 CoWoS-L 守到 2028，但規格表顯示 2028 年 Intel EMIB-T 的 HBM 模組數 >24 反而更高——優勢在良率而良率數字圖上沒有；③CoreWeave 與緯穎構成「訂單看得到、利潤留不住」的新矛盾，壓力目前還沒傳到上游營收。
+
+**收尾**：11 個亂碼檔名已 `git mv` 改為可讀主題（`original_id` 保留於 frontmatter），連同 8 個圖檔與其引用、`known_issues.json`、`media_retry.json` 一併更新；`ingested.json` 149 → 160 筆；`index.md`、`log.md` 已更新。依規則未建 insights 頁、未改任何「我的論點」、未動 41 檔名單（欣銓 3264、緯穎 6669、LOTES 3533 皆不在名單內，已記為待決定的覆蓋缺口）。
+
+兩點要告知：**`tools/health_check.py` 我跑不起來**（此環境的 `python3` 沒有 `requests`，就是 CLAUDE.md 記過的那個坑；改用 Homebrew python 的指令被權限擋下），所以機械層健檢未驗證——我改用自己的檢查確認「圖檔嵌入無斷連結、ingested 路徑全部存在、三個 JSON 皆合法」。另外 `.obsidian/workspace.json` 的最近開啟清單仍留有舊檔名，那是 Obsidian 暫存，我沒有手動改。
+✅ 已送出
+✅ 健檢完成：9 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 2
+   疑似截斷: 0
+   圖片未確認: 3
+   圖片張數對不上: 4
+   圖片連結壞掉: 0
+   圖片尚未判讀: 0
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+===== 2026-09-22 00:48:20 每日更新結束 =====

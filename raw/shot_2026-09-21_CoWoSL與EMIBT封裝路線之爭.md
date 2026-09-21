@@ -4,32 +4,33 @@ tags:
   - screenshot
 type: screenshot
 date_captured: 2026-09-21
-image: assets/threads_2026-09-21_aormonoj_01.jpg
+image: assets/threads_2026-09-21_CoWoSL與EMIBT封裝路線之爭_01.jpg
 original_url: "https://www.threads.com/share/_wHgwVlUD"
 image_count: 4
 expected_min: 4
 captured_by: fetch_media
-source_note: "threads_2026-09-21_aormonoj.md"
+source_note: "threads_2026-09-21_CoWoSL與EMIBT封裝路線之爭.md"
 status: 已讀圖
+original_id: aormonoj
 ---
 
-# 📸 原貼文圖片 2026-09-21 — threads_2026-09-21_aormonoj
+# 📸 原貼文圖片 2026-09-21 — threads_2026-09-21_CoWoSL與EMIBT封裝路線之爭
 
 > 原始出處：https://www.threads.com/share/_wHgwVlUD
-> 對應筆記：[[threads_2026-09-21_aormonoj]]
+> 對應筆記：[[threads_2026-09-21_CoWoSL與EMIBT封裝路線之爭]]
 
 **取得方式**：`tools/fetch_media.py` 從 Jina Reader 回傳的 markdown 取出主文圖片網址並下載。
 n8n 管道把這些網址丟掉了，所以由本機補。
 
 ## 圖片
 
-![[threads_2026-09-21_aormonoj_01.jpg]]
+![[threads_2026-09-21_CoWoSL與EMIBT封裝路線之爭_01.jpg]]
 
-![[threads_2026-09-21_aormonoj_02.jpg]]
+![[threads_2026-09-21_CoWoSL與EMIBT封裝路線之爭_02.jpg]]
 
-![[threads_2026-09-21_aormonoj_03.jpg]]
+![[threads_2026-09-21_CoWoSL與EMIBT封裝路線之爭_03.jpg]]
 
-![[threads_2026-09-21_aormonoj_04.jpg]]
+![[threads_2026-09-21_CoWoSL與EMIBT封裝路線之爭_04.jpg]]
 
 ## 內容
 
@@ -131,7 +132,7 @@ n8n 管道把這些網址丟掉了，所以由本機補。
 
 **與其他 shot 檔的關係**
 
-- [[shot_2026-09-21_7kptbv00]]——同一天的台廠 CPU 供應鏈圖，其中 ASEH（$3711）與 PTI（$6239）的 EFB 封裝、三家 ABF 載板廠，正是本組圖「受惠鏈」裡的「先進封裝」與「基板」。兩張圖一個講技術路線、一個講台廠對應，**合起來才是完整的一條鏈**。
-- [[shot_2026-09-21_uqfxqh5s]]——講封測廠欣銓的 ASIC CP 測試訂單；本組圖 2、圖 3 說明的正是「雲端自研 ASIC 起量」這個上游動能，兩者是同一個故事的上下游。
+- [[shot_2026-09-21_台廠CPU供應鏈對照表]]——同一天的台廠 CPU 供應鏈圖，其中 ASEH（$3711）與 PTI（$6239）的 EFB 封裝、三家 ABF 載板廠，正是本組圖「受惠鏈」裡的「先進封裝」與「基板」。兩張圖一個講技術路線、一個講台廠對應，**合起來才是完整的一條鏈**。
+- [[shot_2026-09-21_中信投顧欣銓目標價400元]]——講封測廠欣銓的 ASIC CP 測試訂單；本組圖 2、圖 3 說明的正是「雲端自研 ASIC 起量」這個上游動能，兩者是同一個故事的上下游。
 
-**原始貼文**：[[threads_2026-09-21_aormonoj]]（@vuexon0829，2026-09-21）
+**原始貼文**：[[threads_2026-09-21_CoWoSL與EMIBT封裝路線之爭]]（@vuexon0829，2026-09-21）

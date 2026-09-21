@@ -4,26 +4,27 @@ tags:
   - screenshot
 type: screenshot
 date_captured: 2026-09-21
-image: assets/threads_2026-09-21_cq2qq8ih_01.jpg
+image: assets/threads_2026-09-21_CoreWeave財報亮點與風險_01.jpg
 original_url: "https://www.threads.com/share/BAV5UvsKlR"
 image_count: 1
 expected_min: 1
 captured_by: fetch_media
-source_note: "threads_2026-09-21_cq2qq8ih.md"
+source_note: "threads_2026-09-21_CoreWeave財報亮點與風險.md"
 status: 已讀圖
+original_id: cq2qq8ih
 ---
 
-# 📸 原貼文圖片 2026-09-21 — threads_2026-09-21_cq2qq8ih
+# 📸 原貼文圖片 2026-09-21 — threads_2026-09-21_CoreWeave財報亮點與風險
 
 > 原始出處：https://www.threads.com/share/BAV5UvsKlR
-> 對應筆記：[[threads_2026-09-21_cq2qq8ih]]
+> 對應筆記：[[threads_2026-09-21_CoreWeave財報亮點與風險]]
 
 **取得方式**：`tools/fetch_media.py` 從 Jina Reader 回傳的 markdown 取出主文圖片網址並下載。
 n8n 管道把這些網址丟掉了，所以由本機補。
 
 ## 圖片
 
-![[threads_2026-09-21_cq2qq8ih_01.jpg]]
+![[threads_2026-09-21_CoreWeave財報亮點與風險_01.jpg]]
 
 ## 內容
 
@@ -93,7 +94,7 @@ n8n 管道把這些網址丟掉了，所以由本機補。
 
 **與其他 shot 檔的關係**
 
-- [[shot_2026-09-21_aormonoj]]——那組圖說「雲端業者自研 ASIC 帶動封裝升級」，講的是需求端的技術動能；這張圖講的是**同一批客戶付錢的能力**。兩者是同一枚硬幣的兩面，**一起讀才不會只看到成長不看到槓桿**。
+- [[shot_2026-09-21_CoWoSL與EMIBT封裝路線之爭]]——那組圖說「雲端業者自研 ASIC 帶動封裝升級」，講的是需求端的技術動能；這張圖講的是**同一批客戶付錢的能力**。兩者是同一枚硬幣的兩面，**一起讀才不會只看到成長不看到槓桿**。
 
-**原始貼文**：[[threads_2026-09-21_cq2qq8ih]]（@unclestocknotes，2026-09-21）
+**原始貼文**：[[threads_2026-09-21_CoreWeave財報亮點與風險]]（@unclestocknotes，2026-09-21）
 **延伸原文**：貼文附 Substack 連結（CRWV 與 NBIS 的比較），該長文內容不在本圖中。

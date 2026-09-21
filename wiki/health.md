@@ -1,11 +1,11 @@
 ---
 tags: [health]
-updated: 2026-09-20
+updated: 2026-09-22
 ---
 
 # 知識庫健檢
 
-**檢查時間**：2026-09-20 18:39　**發現問題**：0 項
+**檢查時間**：2026-09-22 00:48　**發現問題**：9 項
 
 > 這頁由 `tools/health_check.py` 每天自動覆寫，只查規則能判定的問題。
 > 需要判讀的（訊號矛盾、摘要失真、論點過期）請叫 kb-auditor 稽核。
@@ -14,21 +14,30 @@ updated: 2026-09-20
 
 - ✅ 沒有問題
 
-## 尚未消化（0）
+## 尚未消化（2）
 
-- ✅ 沒有問題
+- 尚未消化：raw/threads_2026-09-21_4edbckpw.md
+- 尚未消化：raw/threads_2026-09-21_b8m20uwi.md
 
 ## 疑似截斷（0）
 
 - ✅ 沒有問題
 
-## 圖片未確認（0）
+## 圖片未確認（3）
 
-- ✅ 沒有問題
+- 圖片未確認：raw/instagram_2026-09-21_斗山擴CCL產能大摩點名台廠.md
+    https://www.instagram.com/p/DdiZpTVk1dn/
+- 圖片未確認：raw/threads_2026-09-21_4edbckpw.md
+    https://www.threads.com/share/BAQNRhuZtN
+- 圖片未確認：raw/threads_2026-09-21_b8m20uwi.md
+    https://www.threads.com/share/BAQo5l419X
 
-## 圖片張數對不上（0）
+## 圖片張數對不上（4）
 
-- ✅ 沒有問題
+- 漏圖：raw/instagram_2026-09-21_斗山擴CCL產能大摩點名台廠.md 宣告 1 張，但完全沒有對應的 shot_ 檔
+- 漏圖：raw/threads_2026-09-21_4edbckpw.md 宣告 1 張，但完全沒有對應的 shot_ 檔
+- 漏圖：raw/threads_2026-09-21_b8m20uwi.md 宣告 2 張，但完全沒有對應的 shot_ 檔
+- 漏圖：raw/threads_2026-09-21_緯穎股價與營收脫鉤.md 宣告 6 張，但完全沒有對應的 shot_ 檔
 
 ## 圖片連結壞掉（0）
 
