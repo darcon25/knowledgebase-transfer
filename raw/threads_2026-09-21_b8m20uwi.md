@@ -1,0 +1,284 @@
+---
+tags:
+  - source
+  - social_media
+  - threads
+type: social_media
+platform: threads
+date_captured: 2026-09-21
+original_url: "https://www.threads.com/share/BAQo5l419X"
+media_count: 2
+media_urls:
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/819652870_18214972330337957_631764340334893287_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5MDk0MjEzNDYzNjYxMjM4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUzNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nllH_Vnw5_EQ7kNvwHkKYQi&_nc_oc=Adp8qUoBVWaE9qmTKaJUgn4GMN9rImv_1I2TmL7lJBi-yBuxf-yD-GurTwTLzOEKBRs&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=M_VK2DHawC6Xib8meexrJQ&_nc_ss=7b289&oh=00_AQLdJT0YCFAcl4RMhjcJXlMC-628Y4RZmVvt0EwzyOB_ag&oe=6AB72C0A"
+  - "https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/808943193_18214972342337957_7267846769220303022_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk5MDk0MjEzNTI0MDQ5NTczMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUzNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_1_j58oV4nIQ7kNvwEVa6A4&_nc_oc=AdrM8aH2QhAqmAIMBQsqWosqyg5xMNjOBOzNyp0zYhJmk29A2vjrvoSmGeVRlAwebf8&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=M_VK2DHawC6Xib8meexrJQ&_nc_ss=7b289&oh=00_AQIMJlkiTlO815VqFWwYJ49oCgo_A8TU11vx1jvjMQ5UoQ&oe=6AB6FFE7"
+---
+
+# 🧵 2026-09-21 存檔
+
+> 原文：[查看貼文](https://www.threads.com/share/BAQo5l419X)
+
+## 摘要
+此貼文主要探討2027年台灣封測廠的潛在爆發機會，作者StockChan點名京元電、力成、矽格、欣銓四家公司，並分析其未來成長路徑及法人共識。討論串中，使用者們也分享了對這些公司的看法、其他潛力股（如超豐、南茂、頎邦），以及對半導體產業未來趨勢（如ASIC、CPO、Power Rack）的預測。
+
+## 重點整理
+*   **2027年封測廠潛力股：** 作者點名京元電、力成、矽格、欣銓為2027年可能爆發的台灣封測廠，並建議關注其成長增速與法人共識。
+*   **AI核心業務為選股重點：** 作者在回覆中提到，選股會著重於有未來題材的個股，特別是與AI核心業務相關的，例如超豐因非AI核心業務而未被列為優先考慮。
+*   **半導體產業未來趨勢：** 討論串中提及2027年可重點關注ASIC、CPO (Co-packaged Optics) 和 Power Rack 等領域，顯示對AI相關高階封裝與散熱技術的重視。
+*   **矽晶圓市場轉捩點：** 相關貼文指出矽晶圓市場供需與價格結構出現轉捩點，需求回溫超預期，且先進與成熟製程、記憶體、GaN、SiC等皆受惠於AI、HPC需求。
+*   **半導體設備業的甜蜜負擔：** 均豪等半導體設備廠訂單排到2027年，顯示產業景氣熱絡，但也反映關鍵零組件交期長、產能吃緊的問題。
+
+## 關鍵概念
+*   **封測 (Packaging and Testing)：** 半導體產業鏈的後段，負責將晶圓切割、封裝成晶片，並進行測試，確保產品品質。
+*   **ASIC (Application-Specific Integrated Circuit)：** 客製化積體電路，專為特定應用設計，在AI、高效能運算領域需求日益增加。
+*   **CPO (Co-packaged Optics)：** 共同封裝光學元件，將光學模組與電子晶片共同封裝，以提升數據傳輸效率和降低功耗，是未來資料中心與AI應用的關鍵技術。
+*   **Power Rack：** 伺服器機櫃的電源解決方案，在AI伺服器高功耗趨勢下，其散熱與供電效率日益重要。
+*   **法人共識 (Consensus Estimate)：** 投資銀行分析師對特定公司未來業績或股價的預期平均值，是投資決策的重要參考。
+*   **PE (Price-to-Earnings Ratio) / FPE (Forward Price-to-Earnings Ratio)：** 本益比，衡量股價相對於每股盈餘的倍數，FPE則使用預估的未來盈餘。
+
+## 可行動洞察
+*   **深入研究2027年半導體產業趨勢：** 貼文提及ASIC、CPO、Power Rack將是2027年的重點，我應深入研究這些技術的發展、市場規模及相關供應鏈，以識別潛在投資機會或產業合作夥伴。
+*   **追蹤封測廠的AI相關業務：** 針對京元電、力成、矽格、欣銓等公司，我應進一步分析其在AI相關封測技術（如先進封裝）的佈局、研發進度及客戶訂單狀況，評估其未來成長潛力。
+*   **關注矽晶圓及半導體設備產業動態：** 矽晶圓的漲價與半導體設備訂單排程，是產業景氣復甦的重要訊號。我應持續追蹤相關公司的財報、法說會資訊，以及市場供需變化。
+*   **學習選股邏輯：** 作者強調選股著重「有未來題材」和「AI核心業務」，這提供了一個清晰的選股框架。在評估其他公司時，我也可以運用此邏輯，檢視其業務是否符合未來趨勢。
+*   **注意市場風險與波動：** 討論串中提到「京元電的股性很可怕，衝高後都會大拉回」以及「成熟製程復甦力道跟高估值個股的季底調節都是變數」，提醒我在投資決策時，除了看好產業前景，也要充分考慮個股的股性、估值及市場波動風險。
+
+## 主文圖片
+
+原貼文主文有 2 張圖。本機 `tools/fetch_media.py` 會下載成 `raw/shot_*.md`。
+（下列網址帶簽章，約一週後失效，僅作線索。）
+
+1. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/819652870_18214972330337957_631764340334893287_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5MDk0MjEzNDYzNjYxMjM4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUzNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nllH_Vnw5_EQ7kNvwHkKYQi&_nc_oc=Adp8qUoBVWaE9qmTKaJUgn4GMN9rImv_1I2TmL7lJBi-yBuxf-yD-GurTwTLzOEKBRs&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=M_VK2DHawC6Xib8meexrJQ&_nc_ss=7b289&oh=00_AQLdJT0YCFAcl4RMhjcJXlMC-628Y4RZmVvt0EwzyOB_ag&oe=6AB72C0A
+2. https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/808943193_18214972342337957_7267846769220303022_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk5MDk0MjEzNTI0MDQ5NTczMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUzNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_1_j58oV4nIQ7kNvwEVa6A4&_nc_oc=AdrM8aH2QhAqmAIMBQsqWosqyg5xMNjOBOzNyp0zYhJmk29A2vjrvoSmGeVRlAwebf8&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=M_VK2DHawC6Xib8meexrJQ&_nc_ss=7b289&oh=00_AQIMJlkiTlO815VqFWwYJ49oCgo_A8TU11vx1jvjMQ5UoQ&oe=6AB6FFE7
+
+## 原文（Jina Reader）
+
+```
+Title: StockChan (@stockchannn) on Threads
+
+URL Source: https://www.threads.com/share/BAQo5l419X
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread 51.3K views](https://www.threads.com/@stockchannn/post/DdirMhZCc6Z?xmt=AQG0dQWrbcm6sBD_SDLpujrQME6GiJlJrBzi_Tja9Kv14owD54sDMwTYsTONNvOTEIPorTYO&slof=1)
+
+[![Image 1: stockchannn's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/729633365_18192980119337957_4437789106049260648_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=t1ZtdnZceq0Q7kNvwFuZjkn&_nc_oc=AdoiWKsKtIyPNV5eG6kGR8JI2M_LXLOuvsKEMJ2agmB9G2NnfUhEqGyp5UIDIEXNaF0&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLr4S_qQaM7I0CahKexsr6PxZvQ1kiQWVoNqlBz2Fdhig&oe=6AB70C49)](https://www.threads.com/@stockchannn)
+
+[stockchannn](https://www.threads.com/@stockchannn)
+
+[2027封測年](https://www.threads.com/search?q=2027%E5%B0%81%E6%B8%AC%E5%B9%B4&serp_type=tags&tag_id=18602864080067115)
+
+[6h](https://www.threads.com/@stockchannn/post/DdirMhZCc6Z)
+
+2027會不會是台灣的封測廠爆發年度？ 研究了一下這四隻 包含未來的成長增速的可能路徑 法人目前的2027共識 大家可以看看要壓誰 還是小朋友才做選擇，我都要！ #晶元電 #力成 #矽格 #欣銓
+
+![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/819652870_18214972330337957_631764340334893287_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5MDk0MjEzNDYzNjYxMjM4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUzNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nllH_Vnw5_EQ7kNvwHkKYQi&_nc_oc=Adp8qUoBVWaE9qmTKaJUgn4GMN9rImv_1I2TmL7lJBi-yBuxf-yD-GurTwTLzOEKBRs&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=M_VK2DHawC6Xib8meexrJQ&_nc_ss=7b289&oh=00_AQLdJT0YCFAcl4RMhjcJXlMC-628Y4RZmVvt0EwzyOB_ag&oe=6AB72C0A)
+
+![Image 3](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/808943193_18214972342337957_7267846769220303022_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk5MDk0MjEzNTI0MDQ5NTczMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUzNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_1_j58oV4nIQ7kNvwEVa6A4&_nc_oc=AdrM8aH2QhAqmAIMBQsqWosqyg5xMNjOBOzNyp0zYhJmk29A2vjrvoSmGeVRlAwebf8&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=M_VK2DHawC6Xib8meexrJQ&_nc_ss=7b289&oh=00_AQIMJlkiTlO815VqFWwYJ49oCgo_A8TU11vx1jvjMQ5UoQ&oe=6AB6FFE7)
+
+439
+
+44
+
+11
+
+405
+
+Pinned
+
+[![Image 4: mic.yu.5's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/796324068_17944891227331209_678253839219492437_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=8fmL7W0wRrMQ7kNvwFWQ8lz&_nc_oc=Adq945kszKDo-z_O8tO4Da_7ybi6psEN5g1VIcB8Qso8J_ZFhrmqxW8IQWEYSs82in0&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQI8EX8kXDe53Lz2g4Tpd-7_u5moN6LTwLTawaCBfHG1Pw&oe=6AB704A4)](https://www.threads.com/@mic.yu.5)
+
+[mic.yu.5](https://www.threads.com/@mic.yu.5)
+
+[5h](https://www.threads.com/@mic.yu.5/post/DdiwkU3n6ym)
+
+是京元電，不是晶元電。
+
+8
+
+1
+
+[![Image 5: nlpc7793's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/359773349_6259068254190382_3069930421280356472_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=yROUvfsY-Q4Q7kNvwE9mMB1&_nc_oc=Adpcqro5V7WR7Rth7bnJ42pk_xJEB4pMLQejTpzNIxRMptPBrWfysWpG8gpbLUfDLmE&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQIUu5uwI20QzhkvR6ac8FeqCEgMNlsMin4V_vntdUN-MQ&oe=6AB70956)](https://www.threads.com/@nlpc7793)
+
+[nlpc7793](https://www.threads.com/@nlpc7793)
+
+[5h](https://www.threads.com/@nlpc7793/post/DdiwwB1CUDX)
+
+![Image 6: stockchannn's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/729633365_18192980119337957_4437789106049260648_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=t1ZtdnZceq0Q7kNvwFuZjkn&_nc_oc=AdoiWKsKtIyPNV5eG6kGR8JI2M_LXLOuvsKEMJ2agmB9G2NnfUhEqGyp5UIDIEXNaF0&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLr4S_qQaM7I0CahKexsr6PxZvQ1kiQWVoNqlBz2Fdhig&oe=6AB70C49)
+
+明天就跌回原型了 京元電的股性很可怕 衝高後都會大拉回
+
+15
+
+2
+
+![Image 7: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/491459916_1416456456197349_8577141101024787730_n.jpg?_nc_cat=107&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=a1ToTQsZ5LYQ7kNvwFHApv5&_nc_oc=AdpkCD_IUkzcsZQZfeHx48DYTePujsNwj49POFI79ZCRd9GxmOxEQ3s6OFbkBX0ydxQ&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQLKjxZJ6pb7yQYV5Dph-RrZN-j9Bd1Y-L6jHzAiZlUd7w&oe=6AB721A6)
+
+![Image 8: stockchannn's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/729633365_18192980119337957_4437789106049260648_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=t1ZtdnZceq0Q7kNvwFuZjkn&_nc_oc=AdoiWKsKtIyPNV5eG6kGR8JI2M_LXLOuvsKEMJ2agmB9G2NnfUhEqGyp5UIDIEXNaF0&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLr4S_qQaM7I0CahKexsr6PxZvQ1kiQWVoNqlBz2Fdhig&oe=6AB70C49)
+
+Show replies
+
+[![Image 9: abfzaiban's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.jpg?stp=dst-jpg_tt6&_nc_cat=1&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=r_LELBptIrYQ7kNvwEr-bKg&_nc_oc=Adrhq42z8vrYiuWeDmONgoeyZE4SEhDRUNwqQJd7t-EhBF8YM1jTg0RlbSK-4rMVlD0&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLL-RCGhx-0meUDrxl6AwPVuELC3H_8ACtWxRZFy6GJVQ&oe=6AB719E2)](https://www.threads.com/@m5314508)
+
+[m5314508](https://www.threads.com/@m5314508)
+
+[4h](https://www.threads.com/@m5314508/post/Ddi2_FplObt)
+
+![Image 10: stockchannn's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/729633365_18192980119337957_4437789106049260648_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=t1ZtdnZceq0Q7kNvwFuZjkn&_nc_oc=AdoiWKsKtIyPNV5eG6kGR8JI2M_LXLOuvsKEMJ2agmB9G2NnfUhEqGyp5UIDIEXNaF0&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLr4S_qQaM7I0CahKexsr6PxZvQ1kiQWVoNqlBz2Fdhig&oe=6AB70C49)
+
+最近欣銓表現最好 我日月光今天解套 不過捨不得賣 希望明天不要給我拉一坨大便😂😂
+
+3
+
+[![Image 11: pp42100's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/670266020_17893919790446694_6349608231990890836_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43MjAuQzMifQ%3D%3D&_nc_ohc=mdFSKuaczmMQ7kNvwH1L9_h&_nc_oc=Ado_3c05jWt_-GoOzugjyeGS6xWA8rX4eGQ3BV07vVjL96q5fHAc8ETd-OWzgIUh4pI&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLBjsiukoDdeWSaA9-dRr690RHTN9ULm7RtPFnt5_P1vA&oe=6AB6FE39)](https://www.threads.com/@pp42100)
+
+[pp42100](https://www.threads.com/@pp42100)
+
+[4h](https://www.threads.com/@pp42100/post/Ddi3TIcEvh-)
+
+[@chdee777](https://www.threads.com/@chdee777)
+
+ 多多學習看看別人怎做資料查詢息！不要只靠喇叭嘴亂彈！
+
+[![Image 12: believe_light_kind's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/797035916_18110299489964056_397431253976416357_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=09o5FQOaliMQ7kNvwHteOtr&_nc_oc=AdoV4PhdDN3yGYCW-zs5sAWVJaZpc2VTPRP_VXjKtFtpyQ6yhkBcKZfpaKPp46WhU0E&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQKCqwyig1xoiGfYNXNZkXkpkWxKFFGvMwEow8hqiv29gQ&oe=6AB72C2C)](https://www.threads.com/@believe_light_kind)
+
+[believe_light_kind](https://www.threads.com/@believe_light_kind)
+
+[4h](https://www.threads.com/@believe_light_kind/post/Ddi3hrtknW7)
+
+![Image 13: stockchannn's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/729633365_18192980119337957_4437789106049260648_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=t1ZtdnZceq0Q7kNvwFuZjkn&_nc_oc=AdoiWKsKtIyPNV5eG6kGR8JI2M_LXLOuvsKEMJ2agmB9G2NnfUhEqGyp5UIDIEXNaF0&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLr4S_qQaM7I0CahKexsr6PxZvQ1kiQWVoNqlBz2Fdhig&oe=6AB70C49)
+
+可是我的力成還在山頂等大家🤣🤣
+
+3
+
+2
+
+![Image 14: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/476294283_1280649166497610_2756486376060226181_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=qJloGxWtjQ8Q7kNvwE5CPWI&_nc_oc=Adq3Tuk7CeXlLiyiXZ9-G_mHtwP0lnk1R4g34xgAAEynRGe-ZdbL-vPGrMro5nNT1Js&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQJMtJZyJUSXnt4V9qrmEGD5Fq2GJDV7SVOZJ2_7oNqVUg&oe=6AB722C3)
+
+![Image 15: stockchannn's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/729633365_18192980119337957_4437789106049260648_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=t1ZtdnZceq0Q7kNvwFuZjkn&_nc_oc=AdoiWKsKtIyPNV5eG6kGR8JI2M_LXLOuvsKEMJ2agmB9G2NnfUhEqGyp5UIDIEXNaF0&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLr4S_qQaM7I0CahKexsr6PxZvQ1kiQWVoNqlBz2Fdhig&oe=6AB70C49)
+
+Show replies
+
+[![Image 16: abfzaiban's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.jpg?stp=dst-jpg_tt6&_nc_cat=1&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=r_LELBptIrYQ7kNvwEr-bKg&_nc_oc=Adrhq42z8vrYiuWeDmONgoeyZE4SEhDRUNwqQJd7t-EhBF8YM1jTg0RlbSK-4rMVlD0&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLL-RCGhx-0meUDrxl6AwPVuELC3H_8ACtWxRZFy6GJVQ&oe=6AB719E2)](https://www.threads.com/@abfzaiban)
+
+[abfzaiban](https://www.threads.com/@abfzaiban)
+
+[4h](https://www.threads.com/@abfzaiban/post/Ddi4bOpj51H)
+
+![Image 17: stockchannn's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/729633365_18192980119337957_4437789106049260648_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=t1ZtdnZceq0Q7kNvwFuZjkn&_nc_oc=AdoiWKsKtIyPNV5eG6kGR8JI2M_LXLOuvsKEMJ2agmB9G2NnfUhEqGyp5UIDIEXNaF0&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLr4S_qQaM7I0CahKexsr6PxZvQ1kiQWVoNqlBz2Fdhig&oe=6AB70C49)
+
+超豐、南茂呢？
+
+1
+
+1
+
+[![Image 18: stockchannn's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/729633365_18192980119337957_4437789106049260648_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=t1ZtdnZceq0Q7kNvwFuZjkn&_nc_oc=AdoiWKsKtIyPNV5eG6kGR8JI2M_LXLOuvsKEMJ2agmB9G2NnfUhEqGyp5UIDIEXNaF0&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLr4S_qQaM7I0CahKexsr6PxZvQ1kiQWVoNqlBz2Fdhig&oe=6AB70C49)](https://www.threads.com/@stockchannn)
+
+[stockchannn](https://www.threads.com/@stockchannn)
+
+[18m](https://www.threads.com/@stockchannn/post/DdjV3ZbCd98)
+
+·Author
+
+南茂上面有討論了 超豐的業務非AI核心 算是一些伺服器的邊角料 不過訂單也很滿 但不會被我列為優先考慮 畢竟我會比較著重在有未來題材的個股
+
+[![Image 19: nick00068's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.75761-19/503848587_17901627657194366_9124101375322222240_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDc5LkMzIn0%3D&_nc_ohc=_JI6O6vDkRoQ7kNvwEt2PNN&_nc_oc=Adpjx7uqhnupC8KaHAFo8MzUl9S6A3L001e6olWrFoQ2FqM6nnMz4HO0MRmD2l4qhXI&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQIu9fZbf0vgYOUHNyyZggyVgxMjw1npdZmCaLDB60OFew&oe=6AB712A3)](https://www.threads.com/@nick00068)
+
+[nick00068](https://www.threads.com/@nick00068)
+
+[4h](https://www.threads.com/@nick00068/post/Ddi5jDrGsPE)
+
+![Image 20: stockchannn's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/729633365_18192980119337957_4437789106049260648_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=t1ZtdnZceq0Q7kNvwFuZjkn&_nc_oc=AdoiWKsKtIyPNV5eG6kGR8JI2M_LXLOuvsKEMJ2agmB9G2NnfUhEqGyp5UIDIEXNaF0&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLr4S_qQaM7I0CahKexsr6PxZvQ1kiQWVoNqlBz2Fdhig&oe=6AB70C49)
+
+怎麼沒頎邦
+
+1
+
+1
+
+[![Image 21: stockchannn's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/729633365_18192980119337957_4437789106049260648_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=t1ZtdnZceq0Q7kNvwFuZjkn&_nc_oc=AdoiWKsKtIyPNV5eG6kGR8JI2M_LXLOuvsKEMJ2agmB9G2NnfUhEqGyp5UIDIEXNaF0&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLr4S_qQaM7I0CahKexsr6PxZvQ1kiQWVoNqlBz2Fdhig&oe=6AB70C49)](https://www.threads.com/@stockchannn)
+
+[stockchannn](https://www.threads.com/@stockchannn)
+
+[4h](https://www.threads.com/@stockchannn/post/Ddi6PSoCaNP)
+
+·Author
+
+個人的喜愛抓上修估值較高的個股 頎邦的PE、FPE比較高 所以這裡沒列出來 不代表他不好喔 只是個人的想法🙏
+
+[![Image 22: kuliw_0309's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/759835736_17950342011217089_8800382104353277469_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQ3LkMzIn0%3D&_nc_ohc=9QqlCUf2MQ0Q7kNvwGzedYj&_nc_oc=Adprm6weyU5tUw5hE7GBYp4jvasbfaWvtTYSR1X8DflpR911VqMuAY3mD5dqK1uzH1c&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQKokkK3bniXt91YA94quwVNXANVLsNQjGJuFC7qT-TXQQ&oe=6AB712C7)](https://www.threads.com/@kuliw_0309)
+
+[kuliw_0309](https://www.threads.com/@kuliw_0309)
+
+[4h](https://www.threads.com/@kuliw_0309/post/Ddi59eREkZz)
+
+![Image 23: stockchannn's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/729633365_18192980119337957_4437789106049260648_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=t1ZtdnZceq0Q7kNvwFuZjkn&_nc_oc=AdoiWKsKtIyPNV5eG6kGR8JI2M_LXLOuvsKEMJ2agmB9G2NnfUhEqGyp5UIDIEXNaF0&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLr4S_qQaM7I0CahKexsr6PxZvQ1kiQWVoNqlBz2Fdhig&oe=6AB70C49)
+
+力成感覺比較優
+
+3
+
+[![Image 24: kenny880223's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/805752422_17984001207096885_6819684479106732306_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nCU-TcC6KrAQ7kNvwG33xWy&_nc_oc=Adr_5q8WjLXOCMoWdLishorJvp4-Tb_zn1Kp6LH5kq5tVm3X6P5_WKyQ3cigK5UAmC0&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQJAagOM194omF18Sc5V6Yryuqt4f_Dld9PLVdxxYyjg-g&oe=6AB71981)](https://www.threads.com/@kenny880223)
+
+[kenny880223](https://www.threads.com/@kenny880223)
+
+[4h](https://www.threads.com/@kenny880223/post/Ddi7Mw7j5vw)
+
+![Image 25: stockchannn's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/729633365_18192980119337957_4437789106049260648_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=t1ZtdnZceq0Q7kNvwFuZjkn&_nc_oc=AdoiWKsKtIyPNV5eG6kGR8JI2M_LXLOuvsKEMJ2agmB9G2NnfUhEqGyp5UIDIEXNaF0&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLr4S_qQaM7I0CahKexsr6PxZvQ1kiQWVoNqlBz2Fdhig&oe=6AB70C49)
+
+力成很好 我提前佈局在321了
+
+8
+
+3
+
+![Image 26: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/566312937_17918544669192246_1071687412115264843_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=107&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_3T07FqUaAAQ7kNvwFphbEF&_nc_oc=AdogHh1zsKx-IXIvwBWdMX1VauI6eDJiz0dk2OJU0rBninJ1fpXX7wrM36IlYV29SUo&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQKXlGWw-cLBiqoH50sZ_vRdFlDN97HZ-sNg5LabN4L2fg&oe=6AB705EF)
+
+![Image 27: A Threads user's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/584396439_17923855146187273_4885250494764846155_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=wqgOf-o0_HcQ7kNvwFvcj8H&_nc_oc=Adq9v2OioV0F7AC-kmYQd9pzBp0yDJ8fw83fCc88C1mIKLXrUYYhikdb_hCjDWzeD_Q&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQIDPqd_9rNHlD7IYS2KKXfNj-7fhK8W1RLQd6sKTl5X-Q&oe=6AB72105)
+
+Show replies
+
+[![Image 28: mondo923's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/652772199_17939868123171039_4827586983122752805_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IAYBeqXzDN4Q7kNvwElCNjH&_nc_oc=AdpK2BKfQ08D-y3OHS-8tDSgDNnF0R9Q4yggeU4v7llbensIy6CoSoSftOCnWBcu7yA&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLhCFJsesMgfOHDp28BWqHyIk1hvpYoG7YakGSzq_XYLg&oe=6AB71768)](https://www.threads.com/@mondo923)
+
+[mondo923](https://www.threads.com/@mondo923)
+
+[4h](https://www.threads.com/@mondo923/post/Ddi7uOkibZc)
+
+![Image 29: stockchannn's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/729633365_18192980119337957_4437789106049260648_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=t1ZtdnZceq0Q7kNvwFuZjkn&_nc_oc=AdoiWKsKtIyPNV5eG6kGR8JI2M_LXLOuvsKEMJ2agmB9G2NnfUhEqGyp5UIDIEXNaF0&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLr4S_qQaM7I0CahKexsr6PxZvQ1kiQWVoNqlBz2Fdhig&oe=6AB70C49)
+
+感覺矽格不錯
+
+1
+
+1
+
+[![Image 30: stockchannn's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/729633365_18192980119337957_4437789106049260648_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=t1ZtdnZceq0Q7kNvwFuZjkn&_nc_oc=AdoiWKsKtIyPNV5eG6kGR8JI2M_LXLOuvsKEMJ2agmB9G2NnfUhEqGyp5UIDIEXNaF0&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQLr4S_qQaM7I0CahKexsr6PxZvQ1kiQWVoNqlBz2Fdhig&oe=6AB70C49)](https://www.threads.com/@stockchannn)
+
+[stockchannn](https://www.threads.com/@stockchannn)
+
+[4h](https://www.threads.com/@stockchannn/post/Ddi8JLCCbWz)
+
+·Author
+
+我今天有開始建倉矽格👍
+
+1
+
+[![Image 31: s_83.bo's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/730313212_17973005892113097_3183661224217182726_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MWD0-0m0ys8Q7kNvwHfmqc5&_nc_oc=Adpf5bzwdhJh1iJyO0GliHk91-AGu1I_-qmGYAgYmfnzlF0nW_AnaeVqFRDt0DGPAzY&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=VrQA8CZxJ9xCPMg98lQfNQ&_nc_ss=7b289&oh=00_AQKpXwtqWuq9R7Czy3wTjL_crtnsWiRDmlkmEPwCMa3JKA&oe=6AB71B0F)](https://www.threads.com/@s_83.bo)
+
+[s_83.bo](https://www.threads.com/@s_83.bo)
+
+[3h](https://www.threads.com/@s_83.bo/post/Ddi9Dnzkl1s)
+
+![Image 32: stockchannn's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/729633365_181929801
+```
+
+## 相關頁面
+
+<!-- [[]] -->
