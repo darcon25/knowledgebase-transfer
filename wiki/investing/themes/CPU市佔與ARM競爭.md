@@ -1,7 +1,7 @@
 ---
 tags: [investing, theme]
-updated: 2026-09-14
-status: 追蹤中（訊號弱：只有市佔預估，未點名台廠）
+updated: 2026-09-21
+status: 追蹤中（🤖 2026-09-21 起有第一份台廠對照表，但仍無任何量化欄位）
 ---
 
 # CPU 市佔與 ARM 競爭
@@ -160,3 +160,85 @@ AI 伺服器的主角是 GPU／ASIC，但每一台機器裡仍然有 CPU，
 原文也沒說消息來源。
 
 相關：[[半導體結構性失衡]]、[[2330 台積電]]
+
+## 🤖 2026-09-21 自動消化：本頁第一份「台廠對 CPU 平台的暴露對照表」
+
+來源：`raw/threads_2026-09-21_台廠CPU供應鏈對照表.md`（Threads @memory1mh，2026-09-21）
+＋ `raw/shot_2026-09-21_台廠CPU供應鏈對照表.md`（讀圖，1 張英文製表）
+
+本頁過去只有**份額預估**（花旗 2030 模型、Citi CPU TAM）與**製造端**（Intel 18A 良率），
+第 56 行的「要盯什麼」第 2 點寫的是「AMD 伺服器平台的實際出貨佔比」。
+這是本頁第一份**把台廠逐家列出來**的資料——但先看清楚它是什麼、不是什麼。
+
+### 這張圖是什麼
+
+**標題**：Taiwan CPU Supply Chain Map
+**副標**：Cross-checked exposure to ARM-based server CPUs, AMD EPYC and Intel Xeon
+**製表註記**：ARM 欄包含 Ampere、NVIDIA Grace 等 Arm-based 伺服器平台，不只 Arm 自家 CPU
+
+| Company / Ticker | 供應鏈角色 | ARM | AMD | Intel | 圖上的公開佐證 |
+|---|---|:--:|:--:|:--:|---|
+| TSMC $2330.TW | 先進製程晶圓代工 | ✔ | ✔ | △ | Arm server CPU 生態系；AMD Venice；Intel 曝險較不直接 |
+| LOTES $3533.TW | CPU 插槽與連接器 | ✔ | ✔ | ✔ | LOTES 產品頁列出 Intel／AMD／ARM CPU 插槽 |
+| Unimicron $3037.TW | ABF 載板 | △ | ✔ | △ | AMD 台灣生態系新聞稿點名 |
+| Kinsus $3189.TW | ABF 載板 | △ | ✔ | △ | AMD 台灣生態系新聞稿點名 |
+| Nan Ya PCB $8046.TW | ABF 載板 | △ | ✔ | △ | AMD 台灣生態系新聞稿點名 |
+| ASEH $3711.TW | 先進封裝／EFB | △ | ✔ | △ | AMD + ASE／SPIL 的 EFB 支援 Venice CPU |
+| PTI $6239.TW | 面板級封裝／EFB | △ | ✔ | △ | AMD + PTI 面板級 EFB 供次世代處理器 |
+| Wiwynn $6669.TW | 伺服器 ODM／機櫃整合 | ✔ | ✔ | △ | Ampere 伺服器平台 + AMD Helios 夥伴 |
+| GIGABYTE $2376.TW | 伺服器主板與系統 | ✔ | ✔ | ✔ | 平台涵蓋 Xeon／EPYC／Ampere／Grace |
+| Inventec $2356.TW | 伺服器 ODM | ✔ | ✔ | ✔ | Grace CPU Superchip；Intel Xeon 6；AMD EPYC 900x |
+| QCT / Quanta $2382.TW | 伺服器 ODM | △ | ✔ | ✔ | 機架式系統列出 Intel Xeon 6 與 AMD EPYC |
+| Wistron $3231.TW | 伺服器 ODM | △ | ✔ | △ | 列為 AMD Helios ODM 夥伴 |
+| AIC $3693.TW | 伺服器主板／機殼／托盤 | △ | ✔ | △ | AMD Helios 機構架構 + 伺服器產品線 |
+
+**圖例**：✔ = publicly verified（有公開證據）；△ = partial / indirect or limited public disclosure
+（部分、間接或揭露有限）；— = no clear current public verification。
+⚠️ **圖例雖定義了「—」，但表格內一格都沒有用到。**
+
+**圖最底列的交叉查核來源**：AMD 官方台灣生態系新聞稿（**2026-05-21**）、LOTES 產品頁、
+GIGABYTE Enterprise、Inventec EBG、Wiwynn、QCT、AIC 產品頁。
+
+### ⚠️ 四個不能誤讀的地方（這比表本身重要）
+
+1. **這不是「CPU 廠商名單」，是「台廠對三種 CPU 平台的暴露程度」。**
+   原貼文的 n8n 摘要寫「圖表包含 ARM、AMD、Intel 等主要 CPU 供應商」，**方向有誤**——
+   ARM／AMD／Intel 在圖上是三個**欄位（平台）**，列出來的 13 家全是台廠。
+2. **AMD 欄 13 家全部 ✔，很可能是取樣偏誤而非事實。** 底列來源以
+   「AMD 官方台灣生態系新聞稿」為主，13 家中有 9 家的佐證欄直接寫
+   「Named in AMD Taiwan ecosystem announcement / AMD Helios…」。
+   **這份名單的骨架就是 AMD 的新聞稿**，所以 AMD 欄全 ✔ 是資料來源決定的。
+   **不要把它讀成「台廠押寶 AMD」。**
+3. **✔ 與 △ 的定義是「公開揭露程度」，不是「營收占比」。**
+   △ 只代表查不到公開佐證，**不能拿來推論出貨量或金額**。
+4. **全表無營收、無占比、無出貨量**，是一張純「有／沒有」的關係圖。
+   表格也**未提供更新日期**，只能從來源列推得資料基準約在 **2026-05-21 之後**；
+   貼文發文日為 2026-09-21，**中間四個月的變化這張圖不會反映**。
+
+### 對本頁的意義
+
+本頁既有的三則來源都在講**誰的份額會贏**；這一則講的是**贏了之後訂單落到誰手上**。
+它補上的是鏈圖的另一半：現有的 [[AI伺服器PCB鏈]] 主要沿著 GPU／AI 加速器展開，
+而這張圖走的是 **CPU socket → ABF 載板 → 先進封裝 → 伺服器 ODM** 這條線。
+
+⚠️ 但它**回答不了**本頁第 56 行的問題（AMD 伺服器平台的實際出貨佔比），
+因為表上沒有任何量化欄位；也**無法驗證** [[6213 聯茂]] 自述的
+「AMD 平台市佔 >60%、Intel 平台 30–40%」——聯茂根本不在這張表上。
+
+### 一組值得放進矛盾追蹤的訊號
+
+三家 ABF 廠（[[3037 欣興]]、[[3189 景碩]]、[[8046 南電]]）在這張圖上被列為
+**AMD 生態系夥伴**；但 [[ABF載板隱性減產]] 記的是「規格升級讓合格顆數變少」。
+**一邊是官方點名擴大合作，一邊是有效產出被吃掉**——兩者不必然衝突
+（一個講關係、一個講產能），但**放在一起才是完整的畫面**。
+
+### 名單覆蓋缺口
+
+表上**不在 41 檔名單內**的六家：$3533.TW（LOTES，CPU 插槽與連接器）、$6239.TW（PTI）、
+$6669.TW（Wiwynn）、$2376.TW（GIGABYTE）、$2356.TW（Inventec）、$3693.TW（AIC）。
+
+其中 **CPU socket 這個環節目前知識庫完全沒有涵蓋**，是可考慮補的覆蓋缺口。
+⚠️ 要不要納入名單**留給使用者決定**，本次消化不動 `tools/watchlist.py`。
+
+相關：[[CoWoS-L與EMIB-T封裝路線之爭]]（同日消化，封裝技術路線的另一半）、
+[[載板]]、[[封測]]、[[終端需求]]

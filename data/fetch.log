@@ -381,3 +381,6 @@ fatal: Could not read fro
 [2026-09-21 18:40:10] ✅ 月營收 61 檔（2026-08）
 [2026-09-21 18:40:11] ✅ 毛利率 60 檔（2026Q2）
 [2026-09-21 18:58:15] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E9%87%91%E5%83%8F%E9%9B%BB%202368&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2026-09-21 19:56:51] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E9%AB%98%E5%8A%9B%208996&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2026-09-21 19:57:09] ✅ 新聞 59/59 檔有結果
+[2026-09-21 19:57:09] === 抓取完成 ===
