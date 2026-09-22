@@ -1,1 +1,7 @@
-{}
+{
+  "raw/threads_2026-09-21_6ch1kp9k.md": {
+    "attempts": 1,
+    "last_error": "HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.threads.com/share/BBTpr2LHTs (Caused by NameResolutionError(\"HTTPSConnection(host='r.jina.ai', port=443): F",
+    "last_try": "2026-09-22T18:39:53"
+  }
+}
