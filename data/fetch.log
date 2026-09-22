@@ -385,3 +385,4 @@ fatal: Could not read fro
 [2026-09-21 19:57:09] ✅ 新聞 59/59 檔有結果
 [2026-09-21 19:57:09] === 抓取完成 ===
 [2026-09-22 08:43:07] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-09-22 09:25:50] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
