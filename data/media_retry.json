@@ -1,7 +1,7 @@
 {
-  "raw/threads_2026-09-21_6ch1kp9k.md": {
+  "raw/instagram_2026-09-22_b6quhl4q.md": {
     "attempts": 1,
-    "last_error": "HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.threads.com/share/BBTpr2LHTs (Caused by NameResolutionError(\"HTTPSConnection(host='r.jina.ai', port=443): F",
-    "last_try": "2026-09-22T18:39:53"
+    "last_error": "頁面沒解析出大頭貼，判定為抓取失敗而非沒有圖",
+    "last_try": "2026-09-23T06:41:26"
   }
 }
