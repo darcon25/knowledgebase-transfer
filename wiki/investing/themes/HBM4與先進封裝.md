@@ -369,3 +369,44 @@ MacroMicro 的判讀：**這不是需求轉弱，是面對物理極限與供應�
 ⚠️ **圖上沒有點名任何一家公司。**
 
 完整的逐年規格表、需求端客戶名單與六項引用但書，見 [[CoWoS-L與EMIB-T封裝路線之爭]]。
+
+## 🤖 2026-09-23 自動消化：Rubin Ultra 減配 HBM，第一次換算成金額（SemiAnalysis TCO 表）
+
+來源：`raw/threads_2026-09-21_RubinUltra減配HBM轉ScaleUp.md`（Threads @tenten.co 引 SemiAnalysis）
+＋ `raw/shot_2026-09-22_RubinUltra減配HBM轉ScaleUp.md`（讀圖，1 張 SemiAnalysis 表）
+
+貼文文字：Rubin Ultra HBM 從 **HBM4E 12-Hi 384GB 改 HBM4 8-Hi 192GB**；錢轉去 scale-up。
+**NVIDIA 未公開確認。** 這與本頁 09-16 記的 MacroMicro「市場謠傳」方向一致，但這次附了成本表。
+
+**圖上的表（單位 $/GPU/hr，% 為佔 All-in Capital Cost of Ownership）**
+
+| 成本層 | HBM4E 12-Hi NVL72 | % | HBM4 8-Hi NVL572 | % |
+|---|---:|---:|---:|---:|
+| HBM Costs | $0.99 | 29% | $0.43 | 14% |
+| DRAM Costs | $0.26 | 7% | $0.26 | 9% |
+| NAND Costs | $0.16 | 5% | $0.16 | 5% |
+| **Memory Costs** | **$1.41** | **41%** | **$0.84** | **28%** |
+| GPU Costs (excl HBM) | $0.62 | 18% | $0.46 | 15% |
+| Non-GPU Compute Tray Costs | $0.38 | 11% | $0.36 | 12% |
+| OEM/ODM + Reseller Margin | $0.19 | 5% | $0.16 | 5% |
+| **Scale-Up Networking Cost** | **$0.13** | **4%** | **$0.37** | **12%** |
+| Scale-Out Networking Cost | $0.49 | 14% | $0.49 | 16% |
+| Storage Cost | $0.08 | 2% | $0.08 | 3% |
+| All Other Costs | $0.18 | 5% | $0.25 | 8% |
+| **All-in Capital Cost of Ownership** | **$3.48** | 100% | **$3.01** | 100% |
+
+註腳（原文）：*We assume a 70% GPU provider markup on HBM costs and 60% GPU provider markup on DRAM costs.*
+
+**讀得出來的事**
+- HBM 單項 $0.99 → $0.43（-57%），與貼文「HBM 成本砍一半以上」相符
+- 整機 TCO $3.48 → $3.01；**DRAM、NAND、Scale-Out、Storage 兩案完全相同**
+- 增加的是 **Scale-Up Networking：$0.13 → $0.37，佔比 4% → 12%** → 見 [[交換器與網通互聯]]
+
+**⚠️ 圖與貼文文字不一致**
+1. 圖上表頭寫 **NVL572**，貼文寫 **NVL576**
+2. 貼文說「NPO 從 4% 升到 12%」，但圖上那一列叫 **Scale-Up Networking Cost**，**表中沒有 NPO 字樣**
+3. 貼文寫記憶體佔比「約 40%」，圖上是 **41%**
+4. 第二欄 0.43 + 0.26 + 0.16 = $0.85，圖上寫 $0.84（應為四捨五入）
+
+⚠️ 圖上**沒有容量數字（384GB／192GB 只在貼文）、沒有時程、沒有任何台廠**；
+對 [[記憶體]] 與 [[2330 台積電]] 的影響路徑待確認。

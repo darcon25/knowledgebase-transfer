@@ -9,14 +9,15 @@ original_url: "https://www.threads.com/share/BAQNRhuZtN"
 image_count: 1
 expected_min: 1
 captured_by: fetch_media
-source_note: "threads_2026-09-21_4edbckpw.md"
+source_note: "threads_2026-09-21_RubinUltra減配HBM轉ScaleUp.md"
 status: 已讀圖
+original_id: 4edbckpw
 ---
 
 # 📸 原貼文圖片 2026-09-22 — threads_2026-09-21_4edbckpw
 
 > 原始出處：https://www.threads.com/share/BAQNRhuZtN
-> 對應筆記：[[threads_2026-09-21_4edbckpw]]
+> 對應筆記：[[threads_2026-09-21_RubinUltra減配HBM轉ScaleUp]]
 
 **取得方式**：`tools/fetch_media.py` 從 Jina Reader 回傳的 markdown 取出主文圖片網址並下載。
 n8n 管道把這些網址丟掉了，所以由本機補。
@@ -83,4 +84,4 @@ n8n 管道把這些網址丟掉了，所以由本機補。
 2. **HBM 佔比 29% → 14%**：若成真，對 [[HBM4與先進封裝]] 與 [[記憶體]] 是負面訊號，但對 [[2330 台積電]] 的 GPU 本體（$0.62 → $0.46）也是降的。可與 [[半導體結構性失衡]] 對照。
 3. **NVL72 → NVL572 的機櫃規模放大**：機櫃變大、背板與互連層數變多，是 [[AI伺服器PCB鏈]] 與 [[CCL]]／[[PTFE與材料世代轉換]] 的需求來源。但**這張圖沒有講任何板材規格**，影響路徑待確認，不要直接寫進公司頁的「我的論點」。
 
-原始貼文與留言見 [[threads_2026-09-21_4edbckpw]]。同批讀圖的還有 [[shot_2026-09-22_b8m20uwi]]（封測四檔）與 [[shot_2026-09-22_斗山擴CCL產能大摩點名台廠]]（CCL 擴產）。
+原始貼文與留言見 [[threads_2026-09-21_RubinUltra減配HBM轉ScaleUp]]。同批讀圖的還有 [[shot_2026-09-22_2027封測四檔成長路徑]]（封測四檔）與 [[shot_2026-09-22_斗山擴CCL產能大摩點名台廠]]（CCL 擴產）。

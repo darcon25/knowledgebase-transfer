@@ -9,14 +9,15 @@ original_url: "https://www.threads.com/share/BBTpr2LHTs"
 image_count: 1
 expected_min: 1
 captured_by: fetch_media
-source_note: "threads_2026-09-21_6ch1kp9k.md"
+source_note: "threads_2026-09-21_AgenticAI帶動CPU重估.md"
 status: 已讀圖
+original_id: 6ch1kp9k
 ---
 
 # 📸 原貼文圖片 2026-09-23 — threads_2026-09-21_6ch1kp9k
 
 > 原始出處：https://www.threads.com/share/BBTpr2LHTs
-> 對應筆記：[[threads_2026-09-21_6ch1kp9k]]
+> 對應筆記：[[threads_2026-09-21_AgenticAI帶動CPU重估]]
 
 **取得方式**：`tools/fetch_media.py` 從 Jina Reader 回傳的 markdown 取出主文圖片網址並下載。
 n8n 管道把這些網址丟掉了，所以由本機補。
@@ -99,6 +100,6 @@ n8n 管道把這些網址丟掉了，所以由本機補。
 - [[CPU市佔與ARM競爭]]——這是最直接的去處。圖裡「ARM 抽架構稅、不必自己贏 socket」與「Intel 存量最大但增量轉 Arm 有風險」正好是這頁的核心張力，可補進「驅動因素」段。
 - [[資料中心電力]]／[[AI資本支出的融資結構]]——區塊 2 主張需求瓶頸從「訓練卡張數」轉向「同時活著的 VM 數」。若成立，資料中心的負載結構（CPU、記憶體、磁碟佔比）會改變，值得在這兩頁標記為待觀察的假說，而非結論。
 - [[shot_2026-09-21_台廠CPU供應鏈對照表]]——同一週的另一篇，講的是台廠在 CPU 鏈的對照。這張圖提供美系上游（ARM/INTC/AMD）的敘事面，兩篇合看才能判斷「CPU 重估」會不會傳導到台廠。
-- [[threads_2026-09-21_6ch1kp9k]]——本圖的原始貼文，文字面的 Intel CEO 引述與 Muse Glimmer 參數只在那邊有。
+- [[threads_2026-09-21_AgenticAI帶動CPU重估]]——本圖的原始貼文，文字面的 Intel CEO 引述與 Muse Glimmer 參數只在那邊有。
 
 **引用時的限制**：整張圖是市場敘事整理，不是財報或研究機構數據（頁尾自承「綜合市場資訊整理」）。圖自己的第 3 點結論也寫明「這波可以做交易解讀，但要變基本面，仍要看實際 vCPU 使用與雲端需求數據」——寫進 wiki 時應原樣保留這個保留條件，不要升格成論點。

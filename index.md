@@ -2,7 +2,15 @@
 
 > 這份文件由 LLM 維護。公司頁與環節頁由 `tools/build_pages.py` 自動產生。
 
-**最後更新**：2026-09-21　**頁面總數**：94
+**最後更新**：2026-09-23　**頁面總數**：94
+
+> 🤖 2026-09-23 消化 9 個來源檔（4 則貼文 + 5 張讀圖），**未新增頁面**。
+> 補進 [[wiki/investing/themes/HBM4與先進封裝]]（SemiAnalysis Rubin Ultra TCO 表）、
+> [[wiki/investing/themes/CPU市佔與ARM競爭]]（Agentic AI 帶動 CPU 重估）、
+> [[wiki/investing/themes/交換器與網通互聯]]、[[wiki/investing/themes/資料中心電力]]、
+> [[wiki/investing/segments/CCL]]、[[wiki/investing/segments/封測]]、[[wiki/investing/segments/記憶體]]、
+> [[wiki/investing/chains/AI伺服器PCB鏈]]（新矛盾訊號：CPO 對封測利多、對 CCL 利空），
+> 以及 [[wiki/investing/companies/2383 台光電]]、[[wiki/investing/companies/6274 台燿]] 的事件時間軸（大摩目標價讀圖補正）。
 
 > 2026-09-21 消化 11 個來源檔（7 則貼文 + 4 張讀圖），**新增 1 個驅動因素頁**
 > （[[wiki/investing/themes/CoWoS-L與EMIB-T封裝路線之爭]]），
