@@ -433,3 +433,5 @@ fatal: Could not read fro
 [2026-09-24 18:57:13] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E6%AC%A3%E8%88%88%203037&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
 [2026-09-24 19:13:44] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E4%B8%96%E8%8A%AF-KY%203661&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Read timed out. (read timeout=30)
 [2026-09-24 20:42:19] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E7%B2%BE%E6%B8%AC%206510&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E7%B2%BE%E6%B8%AC%206510&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NewConnectionError("HTTPSConnection(host='news.google.com', port=443): Failed to establish a new connection: [Errno 51] Network is unreachable"))
+[2026-09-24 21:33:47] ✅ 新聞 59/59 檔有結果
+[2026-09-24 21:33:47] === 抓取完成 ===

@@ -1181,3 +1181,42 @@ If you wish to set tracking information for this branch you can do so with:
 
 ⚠️ git pull 失敗，繼續用本機現有檔案（可能漏掉 n8n 新存的）
 ===== 2026-09-24 18:40:24 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-09-24 18:40:24] === 開始抓取（64 檔）===
+[2026-09-24 18:40:29] ✅ 估值 61 檔（資料日 2026-09-23）
+[2026-09-24 18:40:30] ✅ 月營收 61 檔（2026-08）
+[2026-09-24 18:40:30] ✅ 毛利率 60 檔（2026Q2）
+[2026-09-24 18:57:13] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E6%AC%A3%E8%88%88%203037&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2026-09-24 19:13:44] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E4%B8%96%E8%8A%AF-KY%203661&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Read timed out. (read timeout=30)
+[2026-09-24 20:42:19] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E7%B2%BE%E6%B8%AC%206510&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E7%B2%BE%E6%B8%AC%206510&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NewConnectionError("HTTPSConnection(host='news.google.com', port=443): Failed to establish a new connection: [Errno 51] Network is unreachable"))
+[2026-09-24 21:33:47] ✅ 新聞 59/59 檔有結果
+[2026-09-24 21:33:47] === 抓取完成 ===
+⏭  2026Q2.json 已有 61 家，跳過
+⏭  2026Q1.json 已有 61 家，跳過
+⏭  2025Q4.json 已有 61 家，跳過
+⏭  2025Q3.json 已有 61 家，跳過
+⏭  2025Q2.json 已有 61 家，跳過
+⏭  2025Q1.json 已有 59 家，跳過
+⏭  2024Q4.json 已有 61 家，跳過
+⏭  2024Q3.json 已有 59 家，跳過
+
+完成：新增/更新 0 季，跳過 8 季
+
+===== 完成 =====
+處理 0 篇：補到圖 0 篇、確認沒圖 0 篇、失敗 0 篇
+[2026-09-24 21:33:47] 沒有待讀圖的檔案，不啟動 Claude
+✅ 頁面：新建 0、更新 76（營收 2026-08、估值 2026-09-24、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 6、動能轉折 15、值得推播 1 項
+[2026-09-24 21:33:48] 沒有未消化的檔案，不啟動 Claude
+✅ 健檢完成：1 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 0
+   疑似截斷: 0
+   圖片未確認: 0
+   圖片張數對不上: 1
+   圖片連結壞掉: 0
+   圖片尚未判讀: 0
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+===== 2026-09-24 21:33:50 每日更新結束 =====
