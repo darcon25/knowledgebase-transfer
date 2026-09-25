@@ -1224,3 +1224,65 @@ If you wish to set tracking information for this branch you can do so with:
 Already up to date.
 ✅ 已同步遠端
 ===== 2026-09-25 18:37:29 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-09-25 18:37:29] === 開始抓取（64 檔）===
+[2026-09-25 18:37:41] ✅ 估值 61 檔（資料日 2026-09-24）
+[2026-09-25 18:37:43] ✅ 月營收 61 檔（2026-08）
+[2026-09-25 18:37:44] ✅ 毛利率 60 檔（2026Q2）
+[2026-09-25 19:21:02] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%8F%B0%E9%81%94%E9%9B%BB%202308&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%8F%B0%E9%81%94%E9%9B%BB%202308&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NewConnectionError("HTTPSConnection(host='news.google.com', port=443): Failed to establish a new connection: [Errno 51] Network is unreachable"))
+[2026-09-25 20:38:12] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E9%AB%98%E5%8A%9B%208996&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E9%AB%98%E5%8A%9B%208996&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NewConnectionError("HTTPSConnection(host='news.google.com', port=443): Failed to establish a new connection: [Errno 51] Network is unreachable"))
+[2026-09-25 20:38:43] ✅ 新聞 58/59 檔有結果，無結果：2317
+[2026-09-25 20:38:43] === 抓取完成 ===
+⏭  2026Q2.json 已有 61 家，跳過
+⏭  2026Q1.json 已有 61 家，跳過
+⏭  2025Q4.json 已有 61 家，跳過
+⏭  2025Q3.json 已有 61 家，跳過
+⏭  2025Q2.json 已有 61 家，跳過
+⏭  2025Q1.json 已有 59 家，跳過
+⏭  2024Q4.json 已有 61 家，跳過
+⏭  2024Q3.json 已有 59 家，跳過
+
+完成：新增/更新 0 季，跳過 8 季
+
+[1] threads_2026-09-24_avjc6a36.md
+    https://www.threads.com/share/BAUlYOMVKL
+    · 主文沒有圖
+
+[2] threads_2026-09-25_6r40sd3b.md
+    https://www.threads.com/share/BAetAWAsuK
+    · 主文有 2 張
+      ✅ threads_2026-09-25_6r40sd3b_01.jpg (189 KB)
+      ✅ threads_2026-09-25_6r40sd3b_02.jpg (125 KB)
+      📝 shot_2026-09-25_6r40sd3b.md
+
+[3] threads_2026-09-25_wath3e97.md
+    https://www.threads.com/share/_d6ULPbog
+    · 主文沒有圖
+
+===== 完成 =====
+處理 3 篇：補到圖 1 篇、確認沒圖 2 篇、失敗 0 篇
+[2026-09-25 20:39:12] 發現 1 個待讀圖檔案
+raw/shot_2026-09-25_6r40sd3b.md
+Failed to authenticate: OAuth session expired and could not be refreshed
+✅ 已送出
+✅ 頁面：新建 0、更新 76（營收 2026-08、估值 2026-09-25、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 5、動能轉折 15、值得推播 0 項
+[2026-09-25 20:39:24] 發現 4 個未消化檔案，啟動自動消化
+raw/shot_2026-09-25_6r40sd3b.md
+raw/threads_2026-09-24_avjc6a36.md
+raw/threads_2026-09-25_6r40sd3b.md
+raw/threads_2026-09-25_wath3e97.md
+Failed to authenticate: OAuth session expired and could not be refreshed
+✅ 已送出
+✅ 健檢完成：6 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 4
+   疑似截斷: 0
+   圖片未確認: 0
+   圖片張數對不上: 1
+   圖片連結壞掉: 0
+   圖片尚未判讀: 1
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+===== 2026-09-25 20:39:28 每日更新結束 =====
