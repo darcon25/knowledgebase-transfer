@@ -109,7 +109,11 @@
     "raw/instagram_2026-09-22_美光512GB伺服器DDR5.md": "2026-09-23 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-09-23_美光512GB伺服器DDR5.md",
     "raw/threads_2026-09-24_avjc6a36.md": "2026-09-25 fetch_media 自動確認：主文沒有圖",
     "raw/threads_2026-09-25_6r40sd3b.md": "2026-09-25 fetch_media 自動補齊 2 張（圖、圖），見 raw/shot_2026-09-25_6r40sd3b.md",
-    "raw/threads_2026-09-25_wath3e97.md": "2026-09-25 fetch_media 自動確認：主文沒有圖"
+    "raw/threads_2026-09-25_wath3e97.md": "2026-09-25 fetch_media 自動確認：主文沒有圖",
+    "raw/threads_2026-09-26_3mvsqvf2.md": "2026-09-26 fetch_media 自動確認：主文沒有圖",
+    "raw/threads_2026-09-26_kc1wm43h.md": "2026-09-26 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-09-26_kc1wm43h.md",
+    "raw/threads_2026-09-26_uqvnxv2d.md": "2026-09-26 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-09-26_uqvnxv2d.md",
+    "raw/threads_2026-09-26_vcsazeji.md": "2026-09-26 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-09-26_vcsazeji.md"
   },
   "duplicate_accepted": {
     "https://www.threads.com/share/BAWtWRBFvr": "2026-09-14 同一則貼文（FOMO 研究院光模組）被傳了兩次，n8n 各存一份：raw/threads_2026-09-14_vtuypwd8.md（已補圖並消化）與 raw/threads_2026-09-14_pwhwol1r.md（純重複）。依 raw/ 唯讀原則不刪除，以 vtuypwd8 為主。"
