@@ -446,3 +446,8 @@ fatal: Could not read fro
 [2026-09-25 20:38:12] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E9%AB%98%E5%8A%9B%208996&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E9%AB%98%E5%8A%9B%208996&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NewConnectionError("HTTPSConnection(host='news.google.com', port=443): Failed to establish a new connection: [Errno 51] Network is unreachable"))
 [2026-09-25 20:38:43] ✅ 新聞 58/59 檔有結果，無結果：2317
 [2026-09-25 20:38:43] === 抓取完成 ===
+[2026-09-26 18:45:31] === 開始抓取（64 檔）===
+[2026-09-26 18:45:33] ✅ 估值 61 檔（資料日 2026-09-24）
+[2026-09-26 18:45:44] ✅ 月營收 61 檔（2026-08）
+[2026-09-26 18:45:45] ✅ 毛利率 60 檔（2026Q2）
+[2026-09-26 19:31:41] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E8%90%AC%E6%BD%A4%206187&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Read timed out. (read timeout=30)
