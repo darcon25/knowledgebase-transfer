@@ -1,11 +1,11 @@
 ---
 tags: [health]
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # 知識庫健檢
 
-**檢查時間**：2026-09-26 20:14　**發現問題**：16 項
+**檢查時間**：2026-09-27 20:12　**發現問題**：19 項
 
 > 這頁由 `tools/health_check.py` 每天自動覆寫，只查規則能判定的問題。
 > 需要判讀的（訊號矛盾、摘要失真、論點過期）請叫 kb-auditor 稽核。
@@ -14,12 +14,13 @@ updated: 2026-09-26
 
 - ✅ 沒有問題
 
-## 尚未消化（11）
+## 尚未消化（13）
 
 - 尚未消化：raw/shot_2026-09-25_6r40sd3b.md
 - 尚未消化：raw/shot_2026-09-26_kc1wm43h.md
 - 尚未消化：raw/shot_2026-09-26_uqvnxv2d.md
 - 尚未消化：raw/shot_2026-09-26_vcsazeji.md
+- 尚未消化：raw/shot_2026-09-27_rexog56v.md
 - 尚未消化：raw/threads_2026-09-24_avjc6a36.md
 - 尚未消化：raw/threads_2026-09-25_6r40sd3b.md
 - 尚未消化：raw/threads_2026-09-25_wath3e97.md
@@ -27,6 +28,7 @@ updated: 2026-09-26
 - 尚未消化：raw/threads_2026-09-26_kc1wm43h.md
 - 尚未消化：raw/threads_2026-09-26_uqvnxv2d.md
 - 尚未消化：raw/threads_2026-09-26_vcsazeji.md
+- 尚未消化：raw/threads_2026-09-27_rexog56v.md
 
 ## 疑似截斷（0）
 
@@ -44,12 +46,13 @@ updated: 2026-09-26
 
 - ✅ 沒有問題
 
-## 圖片尚未判讀（4）
+## 圖片尚未判讀（5）
 
 - 圖片尚未判讀：raw/shot_2026-09-25_6r40sd3b.md
 - 圖片尚未判讀：raw/shot_2026-09-26_kc1wm43h.md
 - 圖片尚未判讀：raw/shot_2026-09-26_uqvnxv2d.md
 - 圖片尚未判讀：raw/shot_2026-09-26_vcsazeji.md
+- 圖片尚未判讀：raw/shot_2026-09-27_rexog56v.md
 
 ## 斷連結（0）
 
