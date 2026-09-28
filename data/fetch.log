@@ -467,3 +467,4 @@ fatal: Could not read fro
 [2026-09-28 18:31:45] ✅ 估值 61 檔（資料日 2026-09-24）
 [2026-09-28 18:31:48] ✅ 月營收 61 檔（2026-08）
 [2026-09-28 18:31:51] ✅ 毛利率 60 檔（2026Q2）
+[2026-09-28 20:26:05] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
