@@ -10,7 +10,7 @@ image_count: 1
 expected_min: 1
 captured_by: fetch_media
 source_note: "threads_2026-09-26_uqvnxv2d.md"
-status: 待讀圖
+status: 已讀圖
 ---
 
 # 📸 原貼文圖片 2026-09-26 — threads_2026-09-26_uqvnxv2d
@@ -27,4 +27,30 @@ n8n 管道把這些網址丟掉了，所以由本機補。
 
 ## 內容
 
-（待讀圖後填寫）
+### 圖 1｜CPU Market Overview（BofA Global Research）
+
+- 標題：Exhibit 1: Agentic AI nodes grow to 43% of CY30E server CPU sales, matching compute/head nodes
+- 副標：Server CPU sales ($bn) estimates by workload ($bn)
+- Source: BofA Global Research
+
+| 年度 | Traditional/IaaS | Compute/Head Node | Agentic AI Node | 合計（依圖上數字加總） |
+|---|---|---|---|---|
+| 2025 | $16bn | $19bn | — | $35bn |
+| 2026 | $19bn | $36bn | $6bn | $61bn |
+| 2027 | $21bn | $54bn | $29bn | $104bn |
+| 2028 | $24bn | $69bn | $46bn | $139bn |
+| 2029 | $27bn | $79bn | $65bn | $171bn |
+| 2030 | $30bn | $90bn | $90bn | $210bn |
+
+（「合計」欄是把圖上三段數字相加得出，圖上本身沒有標總數。）
+
+交叉驗證：
+- 2030 Agentic AI $90bn ÷ $210bn ≈ 42.9%，與標題「43%」吻合；與 Compute/Head Node 同為 $90bn，與「matching」吻合。
+- 貼文說「約 350 億 → 約 2,100 億、將近 6 倍」：$35bn → $210bn = 6.0 倍，吻合。
+- ⚠️ 成長的主要來源不是傳統 CPU（$16bn→$30bn，不到 2 倍），而是 Compute/Head Node（約 4.7 倍）與從 0 冒出來的 Agentic AI Node。貼文只講總數 6 倍，容易誤讀成整個 CPU 市場均勻成長。
+
+## 為什麼這幾張圖重要
+
+- 可餵 [[CPU市佔與ARM競爭]]：提供 2025–2030 伺服器 CPU 市場規模的分段數字。
+- 間接影響 CPU 板材與載板需求 → [[載板]]、[[AI伺服器PCB鏈]]（影響路徑待確認，圖上未提）。
+- 與 [[shot_2026-09-27_rexog56v]] 的機櫃 BOM 圖一起看：該圖 VR200 記憶體占比含 Vera CPU/system memory。
