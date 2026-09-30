@@ -487,3 +487,10 @@ fatal: Could not read fro
 [2026-09-30 09:46:57] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
 [2026-09-30 13:51:37] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
 [2026-09-30 17:51:36] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-09-30 18:33:56] === 開始抓取（64 檔）===
+[2026-09-30 18:34:05] ✅ 估值 61 檔（資料日 2026-09-29）
+[2026-09-30 18:34:07] ✅ 月營收 61 檔（2026-08）
+[2026-09-30 18:34:07] ✅ 毛利率 60 檔（2026Q2）
+[2026-09-30 18:51:57] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E8%81%AF%E8%8C%82%206213&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2026-09-30 18:53:20] ✅ 新聞 59/59 檔有結果
+[2026-09-30 18:53:20] === 抓取完成 ===
