@@ -365,3 +365,23 @@ M 等級與 Df 的對照表見 [[CCL]]。
 ⚠️ **這兩則都是散戶／自媒體貼文，沒有券商或公司背書**，
 也**沒有任何滲透率、出貨量或營收數字**——本頁 2026-09-06 記下的
 J.P. Morgan「PTFE 到 2028 年只有 9%」仍是目前唯一的量化錨點。
+
+## 🤖 2026-10-01 自動消化：VR300 交換板第一次在供應表上出現 PTFE
+
+來源：`raw/shot_2026-09-25_GB300到VR300與ASIC板材層數.md`（Table 2，富邦投顧整理；主標「Nan Ya and Taiflex Are the Highlights」）
+
+| 項目 | GB300 NVL72 | VR200 NVL144 (72 GPU) | VR300 (Rubin Ultra) |
+|---|---|---|---|
+| 量產時程 | 2026 | 2027 | 2028（26Q4 規格定案） |
+| CCL — Compute board | Doosan M8 (LDK) + M4 | Doosan (M8+LDK+HVLP4) + M4 | Doosan (M8+LDK2+HVLP4) + M6 |
+| CCL — Switch board | M8 (LDK2) + M2；Shengyi 70% / EMC 30% | M8 (LDK2+HVLP4)；Shengyi / EMC / Nan Ya (fastest lead time) | **M8 (K2) / M9 + PTFE；Shengyi / EMC + Taiflex (PTFE)** |
+| CCL — Interposer board | — | M8 (LDK2) | M9? |
+| Compute Tray | 5-press, 22L | 5-press, 26L | 5-press, 30L |
+| NVSwitch Tray | 22L HLC | 32L (N+N HLC) | 32L (N+N HLC) |
+| Midplane | — | 44L (N+N HLC) | 44L (N+N HLC) |
+| 銅箔 | HVLP3 | HVLP4 | HVLP4 |
+
+- PTFE 只出現在 **VR300 交換板**一格，供應商 Taiflex → [[8039 台虹]]；圖上**沒有占比**。
+- 這與本頁「PTFE 先從高速層導入、不是一次全換」的既有記錄方向一致，但本表**沒有給滲透率數字**。
+- ⚠️ 表名寫「GB200/300 vs. VR200」，表內卻沒有 GB200 欄、反而多了 VR300 欄；
+  VR200 欄名同時出現 NVL144 與 72 GPU，圖上未解釋。

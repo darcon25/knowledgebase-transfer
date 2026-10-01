@@ -1,11 +1,11 @@
 ---
 tags: [health]
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 
 # 知識庫健檢
 
-**檢查時間**：2026-09-30 18:53　**發現問題**：14 項
+**檢查時間**：2026-10-01 18:38　**發現問題**：1 項
 
 > 這頁由 `tools/health_check.py` 每天自動覆寫，只查規則能判定的問題。
 > 需要判讀的（訊號矛盾、摘要失真、論點過期）請叫 kb-auditor 稽核。
@@ -14,21 +14,9 @@ updated: 2026-09-30
 
 - ✅ 沒有問題
 
-## 尚未消化（13）
+## 尚未消化（0）
 
-- 尚未消化：raw/shot_2026-09-25_6r40sd3b.md
-- 尚未消化：raw/shot_2026-09-26_kc1wm43h.md
-- 尚未消化：raw/shot_2026-09-26_uqvnxv2d.md
-- 尚未消化：raw/shot_2026-09-26_vcsazeji.md
-- 尚未消化：raw/shot_2026-09-27_rexog56v.md
-- 尚未消化：raw/threads_2026-09-24_avjc6a36.md
-- 尚未消化：raw/threads_2026-09-25_6r40sd3b.md
-- 尚未消化：raw/threads_2026-09-25_wath3e97.md
-- 尚未消化：raw/threads_2026-09-26_3mvsqvf2.md
-- 尚未消化：raw/threads_2026-09-26_kc1wm43h.md
-- 尚未消化：raw/threads_2026-09-26_uqvnxv2d.md
-- 尚未消化：raw/threads_2026-09-26_vcsazeji.md
-- 尚未消化：raw/threads_2026-09-27_rexog56v.md
+- ✅ 沒有問題
 
 ## 疑似截斷（0）
 

@@ -2,7 +2,16 @@
 
 > 這份文件由 LLM 維護。公司頁與環節頁由 `tools/build_pages.py` 自動產生。
 
-**最後更新**：2026-09-23　**頁面總數**：94
+**最後更新**：2026-10-01　**頁面總數**：95
+
+> 🤖 2026-10-01 消化 15 個來源檔（9 則貼文 + 6 張讀圖），**新增 1 個驅動因素頁**
+> （[[wiki/investing/themes/MLCC缺貨漲價]]），另補進 10 個既有驅動因素頁
+> （[[wiki/investing/themes/半導體結構性失衡]] 加 TrendForce 09-28 交期表與 09-14 對照、
+> [[wiki/investing/themes/交換器與網通互聯]] 加智邦量化拆解、
+> [[wiki/investing/themes/跨園區光傳輸與薄膜濾光片]] 首次接到台廠、
+> [[wiki/investing/themes/AI-ASIC與GoogleTPU供應鏈]] 加五家 ASIC 的層數與 CCL／PCB 供應表等）
+> 與 **17 個公司頁**的事件時間軸。智邦、中華電信、華星光**皆不在 41 檔名單，本次未動名單**。
+> 15 個亂碼 ID 檔名已改為可讀主題（`original_id` 保留於各檔 frontmatter）。
 
 > 🤖 2026-09-23 消化 9 個來源檔（4 則貼文 + 5 張讀圖），**未新增頁面**。
 > 補進 [[wiki/investing/themes/HBM4與先進封裝]]（SemiAnalysis Rubin Ultra TCO 表）、
@@ -74,6 +83,7 @@
 | [[wiki/investing/themes/AI資本支出的融資結構]] | 🤖 2026-09-17 新增：AI 資本支出的「錢從哪來」。五大雲端＋輝達近 12 個月 capex＋研發 8,700 億美元（+89%）、2026 年至今發債 3,200 億（含 SPV）；⚠️ 占公債比重 68%／50%／70% 三個口徑打架，未點名台廠 |
 | [[wiki/investing/themes/跨園區光傳輸與薄膜濾光片]] | 🤖 2026-09-17 新增：電力／空間／散熱三道牆 → Scale-across 跨園區 → DWDM 96 波長 → 薄膜濾光片（1.5 mm、100～200 層）；⚠️ 全文未點名任何台廠，毛利 56% 未標公司與期間 |
 | [[wiki/investing/themes/CoWoS-L與EMIB-T封裝路線之爭]] | 🤖 2026-09-21 新增：先進封裝第一份逐年規格路線圖（TrendForce 2026/09）。CoWoS-L 光罩 5.5X→14X、HBM 模組 12→20；⚠️ 2028 年 Intel EMIB-T 的 HBM 模組 >24 反而較高——CoWoS-L 的優勢在良率與量產經驗不在規格上限；TrendForce 預期 Google 2027 可能改用 EMIB-T；⚠️ 未點名任何台廠 |
+| [[wiki/investing/themes/MLCC缺貨漲價]] | 🤖 2026-10-01 新增：MLCC 交期 8→9 月拉長、國巨部分料號通路價變 3.8 倍；TrendForce 交期 32 週 vs 平衡 12 週；⚠️ 未點名名單內公司，與禾伸堂的影響路徑待確認 |
 
 ### 環節（11）
 

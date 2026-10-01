@@ -149,3 +149,19 @@ Scale-across 把這個方向再往外推一層，而且性質不同——
 本頁的 CPX 規格判斷不因此改變。
 
 詳見 [[跨園區光傳輸與薄膜濾光片]]、[[資料中心電力]]。
+
+## 🤖 2026-10-01 自動消化：供應表上 CPX 標為「Delay (weak demand)」，網路占比隨規模放大
+
+### 一、CPX 延遲
+
+來源：`raw/shot_2026-09-25_GB300到VR300與ASIC板材層數.md`（Table 2，富邦投顧整理）
+
+VR200 與 VR300 的 CPX 列都寫「**Delay (weak demand)**」，PCB 供應商欄空白；CCL 欄仍列 M8 (K2)。
+⚠️ 圖上沒有說明延遲多久、需求弱的依據。貼文作者（@memory1mh）把「看時程有沒有延遲」列為三個重點之一。
+
+### 二、機櫃 BOM：Networking 占比 8.6% → 22.4%
+
+來源：`raw/shot_2026-09-27_AI機櫃BOM價值轉向網路.md`（X @Sam67024298780 截圖，Figure 26，Source: Fubon Research estimates）＋ `raw/threads_2026-09-27_AI機櫃BOM價值轉向網路.md`
+
+完整表格見 [[光收發模組與矽光子]]。圖上原文：「Networking rises from 8.6% in GB300 to 18.5% in Taycann and
+22.4% in NVL576 as inter-rack optical and external scale-out fabric expand.」

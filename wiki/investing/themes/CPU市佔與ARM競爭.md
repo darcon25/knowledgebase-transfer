@@ -287,3 +287,37 @@ $6669.TW（Wiwynn）、$2376.TW（GIGABYTE）、$2356.TW（Inventec）、$3693.T
 
 這與本頁 09-14 記的 Citi「Agentic 成為 CPU TAM 最大分類」方向一致，但本則只是盤面敘事，不是新的量化佐證。
 台廠對 CPU 平台的暴露見上一節對照表；資料中心負載面見 [[資料中心電力]]。
+
+## 🤖 2026-10-01 自動消化：BofA 估伺服器 CPU 市場 2025→2030 約 6 倍，CPU 交期轉緊
+
+### 一、BofA 的伺服器 CPU 市場規模（依工作負載拆分）
+
+來源：`raw/shot_2026-09-26_伺服器CPU市場六倍成長.md`（BofA Global Research，Exhibit 1）＋ `raw/threads_2026-09-26_伺服器CPU市場六倍成長.md`（Threads @orion__06666）
+
+圖標題：「Agentic AI nodes grow to 43% of CY30E server CPU sales, matching compute/head nodes」
+
+| 年度 | Traditional/IaaS | Compute/Head Node | Agentic AI Node | 合計（三段相加，圖上未標） |
+|---|---|---|---|---|
+| 2025 | $16bn | $19bn | — | $35bn |
+| 2026 | $19bn | $36bn | $6bn | $61bn |
+| 2027 | $21bn | $54bn | $29bn | $104bn |
+| 2028 | $24bn | $69bn | $46bn | $139bn |
+| 2029 | $27bn | $79bn | $65bn | $171bn |
+| 2030 | $30bn | $90bn | $90bn | $210bn |
+
+- 貼文：「BofA 預計伺服器 CPU 市場將從 2025 年的約 350 億美元增長到 2030 年的約 2,100 億美元，規模將近 6 倍」，
+  並說「難怪按摩店跟 Intel 走勢這麼強」（按摩店＝AMD 的網路暱稱）。
+- ⚠️ 成長主要來自 Compute/Head Node（$19bn→$90bn）與從 0 冒出來的 Agentic AI Node；
+  Traditional/IaaS 只有 $16bn→$30bn。貼文只講總數 6 倍，容易誤讀成均勻成長。
+- 與本頁 09-14 的 Citi CPU TAM 模型是**不同機構**，分類口徑不同，不可直接相加或對比。
+
+### 二、TrendForce 交期表首次納入 CPU
+
+來源：`raw/shot_2026-10-01_七大零組件交期紅綠燈.md`（TrendForce 2026/09/28）
+
+CPU 燈號「緊張」，目前交期 **25～30 週**、平衡交期 **16～20 週**（圖上寫 1.5～1.6 倍），
+解讀「**Agentic AI 推升伺服器 CPU 需求，CSP 加速自研**」。完整七項見 [[半導體結構性失衡]]。
+
+### 這件事會怎麼影響這條鏈
+
+兩份來源都**沒有點名任何台廠**，對 [[載板]]、[[AI伺服器PCB鏈]] 的影響路徑待確認。

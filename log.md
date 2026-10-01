@@ -1262,3 +1262,21 @@ CoreWeave 貼文最吸睛的 `$9／$146／六年／九年` **圖上一個都沒�
 同步更新：raw/ 內 shot_ 檔的 `source_note` 與 `[[...]]` 交叉連結、`data/known_issues.json`、
 `data/ingested.json`（160 → 169 筆）。`raw/assets/` 圖檔未改名（嵌入仍有效）。
 `shot_2026-09-22_斗山擴CCL產能大摩點名台廠.md` 本來就是可讀名稱，未改名。
+
+## [2026-10-01] ingest | 15 個來源檔（9 則貼文 + 6 張讀圖）
+
+全部走投資線，新增 [[MLCC缺貨漲價]]（已加進 overview 與 index）。
+驅動因素頁補段：半導體結構性失衡（TrendForce 09-28 七項交期表，對照 09-14：新增 CPU、GPU 兩欄同步上移、MLCC 30→32 週）、
+ABF載板隱性減產、CPU市佔與ARM競爭（BofA 2025→2030 伺服器 CPU 35→210bn）、AI-ASIC與GoogleTPU供應鏈（五家 ASIC 層數與 CCL／PCB 供應表）、
+PTFE與材料世代轉換（VR300 交換板 PTFE／Taiflex）、NvidiaCPX與Scale-out架構（CPX 標 Delay）、光收發模組與矽光子（機櫃 BOM Networking 8.6%→22.4%）、
+交換器與網通互聯（智邦量化拆解）、跨園區光傳輸與薄膜濾光片（Scale Across 台廠位置）、CPO共同封裝光學。
+公司頁事件時間軸（17 頁）：1303、1802、1815、2368、2383、2467、3026、3037、3163、3189、3363、4958、6213、6274、8021、8039、8358。
+未動「我的論點」、未動 41 檔名單、未建 insights。
+
+## [2026-10-01] update | 15 個來源檔改名（亂碼 ID → 可讀主題）
+
+`bw300h2n` → `七大零組件交期紅綠燈`、`6r40sd3b` → `GB300到VR300與ASIC板材層數`、`kc1wm43h` → `主動ETF補股清單`、
+`uqvnxv2d` → `伺服器CPU市場六倍成長`、`vcsazeji` → `MLCC交期拉長通路價大漲`、`rexog56v` → `AI機櫃BOM價值轉向網路`（以上各含貼文與 shot_ 兩檔）、
+`avjc6a36` → `智邦估值下修量化拆解`、`wath3e97` → `CCL雜音與真相聯茂8月獲利`、`3mvsqvf2` → `ScaleAcross台灣供應鏈`。
+frontmatter 已加 `original_id:`，`git mv` 全部成功；同步更新 `data/known_issues.json`、`data/ingested.json`。
+⚠️ 依本次指示 raw/ 只加 `original_id`，**shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名**（Obsidian 內為斷連結，健檢只掃 wiki/ 不會報）；`raw/assets/` 圖檔未改名，嵌入仍有效。

@@ -478,3 +478,32 @@ Anthropic 在 2025/10～2026/08 簽下的 12 筆算力合約中，**電力規模
 
 ⚠️ **但這兩則沒有任何一個共同的可驗證欄位**（沒有共同客戶名、沒有共同數量單位），
 **「同一批訂單」是我讀出來的關聯，不是任何一份來源寫的**。當成方向參考，不要當成交叉驗證。
+
+## 🤖 2026-10-01 自動消化：五家 ASIC 客戶的時程、層數與 CCL／PCB 供應表
+
+來源：`raw/shot_2026-09-25_GB300到VR300與ASIC板材層數.md`（Table 3: Cloud Giants & LLM Vendors' Solutions，富邦投顧整理，標示 estimates）
+＋ `raw/threads_2026-09-25_GB300到VR300與ASIC板材層數.md`（Threads @memory1mh：「看厚度不看顆數，看 asic 多過 nvda，看時程有沒有延遲」）
+
+| 客戶 | 設計服務／代號 | 時程 | 主板規格 | CCL 供應 | Compute Board PCB |
+|---|---|---|---|---|---|
+| Google | Broadcom - TPU v7 (Ironwood) | 26H1 | 22/24L | M7-Panasonic (80~90%)/EMC | ISU/LCS/WUS/TTM/VGT |
+| Google | Broadcom - TPU v8 Sunfish | 26Q4 | 34L | M8(LK2)-EMC/Panasonic | WUS/TTM/LCS/VGT |
+| Google | MTK - TPU v8 Zebrafish | 27Q1 | 34L | M8(LK2)-EMC/Doosan/Panasonic | ISU/WUS/TTM/VGT/GCE |
+| Google | MTK - TPU v9 Humufish | 28Q2 | 6-press 28L | M9 + M8(LK1) EMC | ISU/VGT/WUS/TTM/Unimicron；Backup: Zhen Ding/LCS |
+| Amazon | Marvell - Trainium2e (Cayman) | 26H1 | 26L | M8(LK)-EMC/TUC | GCE/SY/FHT |
+| Amazon | Annapurna - Trainium3 (Mariana) | 26Q2 | 26L 氣冷／40L 液冷；SW 22L | M8(LK)-EMC/TUC | GCE+SY/WUS/FHT |
+| Amazon | Annapurna - Trainium4 (Maverick) | 27Q4 | 3/4-press 34L；SW 30L | M9-EMC/Nan Ya? | GCE/SY/ZDT/Meiko |
+| Meta | Broadcom - MTIA T V1.0 | 25H2 | 40L | M8(LK)-EMC | WUS/TTM/ISU |
+| Meta | Broadcom - MTIA I V1.5 | 26H2 | 36L | M8(LK)-EMC | WUS/GCE/TTM/ISU |
+| Meta | Broadcom - MTIA V2 | 28E | ? | M9-EMC | WUS/GCE/TTM/ISU/DY? |
+| MSFT | Marvell - MAIA 300 | 27H1 | 40L+ | M9-EMC/Doosan? | GCE/TTM/WUS/Daeduck/ISU |
+| AMD | MI4 series | 27H2 | 48L | M8(LK2) | SCC (90%)/Unimicron/Daeduck |
+| AMD | MI5 series | 28H2 | 52L | M9 | 同上 |
+
+（L6、L10~L12 組裝欄位省略，見原檔。公司名照圖上英文。）
+
+- 讀圖檔的解讀：貼文「看厚度」指的應是 **PCB 層數**，不是 n8n 摘要寫的抽象「實質內容」。
+- ⚠️ Meta MTIA T V1.0（25H2）40L 比後面的 V1.5（26H2）36L 還厚，圖上沒解釋。
+- 台廠對應（依讀圖檔）：EMC → [[2383 台光電]]、TUC → [[6274 台燿]]、Nan Ya → [[1303 南亞]]、
+  GCE → [[2368 金像電]]、Unimicron → [[3037 欣興]]、ZDT／Zhen Ding → [[4958 臻鼎-KY]]。
+- NVIDIA 三代平台（GB300／VR200／VR300）的同類表見 [[PTFE與材料世代轉換]] 與 [[NvidiaCPX與Scale-out架構]]。
