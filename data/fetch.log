@@ -514,3 +514,5 @@ fatal: Could not read fro
 [2026-10-03 18:30:12] ✅ 毛利率 60 檔（2026Q2）
 [2026-10-03 18:31:48] ✅ 新聞 59/59 檔有結果
 [2026-10-03 18:31:48] === 抓取完成 ===
+[2026-10-04 14:47:21] ⚠️ git pull 失敗，仍檢查本機指令：fatal: 'origin' does not appear to be a git repository
+fatal: Could not read fro
