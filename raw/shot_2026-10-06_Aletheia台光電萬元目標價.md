@@ -11,6 +11,7 @@ expected_min: 1
 captured_by: fetch_media
 source_note: "instagram_2026-10-05_8c03mxaq.md"
 status: 已讀圖
+original_id: 8c03mxaq
 ---
 
 # 📸 原貼文圖片 2026-10-06 — instagram_2026-10-05_8c03mxaq

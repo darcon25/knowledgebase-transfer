@@ -10,6 +10,7 @@ original_url: "https://www.instagram.com/p/DeGoMW0j5lv/?img_index=4&stkn=ZWMwYnA
 media_count: 1
 media_urls:
   - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/831324009_18105311888200312_3446652669652708422_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAwMTA2MjA3OTU5NTI1NDE1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vr8XKfhLe_AQ7kNvwHuO7JL&_nc_oc=Adqdv37Tv1jRYGmFv3WZcOAz2oIjGkTONHvE0COyQzrJUnDpMRAqhkTsd09ruA0OLhA&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=-4WIHsBxwNqHHFOkWvgpAw&_nc_ss=7b689&oh=00_AQMgpU-ek8qslIrgf-nfXcceITBQtI4IYiE2u3o68U8lhg&oe=6AC98678"
+original_id: 4pbv1lwp
 ---
 
 # 📸 2026-10-05 存檔

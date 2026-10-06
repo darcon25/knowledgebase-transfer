@@ -11,6 +11,7 @@ media_count: 2
 media_urls:
   - "https://scontent-sea5-1.xx.fbcdn.net/v/t1.6435-9/719938709_18395607844087606_6746921675929007846_n.png?_nc_cat=1&ccb=1-7&_nc_sid=283bea&_nc_ohc=OTC0LN0EdNYQ7kNvwHr3acS&_nc_oc=Ado7zf38s3-_wpNN-nRwgXxuAqckCwmEMNhXrgJkGlbgOVwBZ21esKAgUHxxU8P3mMQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=xAqnM_hWB8LeQhkzukBUog&_nc_ss=7b289&oh=00_AQO8aehLDU8erHnX3XhrG_tk9Q5HB8PctY15eW25aneTAg&oe=6AEC4CB2"
   - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/836930922_18114812122955011_1214721961646887814_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAwMTg2NzAwNTQ4OTE2NjY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTcxMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QF293yTMa4kQ7kNvwGcXGrI&_nc_oc=Adp4S1ev61ks-KEMm5B4mu-B--DOtMyvNbxrDNHBxHneHBoJIVgKWBv3XSnvrf6I3Zs&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=xAqnM_hWB8LeQhkzukBUog&_nc_ss=7b289&oh=00_AQOPHE-InVAL4Tj8QwfE4zxe7pS_NZ91m0zqQNn2vOt4TA&oe=6ACA8273"
+original_id: 19z7hnsu
 ---
 
 # 🧵 2026-10-06 存檔

@@ -10,6 +10,7 @@ original_url: "https://www.threads.com/share/BAXEq_w9PR"
 media_count: 1
 media_urls:
   - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/839334410_17916309804463693_6138393875548146416_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAwMTgzNzIzNzc4NDM1MDYwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjU2My5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=rZbSh7rg-XwQ7kNvwGmWtdv&_nc_oc=AdpC9RkHezkOLxNJfqc0bDRaGvnlR5hAG_TsAI9VzNsAghwEwcWsjX1jl2rGcKFDujA&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=yn5Vi4PTVihAYoON75HkNA&_nc_ss=7b289&oh=00_AQMow0hbeVgNhXm8D79wpeiHlZLTmsUVXfj2aUPpv2Qdcg&oe=6ACA7DAD"
+original_id: ytr1ncf9
 ---
 
 # 🧵 2026-10-06 存檔

@@ -1280,3 +1280,24 @@ PTFE與材料世代轉換（VR300 交換板 PTFE／Taiflex）、NvidiaCPX與Scal
 `avjc6a36` → `智邦估值下修量化拆解`、`wath3e97` → `CCL雜音與真相聯茂8月獲利`、`3mvsqvf2` → `ScaleAcross台灣供應鏈`。
 frontmatter 已加 `original_id:`，`git mv` 全部成功；同步更新 `data/known_issues.json`、`data/ingested.json`。
 ⚠️ 依本次指示 raw/ 只加 `original_id`，**shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名**（Obsidian 內為斷連結，健檢只掃 wiki/ 不會報）；`raw/assets/` 圖檔未改名，嵌入仍有效。
+
+## [2026-10-06] ingest | 12 個來源檔（6 則貼文 + 6 張讀圖）
+
+全部走投資線，新增 [[玻璃基板]]（已加進 overview 與 index）。
+- Aletheia 台光電萬元目標價（10/4 報告）→ [[2383 台光電]]（EPS／毛利率／產能表）、[[AI-ASIC與GoogleTPU供應鏈]]（TPU 360→850→1,200 萬顆、v7→v8 每櫃 PCB／CCL 價值）、[[CCL]]
+- 口袋證券 CCL 17 家台廠分工圖 → [[CCL]] 全表；名單內 11 家公司頁時間軸（1303、1717、1802、1815、2383、5340、5475、6213、6274、8039、8358）
+- 工商時報外資目標價表 → [[2383 台光電]]、[[8046 南電]]、[[3037 欣興]]、[[3189 景碩]]、[[載板]]；[[AI伺服器PCB鏈]] 新增「同檔公司目標價分歧」（南電 1,890～2,460 差約 30%）
+- 亞泰金屬 6727 合約負債 13.44→23.29→30.89 億 → [[設備]]、[[CCL]]
+- 矽格法說（高成長領域占比 24%、湖口新廠訂光）＋疑似矽格內部人買股圖 → [[封測]]、[[CPO共同封裝光學]]
+- 輝達玻璃基板時程（傳聞，輪播只抓到封面）→ [[玻璃基板]]
+
+**名單外**：亞泰金屬 6727、矽格 6257、律勝 3354、亞電 4939、榮科 4989、國精化 4722、雙鍵 4764、崇舜 7763，未動 `tools/watchlist.py`。
+未動「我的論點」、未建 insights。
+
+## [2026-10-06] update | 6 組來源檔改名（亂碼 ID → 可讀主題）
+
+`4pbv1lwp` → `輝達限兩年完成玻璃基板`、`8c03mxaq` → `Aletheia台光電萬元目標價`、`lsspfuqy` → `CCL供應鏈17家台廠分工`、
+`19z7hnsu` → `矽格法說多了CPO的京元電`、`kltd9wgq` → `ABF與CCL外資目標價表`、`ytr1ncf9` → `亞泰金屬CCL含浸設備`（各含貼文與 shot_ 兩檔）。
+frontmatter 已加 `original_id:`；9 檔 `git mv`，3 個尚未進版控的 shot_ 檔改用一般搬移。
+同步更新 `data/known_issues.json`、`data/ingested.json`（184 → 196 筆）。
+⚠️ raw/ 只加 `original_id`，**shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名**；`raw/assets/` 圖檔未改名，嵌入仍有效。

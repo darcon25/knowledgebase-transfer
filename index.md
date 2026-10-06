@@ -2,7 +2,15 @@
 
 > 這份文件由 LLM 維護。公司頁與環節頁由 `tools/build_pages.py` 自動產生。
 
-**最後更新**：2026-10-01　**頁面總數**：95
+**最後更新**：2026-10-06　**頁面總數**：96
+
+> 🤖 2026-10-06 消化 12 個來源檔（6 則貼文 + 6 張讀圖），**新增 1 個驅動因素頁**
+> （[[wiki/investing/themes/玻璃基板]]），另補進 [[wiki/investing/themes/AI-ASIC與GoogleTPU供應鏈]]（Aletheia TPU 顆數與每櫃價值）、
+> [[wiki/investing/themes/CPO共同封裝光學]]、[[wiki/investing/segments/CCL]]（17 家台廠分工表）、
+> [[wiki/investing/segments/設備]]（亞泰金屬合約負債）、[[wiki/investing/segments/封測]]（矽格法說）、
+> [[wiki/investing/segments/載板]]、[[wiki/investing/chains/AI伺服器PCB鏈]]（外資目標價分歧），
+> 與 **14 個公司頁**的事件時間軸。亞泰金屬 6727、矽格 6257 及圖卡上 6 家材料股**皆不在 41 檔名單，本次未動名單**。
+> 6 組亂碼 ID 檔名已改為可讀主題（`original_id` 保留於各檔 frontmatter）。
 
 > 🤖 2026-10-01 消化 15 個來源檔（9 則貼文 + 6 張讀圖），**新增 1 個驅動因素頁**
 > （[[wiki/investing/themes/MLCC缺貨漲價]]），另補進 10 個既有驅動因素頁
@@ -84,6 +92,7 @@
 | [[wiki/investing/themes/跨園區光傳輸與薄膜濾光片]] | 🤖 2026-09-17 新增：電力／空間／散熱三道牆 → Scale-across 跨園區 → DWDM 96 波長 → 薄膜濾光片（1.5 mm、100～200 層）；⚠️ 全文未點名任何台廠，毛利 56% 未標公司與期間 |
 | [[wiki/investing/themes/CoWoS-L與EMIB-T封裝路線之爭]] | 🤖 2026-09-21 新增：先進封裝第一份逐年規格路線圖（TrendForce 2026/09）。CoWoS-L 光罩 5.5X→14X、HBM 模組 12→20；⚠️ 2028 年 Intel EMIB-T 的 HBM 模組 >24 反而較高——CoWoS-L 的優勢在良率與量產經驗不在規格上限；TrendForce 預期 Google 2027 可能改用 EMIB-T；⚠️ 未點名任何台廠 |
 | [[wiki/investing/themes/MLCC缺貨漲價]] | 🤖 2026-10-01 新增：MLCC 交期 8→9 月拉長、國巨部分料號通路價變 3.8 倍；TrendForce 交期 32 週 vs 平衡 12 週；⚠️ 未點名名單內公司，與禾伸堂的影響路徑待確認 |
+| [[wiki/investing/themes/玻璃基板]] | 🤖 2026-10-06 新增：傳輝達要求基板廠兩年內完成玻璃基板、2028 年前導入；友達 86 億資本支出、群創 620×670 mm；⚠️ 未點名名單內公司，影響路徑待確認 |
 
 ### 環節（11）
 
