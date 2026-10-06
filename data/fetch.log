@@ -548,3 +548,5 @@ fatal: Could not read fro
 [2026-10-06 18:30:17] ✅ 毛利率 60 檔（2026Q2）
 [2026-10-06 18:31:43] ✅ 新聞 59/59 檔有結果
 [2026-10-06 18:31:43] === 抓取完成 ===
+[2026-10-06 21:23:35] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-10-06 21:58:39] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
