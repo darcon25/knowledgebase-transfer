@@ -1301,3 +1301,25 @@ frontmatter 已加 `original_id:`，`git mv` 全部成功；同步更新 `data/k
 frontmatter 已加 `original_id:`；9 檔 `git mv`，3 個尚未進版控的 shot_ 檔改用一般搬移。
 同步更新 `data/known_issues.json`、`data/ingested.json`（184 → 196 筆）。
 ⚠️ raw/ 只加 `original_id`，**shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名**；`raw/assets/` 圖檔未改名，嵌入仍有效。
+
+## [2026-10-07] ingest | 19 個來源檔（11 則貼文 + 8 張讀圖）
+
+全部走投資線，未新增頁面（overview 不需加連結）。
+- 科技新報整理 Aletheia 平台對照表（CCL 只有台光電 5/5）→ [[CCL]]、[[AI-ASIC與GoogleTPU供應鏈]]、[[PTFE與材料世代轉換]]（PTFE 混壓板良率 <30%）；公司頁 2383、1303、6274、8039、3037、2368、4958
+- TrendForce 10/05 交期表（ABF 4～4.7 倍、MLCC 35 週）→ [[ABF載板隱性減產]]、[[MLCC缺貨漲價]]、[[記憶體]]
+- TPU v8 網通規格、輝達 400G 光模組、Anthropic／博通／Marvell → [[AI-ASIC與GoogleTPU供應鏈]]、[[光收發模組與矽光子]]、[[博通AI營收展望]]；公司頁 3450
+- CCL LTA 與「CPO 不降規」社群說法 → [[長期合約LTA與AI營收佔比]]；[[AI伺服器PCB鏈]] 新增矛盾訊號（LTA 已在用 vs 仍在談、CPO 升規 vs 下行風險、板層數 50+ vs 32～34）
+- 臻鼎-KY 研究簡報（2Q26 營收 484.31 億）→ [[4958 臻鼎-KY]]
+- 日東紡 T-Glass 缺貨、三家玻纖布比較 → [[玻纖布缺料]]；公司頁 1802、1815、5340
+- 矽格三家投顧目標價 329／355／385 → [[封測]]；順達 BBU 單價 → [[資料中心電力]]
+
+**名單外**：矽格 6257、欣銓 3264、順達 3211，未動 `tools/watchlist.py`。未動「我的論點」、未建 insights。
+
+## [2026-10-07] update | 11 組來源檔改名（亂碼 ID → 可讀主題）
+
+`hfny5nyh` → `TPU三年翻三倍台光電五平台`、`y3cp2ge2` → `零組件交期ABF最緊MLCC35週`、`77lbac6c` → `臻鼎KY公司研究簡報`、
+`8shke8da` → `矽格三家投顧目標價`、`m42f8rpo` → `TPUv8網通架構規格`、`nm6ayr0p` → `PCB與CCL概念股懶人包`、
+`qjckxs8b` → `輝達400G光模組入門`、`vwzu3jup` → `台玻富喬建榮玻纖布比較`（以上各含貼文與 shot_ 兩檔）、
+`8crm32iz` → `CCL不因CPO降規與LTA`、`hnh8o6o1` → `順達9月營收與Q4族群策略`、`m2betvmc` → `Anthropic晶片與博通三星`。
+frontmatter 已加 `original_id:`；19 檔全部 `git mv` 成功。同步更新 `data/known_issues.json`、`data/media_retry.json`、`data/ingested.json`。
+⚠️ raw/ 只加 `original_id`，**shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名**；`raw/assets/` 圖檔未改名，嵌入仍有效。

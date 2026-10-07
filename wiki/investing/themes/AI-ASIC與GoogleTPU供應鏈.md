@@ -529,3 +529,41 @@ Anthropic 在 2025/10～2026/08 簽下的 12 筆算力合約中，**電力規模
 - Aletheia 把 [[2383 台光電]] 列入 Google TPU、AWS Trainium 及 AMD 等平台的相關 CCL 供應商
 - ⚠️ 原文明寫「上述數字屬於外資預估，並非已實現的出貨結果」
 - 對照本頁 10-01 富邦投顧表：TPU v9 時程 28Q2、材料 M9
+
+## 🤖 2026-10-07 自動消化：哪家供哪個平台、TPU v8 網通規格、Anthropic 的 v8t 評估
+
+**一、Aletheia 平台對照表（科技新報整理）**
+來源：`raw/instagram_2026-10-06_TPU三年翻三倍台光電五平台.md`，讀圖 `raw/shot_2026-10-07_TPU三年翻三倍台光電五平台.md`
+
+- TPU 出貨：2026 年 360 萬顆 → 2028 年 1,200 萬顆（與 10-06 口袋證券版本一致）
+- TPU 的 PCB 由標準多層板轉向 N+M 結構，2028 年 v9 改採 HDI；**PCB 單價指數**以最早的 ViperFish 為 1，v9 為 2.5，v10 預估約 5～6；v8 每櫃 PCB 含量最高 3 萬～4 萬美元
+- Google 欄入列：PCB — [[3037 欣興]]、滬電、[[2368 金像電]]、TTM、定穎、ISU Petasys、Lincstech；CCL — [[2383 台光電]]、斗山、[[1303 南亞]]、松下
+- 報告風險：與雲端業者長約仍在討論、終端需求、執行、美國對 AI 資料中心擴張的政策
+- ⚠️ 「入列」不代表份額，圖中沒有營收占比
+
+**二、TPU 7 / 8t / 8i 網通規格**
+來源：`raw/threads_2026-10-07_TPUv8網通架構規格.md`（@klu_jfk 轉述 Aletheia v8 網通報告），讀圖 `raw/shot_2026-10-07_TPUv8網通架構規格.md`（圖上未標出處）
+
+| 項目 | TPU 7 (Ironwood) | TPU 8t (Zebrafish) | TPU 8i (Sunfish) |
+|---|---|---|---|
+| ICI 頻寬 | 9.6 Tb/s | 19.2 Tb/s | 19.2 Tb/s |
+| 拓撲 | 3D Torus @100G | Enhanced 3D Torus @200G + Virgo | Boardfly @200G + SPOCS |
+| 單一 Superpod | 9,216 顆 | 9,600 顆 | 1,152 顆 |
+| DCN 頻寬 | 100 Gbps/chip | 400 Gbps/chip | 400 Gbps/chip |
+| 邏輯叢集上限 | 超過 10 萬顆 | 最多 100 萬顆 | N.A |
+
+- 貼文文字：v8 per node 需 3 個 transceiver、SerDes 200Gbps、copper cables 1.9 per TPU；Jupiter（南北向）＋Virgo（東西向）兩種架構
+- 報告主推 LITE／CLS／光聖；[[3450 聯鈞]] 是作者自己加的
+- ⚠️ 8i 的 Superpod 較小，圖中沒有說明 8t／8i 用途差異
+
+**三、Anthropic 評估 2027 年導入 150 萬顆 TPU v8t**
+來源：`raw/threads_2026-10-07_Anthropic晶片與博通三星.md`（Threads @s31f_du311，原文未註明出處）
+- Anthropic 啟動三星 2 奈米客製化 ASIC 專案，目標 4,000 TOPS、約 20 萬顆
+- 同時評估 2027 年導入 **150 萬顆 Google TPU v8t**，之後才決定 2028 年晶片路線
+- 博通擔任 Anthropic 的 ASIC 設計供應商，見 [[博通AI營收展望]]
+
+**四、社群說法：每櫃 CCL 價值**
+來源：`raw/threads_2026-10-07_CCL不因CPO降規與LTA.md`（稱引用外資調查）
+- TPU v8 每系統／每機櫃 CCL 總價值 1.2 萬～1.8 萬美元（增幅 60%～70%）；v9 再成長 40%～50%
+- PCB 層數由 20～30 層推升至 50 層以上 HDI／類載板
+- ⚠️ 「50 層以上」與 10-06 Aletheia 的 v8「32～34 層」差距大，原文未說明是哪一代、哪塊板

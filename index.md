@@ -2,7 +2,15 @@
 
 > 這份文件由 LLM 維護。公司頁與環節頁由 `tools/build_pages.py` 自動產生。
 
-**最後更新**：2026-10-06　**頁面總數**：96
+**最後更新**：2026-10-07　**頁面總數**：96
+
+> 🤖 2026-10-07 消化 19 個來源檔（11 則貼文 + 8 張讀圖），**未新增頁面**。補進
+> [[wiki/investing/themes/AI-ASIC與GoogleTPU供應鏈]]（平台對照表、TPU v8 網通規格、Anthropic 評估 150 萬顆 v8t）、
+> [[wiki/investing/themes/長期合約LTA與AI營收佔比]]、[[wiki/investing/themes/光收發模組與矽光子]]、[[wiki/investing/themes/ABF載板隱性減產]]、
+> [[wiki/investing/themes/MLCC缺貨漲價]]、[[wiki/investing/themes/玻纖布缺料]]、[[wiki/investing/themes/PTFE與材料世代轉換]]、
+> [[wiki/investing/themes/博通AI營收展望]]、[[wiki/investing/themes/資料中心電力]]（BBU 單價）、[[wiki/investing/segments/CCL]]、
+> [[wiki/investing/segments/封測]]（矽格三家投顧）、[[wiki/investing/segments/記憶體]]、[[wiki/investing/chains/AI伺服器PCB鏈]]（LTA／CPO 矛盾訊號），
+> 與 **12 個公司頁**的事件時間軸。
 
 > 🤖 2026-10-06 消化 12 個來源檔（6 則貼文 + 6 張讀圖），**新增 1 個驅動因素頁**
 > （[[wiki/investing/themes/玻璃基板]]），另補進 [[wiki/investing/themes/AI-ASIC與GoogleTPU供應鏈]]（Aletheia TPU 顆數與每櫃價值）、
