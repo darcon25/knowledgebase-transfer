@@ -1,0 +1,121 @@
+---
+tags:
+  - source
+  - social_media
+  - threads
+type: social_media
+platform: threads
+date_captured: 2026-10-07
+original_url: "https://www.threads.com/share/_7D7RV4pQ"
+media_count: 3
+media_urls:
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/840070242_17949994005328548_3604172887670077069_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAwMjQ5ODA3MjM2MDE2MjgwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODI4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=j4HOoRX2vsEQ7kNvwFO5GdS&_nc_oc=AdoflDYgh1abv1LwAaOYDt9kQow222LTDgsvAycT8ei5MpmzGOQDt9Vy-QXK1rMJQrs&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=6dDaKiRF3kyCqhkj1JFZ7Q&_nc_ss=7b289&oh=00_AQPuh5_GERfqlYJn0xE3UUK_OSVoPG-3YrErCOnGVCx1hA&oe=6ACBD7D5"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/839388587_17949994014328548_980481590894265881_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAwMjQ5ODA3MjgyMTM5MDQ5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODI4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=Ht-lq9t-piQQ7kNvwGbNwYq&_nc_oc=AdoPr1eUBCgpkStjYxaX9l333M-6CXmvmoPFfHPlsGzOYpLwXf_Mc50QL1D7ngkWWZc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=6dDaKiRF3kyCqhkj1JFZ7Q&_nc_ss=7b289&oh=00_AQMf3Ung2E-MO5xQUASERMV_oOPg1zUHWfJ4At2azOochA&oe=6ACBA266"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/839225656_17949994023328548_4212482095561124317_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAwMjQ5ODA3NDc4NDUyNzEwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODI4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=tpg8sf44F8oQ7kNvwFU0Mtu&_nc_oc=Adp7MQC4R3koSekgfGMj9zqfsESIsC7t0saGwzyh-oU6WJvMQYd4J-mwlznxT7lJj14&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=6dDaKiRF3kyCqhkj1JFZ7Q&_nc_ss=7b289&oh=00_AQMmxuyEQCD4KXsB5x-njpcH_58VonK8gwVNnkyIAh2CCg&oe=6ACBD6B7"
+---
+
+# 🧵 2026-10-07 存檔
+
+> 原文：[查看貼文](https://www.threads.com/share/_7D7RV4pQ)
+
+## 摘要
+這篇貼文主要分享了對兩家晶圓測試廠「矽格」和「欣銓」的投資看法。作者根據矽格法說會後三家投顧的研究報告，預估兩家公司明年的EPS至少可達13元，並認為其股價遲早會攻上300元。
+
+## 重點整理
+*   **矽格法說會後研究報告：** 矽格在法說會後獲得三家投顧出具研究報告。
+*   **明年獲利預估：** 投顧報告對矽格明年的獲利預估樂觀。
+*   **EPS預估：** 矽格和欣銓明年的EPS預估都至少達到13元。
+*   **股價目標：** 作者認為矽格和欣銓的股價遲早會攻上300元。
+*   **產業類別：** 矽格和欣銓均為晶圓測試廠。
+
+## 關鍵概念
+*   **法說會 (Investor Conference)：** 上市櫃公司向法人投資機構說明公司營運狀況、財務表現及未來展望的會議。
+*   **投顧 (Investment Consulting Firm)：** 提供投資研究報告、分析及建議的機構。
+*   **研究報告 (Research Report)：** 投顧或券商對特定公司或產業進行分析，並提出投資建議的報告。
+*   **EPS (Earnings Per Share，每股盈餘)：** 公司稅後淨利除以流通在外股數，衡量公司獲利能力的重要指標。
+*   **晶圓測試廠 (Wafer Testing House)：** 負責對半導體晶圓進行功能性、電性等測試，確保產品品質的廠商。
+
+## 可行動洞察
+*   **追蹤相關公司資訊：** 可以進一步搜尋「矽格 (6257)」和「欣銓 (3264)」的最新法說會內容、投顧研究報告，以及其所屬半導體測試產業的發展趨勢。
+*   **比較不同投顧觀點：** 雖然貼文提到三家投顧，但未具體說明是哪三家。可以嘗試查找不同投顧對這兩家公司的分析，比較其預估與目標價的差異，以獲得更全面的視角。
+*   **了解EPS預估基礎：** 深入了解投顧預估EPS 13元的基礎是什麼？是基於訂單成長、新技術導入、還是產業景氣復甦？這有助於評估預估的可靠性。
+*   **評估目標價合理性：** 股價攻上300元的預期是否合理？可以透過本益比、股價淨值比等估值方法，並參考同業表現，來評估這個目標價的潛在空間與風險。
+*   **關注半導體產業趨勢：** 晶圓測試廠的營運與整體半導體產業景氣高度相關。持續關注全球半導體市場的供需狀況、新技術發展（如AI、HPC）對測試需求帶來的影響。
+*   **風險意識：** 任何投資都有風險，即使有投顧報告支持，也應謹慎評估市場波動、公司營運風險等因素。
+
+## 主文圖片
+
+原貼文主文有 3 張圖。本機 `tools/fetch_media.py` 會下載成 `raw/shot_*.md`。
+（下列網址帶簽章，約一週後失效，僅作線索。）
+
+1. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/840070242_17949994005328548_3604172887670077069_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAwMjQ5ODA3MjM2MDE2MjgwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODI4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=j4HOoRX2vsEQ7kNvwFO5GdS&_nc_oc=AdoflDYgh1abv1LwAaOYDt9kQow222LTDgsvAycT8ei5MpmzGOQDt9Vy-QXK1rMJQrs&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=6dDaKiRF3kyCqhkj1JFZ7Q&_nc_ss=7b289&oh=00_AQPuh5_GERfqlYJn0xE3UUK_OSVoPG-3YrErCOnGVCx1hA&oe=6ACBD7D5
+2. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/839388587_17949994014328548_980481590894265881_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAwMjQ5ODA3MjgyMTM5MDQ5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODI4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=Ht-lq9t-piQQ7kNvwGbNwYq&_nc_oc=AdoPr1eUBCgpkStjYxaX9l333M-6CXmvmoPFfHPlsGzOYpLwXf_Mc50QL1D7ngkWWZc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=6dDaKiRF3kyCqhkj1JFZ7Q&_nc_ss=7b289&oh=00_AQMf3Ung2E-MO5xQUASERMV_oOPg1zUHWfJ4At2azOochA&oe=6ACBA266
+3. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/839225656_17949994023328548_4212482095561124317_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAwMjQ5ODA3NDc4NDUyNzEwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODI4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=tpg8sf44F8oQ7kNvwFU0Mtu&_nc_oc=Adp7MQC4R3koSekgfGMj9zqfsESIsC7t0saGwzyh-oU6WJvMQYd4J-mwlznxT7lJj14&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=6dDaKiRF3kyCqhkj1JFZ7Q&_nc_ss=7b289&oh=00_AQMmxuyEQCD4KXsB5x-njpcH_58VonK8gwVNnkyIAh2CCg&oe=6ACBD6B7
+
+## 原文（Jina Reader）
+
+```
+Title: Jensen Feng (@jensen634177) on Threads
+
+URL Source: https://www.threads.com/share/_7D7RV4pQ
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread](https://www.threads.com/@jensen634177/post/DeLvFHimPBk?xmt=AQG0xjX5T0hsDlptIT5Uo8SEJVUgukymPaxkAP0EgwewvSd1qr7IeFlPCUgcOmMMybcm3SY&slof=1)
+
+[![Image 1: jensen634177's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/838593452_17949705576328548_8623592949790836934_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MjguQzMifQ%3D%3D&_nc_ohc=WppNHpxpYR8Q7kNvwFvbVcM&_nc_oc=AdpuY3m14wRDWNGaYwtFy7zS-YKQLb8F54IlodYnA9B-O-rV8WLCHWiwv36nQ9rZV4E&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=6dDaKiRF3kyCqhkj1JFZ7Q&_nc_ss=7b289&oh=00_AQMtJKVl6JhmB8LJwhKvu2BVTXe5bCpS0cEfnb3ceSKUaw&oe=6ACBA80D)](https://www.threads.com/@jensen634177)
+
+[jensen634177](https://www.threads.com/@jensen634177)
+
+[3m](https://www.threads.com/@jensen634177/post/DeLvFHimPBk)
+
+矽格法說會後 三家投顧出具研究報告 分別對明年獲利預估以及目標價 綜觀明年EPS至少13元起跳 同樣欣銓明年EPS也至少13元起跳 欣銓 矽格二家晶圓測試廠遲早攻上300元
+
+![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/840070242_17949994005328548_3604172887670077069_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAwMjQ5ODA3MjM2MDE2MjgwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODI4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=j4HOoRX2vsEQ7kNvwFO5GdS&_nc_oc=AdoflDYgh1abv1LwAaOYDt9kQow222LTDgsvAycT8ei5MpmzGOQDt9Vy-QXK1rMJQrs&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=6dDaKiRF3kyCqhkj1JFZ7Q&_nc_ss=7b289&oh=00_AQPuh5_GERfqlYJn0xE3UUK_OSVoPG-3YrErCOnGVCx1hA&oe=6ACBD7D5)
+
+![Image 3](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/839388587_17949994014328548_980481590894265881_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAwMjQ5ODA3MjgyMTM5MDQ5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODI4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=Ht-lq9t-piQQ7kNvwGbNwYq&_nc_oc=AdoPr1eUBCgpkStjYxaX9l333M-6CXmvmoPFfHPlsGzOYpLwXf_Mc50QL1D7ngkWWZc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=6dDaKiRF3kyCqhkj1JFZ7Q&_nc_ss=7b289&oh=00_AQMf3Ung2E-MO5xQUASERMV_oOPg1zUHWfJ4At2azOochA&oe=6ACBA266)
+
+![Image 4](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/839225656_17949994023328548_4212482095561124317_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAwMjQ5ODA3NDc4NDUyNzEwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODI4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=tpg8sf44F8oQ7kNvwFU0Mtu&_nc_oc=Adp7MQC4R3koSekgfGMj9zqfsESIsC7t0saGwzyh-oU6WJvMQYd4J-mwlznxT7lJj14&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=6dDaKiRF3kyCqhkj1JFZ7Q&_nc_ss=7b289&oh=00_AQMmxuyEQCD4KXsB5x-njpcH_58VonK8gwVNnkyIAh2CCg&oe=6ACBD6B7)
+
+2
+
+2
+
+Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+
+*   © 2026
+*   [Threads Terms](https://help.instagram.com/769983657850450)
+*   [Privacy Policy](https://help.instagram.com/515230437301944)
+*   [Cookies Policy](https://help.instagram.com/1896641480634370/)
+*   Report a problem
+
+```
+
+## 相關頁面
+
+<!-- [[]] -->
