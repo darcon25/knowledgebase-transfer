@@ -1,0 +1,289 @@
+---
+tags:
+  - source
+  - social_media
+  - threads
+type: social_media
+platform: threads
+date_captured: 2026-10-07
+original_url: "https://www.threads.com/share/BBi05FNuzR"
+media_count: 5
+media_urls:
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/833494120_17941433934367390_5374126802978895489_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAwMjUwNTExNDQyNjQ2NzQxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=f_T78G2Sx7oQ7kNvwGwjDXu&_nc_oc=AdoHWWmWt07smZCxqKq0wJ3eads3Y5wRrKLR-eyX0qs6Hij08lXDrSUAwxBPQTY6oY4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vHDX-FFFmon5tWzwAh-NDw&_nc_ss=7b289&oh=00_AQNZ7RRt2hQx75_FymJmXxeaK9kUIIVesnqouJAveIDucw&oe=6ACBB448"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/840378706_17941433952367390_8779292410975046072_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAwMjUwNTExNDQyNjQzOTM2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTQwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=Gzd-0Y1ov0YQ7kNvwEDSCzC&_nc_oc=Adqu8EIrVDxZCHC-TouWJRQn3FbqHaTQnlPtvn2dlVzfnVLCsm7jKDWYLszXAObv1Bc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vHDX-FFFmon5tWzwAh-NDw&_nc_ss=7b289&oh=00_AQMULK6umeJiX-qZVsDdhbO-Ct7ELQK_LwklBR2R4ACnnA&oe=6ACBBE7F"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/840659279_17941434411367390_3241456600857318181_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=NDAwMjUwNTExNDY5NDg1OTI1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTU3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=k8hGYvYupS4Q7kNvwHUlFSN&_nc_oc=Adr20N_DW18Hlx3YV724nSL8cssvJBtZ2Nboa2AxsrZv_r47U3HztnJQtgvICoVKz-4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vHDX-FFFmon5tWzwAh-NDw&_nc_ss=7b289&oh=00_AQO56eGI2YswvSaUkaaE0OhH6-7b7fPOxpi5VtxMGYb82w&oe=6ACBDD63"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/839388586_17941434435367390_4513497487363630016_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAwMjUwNTExNDM0MjU0MjAzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTU3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=0moN7K2tN44Q7kNvwH1DSTa&_nc_oc=Adq26hNTZCXxq92ZTtxxtWcKW0MCmTv-tLpef9hxtISc0aReKuPnE8wPyP6JHosXDBE&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vHDX-FFFmon5tWzwAh-NDw&_nc_ss=7b289&oh=00_AQNgqEK3lKZYe2ErNZQwY0ap6KTWiH70-zwNwIUtMwcASQ&oe=6ACBBFED"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/839670776_17941434456367390_4625360443490276885_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAwMjUwNTExNDMxNzQxNzk4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTU3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=G1IeLM9_K9wQ7kNvwGPpD9H&_nc_oc=AdofVJn0uT7_9MLty6P-7Iv6bMBnSiERmwThxQNwMemIejiqwZD9ksK81kUPMqYvf_4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vHDX-FFFmon5tWzwAh-NDw&_nc_ss=7b289&oh=00_AQOvBQWs2K_55yIelVqTkL62GKDBV99Q6pOPYefZrqHcjw&oe=6ACBD5D1"
+---
+
+# 🧵 2026-10-07 存檔
+
+> 原文：[查看貼文](https://www.threads.com/share/BBi05FNuzR)
+
+## 摘要
+這篇貼文主要分析日東紡T-Glass供不應求事件對台灣玻纖供應鏈的影響，特別聚焦於台玻、建榮、富喬三家公司。作者從產品映射度、營收動能、訂單能見度、庫存結構、擴產速度、獲利彈性六個維度進行深入評估，指出單看營收年增率可能低估了台玻在高階玻纖布領域的成長潛力，並強調台玻在中長期市占重估和高階供應鏈戰略價值上的優勢。
+
+## 重點整理
+*   **日東紡T-Glass缺貨對台灣供應鏈的影響：** 全球高階Low-CTE/T-Glass龍頭日東紡產能供不應求，對台灣玻纖供應鏈是中長線利多，且比一般漲價題材更有意義。
+*   **三家公司多維度分析：** 貼文從六個維度（產品映射度、營收動能、訂單能見度、庫存結構、擴產速度、獲利彈性）比較台玻、建榮、富喬，指出不同維度下各公司的優勢。
+*   **台玻的潛力被低估：** 雖然短期營收成長可能不如富喬和建榮，但台玻在高階玻纖布的實際成長速度、中長期市占重估空間及作為自主品牌/第二供應源的戰略價值被強調。
+*   **台玻轉型與擴產：** 台玻已量產/取得認證高階玻纖布，並投入20億元擴產，預計玻纖布產線將從4條擴增至12條，高階玻纖布營收占比有望在2026 Q4突破50%。
+*   **後續追蹤指標：** 建議關注高階玻纖布營收占比、Low CTE實際出貨量、12條產線稼動率及毛利率上升，以及營收加速但庫存增速仍低於營收的訊號，判斷高階玻纖布景氣是否仍在主升段。
+
+## 關鍵概念
+*   **日東紡T-Glass：** 全球高階Low-CTE/T-Glass龍頭產品，其供不應求反映市場對高階玻纖布的強勁需求。
+*   **Low Dk (Low Dielectric Constant) / Low CTE (Low Coefficient of Thermal Expansion)：** 高階玻纖布的關鍵特性，用於高速傳輸與高階PCB，是AI伺服器等先進應用所需。
+*   **產品映射度：** 指公司產品與市場熱點（如日東紡T-Glass缺貨）的直接關聯程度。
+*   **營收動能 (YoY)：** 營收年增率，衡量公司短期成長速度。
+*   **訂單能見度/在途訂單：** 反映公司未來營收的確定性與持續性。
+*   **庫存結構：** 觀察庫存變化與營收增速的關係，判斷景氣循環階段。
+*   **擴產速度：** 衡量公司能否快速滿足市場需求，搶占市占。
+*   **獲利彈性：** 產品組合、成本結構等因素對獲利能力的影響。
+*   **市占重估空間：** 公司在特定市場中，因產品或技術優勢，未來市占率提升的潛力。
+*   **高階供應鏈戰略價值：** 公司在關鍵高階材料供應鏈中的重要性與不可替代性。
+
+## 可行動洞察
+*   **深入研究高階玻纖布市場：** 日東紡事件凸顯高階玻纖布市場的強勁需求，值得深入研究其應用領域（AI、高速運算、先進製程PCB）、技術趨勢及主要供應商。
+*   **多維度評估公司價值：** 不應只看單一財務指標（如營收YoY），而應從產品、訂單、產能、獲利等多個維度綜合評估公司，尤其對於轉型中的公司更是如此。
+*   **關注台玻的轉型進度：** 台玻在高階玻纖布的擴產與營收結構轉型是重要的投資看點。應持續追蹤其高階玻纖布營收占比、實際出貨量、產線稼動率及毛利率變化。
+*   **識別產業景氣訊號：** 文中提到的「營收一路加速、庫存增速仍明顯低於營收」是判斷高階玻纖布景氣仍在主升段的強訊號，可作為未來觀察相關產業的指標。
+*   **比較同業競爭優勢：** 透過比較台玻、建榮、富喬在不同維度上的表現，能更全面理解各公司在玻纖產業鏈中的定位與競爭優勢。
+*   **留意供應鏈戰略價值：** 台玻作為自主品牌/第二供應源的戰略價值，可能使其在長期供應鏈穩定性與客戶關係上更具優勢，這也是值得關注的非財務指標。
+
+## 主文圖片
+
+原貼文主文有 5 張圖。本機 `tools/fetch_media.py` 會下載成 `raw/shot_*.md`。
+（下列網址帶簽章，約一週後失效，僅作線索。）
+
+1. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/833494120_17941433934367390_5374126802978895489_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAwMjUwNTExNDQyNjQ2NzQxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=f_T78G2Sx7oQ7kNvwGwjDXu&_nc_oc=AdoHWWmWt07smZCxqKq0wJ3eads3Y5wRrKLR-eyX0qs6Hij08lXDrSUAwxBPQTY6oY4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vHDX-FFFmon5tWzwAh-NDw&_nc_ss=7b289&oh=00_AQNZ7RRt2hQx75_FymJmXxeaK9kUIIVesnqouJAveIDucw&oe=6ACBB448
+2. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/840378706_17941433952367390_8779292410975046072_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAwMjUwNTExNDQyNjQzOTM2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTQwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=Gzd-0Y1ov0YQ7kNvwEDSCzC&_nc_oc=Adqu8EIrVDxZCHC-TouWJRQn3FbqHaTQnlPtvn2dlVzfnVLCsm7jKDWYLszXAObv1Bc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vHDX-FFFmon5tWzwAh-NDw&_nc_ss=7b289&oh=00_AQMULK6umeJiX-qZVsDdhbO-Ct7ELQK_LwklBR2R4ACnnA&oe=6ACBBE7F
+3. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/840659279_17941434411367390_3241456600857318181_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=NDAwMjUwNTExNDY5NDg1OTI1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTU3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=k8hGYvYupS4Q7kNvwHUlFSN&_nc_oc=Adr20N_DW18Hlx3YV724nSL8cssvJBtZ2Nboa2AxsrZv_r47U3HztnJQtgvICoVKz-4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vHDX-FFFmon5tWzwAh-NDw&_nc_ss=7b289&oh=00_AQO56eGI2YswvSaUkaaE0OhH6-7b7fPOxpi5VtxMGYb82w&oe=6ACBDD63
+4. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/839388586_17941434435367390_4513497487363630016_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAwMjUwNTExNDM0MjU0MjAzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTU3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=0moN7K2tN44Q7kNvwH1DSTa&_nc_oc=Adq26hNTZCXxq92ZTtxxtWcKW0MCmTv-tLpef9hxtISc0aReKuPnE8wPyP6JHosXDBE&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vHDX-FFFmon5tWzwAh-NDw&_nc_ss=7b289&oh=00_AQNgqEK3lKZYe2ErNZQwY0ap6KTWiH70-zwNwIUtMwcASQ&oe=6ACBBFED
+5. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/839670776_17941434456367390_4625360443490276885_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAwMjUwNTExNDMxNzQxNzk4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTU3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=G1IeLM9_K9wQ7kNvwGPpD9H&_nc_oc=AdofVJn0uT7_9MLty6P-7Iv6bMBnSiERmwThxQNwMemIejiqwZD9ksK81kUPMqYvf_4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vHDX-FFFmon5tWzwAh-NDw&_nc_ss=7b289&oh=00_AQOvBQWs2K_55yIelVqTkL62GKDBV99Q6pOPYefZrqHcjw&oe=6ACBD5D1
+
+## 原文（Jina Reader）
+
+```
+Title: Rex | 量化研究室 (@rexquantlab) on Threads
+
+URL Source: https://www.threads.com/share/BBi05FNuzR
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread](https://www.threads.com/@rexquantlab/post/DeLwTQ8Emf3?xmt=AQG014QOnBhG0qrAWzpGX3FJrXVBDkDmsxCxu5DdLvjwwo36_U6PsFQFT-UoZ9vbtTH2B9L0&slof=1)
+
+1K views
+
+[![Image 1: rexquantlab's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/669970091_17911616898367390_4272197919851474404_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHJmIrbRDqjNzqwCTsWfRd9JkMkaR1ZAOQg2pl_uoqZhCZtAbCLxbDozXBhqoz4b8Q&_nc_ohc=pZuf6u3eXMcQ7kNvwGps0mX&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMMTk1HYmkj7J3Fe4XUYKOfz0zq_1idCG9iLAGfTvls_A&oe=6ACBD5E7&_nc_sid=10d13b)](https://www.threads.com/@rexquantlab)
+
+[rexquantlab](https://www.threads.com/@rexquantlab)
+
+[39m](https://www.threads.com/@rexquantlab/post/DeLwTQ8Emf3)
+
+昨天講完台玻，很巧的今天台玻漲停！再次把這次日東紡「T-Glass供不應求、產線滿載」的新聞，拆成： 產品映射度、營收動能、訂單能見度／在途訂單、庫存結構、擴產速度、獲利彈性 六個維度來看，結論和單看股價或單看營收 YoY 會有些不同。
+
+1. 誰最直接吃到日東紡 T-Glass 缺貨？ 建榮 ≳ 台玻 > 富喬。
+
+2. 誰現在營收成長最快？ 富喬 > 建榮 > 台玻。
+
+3. 誰有最大中長期替代日東紡的市占重估空間？ 台玻 > 建榮 > 富喬。
+
+4. 訂單確定性最強？ 建榮、富喬都非常高，但結構不同；台玻則是自主品牌／第二供應源的戰略價值最高。
+
+如果只看營收YOY比較表，很容易得出： 富喬 ＞ 建榮 ＞ 台玻。 這樣會錯過真正重要的角度：因為三家公司 2025年的基期不同、產品組合不同，而且台玻還包含大量平板玻璃與建築玻璃營收。所以台玻的 +32.6%，實際上可能低估了「電子級高階玻纖布本身」的成長速度。
+
+法人資料已指出，台玻高階玻纖布出貨顯著高於去年，而且玻纖布營收占比有機會在2026 Q4突破50%。目前高階 Low Dk、Low CTE約占其玻纖布事業40%。
+
+![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/833494120_17941433934367390_5374126802978895489_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAwMjUwNTExNDQyNjQ2NzQxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=f_T78G2Sx7oQ7kNvwGwjDXu&_nc_oc=AdoHWWmWt07smZCxqKq0wJ3eads3Y5wRrKLR-eyX0qs6Hij08lXDrSUAwxBPQTY6oY4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vHDX-FFFmon5tWzwAh-NDw&_nc_ss=7b289&oh=00_AQNZ7RRt2hQx75_FymJmXxeaK9kUIIVesnqouJAveIDucw&oe=6ACBB448)
+
+![Image 3](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/840378706_17941433952367390_8779292410975046072_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAwMjUwNTExNDQyNjQzOTM2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTQwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=Gzd-0Y1ov0YQ7kNvwEDSCzC&_nc_oc=Adqu8EIrVDxZCHC-TouWJRQn3FbqHaTQnlPtvn2dlVzfnVLCsm7jKDWYLszXAObv1Bc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vHDX-FFFmon5tWzwAh-NDw&_nc_ss=7b289&oh=00_AQMULK6umeJiX-qZVsDdhbO-Ct7ELQK_LwklBR2R4ACnnA&oe=6ACBBE7F)
+
+![Image 4](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/840659279_17941434411367390_3241456600857318181_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=NDAwMjUwNTExNDY5NDg1OTI1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTU3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=k8hGYvYupS4Q7kNvwHUlFSN&_nc_oc=Adr20N_DW18Hlx3YV724nSL8cssvJBtZ2Nboa2AxsrZv_r47U3HztnJQtgvICoVKz-4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vHDX-FFFmon5tWzwAh-NDw&_nc_ss=7b289&oh=00_AQO56eGI2YswvSaUkaaE0OhH6-7b7fPOxpi5VtxMGYb82w&oe=6ACBDD63)
+
+![Image 5](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/839388586_17941434435367390_4513497487363630016_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAwMjUwNTExNDM0MjU0MjAzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTU3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=0moN7K2tN44Q7kNvwH1DSTa&_nc_oc=Adq26hNTZCXxq92ZTtxxtWcKW0MCmTv-tLpef9hxtISc0aReKuPnE8wPyP6JHosXDBE&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vHDX-FFFmon5tWzwAh-NDw&_nc_ss=7b289&oh=00_AQNgqEK3lKZYe2ErNZQwY0ap6KTWiH70-zwNwIUtMwcASQ&oe=6ACBBFED)
+
+![Image 6](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/839670776_17941434456367390_4625360443490276885_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAwMjUwNTExNDMxNzQxNzk4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTU3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=G1IeLM9_K9wQ7kNvwGPpD9H&_nc_oc=AdofVJn0uT7_9MLty6P-7Iv6bMBnSiERmwThxQNwMemIejiqwZD9ksK81kUPMqYvf_4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vHDX-FFFmon5tWzwAh-NDw&_nc_ss=7b289&oh=00_AQOvBQWs2K_55yIelVqTkL62GKDBV99Q6pOPYefZrqHcjw&oe=6ACBD5D1)
+
+17
+
+2
+
+8
+
+[![Image 7: rexquantlab's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/669970091_17911616898367390_4272197919851474404_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHJmIrbRDqjNzqwCTsWfRd9JkMkaR1ZAOQg2pl_uoqZhCZtAbCLxbDozXBhqoz4b8Q&_nc_ohc=pZuf6u3eXMcQ7kNvwGps0mX&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMMTk1HYmkj7J3Fe4XUYKOfz0zq_1idCG9iLAGfTvls_A&oe=6ACBD5E7&_nc_sid=10d13b)](https://www.threads.com/@rexquantlab)
+
+[rexquantlab](https://www.threads.com/@rexquantlab)
+
+[39m](https://www.threads.com/@rexquantlab/post/DeLwUAQEjwW)
+
+·Author
+
+接下來要看誰能最快把合格產能開出來？ 總結一下： 短線新聞純映射：建榮 > 台玻 > 富喬 基本面營收爆發：富喬 > 建榮 > 台玻 2027市占重估：台玻 > 富喬 > 建榮 訂單確定性：建榮 ≈ 富喬 > 台玻 高階供應鏈戰略價值：台玻 ≈ 建榮 > 富喬
+
+★ 後續要關注：如果營收一路加速、庫存增速仍明顯低於營收，這會是這一輪高階玻纖布景氣仍在主升段的非常強訊號。
+
+2
+
+[![Image 8: ilujimmy's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/358349677_1028143501452401_5173509896448631725_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=2aZc8dwmAlUQ7kNvwGU_RDW&_nc_oc=Adp8qVIK9cjx5ylmq_i3xzhXzbxfwL5uRxxdEHviXURtC3f6UOKC26OjjpyfRGif8OE&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQOFmF8SqhQ9e94Up_HRskNsrK_ho0a3jM6jFhFdClffOA&oe=6ACBABBD)](https://www.threads.com/@ilujimmy)
+
+[ilujimmy](https://www.threads.com/@ilujimmy)
+
+[26m](https://www.threads.com/@ilujimmy/post/DeLxyjFoICN)
+
+德宏？
+
+Related threads
+
+[![Image 9: rexquantlab's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/669970091_17911616898367390_4272197919851474404_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHJmIrbRDqjNzqwCTsWfRd9JkMkaR1ZAOQg2pl_uoqZhCZtAbCLxbDozXBhqoz4b8Q&_nc_ohc=pZuf6u3eXMcQ7kNvwGps0mX&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMMTk1HYmkj7J3Fe4XUYKOfz0zq_1idCG9iLAGfTvls_A&oe=6ACBD5E7&_nc_sid=10d13b)](https://www.threads.com/@rexquantlab)
+
+[rexquantlab](https://www.threads.com/@rexquantlab)
+
+[1d](https://www.threads.com/@rexquantlab/post/DeI2JFcCSh_)
+
+今天日東紡的消息，對台灣玻纖供應鏈是偏中長線正面，而且比一般「漲價題材」更有意義。原因是這次是全球高階Low-CTE／T-Glass 龍頭直接確認需求供不應求、產線滿載，而且擴產速度跟不上需求。日東紡甚至表示新增產能後，需求擴張速度仍可能追不上。
+
+把台股受惠程度排成： 第一梯隊：台玻 ＞ 建榮 ≈ 富喬 第二梯隊：南亞 第三梯隊：德宏等題材型玻纖布股
+
+台玻在這波Low-CTE缺貨最值得追蹤的位置： 台玻已經量產／取得認證的產品包括Low Dk、Low CTE等高階玻纖布，而且公司今年再投入約20億元擴產，台玻董事長更直接表示，高階Low Dk＋Low CTE已占玻纖布事業約40%，目前供應吃緊，預估缺貨可能一路持續至2027年底。 今年玻纖布產線正由原本約4條擴增到12條，市場預期產能翻倍；8月營收45.92億元、年增32.59%，高階玻纖布出貨已經開始反映在財報，而不是只停留在題材階段。法人甚至預估，到2026年第四季，玻纖布營收占比可能突破50%。
+
+※ 後續要追蹤的三個數字： 1. 高階玻纖布營收占比 2. Low CTE實際出貨量 3. 12條產線的稼動率 4. 毛利率上升
+
+Translate
+
+![Image 10](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/838352144_17941249476367390_2690426360389770098_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwMTY4NjM4MDc0MDE4MTc1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nFFDY7yZnEsQ7kNvwF50h4e&_nc_oc=AdqAUV--nSkpnGoUGCn9CwWV8qCpxLkvsSmOopYYKDItvDiJyHm_0ztNsWwfbpUKMHM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&_nc_ss=7a22e&oh=00_AQP3n_JAXYfu3VhIBuVh6I--5U8ubVW2ihJY3L9zlR3oug&oe=6ACBDAE4)
+
+![Image 11](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/840034030_17941249734367390_5453116459239975895_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAwMTY4NjM4MDUxMzY3NDcwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5P5xI5F01bgQ7kNvwF5yzkF&_nc_oc=AdpP8IbTGbWOklACFwbnLEpAD3vZv6ZC2MwwAkYTsllGjfMx1-wc0qkUZOfBFeTI3KI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&_nc_ss=7a22e&oh=00_AQMUSDdr8mj18ev_2evITiZQcbEI4arCl8TwTIKtpSd8mw&oe=6ACBB3E4)
+
+![Image 12](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/840102058_17941250451367390_901918559668160915_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=NDAwMTY4NjM4MDU3MjQwOTc1Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTc0LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=9om2vrMvoxEQ7kNvwHbSlXD&_nc_oc=AdpznC-QJFfN7M-iG968MDJfGbxadrT95CDZOurC0hudOO5opGfHQlcsJdGPeJdxYX0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&_nc_ss=7a22e&oh=00_AQOhVz_sOisGMneEBD_Kc-eHAnzf8ZFhGkgggXi_oSjytQ&oe=6ACBD4E0)
+
+![Image 13](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/834678056_17941250475367390_3069624035940968962_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAwMTY4NjM4MDUzODg3MjQwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTAyOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CSJdSJ_VQ6EQ7kNvwEbvJ4o&_nc_oc=Adq7PBPVogh3qK5ssukfHubFS88xzYkp8BtSeww-X-KfI-UNGq4QZy2d0EiTOVBLCWA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&_nc_ss=7a22e&oh=00_AQMUW6qcheeC1q8Lz5K2TNZyMTrFTwfUsIz0N13gRpsdSw&oe=6ACBC2C5)
+
+79
+
+1
+
+76
+
+[![Image 14: m78201255's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/727571921_17972542764116098_7563924432554018514_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDEuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHJmIrbRDqjNzqwCTsWfRd9JkMkaR1ZAOQg2pl_uoqZhCZtAbCLxbDozXBhqoz4b8Q&_nc_ohc=CjvnY04DSKAQ7kNvwHlWEJ3&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMCKvLTPjKb7UgtnKv8uN0jZ09WHNqLs9CwMMvSgKaTcw&oe=6ACBD9CB&_nc_sid=10d13b)](https://www.threads.com/@m78201255)
+
+[m78201255](https://www.threads.com/@m78201255)
+
+[台玻1802](https://www.threads.com/search?q=%E5%8F%B0%E7%8E%BB1802&serp_type=tags&tag_id=18518195479005587)
+
+[09/12/26](https://www.threads.com/@m78201255/post/DdK5xkdkzu9)
+
+📈 台玻 1802｜8月營收重點 8月營收：45.92億元 月增：0.24% 年增：32.59% 2026年前8月營收年增：16.58% 核心成長動能：高階玻纖布 Low Dk1／Low Dk2 法人預估：2026年第4季底玻纖布營收占比有望突破50% 產能規劃：玻纖布產線由 4條 → 12條 目標：今年高階玻纖布產能力拚翻倍 2027年：法人預期玻纖布仍維持成長趨勢
+
+🔥 投資關注三大重點 ① AI／高速運算需求 高階玻纖布是高速傳輸與高階PCB的重要材料，AI伺服器需求提升，有利Low Dk產品。 ② 產品結構轉型 玻纖布營收占比若在Q4突破50%，代表台玻營收結構將逐步從傳統玻璃材料，轉向高階電子材料。 ③ 產能擴張 4條增加至12條，若高階產品順利放量，2027年營收與獲利成長值得持續追蹤。
+
+一句話結論： 台玻目前最大的投資看點，不只是8月營收年增32.59%，而是高階玻纖布占比＋產能擴張＋AI需求能否在2026 Q4～2027年持續轉化成獲利。
+
+Translate
+
+![Image 15](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/805923436_17985333678116098_4130933612499612182_n.webp?_nc_cat=110&ig_cache_key=Mzk4NDI1MDc5ODY5NTMzMzc4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTQxLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=GdoMRP4NmIgQ7kNvwHxoumo&_nc_oc=Ado2ie_ki21WIkc7KPblL6sJyWDKR7NJiVcQiMnSouW291Kltmjxf6ft_3lvWFYZYls&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&_nc_ss=7a22e&oh=00_AQO_SNjUi6H2RLnmH5mk1F4r6uke2f4o7a9ya_uKFcpvsw&oe=6ACBDF75)
+
+![Image 16](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/806087427_17985333669116098_8300774816720814851_n.webp?_nc_cat=102&ig_cache_key=Mzk4NDI1MDc5OTMyNDU0MTAzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNTAyLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=1FKArN1Qf74Q7kNvwF8Bwpx&_nc_oc=AdocC271l7ZCdpQAswITcJetCfprOrrNg5gSpKrUcMLIF-_Gl5ICqFAK8NQkSk7c37c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&_nc_ss=7a22e&oh=00_AQP5xELAdTRwQsewTJbTjrU7rWo9_Y83ga5bUc19kOMEpw&oe=6ACBB6A1)
+
+1
+
+[![Image 17: uanalyze_tw's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/447511345_1201754461190228_5352101805493134754_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHJmIrbRDqjNzqwCTsWfRd9JkMkaR1ZAOQg2pl_uoqZhCZtAbCLxbDozXBhqoz4b8Q&_nc_ohc=TjONT_xnSWAQ7kNvwEU8cqt&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOTnhLBanzorw63fLF9PPxh8AKNbcHQrhlGmGNnE6dCcA&oe=6ACBE041&_nc_sid=10d13b)](https://www.threads.com/@uanalyze_tw)
+
+[uanalyze_tw](https://www.threads.com/@uanalyze_tw)
+
+[09/21/26](https://www.threads.com/@uanalyze_tw/post/DdivWArH2QF)
+
+⚡ 信紘科(6667) 大單入帳！8月營收創新高
+
+法說會釋出利多！在手訂單衝上 230 億元、能見度看至 2028 年，今年營收挑戰百億門檻！
+
+🚀 4 大亮點一次看
+
+🔹 8 月營收創歷史新高 8 月營收 8.02 億元（年增 69.05%），反映大型統包專案開始認列，下半年營收將顯著高於上半年！
+
+🔹 切入整廠 GC 機電統包 從單一廠務設備延伸至整廠 GC 與機電統包，台灣與美國工程為下半年主力動能。
+
+🔹 2027 海外營收拚翻倍 布局美、日、泰，今年海外占比約 10%，預估 2027 年海外規模將比今年翻倍！
+
+🔹 營運觀察重點 • 毛利率：大型統包案件占比拉高恐稀釋毛利率，需靠規模效應守住獲利。 • 現金流：Q2 存貨升至 6.36 億（備料），後續關注驗收與訂單轉化現金流進度。
+
+從單一設備廠升級統包巨頭，百億營收後的獲利品質是長線關鍵 📈
+
+閱讀全文 : [uanalyze.com.tw/artic…](https://l.threads.com/?u=https%3A%2F%2Fuanalyze.com.tw%2Farticles%2F4486055683&e=AUBULMQgSnrYYdAcu5neS4510zvtHCQyZkzao9s9Ch3mrt_9e6YPoV-xHVkmRYXZh1N07IS5GFuQ3X0umIxTbPG_yr0xSi9etwBctN99uysSxiGWKGE)
+
+#信紘科 #6667 #半導體建廠 #廠務工程 #台股
+
+Translate
+
+![Image 18](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/795809353_17959697190235639_3553525369714931386_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk5MDk2MDIyOTIxMDM1NDY4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEzNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QLeP3MGB1VgQ7kNvwFtoNKt&_nc_oc=AdqNAXPD94vneucF_7gtPfzLHpmfvh8ikylCrGOainQ4aGDwJiMjLyoM_5f5RrxMOSE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&_nc_ss=7a22e&oh=00_AQOa60WsQCqYD3JIRsxO_cheVw7TBUnEzso3VrtXvpbgQA&oe=6ACBD9EC)
+
+![Image 19](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/795068831_17959697163235639_1318657303078390995_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk5MDk2MDIzMDIxNjg2MTIwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEzNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=f5pFQtTY1KoQ7kNvwGQ-hUQ&_nc_oc=AdoJkX8bIhN9dA1WhETxTFW2QQ6HRgq-BkC_rc-IVXH57jTDJYGbQvqAi2AsBMCPFOY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&_nc_ss=7a22e&oh=00_AQNIvuM3fV-H2KK1rcY3uoc4q10OC30xuzgRX4SeK-L8EQ&oe=6ACBDEEB)
+
+![Image 20](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/799972066_17959697172235639_3262580694751444417_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5MDk2MDIyOTAyNTU4NDY5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEzNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7Lih9xobCUMQ7kNvwGsEXZ9&_nc_oc=Adoi1HyYNDKS2szhYH5oVINgAWefoe3gYf5UDi3ff1O4IFzLvYUd0TK7tl4umBArKvU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&_nc_ss=7a22e&oh=00_AQPz3BRvtjCz21O3JIWTdWESCRYor440szz_TwcM0WsVYA&oe=6ACBB524)
+
+![Image 21](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/797101965_17959697187235639_3133987768261476865_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk5MDk2MDIyOTY1NDgxOTk2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEzNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=jptfOdj-3i4Q7kNvwEfOQBj&_nc_oc=AdpqfHf-g0OMRU7yZyHN0lj9OW9fJE1-G6q0Aszp47ty10K7kNX2y08nT9gBB3gQ5O4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&_nc_ss=7a22e&oh=00_AQPg-E2PesUDMNvu9AdQnMPoBOVd5gr4qoRxKcO-eR6_GA&oe=6ACBAF0E)
+
+![Image 22](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/805485994_17959697151235639_6605725365962432844_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5MDk2MDIyOTU2MjU4NTEwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEzNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nMaZabzyQ7AQ7kNvwHyJve9&_nc_oc=AdqqlLUiI_JrbgHe7Y5s9jLjc0scTu0nnK64kUzH6Hs3ZWrhLgC-KPg_J1ikPn0iyZM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&_nc_ss=7a22e&oh=00_AQMU-rJZ7daiKx0huw1V8d_-rMHWvM-RsV9L05Nu4l1Fiw&oe=6ACBD8DD)
+
+![Image 23](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/795068831_17959697214235639_119474342943357689_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk5MDk2MDIzMDM2Nzk2OTAyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEzNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=odX4pfFrX9oQ7kNvwGXFf90&_nc_oc=AdrRGwdcE0WdnDKB8TIaRXP08gZUdg7XMrxmHuSuEdwf5tiu7jYtroBuR_7mDGTCRMw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&_nc_ss=7a22e&oh=00_AQOCs34l_iFhmGQrq3MMAAf0NgRxnMUi7Cm7mXcuDJqItA&oe=6ACBBCD3)
+
+![Image 24](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/817868434_17959697205235639_5973409009091711054_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk5MDk2MDIyOTk0MDAzOTg3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEzNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wxN92Xdjs5YQ7kNvwHrcPlb&_nc_oc=AdrBUxDIq-c7mnM65iF2Yx3pI98KxHeCd5Zbnvbh5QxDTJmC74PGTzKmP18JngASua8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&_nc_ss=7a22e&oh=00_AQOBDX5YDq2fFJlamRSAhyWg5Wd7BMwK3nBhmEKBjioj3Q&oe=6ACBCAA5)
+
+8
+
+[![Image 25: ahijournal's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/796460789_18113763121855954_4899095159826015930_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHJmIrbRDqjNzqwCTsWfRd9JkMkaR1ZAOQg2pl_uoqZhCZtAbCLxbDozXBhqoz4b8Q&_nc_ohc=EHEyns-1mAQQ7kNvwHpQl-W&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM8YQQZV93JgSYHrkvX-gPZE4WzT0n-tyHepMue-JKZIg&oe=6ACBD8F9&_nc_sid=10d13b)](https://www.threads.com/@ahijournal)
+
+[ahijournal](https://www.threads.com/@ahijournal)
+
+[台股](https://www.threads.com/search?q=%E5%8F%B0%E8%82%A1&serp_type=tags&tag_id=18280855960087606)
+
+[09/23/26](https://www.threads.com/@ahijournal/post/Ddocf6piUk4)
+
+上品在手訂單自年初的 38 億元大幅回升至 75 億元歷史新高。
+
+長達 1 年以上的訂單能見度，搭配低毛利舊單在 2026 年逐步消化完畢，已確立上品進入毛利率與獲利雙重修復的上升週期。
+
+上品主要營收來自氟樹脂（PTFE）內襯設備與管道系統，高度集中於半導體先進製程高純度化學品輸送環境。報價層面，隨著新簽長單比例拉高，產品均價逐步反映原物料成本，法人預估 2027 年毛利率將進一步拉升至 39.8%。
+
+上品台灣彰濱廠產能維持滿載，中國嘉興廠稼動率亦回升至 95%至 100%。該季毛利率錄得 35.62%，主因台灣市場銷售額較前 1 季成長 23%，同時中國業務營收也繳出 56%的季增表現。市場對上品 2026 年EPS預估落在 12.88 ～14.30 元，2027 年EPS 17.34 元～21.72 元，年增幅超過 50%。
+
+上品第 2 季商品及製成品存貨達 24.7 億元，整體存貨為 20.52 億元，反映高階氟樹脂管道與設備正處於密集備料與加工排程。
+
+Translate
+
+[![Image 26](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/822056015_18115873837855954_4216730817419238803_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk5MjU2NjQwODI0MzkyMzI1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=98ORb02rnAoQ7kNvwGKE4WH&_nc_oc=AdrW_y6Kqhoju4oS1qHcV3K00tPx0s0OykSfFxluTT3Gzwx2mCwVzM4NlWSffZZe1GM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=sNCJsEUQzwvspKZNA1ABqg&_nc_ss=7a22e&oh=00_AQM3FainPi7KDzvEd47zUO0X7Dx-ZpcSl6kxKnhPnNS9TA&oe=6ACBD883)](https://www.threads.com/@ahijournal/post/Ddocf6piUk4/media)
+
+10
+
+1
+
+[![Image 27: asdf7012's profile 
+```
+
+## 相關頁面
+
+<!-- [[]] -->
