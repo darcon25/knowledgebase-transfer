@@ -2019,3 +2019,64 @@ raw/threads_2026-10-06_ytr1ncf9.md
    數字不符: 0
    資料過期: 0
 ===== 2026-10-06 18:37:31 每日更新結束 =====
+----- git pull -----
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> main
+
+⚠️ git pull 失敗，繼續用本機現有檔案（可能漏掉 n8n 新存的）
+===== 2026-10-07 18:33:31 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-10-07 18:33:31] === 開始抓取（64 檔）===
+[2026-10-07 18:33:32] ✅ 估值 61 檔（資料日 2026-10-06）
+[2026-10-07 18:33:32] ✅ 月營收 61 檔（2026-08）
+[2026-10-07 18:33:34] ✅ 毛利率 60 檔（2026Q2）
+[2026-10-07 19:07:06] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E8%B2%BF%E8%81%AF-KY%203665&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Read timed out. (read timeout=30)
+[2026-10-07 19:24:27] ✅ 新聞 59/59 檔有結果
+[2026-10-07 19:24:27] === 抓取完成 ===
+⏭  2026Q2.json 已有 61 家，跳過
+⏭  2026Q1.json 已有 61 家，跳過
+⏭  2025Q4.json 已有 61 家，跳過
+⏭  2025Q3.json 已有 61 家，跳過
+⏭  2025Q2.json 已有 61 家，跳過
+⏭  2025Q1.json 已有 59 家，跳過
+⏭  2024Q4.json 已有 61 家，跳過
+⏭  2024Q3.json 已有 59 家，跳過
+
+完成：新增/更新 0 季，跳過 8 季
+
+[1] threads_2026-10-07_m2betvmc.md
+    https://www.threads.com/share/BAXtSKxVp-
+    ⚠️ 解析失敗（第 2 次）：頁面沒解析出大頭貼，判定為抓取失敗而非沒有圖（稍後會再重試）
+
+===== 完成 =====
+處理 1 篇：補到圖 0 篇、確認沒圖 0 篇、失敗 1 篇
+  ❌ threads_2026-10-07_m2betvmc.md：頁面沒解析出大頭貼，判定為抓取失敗而非沒有圖（累計 2 次）
+[2026-10-07 19:24:35] 沒有待讀圖的檔案，不啟動 Claude
+✅ 頁面：新建 0、更新 76（營收 2026-08、估值 2026-10-07、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 5、動能轉折 15、值得推播 0 項
+[2026-10-07 19:24:36] 發現 19 個未消化檔案，啟動自動消化
+raw/instagram_2026-10-06_hfny5nyh.md
+raw/instagram_2026-10-06_y3cp2ge2.md
+raw/shot_2026-10-07_77lbac6c.md
+raw/shot_2026-10-07_8shke8da.md
+raw/shot_2026-10-07_hfny5nyh.md
+raw/shot_2026-10-07_m42f8rpo.md
+raw/shot_2026-10-07_nm6ayr0p.md
+raw/shot_2026-10-07_qjckxs8b.md
+raw/shot_2026-10-07_vwzu3jup.md
+raw/shot_2026-10-07_y3cp2ge2.md
+raw/threads_2026-10-07_77lbac6c.md
+raw/threads_2026-10-07_8crm32iz.md
+raw/threads_2026-10-07_8shke8da.md
+raw/threads_2026-10-07_hnh8o6o1.md
+raw/threads_2026-10-07_m2betvmc.md
+raw/threads_2026-10-07_m42f8rpo.md
+raw/threads_2026-10-07_nm6ayr0p.md
+raw/threads_2026-10-07_qjckxs8b.md
+raw/threads_2026-10-07_vwzu3jup.md

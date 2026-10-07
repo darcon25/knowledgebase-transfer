@@ -7,6 +7,7 @@ type: social_media
 platform: instagram
 date_captured: 2026-10-06
 original_url: "https://www.instagram.com/p/DeIZI2vFCYB/?stkn=ZngwaTM3NXM2ajkw"
+original_id: y3cp2ge2
 media_count: 1
 media_urls:
   - "https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/835661749_1535336671967873_3017212448147298408_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAwMTU1ODgyODYwOTE4NTI4MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CiPbdRJQpcYQ7kNvwE2Keex&_nc_oc=Adqwh4-A6kqqSRnCX5ArZ3umk0RRG8uPNJm1Xr7_SJaV7TnhB_cUl5q0X9mvkWx52d0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=Qf8Pq8uUq_bh0oDwSjZKWg&_nc_ss=7b689&oh=00_AQPJGBH0HZoUaekzK3_1f9TysrQzZmCUVQ0d9E4-2Mx-Qg&oe=6ACB11F5"

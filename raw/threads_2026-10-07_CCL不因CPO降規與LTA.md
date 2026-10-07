@@ -7,6 +7,7 @@ type: social_media
 platform: threads
 date_captured: 2026-10-07
 original_url: "https://www.threads.com/share/_xhxloflI"
+original_id: 8crm32iz
 media_count: 0
 ---
 

@@ -7,6 +7,7 @@ type: social_media
 platform: threads
 date_captured: 2026-10-07
 original_url: "https://www.threads.com/share/BAXtSKxVp-"
+original_id: m2betvmc
 media_count: 0
 ---
 

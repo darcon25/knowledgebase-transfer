@@ -6,6 +6,7 @@ type: screenshot
 date_captured: 2026-10-07
 image: assets/instagram_2026-10-06_y3cp2ge2_01.jpg
 original_url: "https://www.instagram.com/p/DeIZI2vFCYB/?stkn=ZngwaTM3NXM2ajkw"
+original_id: y3cp2ge2
 image_count: 1
 expected_min: 1
 captured_by: fetch_media
