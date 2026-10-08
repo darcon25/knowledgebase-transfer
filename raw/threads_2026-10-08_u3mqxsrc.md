@@ -1,0 +1,116 @@
+---
+tags:
+  - source
+  - social_media
+  - threads
+type: social_media
+platform: threads
+date_captured: 2026-10-08
+original_url: "https://www.threads.com/share/BARpZLdNpJ"
+media_count: 1
+media_urls:
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/840849758_1636243068092615_2270315543828692614_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=NDAwMzE4NzczNDU3NDI3MDk0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=DTXb_m9XiaoQ7kNvwE5Zm79&_nc_oc=Ado7SD9tQ4_oTqJT3BQ8UMmt6y5ZbD4zO2dmfBsOL3gz4zvwnF5IF3EQDiIz_wIzPhU&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=GycAZojKASBSWvLTKt-YsA&_nc_ss=7b289&oh=00_AQN-IJHclIEulUsU1FOrRFk9YeoeaBHpGN8pJ3UNmOJwsQ&oe=6ACD257B"
+---
+
+# 🧵 2026-10-08 存檔
+
+> 原文：[查看貼文](https://www.threads.com/share/BARpZLdNpJ)
+
+## 摘要
+這則Threads貼文由「財經希引力」發布，內容探討了台股中光寶科與台達電的股價與獲利差異。貼文指出光寶科的獲利約為台達電的三分之一，但股價卻相差六倍，暗示光寶科可能存在價值被低估或有重估的潛力。
+
+## 重點整理
+*   **比較標的明確：** 貼文直接比較了台股兩家公司：光寶科與台達電。
+*   **獲利與股價差異顯著：** 點出光寶科獲利是台達電的三分之一，但股價卻僅為台達電的六分之一（或更低，因為是差了6倍，表示光寶科股價約為台達電的1/7）。
+*   **暗示價值重估潛力：** 透過「光寶科價值重估有多猛？」的提問，引導讀者思考光寶科股價未來上漲的可能性。
+*   **社群媒體互動：** 貼文在Threads上獲得了1.1K的觀看數，並有6個讚、1個回覆和7次轉發，顯示一定的討論度。
+
+## 關鍵概念
+*   **價值重估 (Value Revaluation)：** 指市場對某公司或資產的內在價值進行重新評估，可能導致股價上漲或下跌。這通常發生在公司基本面改善、產業趨勢變化、市場情緒轉變或被低估的潛力被發現時。
+*   **本益比 (Price-to-Earnings Ratio, P/E Ratio)：** 衡量股價相對於每股盈餘的倍數，是評估股票相對貴或便宜的常用指標。此貼文暗示光寶科的本益比可能較台達電低，存在被低估的空間。
+*   **獲利能力 (Profitability)：** 公司賺取利潤的能力，通常以淨利潤、每股盈餘 (EPS) 等指標衡量。
+*   **股價 (Stock Price)：** 股票在市場上的交易價格，反映了投資者對公司未來表現的預期。
+
+## 可行動洞察
+*   **深入研究光寶科與台達電的基本面：** 針對貼文提出的差異，我應該進一步比較兩家公司的財務報表、營收成長、獲利能力、產業地位、未來展望、管理層策略等，以理解為何會有如此大的股價差異。
+*   **分析市場對兩家公司的預期：** 探討市場對台達電和光寶科的成長預期、風險評估以及所處產業的未來趨勢，這些都可能影響其股價。
+*   **學習價值投資策略：** 貼文暗示了尋找被低估股票的機會，這與價值投資的理念相符。我可以研究更多關於如何評估公司內在價值、識別被低估股票的方法。
+*   **關注產業趨勢：** 台達電和光寶科都與電子、電源管理、自動化等產業相關。了解這些產業的發展趨勢，有助於判斷公司的長期潛力。
+*   **觀察社群媒體上的投資討論：** 儘管社群媒體資訊需謹慎判斷，但此類貼文可以作為發現潛在投資機會或市場熱點的線索，引導我進行更深入的專業研究。
+
+## 主文圖片
+
+原貼文主文有 1 張圖。本機 `tools/fetch_media.py` 會下載成 `raw/shot_*.md`。
+（下列網址帶簽章，約一週後失效，僅作線索。）
+
+1. https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/840849758_1636243068092615_2270315543828692614_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=NDAwMzE4NzczNDU3NDI3MDk0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=DTXb_m9XiaoQ7kNvwE5Zm79&_nc_oc=Ado7SD9tQ4_oTqJT3BQ8UMmt6y5ZbD4zO2dmfBsOL3gz4zvwnF5IF3EQDiIz_wIzPhU&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=GycAZojKASBSWvLTKt-YsA&_nc_ss=7b289&oh=00_AQN-IJHclIEulUsU1FOrRFk9YeoeaBHpGN8pJ3UNmOJwsQ&oe=6ACD257B
+
+## 原文（Jina Reader）
+
+```
+Title: 財經希引力 (@fgh5.fc) on Threads
+
+URL Source: https://www.threads.com/share/BARpZLdNpJ
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread](https://www.threads.com/@fgh5.fc/post/DeOLgjogAnd?xmt=AQG0GM-t8OXKr3rFsr64O_uUMfpLrSPGMF7egS61Xv1ZqCz4lJKysXUohMQy0BPu6I20rwnd&slof=1)
+
+1.1K views
+
+[![Image 1: fgh5.fc's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/813733670_18070209350563111_6663890615458017910_n.jpg?_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=_iTpa-1vzxcQ7kNvwEkVZ0L&_nc_oc=AdrfOX4yEDghKqwvhAUv_RPE_el-l9HvSKebggr_Iehdhic0wkOktv70Cq6B7cMcSw0&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=GycAZojKASBSWvLTKt-YsA&_nc_ss=7b289&oh=00_AQO5yG66jtq90TTUFmOzBnZbqI4rydIWVFLcmsX2n32zmg&oe=6ACD24C7)](https://www.threads.com/@fgh5.fc)
+
+[fgh5.fc](https://www.threads.com/@fgh5.fc)
+
+[台股](https://www.threads.com/search?q=%E5%8F%B0%E8%82%A1&serp_type=tags&tag_id=18280855960087606)
+
+[1h](https://www.threads.com/@fgh5.fc/post/DeOLgjogAnd)
+
+獲利有台達電三分之一，股價卻差了6倍？光寶科價值重估有多猛？
+
+![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/840849758_1636243068092615_2270315543828692614_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=NDAwMzE4NzczNDU3NDI3MDk0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=DTXb_m9XiaoQ7kNvwE5Zm79&_nc_oc=Ado7SD9tQ4_oTqJT3BQ8UMmt6y5ZbD4zO2dmfBsOL3gz4zvwnF5IF3EQDiIz_wIzPhU&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=GycAZojKASBSWvLTKt-YsA&_nc_ss=7b289&oh=00_AQN-IJHclIEulUsU1FOrRFk9YeoeaBHpGN8pJ3UNmOJwsQ&oe=6ACD257B)
+
+6
+
+1
+
+7
+
+Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+
+*   © 2026
+*   [Threads Terms](https://help.instagram.com/769983657850450)
+*   [Privacy Policy](https://help.instagram.com/515230437301944)
+*   [Cookies Policy](https://help.instagram.com/1896641480634370/)
+*   Report a problem
+
+```
+
+## 相關頁面
+
+<!-- [[]] -->
