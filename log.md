@@ -1323,3 +1323,23 @@ frontmatter 已加 `original_id:`；9 檔 `git mv`，3 個尚未進版控的 sho
 `8crm32iz` → `CCL不因CPO降規與LTA`、`hnh8o6o1` → `順達9月營收與Q4族群策略`、`m2betvmc` → `Anthropic晶片與博通三星`。
 frontmatter 已加 `original_id:`；19 檔全部 `git mv` 成功。同步更新 `data/known_issues.json`、`data/media_retry.json`、`data/ingested.json`。
 ⚠️ raw/ 只加 `original_id`，**shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名**；`raw/assets/` 圖檔未改名，嵌入仍有效。
+
+## [2026-10-08] ingest | 8 個來源檔（6 則貼文 + 2 張讀圖）
+
+全部走投資線，未新增頁面（overview 不需加連結）。
+- BofA CCL 樹脂路線（M9/M10 在 PTFE 與碳氫樹脂間分歧）→ [[PTFE與材料世代轉換]]、[[樹脂]]；公司頁 2383
+- 社群轉貼「聯茂 M9 電性優於台光電、M10 可出 PTFE」（原作者標註待核實）→ 公司頁 6213、2383、2368；[[PTFE與材料世代轉換]] 記下與 BofA 口徑不一致
+- 光通訊 9 月營收表（工商時報）→ [[光收發模組與矽光子]]；公司頁 3450、3363（上詮前三季累計 -6.03%）
+- AMD Helios vs 輝達 Vera Rubin 機櫃 → [[CPU市佔與ARM競爭]]、[[交換器與網通互聯]]、[[液冷散熱滲透率]]、[[資料中心電力]]
+- 嘉澤法說整理（NPO socket、QD 快接頭、毛利季減 4%）→ [[CPU市佔與ARM競爭]]、[[液冷散熱滲透率]]
+- 「光寶科獲利台達電三分之一、股價差 6 倍」→ 公司頁 2301、2308（只有標題，圖未讀）
+
+**名單外**：嘉澤 3533、聯亞、光環，未動 `tools/watchlist.py`。未動「我的論點」、未建 insights。
+
+## [2026-10-08] update | 6 組來源檔改名（亂碼 ID → 可讀主題）
+
+`d4a64vsl` → `光通訊9月營收聯亞光環`、`xs25imsz` → `AMDHelios對比VeraRubin`（以上各含貼文與 shot_ 兩檔）、
+`90fqsf1e` → `CCL樹脂路線BofA`、`l9xhgodt` → `聯茂M9電性比台光電`、`sq7a06ly` → `嘉澤NPO插槽與液冷快接頭`、`u3mqxsrc` → `光寶科與台達電獲利股價比`。
+frontmatter 已加 `original_id:`；`git mv` 未獲執行權限，8 檔改用一般搬移（git 會視為刪除＋新增，下次 commit 時 rename 偵測仍可對上）。
+同步更新 `data/known_issues.json`、`data/media_retry.json`、`data/ingested.json`。
+⚠️ raw/ 只加 `original_id`，**shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名**；`raw/assets/` 圖檔未改名，嵌入仍有效。

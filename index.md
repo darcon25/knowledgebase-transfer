@@ -2,7 +2,13 @@
 
 > 這份文件由 LLM 維護。公司頁與環節頁由 `tools/build_pages.py` 自動產生。
 
-**最後更新**：2026-10-07　**頁面總數**：96
+**最後更新**：2026-10-08　**頁面總數**：96
+
+> 🤖 2026-10-08 消化 8 個來源檔（6 則貼文 + 2 張讀圖），**未新增頁面**。補進
+> [[wiki/investing/themes/PTFE與材料世代轉換]]（BofA 樹脂路線、聯茂 PTFE 說法）、[[wiki/investing/segments/樹脂]]、
+> [[wiki/investing/themes/CPU市佔與ARM競爭]]（Helios vs Vera Rubin CPU 數、嘉澤）、[[wiki/investing/themes/液冷散熱滲透率]]、
+> [[wiki/investing/themes/交換器與網通互聯]]、[[wiki/investing/themes/資料中心電力]]、[[wiki/investing/themes/光收發模組與矽光子]]（光通訊 9 月營收表）；
+> 公司頁 6213、2383、2368、2301、2308、3450、3363。
 
 > 🤖 2026-10-07 消化 19 個來源檔（11 則貼文 + 8 張讀圖），**未新增頁面**。補進
 > [[wiki/investing/themes/AI-ASIC與GoogleTPU供應鏈]]（平台對照表、TPU v8 網通規格、Anthropic 評估 150 萬顆 v8t）、

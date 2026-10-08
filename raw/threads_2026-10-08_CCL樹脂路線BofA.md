@@ -7,6 +7,7 @@ type: social_media
 platform: threads
 date_captured: 2026-10-08
 original_url: "https://www.threads.com/share/BAigGIk_6b"
+original_id: 90fqsf1e
 media_count: 0
 ---
 

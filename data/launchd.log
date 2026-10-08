@@ -2153,3 +2153,86 @@ If you wish to set tracking information for this branch you can do so with:
 [3] threads_2026-10-08_d4a64vsl.md
     https://www.threads.com/share/BAPrNvvsfq
     · 主文有 1 張
+      ✅ threads_2026-10-08_d4a64vsl_01.jpg (87 KB)
+      📝 shot_2026-10-08_d4a64vsl.md
+
+[4] threads_2026-10-08_l9xhgodt.md
+    https://www.threads.com/share/BAEmY3_jQn
+    ⚠️ 解析失敗（第 1 次）：頁面沒解析出大頭貼，判定為抓取失敗而非沒有圖（稍後會再重試）
+
+[5] threads_2026-10-08_sq7a06ly.md
+    https://www.threads.com/share/_mYfyP78n
+    · 主文沒有圖
+
+[6] threads_2026-10-08_u3mqxsrc.md
+    https://www.threads.com/share/BARpZLdNpJ
+    ❌ 讀不到原貼文（第 1 次失敗）：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+[7] threads_2026-10-08_xs25imsz.md
+    https://www.threads.com/share/BAfmU4_0o-
+    · 主文有 4 張
+      ✅ threads_2026-10-08_xs25imsz_01.jpg (934 KB)
+      ✅ threads_2026-10-08_xs25imsz_02.jpg (762 KB)
+      ✅ threads_2026-10-08_xs25imsz_03.jpg (375 KB)
+      ✅ threads_2026-10-08_xs25imsz_04.jpg (442 KB)
+      📝 shot_2026-10-08_xs25imsz.md
+
+===== 完成 =====
+處理 7 篇：補到圖 2 篇、確認沒圖 1 篇、失敗 4 篇
+  ❌ threads_2026-10-07_Anthropic晶片與博通三星.md：頁面沒解析出大頭貼，判定為抓取失敗而非沒有圖（累計 4 次）
+  ❌ threads_2026-10-08_90fqsf1e.md：HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=90)（累計 1 次）
+  ❌ threads_2026-10-08_l9xhgodt.md：頁面沒解析出大頭貼，判定為抓取失敗而非沒有圖（累計 1 次）
+  ❌ threads_2026-10-08_u3mqxsrc.md：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))（累計 1 次）
+[2026-10-08 19:41:42] 發現 2 個待讀圖檔案
+raw/shot_2026-10-08_d4a64vsl.md
+raw/shot_2026-10-08_xs25imsz.md
+兩個檔案都填好了，共 2 篇、5 張圖（d4a64vsl 1 張、xs25imsz 4 張）。每張圖都實際打開看過，數字照抄成表格，兩檔的 status 都改成「已讀圖」。除了這兩檔的「## 內容」和 status 兩處，raw/ 其他檔案和 wiki/ 都沒動。
+
+- **最有價值：d4a64vsl（光通訊 9 月營收表）**。原筆記只有 2 個數字，這張表有 7 家公司的單月營收和前三季累計營收。兩個要注意的地方：
+  - ⚠️ 標題的「聯亞增 190%」是跟去年同月比（年增），跟上個月比只增 3.85%。
+  - ⚠️ 名單上的 [[3363 上詮]] 9 月年增 +28%，但前三季累計是 -6.03%，只看單月會高估它。
+- **xs25imsz（AMD Helios 對 NVIDIA Vera Rubin）**：圖 3 有一個原文字沒寫的差異：NVIDIA 每個運算托盤配 2 顆 CPU、AMD 只配 1 顆，交換托盤是 9 個對 6 個，重量 1.8 噸對 2.3 噸。另外「機櫃兩端是電源」是作者看圖判斷的，作者自己有註明，不是官方規格。
+
+另外，這次開工時系統提示還有 6 篇 threads_ 原始筆記沒有消化進 wiki（依規則這一步不做）。要現在開始消化這 8 篇嗎？
+✅ 已送出
+✅ 頁面：新建 0、更新 76（營收 2026-08、估值 2026-10-08、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 7、動能轉折 15、值得推播 0 項
+[2026-10-08 19:46:42] 發現 8 個未消化檔案，啟動自動消化
+raw/shot_2026-10-08_d4a64vsl.md
+raw/shot_2026-10-08_xs25imsz.md
+raw/threads_2026-10-08_90fqsf1e.md
+raw/threads_2026-10-08_d4a64vsl.md
+raw/threads_2026-10-08_l9xhgodt.md
+raw/threads_2026-10-08_sq7a06ly.md
+raw/threads_2026-10-08_u3mqxsrc.md
+raw/threads_2026-10-08_xs25imsz.md
+8 個來源檔都消化完了，全部屬於投資相關。沒有新建頁面，所以 `overview.md` 不用加連結。
+
+- **主題頁（7 頁）**：補進 [[PTFE與材料世代轉換]]、[[樹脂]]、[[CPU市佔與ARM競爭]]、[[液冷散熱滲透率]]、[[交換器與網通互聯]]、[[資料中心電力]]、[[光收發模組與矽光子]]。內容是：
+  - BofA 的 CCL 樹脂路線：M9/M10 世代要用 PTFE 還是碳氫樹脂，市場還沒定案
+  - AMD Helios 和輝達 Vera Rubin 兩種 72 卡機櫃的規格對照
+  - 嘉澤的法說整理（嘉澤不在 41 檔名單，只記在主題頁）
+  - 光通訊族群 9 月營收表
+- **公司頁事件時間軸（7 家）**：6213 聯茂、2383 台光電、2368 金像電、2301 光寶科、2308 台達電、3450 聯鈞、3363 上詮。新段落都標了「🤖 2026-10-08 自動消化」，寫在 AUTO 區塊外面，「我的論點」沒有動。
+- **要提醒你的地方**：
+  - 「聯茂 M9 電性比台光電好」這篇是轉貼，原作者自己就標了「幫我核實以下」，我已註明未經證實。它說「輝達規劃 M10 用 PTFE」，和 BofA 的說法對不上。
+  - 上詮 9 月單月年增 +28%，但前三季累計是 -6.03%，單看 9 月會高估它的全年表現。
+  - 光寶科那篇只有一句標題，配圖還沒抓到（系統還在重試），所以沒有任何數字。
+- **改名 6 組、共 8 個檔**：例如 `l9xhgodt` 改成 `聯茂M9電性比台光電`，每個檔的開頭資料都加了 `original_id`。
+  - `git mv`（會保留檔案歷史的改名方式）沒拿到執行權限，所以改用一般搬移。Git 可能會先把它看成「刪掉舊檔、新增新檔」，通常提交時仍能認出是改名。
+  - 已同步更新 `index.md`、`log.md`、`data/ingested.json`、`data/known_issues.json`、`data/media_retry.json`。
+  - 跟上次一樣，`shot_` 檔裡指回原筆記的連結還是舊檔名。
+✅ 已送出
+✅ 健檢完成：6 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 0
+   疑似截斷: 0
+   圖片未確認: 4
+   圖片張數對不上: 2
+   圖片連結壞掉: 0
+   圖片尚未判讀: 0
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+===== 2026-10-08 20:47:12 每日更新結束 =====
