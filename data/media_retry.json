@@ -1,17 +1,12 @@
 {
-  "raw/threads_2026-10-07_Anthropic晶片與博通三星.md": {
-    "attempts": 5,
-    "last_error": "HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.threads.com/share/BAXtSKxVp- (Caused by NameResolutionError(\"HTTPSConnection(host='r.jina.ai', port=443): F",
-    "last_try": "2026-10-09T09:54:09"
-  },
   "raw/threads_2026-10-08_CCL樹脂路線BofA.md": {
-    "attempts": 2,
-    "last_error": "HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.threads.com/share/BAigGIk_6b (Caused by NameResolutionError(\"HTTPSConnection(host='r.jina.ai', port=443): F",
-    "last_try": "2026-10-09T09:54:58"
+    "attempts": 3,
+    "last_error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
+    "last_try": "2026-10-09T19:38:40"
   },
   "raw/threads_2026-10-08_聯茂M9電性比台光電.md": {
-    "attempts": 2,
+    "attempts": 3,
     "last_error": "頁面沒解析出大頭貼，判定為抓取失敗而非沒有圖",
-    "last_try": "2026-10-09T09:55:26"
+    "last_try": "2026-10-09T19:38:49"
   }
 }

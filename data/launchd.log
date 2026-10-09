@@ -2249,3 +2249,76 @@ If you wish to set tracking information for this branch you can do so with:
 
 ⚠️ git pull 失敗，繼續用本機現有檔案（可能漏掉 n8n 新存的）
 ===== 2026-10-09 18:43:05 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-10-09 18:43:05] === 開始抓取（64 檔）===
+[2026-10-09 18:43:11] ✅ 估值 61 檔（資料日 2026-10-08）
+[2026-10-09 18:43:18] ✅ 月營收 61 檔（2026-08）
+[2026-10-09 18:43:19] ✅ 毛利率 60 檔（2026Q2）
+[2026-10-09 19:09:42] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E8%81%AF%E8%8C%82%206213&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E8%81%AF%E8%8C%82%206213&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NewConnectionError("HTTPSConnection(host='news.google.com', port=443): Failed to establish a new connection: [Errno 51] Network is unreachable"))
+[2026-10-09 19:09:47] ⚠️  第 2/3 次失敗：https://news.google.com/rss/search?q=%E8%81%AF%E8%8C%82%206213&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E8%81%AF%E8%8C%82%206213&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-09 19:09:53] ⚠️  第 3/3 次失敗：https://news.google.com/rss/search?q=%E8%81%AF%E8%8C%82%206213&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E8%81%AF%E8%8C%82%206213&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-09 19:09:53] ⚠️  6213 聯茂 新聞抓取失敗：https://news.google.com/rss/search?q=%E8%81%AF%E8%8C%82%206213&hl=zh-TW&gl=TW&ceid=TW:zh-Hant 重試 3 次仍失敗：HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E8%81%AF%E8%8C%82%206213&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-09 19:09:53] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E9%A8%B0%E8%BC%9D%E9%9B%BB%E5%AD%90-KY%206672&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E9%A8%B0%E8%BC%9D%E9%9B%BB%E5%AD%90-KY%206672&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-09 19:09:58] ⚠️  第 2/3 次失敗：https://news.google.com/rss/search?q=%E9%A8%B0%E8%BC%9D%E9%9B%BB%E5%AD%90-KY%206672&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E9%A8%B0%E8%BC%9D%E9%9B%BB%E5%AD%90-KY%206672&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-09 19:29:44] ✅ 新聞 58/59 檔有結果，無結果：6213
+[2026-10-09 19:29:44] === 抓取完成 ===
+⏭  2026Q2.json 已有 61 家，跳過
+⏭  2026Q1.json 已有 61 家，跳過
+⏭  2025Q4.json 已有 61 家，跳過
+⏭  2025Q3.json 已有 61 家，跳過
+⏭  2025Q2.json 已有 61 家，跳過
+⏭  2025Q1.json 已有 59 家，跳過
+⏭  2024Q4.json 已有 61 家，跳過
+⏭  2024Q3.json 已有 59 家，跳過
+
+完成：新增/更新 0 季，跳過 8 季
+
+[1] threads_2026-10-07_Anthropic晶片與博通三星.md
+    https://www.threads.com/share/BAXtSKxVp-
+    · 主文沒有圖
+
+[2] threads_2026-10-08_CCL樹脂路線BofA.md
+    https://www.threads.com/share/BAigGIk_6b
+    ❌ 讀不到原貼文（第 3 次失敗）：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+[3] threads_2026-10-08_聯茂M9電性比台光電.md
+    https://www.threads.com/share/BAEmY3_jQn
+    ⚠️ 解析失敗（第 3 次）：頁面沒解析出大頭貼，判定為抓取失敗而非沒有圖（稍後會再重試）
+
+===== 完成 =====
+處理 3 篇：補到圖 0 篇、確認沒圖 1 篇、失敗 2 篇
+  ❌ threads_2026-10-08_CCL樹脂路線BofA.md：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))（累計 3 次）
+  ❌ threads_2026-10-08_聯茂M9電性比台光電.md：頁面沒解析出大頭貼，判定為抓取失敗而非沒有圖（累計 3 次）
+[2026-10-09 19:38:52] 發現 1 個待讀圖檔案
+raw/shot_2026-10-09_光寶科與台達電獲利股價比.md
+這次讀了 1 篇、2 張圖，`status` 已改成「已讀圖」，但這篇幾乎沒有能抄的數字。
+
+- **圖 1**：是一個像素風的折線小圖示，上面沒有任何文字或數字。原筆記寫原貼文「只有 1 張圖」，這張很可能是 `tools/fetch_media.py`（自動補圖的程式）多抓進來的雜圖，我已用 ⚠️ 標出來。
+- **圖 2**：是影片封面，標題是「輝達、SpaceX與CSP巨頭訂單」（CSP 指雲端服務大廠）。封面上沒有光寶科或台達電的任何數字，跟貼文標題「獲利三分之一、股價差 6 倍」對不上。另外封面寫的節目名是「產經希引力」，跟發文帳號「財經希引力」差一個字，我也標了 ⚠️。
+- **結論**：「獲利三分之一、股價差 6 倍」這句話目前沒有任何佐證，之後消化進知識庫時不要當成事實。要驗證，得拿 `data/financials/` 和 `data/valuation/` 裡的真實財報與估值數字去比。
+
+`raw/` 裡的其他檔案和 `wiki/` 我都沒有動。
+⚠️  推播第 1/3 次失敗（連線失敗）
+✅ 已送出
+✅ 頁面：新建 0、更新 76（營收 2026-08、估值 2026-10-09、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 2、動能轉折 15、值得推播 0 項
+[2026-10-09 21:03:30] 發現 1 個未消化檔案，啟動自動消化
+raw/shot_2026-10-09_光寶科與台達電獲利股價比.md
+`raw/shot_2026-10-09_光寶科與台達電獲利股價比.md` 已消化完。
+- **內容**：讀到的兩張圖都沒有任何獲利或股價數字。一張是沒有文字的小圖示，另一張是投顧節目的影片封面，標題是「輝達、SpaceX與CSP巨頭訂單」。所以「光寶科獲利是台達電三分之一、股價卻差 6 倍」這句話還是只有標題，沒有任何數據支撐。
+- **更新的頁面**：在 `wiki/investing/companies/2301 光寶科.md` 和 `2308 台達電.md` 的「事件時間軸」各加一筆，開頭都標了「🤖 2026-10-09 自動消化」，裡面寫明「無數字、原文未說明」。我沒改「我的論點」，也沒動 AUTO 區塊（程式自動產生的那一段）。
+- **收尾**：已把檔案路徑加進 `data/ingested.json`，並在 `index.md`、`log.md` 各加一行紀錄。這次沒有新增頁面，所以不用改 `overview.md`。
+- **沒有改名**：檔名本來就看得懂，依規則不動。`raw/` 裡的檔案一個字都沒改。
+✅ 已送出
+✅ 健檢完成：3 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 0
+   疑似截斷: 0
+   圖片未確認: 2
+   圖片張數對不上: 1
+   圖片連結壞掉: 0
+   圖片尚未判讀: 0
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+===== 2026-10-09 21:04:19 每日更新結束 =====

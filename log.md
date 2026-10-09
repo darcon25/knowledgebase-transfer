@@ -1343,3 +1343,9 @@ frontmatter 已加 `original_id:`；19 檔全部 `git mv` 成功。同步更新 
 frontmatter 已加 `original_id:`；`git mv` 未獲執行權限，8 檔改用一般搬移（git 會視為刪除＋新增，下次 commit 時 rename 偵測仍可對上）。
 同步更新 `data/known_issues.json`、`data/media_retry.json`、`data/ingested.json`。
 ⚠️ raw/ 只加 `original_id`，**shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名**；`raw/assets/` 圖檔未改名，嵌入仍有效。
+
+## [2026-10-09] ingest | 光寶科 vs 台達電貼文的讀圖結果
+
+`raw/shot_2026-10-09_光寶科與台達電獲利股價比.md`：2 張圖，一張無文字圖示、一張投顧節目影片封面（「輝達、SpaceX與CSP巨頭訂單」）。
+**沒有任何獲利或股價數字**，「獲利三分之一、股價差 6 倍」仍無佐證。公司頁 2301、2308 事件時間軸各補一筆。
+檔名已可讀，未改名。未動「我的論點」、未建 insights、未新增頁面。
