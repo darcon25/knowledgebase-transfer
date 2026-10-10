@@ -594,3 +594,11 @@ fatal: Could not read fro
 [2026-10-09 19:09:58] ⚠️  第 2/3 次失敗：https://news.google.com/rss/search?q=%E9%A8%B0%E8%BC%9D%E9%9B%BB%E5%AD%90-KY%206672&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E9%A8%B0%E8%BC%9D%E9%9B%BB%E5%AD%90-KY%206672&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
 [2026-10-09 19:29:44] ✅ 新聞 58/59 檔有結果，無結果：6213
 [2026-10-09 19:29:44] === 抓取完成 ===
+[2026-10-10 18:58:57] === 開始抓取（64 檔）===
+[2026-10-10 19:14:19] ⚠️  第 1/3 次失敗：https://www.tpex.org.tw/openapi/v1/tpex_mainboard_peratio_analysis — HTTPSConnectionPool(host='www.tpex.org.tw', port=443): Max retries exceeded with url: /openapi/v1/tpex_mainboard_peratio_analysis (Caused by NameResolutionError("HTTPSConnection(host='www.tpex.org.tw', port=443): Failed to resolve 'www.tpex.org.tw' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-10 19:22:18] ✅ 估值 61 檔（資料日 2026-10-08）
+[2026-10-10 19:22:23] ✅ 月營收 61 檔（2026-08）
+[2026-10-10 19:22:24] ✅ 毛利率 60 檔（2026Q2）
+[2026-10-10 19:28:35] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E8%87%BB%E9%BC%8E-KY%204958&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2026-10-10 21:42:15] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%8D%97%E9%9B%BB%208046&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2026-10-11 00:31:23] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%81%A5%E7%AD%96%203653&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Read timed out. (read timeout=30)
