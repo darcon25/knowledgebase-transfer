@@ -139,8 +139,8 @@
     "raw/threads_2026-10-07_Anthropic晶片與博通三星.md": "2026-10-09 fetch_media 自動確認：主文沒有圖",
     "raw/threads_2026-10-08_CCL樹脂路線BofA.md": "2026-10-11 fetch_media 自動確認：主文沒有圖",
     "raw/threads_2026-10-08_聯茂M9電性比台光電.md": "2026-10-11 fetch_media 自動確認：主文沒有圖",
-    "raw/instagram_2026-10-10_p40ceac6.md": "2026-10-11 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-10-11_p40ceac6.md",
-    "raw/threads_2026-10-10_7259rg3f.md": "2026-10-11 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-10-11_7259rg3f.md"
+    "raw/instagram_2026-10-10_伯恩斯坦輝達供應鏈圖.md": "2026-10-11 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-10-11_伯恩斯坦輝達供應鏈圖.md",
+    "raw/threads_2026-10-10_正交背板與M10認證.md": "2026-10-11 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-10-11_正交背板與M10認證.md"
   },
   "duplicate_accepted": {
     "https://www.threads.com/share/BAWtWRBFvr": "2026-09-14 同一則貼文（FOMO 研究院光模組）被傳了兩次，n8n 各存一份：raw/threads_2026-09-14_vtuypwd8.md（已補圖並消化）與 raw/threads_2026-09-14_pwhwol1r.md（純重複）。依 raw/ 唯讀原則不刪除，以 vtuypwd8 為主。"
