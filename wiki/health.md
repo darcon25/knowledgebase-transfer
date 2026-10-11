@@ -1,11 +1,11 @@
 ---
 tags: [health]
-updated: 2026-10-09
+updated: 2026-10-11
 ---
 
 # 知識庫健檢
 
-**檢查時間**：2026-10-09 21:04　**發現問題**：3 項
+**檢查時間**：2026-10-11 03:01　**發現問題**：1 項
 
 > 這頁由 `tools/health_check.py` 每天自動覆寫，只查規則能判定的問題。
 > 需要判讀的（訊號矛盾、摘要失真、論點過期）請叫 kb-auditor 稽核。
@@ -22,12 +22,9 @@ updated: 2026-10-09
 
 - ✅ 沒有問題
 
-## 圖片未確認（2）
+## 圖片未確認（0）
 
-- 圖片未確認：raw/threads_2026-10-08_CCL樹脂路線BofA.md
-    https://www.threads.com/share/BAigGIk_6b
-- 圖片未確認：raw/threads_2026-10-08_聯茂M9電性比台光電.md
-    https://www.threads.com/share/BAEmY3_jQn
+- ✅ 沒有問題
 
 ## 圖片張數對不上（1）
 
