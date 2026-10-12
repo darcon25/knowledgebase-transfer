@@ -620,3 +620,4 @@ fatal: Could not read fro
 [2026-10-11 20:28:45] ⚠️ git pull 失敗，仍檢查本機指令：fatal: 'origin' does not appear to be a git repository
 fatal: Could not read fro
 [2026-10-12 09:08:37] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-10-12 11:56:13] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
