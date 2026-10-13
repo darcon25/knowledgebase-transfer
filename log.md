@@ -1364,3 +1364,9 @@ frontmatter 已加 `original_id:`；`git mv` 未獲執行權限，8 檔改用一
 `p40ceac6` → `伯恩斯坦輝達供應鏈圖`、`7259rg3f` → `正交背板與M10認證`（各含貼文與 shot_ 兩檔）。
 frontmatter 已加 `original_id:`；4 檔 `git mv` 成功。同步更新 `data/known_issues.json`、`data/ingested.json`。
 ⚠️ raw/ 只加 `original_id`，**shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名**；`raw/assets/` 圖檔未改名，嵌入仍有效。
+
+## [2026-10-13] ingest | 1 則 Threads 貼文（無實質內容，跳過）
+
+🤖 2026-10-13 自動消化：`raw/threads_2026-10-13_優文二字無實質內容.md`（@eric1111.matters）原文只有「優文」二字，稱讚的是哪篇內容原文未說明。
+非投資、也無可歸類的主題，比照 2026-04 的 404 頁處理方式**不寫進任何 wiki 頁**，只記入 `data/ingested.json`。
+改名 `4xf7x9kd` → `優文二字無實質內容`，frontmatter 已加 `original_id:`；`git mv` 未獲權限，改用一般搬移（git 會看成刪除＋新增）。同步更新 `data/known_issues.json`、`data/ingested.json`。
