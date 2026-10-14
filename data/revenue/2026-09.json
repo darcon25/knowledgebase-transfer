@@ -1,6 +1,17 @@
 {
   "period": "11509",
   "companies": {
+    "1303": {
+      "name": "南亞",
+      "industry": "塑膠工業",
+      "period": "11509",
+      "revenue": 34423266.0,
+      "mom_pct": 12.49,
+      "yoy_pct": 55.26,
+      "cum_revenue": 247840286.0,
+      "cum_yoy_pct": 26.81,
+      "note": "主要為電子材料產品的營運表現比去年大幅增長。"
+    },
     "1446": {
       "name": "宏和",
       "industry": "紡織纖維",
@@ -23,6 +34,17 @@
       "cum_yoy_pct": 13.75,
       "note": "-"
     },
+    "1802": {
+      "name": "台玻",
+      "industry": "玻璃陶瓷",
+      "period": "11509",
+      "revenue": 4967803.0,
+      "mom_pct": 8.18,
+      "yoy_pct": 34.11,
+      "cum_revenue": 36441740.0,
+      "cum_yoy_pct": 18.69,
+      "note": "-"
+    },
     "2301": {
       "name": "光寶科",
       "industry": "電腦及週邊設備業",
@@ -32,6 +54,17 @@
       "yoy_pct": 22.15,
       "cum_revenue": 153558706.0,
       "cum_yoy_pct": 26.15,
+      "note": "-"
+    },
+    "2308": {
+      "name": "台達電",
+      "industry": "電子零組件業",
+      "period": "11509",
+      "revenue": 65399563.0,
+      "mom_pct": 1.26,
+      "yoy_pct": 14.61,
+      "cum_revenue": 539667536.0,
+      "cum_yoy_pct": 37.22,
       "note": "-"
     },
     "2313": {
@@ -177,6 +210,17 @@
       "cum_yoy_pct": 84.2,
       "note": "係因客戶需求提升，以致115年9月單月營收成長率較去年同期增加90.65%；115年累計營收成長率較去年同期增加84.20%。"
     },
+    "2481": {
+      "name": "強茂",
+      "industry": "半導體業",
+      "period": "11509",
+      "revenue": 1525122.0,
+      "mom_pct": 10.77,
+      "yoy_pct": 38.17,
+      "cum_revenue": 11726386.0,
+      "cum_yoy_pct": 20.38,
+      "note": "-"
+    },
     "3017": {
       "name": "奇鋐",
       "industry": "電腦及週邊設備業",
@@ -276,6 +320,17 @@
       "cum_yoy_pct": 47.12,
       "note": "因客戶端需求成長，致本月較去年同期增加百分比達50%以上。"
     },
+    "3661": {
+      "name": "世芯-KY",
+      "industry": "半導體業",
+      "period": "11509",
+      "revenue": 9978701.0,
+      "mom_pct": 13.7,
+      "yoy_pct": 496.0,
+      "cum_revenue": 37877514.0,
+      "cum_yoy_pct": 44.59,
+      "note": "本月營收較去年同期增加，係因量產產品增加所致。"
+    },
     "3665": {
       "name": "貿聯-KY",
       "industry": "其他電子業",
@@ -285,6 +340,17 @@
       "yoy_pct": 39.16,
       "cum_revenue": 71964925.0,
       "cum_yoy_pct": 39.9,
+      "note": "-"
+    },
+    "3711": {
+      "name": "日月光投控",
+      "industry": "半導體業",
+      "period": "11509",
+      "revenue": 88130084.0,
+      "mom_pct": 7.15,
+      "yoy_pct": 45.52,
+      "cum_revenue": 608886833.0,
+      "cum_yoy_pct": 30.25,
       "note": "-"
     },
     "4958": {
@@ -308,6 +374,17 @@
       "cum_revenue": 52797145.0,
       "cum_yoy_pct": 26.16,
       "note": "-"
+    },
+    "6141": {
+      "name": "柏承",
+      "industry": "電子零組件業",
+      "period": "11509",
+      "revenue": 265648.0,
+      "mom_pct": -2.58,
+      "yoy_pct": 74.24,
+      "cum_revenue": 1884207.0,
+      "cum_yoy_pct": 36.86,
+      "note": "受惠於訂單需求增加，營收較去年同期成長"
     },
     "6153": {
       "name": "嘉聯益",
