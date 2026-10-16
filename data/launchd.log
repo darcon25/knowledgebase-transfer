@@ -2673,3 +2673,66 @@ Failed to authenticate: OAuth session expired and could not be refreshed
    數字不符: 0
    資料過期: 0
 ===== 2026-10-15 19:15:49 每日更新結束 =====
+----- git pull -----
+Already up to date.
+✅ 已同步遠端
+===== 2026-10-16 18:43:54 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-10-16 18:43:54] === 開始抓取（64 檔）===
+[2026-10-16 18:43:56] ✅ 估值 61 檔（資料日 2026-10-15）
+[2026-10-16 18:44:03] ✅ 月營收 60 檔（2026-09）
+[2026-10-16 18:44:05] ✅ 毛利率 60 檔（2026Q2）
+[2026-10-16 18:45:42] ✅ 新聞 59/59 檔有結果
+[2026-10-16 18:45:42] === 抓取完成 ===
+⏭  2026Q2.json 已有 61 家，跳過
+⏭  2026Q1.json 已有 61 家，跳過
+⏭  2025Q4.json 已有 61 家，跳過
+⏭  2025Q3.json 已有 61 家，跳過
+⏭  2025Q2.json 已有 61 家，跳過
+⏭  2025Q1.json 已有 59 家，跳過
+⏭  2024Q4.json 已有 61 家，跳過
+⏭  2024Q3.json 已有 59 家，跳過
+
+完成：新增/更新 0 季，跳過 8 季
+
+[1] threads_2026-10-16_cstp32qh.md
+    https://www.threads.com/share/BAnh3QTALy
+    · 主文有 1 張
+      ✅ threads_2026-10-16_cstp32qh_01.jpg (79 KB)
+      📝 shot_2026-10-16_cstp32qh.md
+
+===== 完成 =====
+處理 1 篇：補到圖 1 篇、確認沒圖 0 篇、失敗 0 篇
+[2026-10-16 18:45:52] 發現 4 個待讀圖檔案
+raw/shot_2026-10-15_6y2c4k9h.md
+raw/shot_2026-10-15_iboqujn6.md
+raw/shot_2026-10-15_ir85axzm.md
+raw/shot_2026-10-16_cstp32qh.md
+Failed to authenticate: OAuth session expired and could not be refreshed
+✅ 已送出
+✅ 頁面：新建 0、更新 76（營收 2026-09、估值 2026-10-16、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 32、動能轉折 22、值得推播 6 項
+[2026-10-16 18:45:56] 發現 9 個未消化檔案，啟動自動消化
+raw/shot_2026-10-15_6y2c4k9h.md
+raw/shot_2026-10-15_iboqujn6.md
+raw/shot_2026-10-15_ir85axzm.md
+raw/shot_2026-10-16_cstp32qh.md
+raw/threads_2026-10-14_2d99wa6q.md
+raw/threads_2026-10-14_6y2c4k9h.md
+raw/threads_2026-10-14_iboqujn6.md
+raw/threads_2026-10-14_ir85axzm.md
+raw/threads_2026-10-16_cstp32qh.md
+Failed to authenticate: OAuth session expired and could not be refreshed
+✅ 已送出
+✅ 健檢完成：15 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 9
+   疑似截斷: 0
+   圖片未確認: 0
+   圖片張數對不上: 1
+   圖片連結壞掉: 0
+   圖片尚未判讀: 4
+   斷連結: 0
+   孤島頁: 1
+   數字不符: 0
+   資料過期: 0
+===== 2026-10-16 18:46:00 每日更新結束 =====

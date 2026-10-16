@@ -1,11 +1,11 @@
 ---
 tags: [health]
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # 知識庫健檢
 
-**檢查時間**：2026-10-15 19:15　**發現問題**：12 項
+**檢查時間**：2026-10-16 18:45　**發現問題**：15 項
 
 > 這頁由 `tools/health_check.py` 每天自動覆寫，只查規則能判定的問題。
 > 需要判讀的（訊號矛盾、摘要失真、論點過期）請叫 kb-auditor 稽核。
@@ -14,15 +14,17 @@ updated: 2026-10-15
 
 - ✅ 沒有問題
 
-## 尚未消化（7）
+## 尚未消化（9）
 
 - 尚未消化：raw/shot_2026-10-15_6y2c4k9h.md
 - 尚未消化：raw/shot_2026-10-15_iboqujn6.md
 - 尚未消化：raw/shot_2026-10-15_ir85axzm.md
+- 尚未消化：raw/shot_2026-10-16_cstp32qh.md
 - 尚未消化：raw/threads_2026-10-14_2d99wa6q.md
 - 尚未消化：raw/threads_2026-10-14_6y2c4k9h.md
 - 尚未消化：raw/threads_2026-10-14_iboqujn6.md
 - 尚未消化：raw/threads_2026-10-14_ir85axzm.md
+- 尚未消化：raw/threads_2026-10-16_cstp32qh.md
 
 ## 疑似截斷（0）
 
@@ -40,11 +42,12 @@ updated: 2026-10-15
 
 - ✅ 沒有問題
 
-## 圖片尚未判讀（3）
+## 圖片尚未判讀（4）
 
 - 圖片尚未判讀：raw/shot_2026-10-15_6y2c4k9h.md
 - 圖片尚未判讀：raw/shot_2026-10-15_iboqujn6.md
 - 圖片尚未判讀：raw/shot_2026-10-15_ir85axzm.md
+- 圖片尚未判讀：raw/shot_2026-10-16_cstp32qh.md
 
 ## 斷連結（0）
 
