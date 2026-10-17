@@ -699,3 +699,9 @@ fatal: Could not read fro
 [2026-10-16 18:45:42] ✅ 新聞 59/59 檔有結果
 [2026-10-16 18:45:42] === 抓取完成 ===
 [2026-10-16 22:28:43] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-10-17 18:38:39] === 開始抓取（64 檔）===
+[2026-10-17 18:38:41] ✅ 估值 61 檔（資料日 2026-10-16）
+[2026-10-17 18:38:49] ✅ 月營收 61 檔（2026-09）
+[2026-10-17 18:38:50] ✅ 毛利率 60 檔（2026Q2）
+[2026-10-17 18:56:02] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%BE%B7%E5%AE%8F%205475&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%BE%B7%E5%AE%8F%205475&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NewConnectionError("HTTPSConnection(host='news.google.com', port=443): Failed to establish a new connection: [Errno 51] Network is unreachable"))
+[2026-10-17 18:56:59] ⚠️  第 2/3 次失敗：https://news.google.com/rss/search?q=%E5%BE%B7%E5%AE%8F%205475&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%BE%B7%E5%AE%8F%205475&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
