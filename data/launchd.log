@@ -2804,3 +2804,94 @@ Failed to authenticate: OAuth session expired and could not be refreshed
    數字不符: 0
    資料過期: 0
 ===== 2026-10-17 20:18:36 每日更新結束 =====
+----- git pull -----
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> main
+
+⚠️ git pull 失敗，繼續用本機現有檔案（可能漏掉 n8n 新存的）
+===== 2026-10-18 18:30:12 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-10-18 18:30:12] === 開始抓取（64 檔）===
+[2026-10-18 18:30:21] ✅ 估值 61 檔（資料日 2026-10-16）
+[2026-10-18 18:30:22] ✅ 月營收 61 檔（2026-09）
+[2026-10-18 18:30:23] ✅ 毛利率 60 檔（2026Q2）
+[2026-10-18 18:48:17] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%BE%B7%E5%AE%8F%205475&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%BE%B7%E5%AE%8F%205475&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NewConnectionError("HTTPSConnection(host='news.google.com', port=443): Failed to establish a new connection: [Errno 51] Network is unreachable"))
+[2026-10-18 18:48:22] ⚠️  第 2/3 次失敗：https://news.google.com/rss/search?q=%E5%BE%B7%E5%AE%8F%205475&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%BE%B7%E5%AE%8F%205475&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-18 18:48:27] ⚠️  第 3/3 次失敗：https://news.google.com/rss/search?q=%E5%BE%B7%E5%AE%8F%205475&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%BE%B7%E5%AE%8F%205475&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-18 18:48:27] ⚠️  5475 德宏 新聞抓取失敗：https://news.google.com/rss/search?q=%E5%BE%B7%E5%AE%8F%205475&hl=zh-TW&gl=TW&ceid=TW:zh-Hant 重試 3 次仍失敗：HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%BE%B7%E5%AE%8F%205475&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-18 18:48:28] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E9%95%B7%E8%88%88%201717&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E9%95%B7%E8%88%88%201717&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-18 18:48:33] ⚠️  第 2/3 次失敗：https://news.google.com/rss/search?q=%E9%95%B7%E8%88%88%201717&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E9%95%B7%E8%88%88%201717&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-18 18:48:38] ⚠️  第 3/3 次失敗：https://news.google.com/rss/search?q=%E9%95%B7%E8%88%88%201717&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E9%95%B7%E8%88%88%201717&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-18 18:48:38] ⚠️  1717 長興 新聞抓取失敗：https://news.google.com/rss/search?q=%E9%95%B7%E8%88%88%201717&hl=zh-TW&gl=TW&ceid=TW:zh-Hant 重試 3 次仍失敗：HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E9%95%B7%E8%88%88%201717&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-18 18:48:39] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%8F%B0%E7%87%BF%206274&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%8F%B0%E7%87%BF%206274&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-18 18:49:31] ⚠️  第 2/3 次失敗：https://news.google.com/rss/search?q=%E5%8F%B0%E7%87%BF%206274&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%8F%B0%E7%87%BF%206274&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-18 19:07:18] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E7%94%B1%E7%94%B0%203455&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2026-10-18 19:26:02] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E6%B3%A2%E8%8B%A5%E5%A8%81%203163&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Read timed out. (read timeout=30)
+[2026-10-18 21:13:12] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E9%B4%BB%E6%B5%B7%202317&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2026-10-18 21:13:20] ✅ 新聞 57/59 檔有結果，無結果：5475,1717
+[2026-10-18 21:13:20] === 抓取完成 ===
+⏭  2026Q2.json 已有 61 家，跳過
+⏭  2026Q1.json 已有 61 家，跳過
+⏭  2025Q4.json 已有 61 家，跳過
+⏭  2025Q3.json 已有 61 家，跳過
+⏭  2025Q2.json 已有 61 家，跳過
+⏭  2025Q1.json 已有 59 家，跳過
+⏭  2024Q4.json 已有 61 家，跳過
+⏭  2024Q3.json 已有 59 家，跳過
+
+完成：新增/更新 0 季，跳過 8 季
+
+[1] threads_2026-10-18_5mtf7zfc.md
+    https://www.threads.com/share/_5wE1qhQw
+    ❌ 讀不到原貼文（第 1 次失敗）：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+[2] threads_2026-10-18_i3ctzkb5.md
+    https://www.threads.com/share/_xeU-ISqE
+    ❌ 讀不到原貼文（第 1 次失敗）：HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.threads.com/share/_xeU-ISqE (Caused by NewConnectionError("HTTPSConnection(host='r.jina.ai', port=443): Failed to establish a new connection: [Errno 65] No route to host"))
+
+===== 完成 =====
+處理 2 篇：補到圖 0 篇、確認沒圖 0 篇、失敗 2 篇
+  ❌ threads_2026-10-18_5mtf7zfc.md：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))（累計 1 次）
+  ❌ threads_2026-10-18_i3ctzkb5.md：HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.threads（累計 1 次）
+[2026-10-18 21:34:30] 發現 4 個待讀圖檔案
+raw/shot_2026-10-15_6y2c4k9h.md
+raw/shot_2026-10-15_iboqujn6.md
+raw/shot_2026-10-15_ir85axzm.md
+raw/shot_2026-10-16_cstp32qh.md
+Failed to authenticate: OAuth session expired and could not be refreshed
+✅ 已送出
+✅ 頁面：新建 0、更新 76（營收 2026-09、估值 2026-10-18、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 0、動能轉折 22、值得推播 3 項
+[2026-10-18 21:34:34] 發現 11 個未消化檔案，啟動自動消化
+raw/shot_2026-10-15_6y2c4k9h.md
+raw/shot_2026-10-15_iboqujn6.md
+raw/shot_2026-10-15_ir85axzm.md
+raw/shot_2026-10-16_cstp32qh.md
+raw/threads_2026-10-14_2d99wa6q.md
+raw/threads_2026-10-14_6y2c4k9h.md
+raw/threads_2026-10-14_iboqujn6.md
+raw/threads_2026-10-14_ir85axzm.md
+raw/threads_2026-10-16_cstp32qh.md
+raw/threads_2026-10-18_5mtf7zfc.md
+raw/threads_2026-10-18_i3ctzkb5.md
+Failed to authenticate: OAuth session expired and could not be refreshed
+✅ 已送出
+✅ 健檢完成：21 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 11
+   疑似截斷: 0
+   圖片未確認: 2
+   圖片張數對不上: 3
+   圖片連結壞掉: 0
+   圖片尚未判讀: 4
+   斷連結: 0
+   孤島頁: 1
+   數字不符: 0
+   資料過期: 0
+===== 2026-10-18 21:34:38 每日更新結束 =====

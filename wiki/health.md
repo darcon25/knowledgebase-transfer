@@ -1,11 +1,11 @@
 ---
 tags: [health]
-updated: 2026-10-17
+updated: 2026-10-18
 ---
 
 # 知識庫健檢
 
-**檢查時間**：2026-10-17 20:18　**發現問題**：15 項
+**檢查時間**：2026-10-18 21:34　**發現問題**：21 項
 
 > 這頁由 `tools/health_check.py` 每天自動覆寫，只查規則能判定的問題。
 > 需要判讀的（訊號矛盾、摘要失真、論點過期）請叫 kb-auditor 稽核。
@@ -14,7 +14,7 @@ updated: 2026-10-17
 
 - ✅ 沒有問題
 
-## 尚未消化（9）
+## 尚未消化（11）
 
 - 尚未消化：raw/shot_2026-10-15_6y2c4k9h.md
 - 尚未消化：raw/shot_2026-10-15_iboqujn6.md
@@ -25,18 +25,25 @@ updated: 2026-10-17
 - 尚未消化：raw/threads_2026-10-14_iboqujn6.md
 - 尚未消化：raw/threads_2026-10-14_ir85axzm.md
 - 尚未消化：raw/threads_2026-10-16_cstp32qh.md
+- 尚未消化：raw/threads_2026-10-18_5mtf7zfc.md
+- 尚未消化：raw/threads_2026-10-18_i3ctzkb5.md
 
 ## 疑似截斷（0）
 
 - ✅ 沒有問題
 
-## 圖片未確認（0）
+## 圖片未確認（2）
 
-- ✅ 沒有問題
+- 圖片未確認：raw/threads_2026-10-18_i3ctzkb5.md（文中提到圖：一張圖）
+    https://www.threads.com/share/_xeU-ISqE
+- 圖片未確認：raw/threads_2026-10-18_5mtf7zfc.md
+    https://www.threads.com/share/_5wE1qhQw
 
-## 圖片張數對不上（1）
+## 圖片張數對不上（3）
 
 - 漏圖：raw/threads_2026-09-21_緯穎股價與營收脫鉤.md 宣告 6 張，但完全沒有對應的 shot_ 檔
+- 漏圖：raw/threads_2026-10-18_5mtf7zfc.md 宣告 1 張，但完全沒有對應的 shot_ 檔
+- 漏圖：raw/threads_2026-10-18_i3ctzkb5.md 宣告 3 張，但完全沒有對應的 shot_ 檔
 
 ## 圖片連結壞掉（0）
 
