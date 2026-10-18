@@ -708,3 +708,5 @@ fatal: Could not read fro
 [2026-10-17 20:18:27] ✅ 新聞 59/59 檔有結果
 [2026-10-17 20:18:27] === 抓取完成 ===
 [2026-10-18 01:41:05] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': R
+[2026-10-18 09:40:52] ⚠️ git pull 失敗，仍檢查本機指令：From https://github.com/darcon25/knowledgebase-transfer
+ * branch            mai
