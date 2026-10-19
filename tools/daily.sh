@@ -50,7 +50,7 @@ fi
 # ⚠️ 一定要先拉。github-sync 是 Obsidian 外掛，**Obsidian 沒開就不會同步**，
 # n8n 存進 GitHub 的新檔在本機根本不存在，後面的補圖與消化全都會漏掉。
 echo "----- git pull -----"
-if git -C "/Users/mmfamily/Max KnowledgeBase" pull --ff-only 2>&1; then
+if git -C "/Users/mmfamily/Max KnowledgeBase" pull --ff-only origin main 2>&1; then
     echo "✅ 已同步遠端"
 else
     echo "⚠️ git pull 失敗，繼續用本機現有檔案（可能漏掉 n8n 新存的）"

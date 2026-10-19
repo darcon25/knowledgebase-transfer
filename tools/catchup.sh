@@ -26,7 +26,7 @@ done
 STAMP="$(date '+%F %T')"
 
 # 1) 先拉。Obsidian 沒開時 github-sync 不會同步，n8n 存的新檔本機根本沒有。
-git pull --ff-only >/dev/null 2>&1 || echo "[$STAMP] ⚠️ git pull 失敗，用本機現有檔案"
+git pull --ff-only origin main >/dev/null 2>&1 || echo "[$STAMP] ⚠️ git pull 失敗，用本機現有檔案"
 
 # 2) 有沒有事情可做？沒有就安靜結束，完全不啟動下游
 PENDING_MEDIA=$("$PY" - <<'PYEOF'
