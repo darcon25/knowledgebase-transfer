@@ -111,7 +111,16 @@ SEGMENT_DESC = dict(SEGMENTS)
 #   因為 neighbours() 只看清單前後相鄰。2026-10-19 改成程式層面擋掉：
 #     · 這些環節本身的上下游一律回 (None, None)
 #     · 算別人的上下游時跳過它們，不讓它們擠進材料流的相鄰關係
-CROSS_SEGMENTS = frozenset({"設備", "IC設計服務", "記憶體", "光通訊CPO", "電力基建"})
+CROSS_SEGMENTS = frozenset({
+    "設備",        # 服務 PCB／載板／封測三個環節的產線
+    "IC設計服務",  # CSP 自研 ASIC 的實作方，與材料鏈平行
+    "記憶體",      # 直接插在伺服器上，價格循環與 PCB 鏈不同步
+    "光通訊CPO",   # 機櫃之間的資料搬運
+    "電力基建",    # 伺服器供電架構（2026-10-19 由「電源散熱」拆出）
+    # 2026-10-19 補收的兩個——CLA-24 當時漏掉：
+    "鑽針耗材",    # 供給 PCB 鑽孔的耗材，是 PCB 的**供應商**，不是「載板」的下游
+    "散熱",        # 與電力基建同性質的平行環節，不是「封測」的下游
+})
 
 # 只含材料流環節、照上下游排序，供 neighbours() 推導相鄰關係
 CHAIN_ORDER = [s for s in SEGMENT_ORDER if s not in CROSS_SEGMENTS]
