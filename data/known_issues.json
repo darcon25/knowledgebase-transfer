@@ -150,7 +150,8 @@
     "raw/threads_2026-10-18_美國資料中心計畫延宕.md": "2026-10-19 fetch_media 自動確認：主文沒有圖",
     "raw/threads_2026-10-18_NPO近封裝光學圖解.md": "2026-10-19 fetch_media 自動補齊 3 張（圖、圖、圖），見 raw/shot_2026-10-19_NPO近封裝光學圖解.md",
     "raw/threads_2026-10-18_大摩美國AI電力缺口.md": "2026-10-19 fetch_media 自動確認：主文沒有圖",
-    "raw/threads_2026-09-21_緯穎股價與營收脫鉤.md": "2026-10-19 原貼文已刪除或改私密，6 張圖永久遺失（不再重試）"
+    "raw/threads_2026-09-21_緯穎股價與營收脫鉤.md": "2026-10-19 原貼文已刪除或改私密，6 張圖永久遺失（不再重試）",
+    "raw/threads_2026-10-19_rhabpu4g.md": "2026-10-19 fetch_media 自動確認：主文沒有圖"
   },
   "duplicate_accepted": {
     "https://www.threads.com/share/BAWtWRBFvr": "2026-09-14 同一則貼文（FOMO 研究院光模組）被傳了兩次，n8n 各存一份：raw/threads_2026-09-14_vtuypwd8.md（已補圖並消化）與 raw/threads_2026-09-14_pwhwol1r.md（純重複）。依 raw/ 唯讀原則不刪除，以 vtuypwd8 為主。"
