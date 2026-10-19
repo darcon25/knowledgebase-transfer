@@ -8,6 +8,7 @@ platform: threads
 date_captured: 2026-10-19
 original_url: "https://www.threads.com/share/BAVHQirSj8"
 media_count: 0
+original_id: rhabpu4g
 ---
 
 # 🧵 2026-10-19 存檔

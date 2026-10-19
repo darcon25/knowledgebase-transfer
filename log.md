@@ -1388,3 +1388,12 @@ frontmatter 已加 `original_id:`；4 檔 `git mv` 成功。同步更新 `data/k
 `cstp32qh` → `ABF供不應求外資目標價`、`5mtf7zfc` → `大摩美國AI電力缺口`、`5poll9zn` → `光寶雲達OCP展110kW電源`、`70g94wy1` → `美國資料中心計畫延宕`、`i3ctzkb5` → `NPO近封裝光學圖解`（貼文與 shot_ 共 15 檔）。
 frontmatter 已加 `original_id:`；15 檔 `git mv` 成功。同步更新 `data/known_issues.json`、`data/media_retry.json`、`data/ingested.json`。
 ⚠️ raw/ 只加 `original_id`，**shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名**；`raw/assets/` 圖檔未改名，嵌入仍有效。
+
+## [2026-10-19] ingest | 1 則 Threads 貼文（GPU 雲端資金成本）
+
+🤖 2026-10-19 自動消化：`raw/threads_2026-10-19_GPU雲端資金成本差距.md`（@curiosity___ashes，轉述 Maya Zehavi）走投資線 A-2（主題：利率／GPU Cloud），未點名名單公司。
+補進 [[AI資本支出的融資結構]]：假設公債 4%，Hyperscaler 利差 90bp→約 4.9%、Neocloud 1,100bp→15%，差 10.1 個百分點（驗算通過）。原文在「單張 GPU US$50,000」之後被截斷，試算結果原文未說明。未新增頁面、未動公司頁與「我的論點」。
+
+## [2026-10-19] update | 1 個來源檔改名（亂碼 ID → 可讀主題）
+
+`rhabpu4g` → `GPU雲端資金成本差距`，frontmatter 已加 `original_id:`；`git mv` 未獲權限，改用一般搬移（git 會看成刪除＋新增）。同步更新 `data/known_issues.json`、`data/ingested.json`。

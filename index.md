@@ -4,6 +4,9 @@
 
 **最後更新**：2026-10-19　**頁面總數**：96
 
+> 🤖 2026-10-19 再消化 1 則貼文（`GPU雲端資金成本差距`），**未新增頁面**。補進
+> [[wiki/investing/themes/AI資本支出的融資結構]]（Hyperscaler 融資利率約 4.9% vs Neocloud 15%，差 10.1 個百分點；原文試算被截斷）。
+
 > 🤖 2026-10-19 消化 15 個來源檔（9 則貼文 + 6 張讀圖），**未新增頁面**。補進
 > [[wiki/investing/themes/CPO共同封裝光學]]（三份 CPO／NPO 圖解、放量預估並列）、[[wiki/investing/themes/資料中心電力]]（大摩美國 2028 缺口 32GW、資料中心僅 35% 可信、光寶 110kW）、
 > [[wiki/investing/themes/PTFE與材料世代轉換]]、[[wiki/investing/themes/ABF載板隱性減產]]（外資目標價表）、[[wiki/investing/themes/液冷散熱滲透率]]；
