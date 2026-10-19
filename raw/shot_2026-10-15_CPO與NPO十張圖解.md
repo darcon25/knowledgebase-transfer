@@ -6,6 +6,7 @@ type: screenshot
 date_captured: 2026-10-15
 image: assets/threads_2026-10-14_iboqujn6_01.jpg
 original_url: "https://www.threads.com/share/BAc9Hc74IR"
+original_id: iboqujn6
 image_count: 10
 expected_min: 10
 captured_by: fetch_media

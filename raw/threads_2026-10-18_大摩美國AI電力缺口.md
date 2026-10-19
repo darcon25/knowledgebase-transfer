@@ -7,6 +7,7 @@ type: social_media
 platform: threads
 date_captured: 2026-10-18
 original_url: "https://www.threads.com/share/_5wE1qhQw"
+original_id: 5mtf7zfc
 media_count: 1
 media_urls:
   - "https://scontent.xx.fbcdn.net/v/t1.6435-9/722635384_18590137618044171_7444848202374067606_n.png?_nc_cat=1&ccb=1-7&_nc_sid=b55947&_nc_ohc=imjFxOTdx5YQ7kNvwG39_Vk&_nc_oc=AdoPAb2b_tf-A-Gh8ssSUnsIAhQ2ui-VyXF7BS-o-S7ErSqM6Dwynw0H75rrg_791gQ&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=fwtF54bIapeig4xGLHOB5g&_nc_ss=7b289&oh=00_AQM9GjxcZV4t3BAD-W4PlfZPP1I31SjaKC5MCWSoTJSZyA&oe=6AFB7D1D"

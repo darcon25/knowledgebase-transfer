@@ -2,7 +2,12 @@
 
 > 這份文件由 LLM 維護。公司頁與環節頁由 `tools/build_pages.py` 自動產生。
 
-**最後更新**：2026-10-11　**頁面總數**：96
+**最後更新**：2026-10-19　**頁面總數**：96
+
+> 🤖 2026-10-19 消化 15 個來源檔（9 則貼文 + 6 張讀圖），**未新增頁面**。補進
+> [[wiki/investing/themes/CPO共同封裝光學]]（三份 CPO／NPO 圖解、放量預估並列）、[[wiki/investing/themes/資料中心電力]]（大摩美國 2028 缺口 32GW、資料中心僅 35% 可信、光寶 110kW）、
+> [[wiki/investing/themes/PTFE與材料世代轉換]]、[[wiki/investing/themes/ABF載板隱性減產]]（外資目標價表）、[[wiki/investing/themes/液冷散熱滲透率]]；
+> 公司頁 4958、3037、8046、3189、2301、2308、3450、3363、3711、2360、6187、2330、8039。9 組亂碼 ID 檔名已改為可讀主題。
 
 > 🤖 2026-10-11 消化 4 個來源檔（2 則貼文 + 2 張讀圖），**未新增頁面**。補進
 > [[wiki/investing/themes/AI-ASIC與GoogleTPU供應鏈]]、[[wiki/investing/themes/HBM4與先進封裝]]（Bernstein 輝達供應鏈圖）、

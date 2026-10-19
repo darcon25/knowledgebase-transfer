@@ -142,14 +142,14 @@
     "raw/instagram_2026-10-10_伯恩斯坦輝達供應鏈圖.md": "2026-10-11 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-10-11_伯恩斯坦輝達供應鏈圖.md",
     "raw/threads_2026-10-10_正交背板與M10認證.md": "2026-10-11 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-10-11_正交背板與M10認證.md",
     "raw/threads_2026-10-13_優文二字無實質內容.md": "2026-10-13 fetch_media 自動確認：主文沒有圖",
-    "raw/threads_2026-10-14_2d99wa6q.md": "2026-10-15 fetch_media 自動確認：主文沒有圖",
-    "raw/threads_2026-10-14_6y2c4k9h.md": "2026-10-15 fetch_media 自動補齊 4 張（圖、圖、圖、圖），見 raw/shot_2026-10-15_6y2c4k9h.md",
-    "raw/threads_2026-10-14_iboqujn6.md": "2026-10-15 fetch_media 自動補齊 10 張（圖、圖、圖、圖、圖、圖、圖、圖、圖、圖），見 raw/shot_2026-10-15_iboqujn6.md",
-    "raw/threads_2026-10-14_ir85axzm.md": "2026-10-15 fetch_media 自動補齊 3 張（圖、圖、圖），見 raw/shot_2026-10-15_ir85axzm.md",
-    "raw/threads_2026-10-16_cstp32qh.md": "2026-10-16 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-10-16_cstp32qh.md",
-    "raw/threads_2026-10-18_5poll9zn.md": "2026-10-19 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-10-19_5poll9zn.md",
-    "raw/threads_2026-10-18_70g94wy1.md": "2026-10-19 fetch_media 自動確認：主文沒有圖",
-    "raw/threads_2026-10-18_i3ctzkb5.md": "2026-10-19 fetch_media 自動補齊 3 張（圖、圖、圖），見 raw/shot_2026-10-19_i3ctzkb5.md"
+    "raw/threads_2026-10-14_GPU互連銅轉光路線圖.md": "2026-10-15 fetch_media 自動確認：主文沒有圖",
+    "raw/threads_2026-10-14_臻鼎法說會1H26重點.md": "2026-10-15 fetch_media 自動補齊 4 張（圖、圖、圖、圖），見 raw/shot_2026-10-15_臻鼎法說會1H26重點.md",
+    "raw/threads_2026-10-14_CPO與NPO十張圖解.md": "2026-10-15 fetch_media 自動補齊 10 張（圖、圖、圖、圖、圖、圖、圖、圖、圖、圖），見 raw/shot_2026-10-15_CPO與NPO十張圖解.md",
+    "raw/threads_2026-10-14_PTFE無布化圖解.md": "2026-10-15 fetch_media 自動補齊 3 張（圖、圖、圖），見 raw/shot_2026-10-15_PTFE無布化圖解.md",
+    "raw/threads_2026-10-16_ABF供不應求外資目標價.md": "2026-10-16 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-10-16_ABF供不應求外資目標價.md",
+    "raw/threads_2026-10-18_光寶雲達OCP展110kW電源.md": "2026-10-19 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-10-19_光寶雲達OCP展110kW電源.md",
+    "raw/threads_2026-10-18_美國資料中心計畫延宕.md": "2026-10-19 fetch_media 自動確認：主文沒有圖",
+    "raw/threads_2026-10-18_NPO近封裝光學圖解.md": "2026-10-19 fetch_media 自動補齊 3 張（圖、圖、圖），見 raw/shot_2026-10-19_NPO近封裝光學圖解.md"
   },
   "duplicate_accepted": {
     "https://www.threads.com/share/BAWtWRBFvr": "2026-09-14 同一則貼文（FOMO 研究院光模組）被傳了兩次，n8n 各存一份：raw/threads_2026-09-14_vtuypwd8.md（已補圖並消化）與 raw/threads_2026-09-14_pwhwol1r.md（純重複）。依 raw/ 唯讀原則不刪除，以 vtuypwd8 為主。"

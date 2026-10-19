@@ -5,7 +5,7 @@ updated: 2026-10-19
 
 # 知識庫健檢
 
-**檢查時間**：2026-10-19 08:59　**發現問題**：27 項
+**檢查時間**：2026-10-19 09:10　**發現問題**：5 項
 
 > 這頁由 `tools/health_check.py` 每天自動覆寫，只查規則能判定的問題。
 > 需要判讀的（訊號矛盾、摘要失真、論點過期）請叫 kb-auditor 稽核。
@@ -14,55 +14,32 @@ updated: 2026-10-19
 
 - ✅ 沒有問題
 
-## 尚未消化（13）
+## 尚未消化（0）
 
-- 尚未消化：raw/shot_2026-10-15_6y2c4k9h.md
-- 尚未消化：raw/shot_2026-10-15_iboqujn6.md
-- 尚未消化：raw/shot_2026-10-15_ir85axzm.md
-- 尚未消化：raw/shot_2026-10-16_cstp32qh.md
-- 尚未消化：raw/threads_2026-10-14_2d99wa6q.md
-- 尚未消化：raw/threads_2026-10-14_6y2c4k9h.md
-- 尚未消化：raw/threads_2026-10-14_iboqujn6.md
-- 尚未消化：raw/threads_2026-10-14_ir85axzm.md
-- 尚未消化：raw/threads_2026-10-16_cstp32qh.md
-- 尚未消化：raw/threads_2026-10-18_5mtf7zfc.md
-- 尚未消化：raw/threads_2026-10-18_5poll9zn.md
-- 尚未消化：raw/threads_2026-10-18_70g94wy1.md
-- 尚未消化：raw/threads_2026-10-18_i3ctzkb5.md
+- ✅ 沒有問題
 
 ## 疑似截斷（0）
 
 - ✅ 沒有問題
 
-## 圖片未確認（4）
+## 圖片未確認（1）
 
-- 圖片未確認：raw/threads_2026-10-18_i3ctzkb5.md（文中提到圖：一張圖）
-    https://www.threads.com/share/_xeU-ISqE
-- 圖片未確認：raw/threads_2026-10-18_5mtf7zfc.md
+- 圖片未確認：raw/threads_2026-10-18_大摩美國AI電力缺口.md
     https://www.threads.com/share/_5wE1qhQw
-- 圖片未確認：raw/threads_2026-10-18_5poll9zn.md
-    https://www.threads.com/share/BAlMkXwmc6
-- 圖片未確認：raw/threads_2026-10-18_70g94wy1.md
-    https://www.threads.com/share/BAEhl9dhV2
 
-## 圖片張數對不上（5）
+## 圖片張數對不上（3）
 
 - 漏圖：raw/threads_2026-09-21_緯穎股價與營收脫鉤.md 宣告 6 張，但完全沒有對應的 shot_ 檔
-- 漏圖：raw/threads_2026-10-18_5mtf7zfc.md 宣告 1 張，但完全沒有對應的 shot_ 檔
-- 漏圖：raw/threads_2026-10-18_5poll9zn.md 宣告 1 張，但完全沒有對應的 shot_ 檔
-- 漏圖：raw/threads_2026-10-18_70g94wy1.md 宣告 3 張，但完全沒有對應的 shot_ 檔
-- 漏圖：raw/threads_2026-10-18_i3ctzkb5.md 宣告 3 張，但完全沒有對應的 shot_ 檔
+- 漏圖：raw/threads_2026-10-18_大摩美國AI電力缺口.md 宣告 1 張，但完全沒有對應的 shot_ 檔
+- 漏圖：raw/threads_2026-10-18_美國資料中心計畫延宕.md 宣告 3 張，但完全沒有對應的 shot_ 檔
 
 ## 圖片連結壞掉（0）
 
 - ✅ 沒有問題
 
-## 圖片尚未判讀（4）
+## 圖片尚未判讀（0）
 
-- 圖片尚未判讀：raw/shot_2026-10-15_6y2c4k9h.md
-- 圖片尚未判讀：raw/shot_2026-10-15_iboqujn6.md
-- 圖片尚未判讀：raw/shot_2026-10-15_ir85axzm.md
-- 圖片尚未判讀：raw/shot_2026-10-16_cstp32qh.md
+- ✅ 沒有問題
 
 ## 斷連結（0）
 

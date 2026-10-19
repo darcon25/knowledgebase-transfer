@@ -1370,3 +1370,21 @@ frontmatter 已加 `original_id:`；4 檔 `git mv` 成功。同步更新 `data/k
 🤖 2026-10-13 自動消化：`raw/threads_2026-10-13_優文二字無實質內容.md`（@eric1111.matters）原文只有「優文」二字，稱讚的是哪篇內容原文未說明。
 非投資、也無可歸類的主題，比照 2026-04 的 404 頁處理方式**不寫進任何 wiki 頁**，只記入 `data/ingested.json`。
 改名 `4xf7x9kd` → `優文二字無實質內容`，frontmatter 已加 `original_id:`；`git mv` 未獲權限，改用一般搬移（git 會看成刪除＋新增）。同步更新 `data/known_issues.json`、`data/ingested.json`。
+
+## [2026-10-19] ingest | 15 個來源檔（9 則貼文 + 6 張讀圖）
+
+全部走投資線，未新增頁面（overview 不需加連結）。
+- CPO／NPO：`GPU互連銅轉光路線圖`、`CPO與NPO十張圖解`、`NPO近封裝光學圖解` → [[CPO共同封裝光學]]（功耗表、良率、四大平台、放量預估並列與落差）；公司頁 2330、3363、3450、3711、2360、6187
+- 臻鼎法說會 1H26 → [[4958 臻鼎-KY]]（21.6% 含「其他」已標註）
+- PTFE 無布化圖卡 → [[PTFE與材料世代轉換]]、[[8039 台虹]]（其餘公司只列「相關環節」，未寫入公司頁）
+- ABF 外資目標價（大摩欣興 1,775／南電 2,000、大和南電 2,460、美銀南電 2,000／景碩 1,450）→ [[ABF載板隱性減產]]、公司頁 3037、8046、3189
+- 大摩美國 2028 電力缺口 32GW、47 個資料中心計畫受阻／僅 35% 可信、光寶 110kW Power Shelf → [[資料中心電力]]、[[液冷散熱滲透率]]、公司頁 2301、2308
+
+**名單外**：華星光、佳必琪、大立光、新復興、旺矽、漢測、華城、士電、中興電、亞力、所羅門，未動 `tools/watchlist.py`。未動「我的論點」、未建 insights。
+
+## [2026-10-19] update | 9 組來源檔改名（亂碼 ID → 可讀主題）
+
+`2d99wa6q` → `GPU互連銅轉光路線圖`、`6y2c4k9h` → `臻鼎法說會1H26重點`、`iboqujn6` → `CPO與NPO十張圖解`、`ir85axzm` → `PTFE無布化圖解`、
+`cstp32qh` → `ABF供不應求外資目標價`、`5mtf7zfc` → `大摩美國AI電力缺口`、`5poll9zn` → `光寶雲達OCP展110kW電源`、`70g94wy1` → `美國資料中心計畫延宕`、`i3ctzkb5` → `NPO近封裝光學圖解`（貼文與 shot_ 共 15 檔）。
+frontmatter 已加 `original_id:`；15 檔 `git mv` 成功。同步更新 `data/known_issues.json`、`data/media_retry.json`、`data/ingested.json`。
+⚠️ raw/ 只加 `original_id`，**shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名**；`raw/assets/` 圖檔未改名，嵌入仍有效。
