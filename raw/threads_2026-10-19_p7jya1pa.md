@@ -1,0 +1,289 @@
+---
+tags:
+  - source
+  - social_media
+  - threads
+type: social_media
+platform: threads
+date_captured: 2026-10-19
+original_url: "https://www.threads.com/share/_pTRu-jq0"
+media_count: 10
+media_urls:
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/849708502_18081077504419033_4463675157717422456_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAxMTM0NDM5NTM2MTk2ODc1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=IiyGSNKKSmkQ7kNvwEwu7NO&_nc_oc=AdrDKWAGZeke3WLDdA_LR7JC7kBz0sTLvNw7-Ewnazi2WhdbC_enFGhNub01gapFTYQ&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQNgCWrr4tAv7rux1WlyOdmNI0_CWc_TXO0ZOjHTcf6VSw&oe=6ADBD800"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858088208_18081077507419033_4286239549122944996_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAxMTM0NDM5NTUwNDQ1MjIzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FZ9_VxFokF0Q7kNvwFCtTFz&_nc_oc=AdoYDZe4UG8nMFpagvXBK8Z8HYG1lYu2r77yTsgLQn3yc-NNS6j1d4utPYgQ7HWL6Pw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQNIkCYNlvx1gEwJJ1FDW5mA8FyyhyBy4bDMSYW75bUvMA&oe=6ADBCF55"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/855348020_18081077543419033_5454965636946957728_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMTM0NDM5NjA1ODI5MTcxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hfFVvKIAVx4Q7kNvwE2UQYm&_nc_oc=Ado7ZauALJCCOB3sqf5UgqupmXNwvjvLKwKG3v8JRbe68_cMgK3okk0lrz1bmHQ61Mo&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQMLJ676fub8tRBYdStl-7m4RIFiuFkN3rgEhjed6kYAmA&oe=6ADBEDF5"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858088468_18081077567419033_8296697505890856395_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMTM0NDM5NzIxNTkzMzQ1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MldP8cD--OkQ7kNvwHMOpMD&_nc_oc=AdogqrRNOWf51CBXvIlTk6aDoPEO7aLD-hv3P1WsdKRcASwwAdNEAbC7mKQCsfrv7lQ&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQOYsb2-v8v-EEgyL8Egnk1hY0itcR_nh1sO633Iye3cnA&oe=6ADBE601"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/848014460_18081077540419033_6382165566677398495_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=NDAxMTM0NDM5NTU3MTgxNTUyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-ysnxsrZengQ7kNvwGhjKOk&_nc_oc=AdqPxeNEu-DTgvFEwJUV1s96uXfQ7KSlDXPFbWeftvIT3zwKj-E_9ys2ZNV_U78t9xE&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQOjl_k3ZuBA8VBoewz1qeh0jVCMoN70CCWJirfBsKUD_Q&oe=6ADBDECE"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858088509_18081077531419033_3827294909640450782_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAxMTM0NDM5NTg0ODYwMjY4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-KTlIBwhkgIQ7kNvwFZndK3&_nc_oc=AdpxryvcvzVarqWv45FLamHOEqPNTrnagf5wFAIixrP0zaGwhOwCjBuk84UAdUcm-sw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQPiZUdqrphAvygtWhBWJscJL_SZwRrcdBKKzDblazOKgw&oe=6ADBE2ED"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/850007539_18081077489419033_9049013825457464847_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMTM0NDM5NTc4OTcxMjkxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ECIcqDL6m88Q7kNvwFJ0Mzo&_nc_oc=AdoFKTpeNmFivNfsMVXR_-8E3vc6SS8ih3v_pAJ7wu0dSdSSBRIbIX4Gt7-NREVJcd4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQMa9NdwFJx90AcmDcSQBIVGMUAsiR5YMUGS4NzaR5IyfA&oe=6ADBE0ED"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858088712_18081077528419033_3729902368913726679_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAxMTM0NDM5NjAxNjM4MDMwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xcqAeOCDzdwQ7kNvwH7kiKB&_nc_oc=AdqUCVlZZqGK0dx4-k7ncjDk2yFQRpqIXL9SP2bDiaLf6qQhT8GtSPzR8DxxSTIr0_g&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQOG1uHhLDfSwzzCpUmBhi1ESGaJoXacc8W_kUtpk7TzdQ&oe=6ADBCCEA"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858088799_18081077570419033_2565755167728836350_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=NDAxMTM0NDM5NjY5NTgzMzAxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=GmcaGKqDGKIQ7kNvwEoVLfK&_nc_oc=AdplcyX6R-33jtjAKqrCLpwzdSqeMpLLVWHkiMbabe-vyhh7vpbh3RBJtdwSo31e-70&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQNUAPCyl2JhNV0rixV3LzHrpUGfg_a51J5Jr6kvlskCmw&oe=6ADBDC65"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/851059194_18081077564419033_5973886918365871504_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMTM0NDM5NjI2Nzg0MjE3Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=HPu_je7PfAYQ7kNvwEsEQsp&_nc_oc=AdoDojR0ZJ5a4AQtvp3wJvxNQoSvYnmpmrYaaFBmDL3DCEnekdfh_ESFuyHBD700HiU&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQOp9dnW39hvdIqlgrxeMCzuwffyHP47ekDTTIim21CzrQ&oe=6ADBD804"
+---
+
+# 🧵 2026-10-19 存檔
+
+> 原文：[查看貼文](https://www.threads.com/share/_pTRu-jq0)
+
+## 摘要
+這篇貼文是針對 TPCA Show 2026 展覽的深度分析與觀展指南，聚焦於 AI 伺服器、高階 PCB/CCL、ABF 載板及相關上游材料等七大關鍵主題。內容詳細闡述了各領域的技術趨勢、市場供需狀況、主要廠商動態，並提供了具體的觀展提問清單，旨在幫助讀者掌握產業脈動並與廠商進行有效交流。
+
+## 重點整理
+*   **高階CCL需求與供應緊俏：** AI 伺服器帶動高階 CCL（如 M9+）需求激增，價格倍數成長，全球僅少數廠商能穩定量產，且產能已被預訂至 2028 年後。
+*   **上游材料全面短缺：** HVLP4 銅箔、Low-DK2 玻纖布、石英布等關鍵上游材料均面臨嚴重缺口，且高階材料會加速鑽針耗損，增加生產難度。
+*   **AI 伺服器推升PCB價值量：** AI 伺服器 PCB 內容價值量大幅提升，交換器層數與技術要求（mSAP）也持續升高，光模組 mSAP 市場潛力巨大。
+*   **ABF載板持續供不應求：** 各機構對 ABF 載板缺口預估雖有差異，但普遍認同嚴重短缺，交期拉長，且關鍵設備（真空壓膜機）供應商訂單能見度已達 2031 年。
+*   **新材料與新技術競逐：** 玻璃基板的量產時程存在分歧，PTFE 材料因加工良率低面臨挑戰，碳氫（HC）材料可能成為替代方案，顯示高階材料技術路線仍在演進。
+
+## 關鍵概念
+*   **CCL (Copper Clad Laminate) 銅箔基板：** PCB 的核心材料，高階 CCL（M7, M8, M9+）在 AI 伺服器中扮演關鍵角色，其介電常數 (Dk) 和介電損耗 (Df) 影響訊號傳輸速度與品質。
+*   **HVLP4 銅箔：** 表面粗糙度極低的銅箔，用於高頻高速傳輸，減少訊號損耗。
+*   **Low-DK2 玻纖布 / 石英布：** 具有低介電常數特性的玻纖布和石英布，用於高頻高速 PCB，減少訊號延遲和衰減。
+*   **mSAP (Modified Semi-Additive Process) 改良式半加成法：** 一種用於製造細線路 PCB 的先進製程，在高階光模組板中日益重要。
+*   **ABF (Ajinomoto Build-up Film) 載板：** 用於高階晶片封裝的載板，因其優異的電氣特性和散熱能力，在 AI 晶片中需求強勁。
+*   **玻璃基板 (Glass Substrate)：** 被視為下一代載板材料，具有更好的平整度、尺寸穩定性和熱膨脹係數，但量產時程仍有不確定性。
+*   **PTFE (Polytetrafluoroethylene) 聚四氟乙烯：** 一種高性能高頻材料，具有極低的介電損耗，但加工難度高。
+*   **碳氫 (Hydrocarbon, HC) 材料：** 另一種高頻材料，相較 PTFE 易於加工，可能成為高階 PCB 的替代或並存方案。
+*   **CPO (Co-Packaged Optics) 共同封裝光學：** 將光學模組與電子晶片共同封裝的技術，旨在縮短傳輸距離、降低功耗，可能影響 CCL 降規。
+*   **EMIB-T (Embedded Multi-die Interconnect Bridge - Through Glass Via)：** 一種先進封裝技術，結合玻璃通孔，提升晶片間互連密度。
+
+## 可行動洞察
+*   **深入研究高階材料供應鏈：** 鑒於 CCL、銅箔、玻纖布、石英布等上游材料的全面緊缺，應深入分析這些材料的全球主要供應商、產能擴張計畫及其技術壁壘，以評估其長期投資價值。
+*   **關注AI伺服器PCB技術演進：** AI 伺服器對 PCB 的層數、材料等級和製程（如 mSAP）要求不斷提高，應持續追蹤相關技術發展，特別是 1.6T/3.2T 光模組板的量產進度與良率改善。
+*   **評估新材料的產業影響：** 玻璃基板、PTFE 和 HC 材料的發展將重塑高階 PCB 產業格局。應密切關注這些新材料的量產時程、技術挑戰及主要廠商的策略佈局，特別是其對現有材料供應商的潛在衝擊。
+*   **探討設備供應商的瓶頸效應：** ABF 載板設備（如真空壓膜機）的交期長達數年，顯示設備供應是產業擴張的關鍵瓶頸。研究這些設備供應商的技術領先性、產能規劃和客戶關係，可能發現獨特的投資機會。
+*   **實地考察與廠商交流：** 參與 TPCA Show 等產業展覽，利用貼文提供的問題清單，與相關廠商進行深度交流，獲取第一手資訊，驗證市場傳聞，並了解其技術路線、產能規劃和客戶認證進度。
+*   **關注泰國產能佈局：** 台灣 PCB 廠商積極將產能轉移至泰國，這不僅是地緣政治考量，也反映了供應鏈韌性的需求。應分析泰國新廠的產能貢獻、客戶結構和對整體營收的影響。
+
+## 主文圖片
+
+原貼文主文有 10 張圖。本機 `tools/fetch_media.py` 會下載成 `raw/shot_*.md`。
+（下列網址帶簽章，約一週後失效，僅作線索。）
+
+1. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/849708502_18081077504419033_4463675157717422456_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAxMTM0NDM5NTM2MTk2ODc1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=IiyGSNKKSmkQ7kNvwEwu7NO&_nc_oc=AdrDKWAGZeke3WLDdA_LR7JC7kBz0sTLvNw7-Ewnazi2WhdbC_enFGhNub01gapFTYQ&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQNgCWrr4tAv7rux1WlyOdmNI0_CWc_TXO0ZOjHTcf6VSw&oe=6ADBD800
+2. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858088208_18081077507419033_4286239549122944996_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAxMTM0NDM5NTUwNDQ1MjIzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FZ9_VxFokF0Q7kNvwFCtTFz&_nc_oc=AdoYDZe4UG8nMFpagvXBK8Z8HYG1lYu2r77yTsgLQn3yc-NNS6j1d4utPYgQ7HWL6Pw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQNIkCYNlvx1gEwJJ1FDW5mA8FyyhyBy4bDMSYW75bUvMA&oe=6ADBCF55
+3. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/855348020_18081077543419033_5454965636946957728_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMTM0NDM5NjA1ODI5MTcxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hfFVvKIAVx4Q7kNvwE2UQYm&_nc_oc=Ado7ZauALJCCOB3sqf5UgqupmXNwvjvLKwKG3v8JRbe68_cMgK3okk0lrz1bmHQ61Mo&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQMLJ676fub8tRBYdStl-7m4RIFiuFkN3rgEhjed6kYAmA&oe=6ADBEDF5
+4. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858088468_18081077567419033_8296697505890856395_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMTM0NDM5NzIxNTkzMzQ1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MldP8cD--OkQ7kNvwHMOpMD&_nc_oc=AdogqrRNOWf51CBXvIlTk6aDoPEO7aLD-hv3P1WsdKRcASwwAdNEAbC7mKQCsfrv7lQ&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQOYsb2-v8v-EEgyL8Egnk1hY0itcR_nh1sO633Iye3cnA&oe=6ADBE601
+5. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/848014460_18081077540419033_6382165566677398495_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=NDAxMTM0NDM5NTU3MTgxNTUyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-ysnxsrZengQ7kNvwGhjKOk&_nc_oc=AdqPxeNEu-DTgvFEwJUV1s96uXfQ7KSlDXPFbWeftvIT3zwKj-E_9ys2ZNV_U78t9xE&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQOjl_k3ZuBA8VBoewz1qeh0jVCMoN70CCWJirfBsKUD_Q&oe=6ADBDECE
+6. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858088509_18081077531419033_3827294909640450782_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAxMTM0NDM5NTg0ODYwMjY4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-KTlIBwhkgIQ7kNvwFZndK3&_nc_oc=AdpxryvcvzVarqWv45FLamHOEqPNTrnagf5wFAIixrP0zaGwhOwCjBuk84UAdUcm-sw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQPiZUdqrphAvygtWhBWJscJL_SZwRrcdBKKzDblazOKgw&oe=6ADBE2ED
+7. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/850007539_18081077489419033_9049013825457464847_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMTM0NDM5NTc4OTcxMjkxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ECIcqDL6m88Q7kNvwFJ0Mzo&_nc_oc=AdoFKTpeNmFivNfsMVXR_-8E3vc6SS8ih3v_pAJ7wu0dSdSSBRIbIX4Gt7-NREVJcd4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQMa9NdwFJx90AcmDcSQBIVGMUAsiR5YMUGS4NzaR5IyfA&oe=6ADBE0ED
+8. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858088712_18081077528419033_3729902368913726679_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAxMTM0NDM5NjAxNjM4MDMwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xcqAeOCDzdwQ7kNvwH7kiKB&_nc_oc=AdqUCVlZZqGK0dx4-k7ncjDk2yFQRpqIXL9SP2bDiaLf6qQhT8GtSPzR8DxxSTIr0_g&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQOG1uHhLDfSwzzCpUmBhi1ESGaJoXacc8W_kUtpk7TzdQ&oe=6ADBCCEA
+9. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858088799_18081077570419033_2565755167728836350_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=NDAxMTM0NDM5NjY5NTgzMzAxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=GmcaGKqDGKIQ7kNvwEoVLfK&_nc_oc=AdplcyX6R-33jtjAKqrCLpwzdSqeMpLLVWHkiMbabe-vyhh7vpbh3RBJtdwSo31e-70&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQNUAPCyl2JhNV0rixV3LzHrpUGfg_a51J5Jr6kvlskCmw&oe=6ADBDC65
+10. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/851059194_18081077564419033_5973886918365871504_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMTM0NDM5NjI2Nzg0MjE3Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=HPu_je7PfAYQ7kNvwEsEQsp&_nc_oc=AdoDojR0ZJ5a4AQtvp3wJvxNQoSvYnmpmrYaaFBmDL3DCEnekdfh_ESFuyHBD700HiU&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQOp9dnW39hvdIqlgrxeMCzuwffyHP47ekDTTIim21CzrQ&oe=6ADBD804
+
+## 原文（Jina Reader）
+
+```
+Title: 股溜股溜 (@guliuguliu__888) on Threads
+
+URL Source: https://www.threads.com/share/_pTRu-jq0
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread](https://www.threads.com/@guliuguliu__888/post/DerKIIlE2Bx?xmt=AQG0-SztUHKsD9Kz55kqdvy3f-xATFcWfSAflAlmPGCYOxayFE20nnZrzZJWIvTD-zkjcBQ&slof=1)
+
+2.2K views
+
+[![Image 1: guliuguliu__888's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722447623_18067845926419033_7265718511565988568_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rmeLMzhIK2oQ7kNvwEGT00M&_nc_oc=AdoKuFmFSlZCYgXp4v_-FOsTIsU43PmB81kAZn2L2Qh5pxaIgRRhpKUYWev4A8Nsb4M&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=j_-IKCOCoQPD_tdtcx7baQ&_nc_ss=7b289&oh=00_AQN7AXo5X3fLY2hDsPLBRvQxPlKNg0KQKTuQ0d8BMl3uAg&oe=6ADBD470)](https://www.threads.com/@guliuguliu__888)
+
+[guliuguliu__888](https://www.threads.com/@guliuguliu__888)
+
+[1h](https://www.threads.com/@guliuguliu__888/post/DerKIIlE2Bx)
+
+TPCA Show 2026 要開展啦～～ 嗨嗨這裡是股溜股溜( ˶'ᵕ'˶) 這次整理了展前最該看的 7 大主題： 接下來就一個一個看吧～ ▎① CCL：每升一代，價格就往上翻 以 M2 當作 1 倍來看，M7 約 3.1 倍、M8 約 6.5 倍、M9+ 直接來到 12.1 倍 全球能穩定量產 M9+ 的只有 5 家：台光電、台燿、生益、Panasonic、Doosan 台光電、台燿的新產能甚至已經被訂到 2028 年後 9/17 市場曾出現 CPO 會讓 CCL 降規到 M4 的說法，台光電當天重挫 7.7% 不過 MS、JPM、Aletheia 都認為 2028 年前 CCL 需求不會被實質打斷，降規頂多到 M6/M7，而且只降主板 ▎② 上游材料：銅箔、玻纖布、石英布三重缺 HVLP4 銅箔的表面粗糙度要 <1μm 全球只有三井、古河、金居能量產 2027 年缺口各家估 13%～39% 玻纖布這邊也很緊 Low-DK2 26H2 缺口 60% 以上 石英布缺口 2026F 28%→2027F 45%，德宏是台系目前量產供應商 還有一個小細節：材料越高階，鑽針壽命掉越快
+
+![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/849708502_18081077504419033_4463675157717422456_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAxMTM0NDM5NTM2MTk2ODc1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=IiyGSNKKSmkQ7kNvwEwu7NO&_nc_oc=AdrDKWAGZeke3WLDdA_LR7JC7kBz0sTLvNw7-Ewnazi2WhdbC_enFGhNub01gapFTYQ&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQNgCWrr4tAv7rux1WlyOdmNI0_CWc_TXO0ZOjHTcf6VSw&oe=6ADBD800)
+
+![Image 3](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858088208_18081077507419033_4286239549122944996_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAxMTM0NDM5NTUwNDQ1MjIzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FZ9_VxFokF0Q7kNvwFCtTFz&_nc_oc=AdoYDZe4UG8nMFpagvXBK8Z8HYG1lYu2r77yTsgLQn3yc-NNS6j1d4utPYgQ7HWL6Pw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQNIkCYNlvx1gEwJJ1FDW5mA8FyyhyBy4bDMSYW75bUvMA&oe=6ADBCF55)
+
+![Image 4](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/855348020_18081077543419033_5454965636946957728_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMTM0NDM5NjA1ODI5MTcxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hfFVvKIAVx4Q7kNvwE2UQYm&_nc_oc=Ado7ZauALJCCOB3sqf5UgqupmXNwvjvLKwKG3v8JRbe68_cMgK3okk0lrz1bmHQ61Mo&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQMLJ676fub8tRBYdStl-7m4RIFiuFkN3rgEhjed6kYAmA&oe=6ADBEDF5)
+
+![Image 5](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858088468_18081077567419033_8296697505890856395_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMTM0NDM5NzIxNTkzMzQ1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MldP8cD--OkQ7kNvwHMOpMD&_nc_oc=AdogqrRNOWf51CBXvIlTk6aDoPEO7aLD-hv3P1WsdKRcASwwAdNEAbC7mKQCsfrv7lQ&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQOYsb2-v8v-EEgyL8Egnk1hY0itcR_nh1sO633Iye3cnA&oe=6ADBE601)
+
+![Image 6](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/848014460_18081077540419033_6382165566677398495_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=NDAxMTM0NDM5NTU3MTgxNTUyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-ysnxsrZengQ7kNvwGhjKOk&_nc_oc=AdqPxeNEu-DTgvFEwJUV1s96uXfQ7KSlDXPFbWeftvIT3zwKj-E_9ys2ZNV_U78t9xE&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQOjl_k3ZuBA8VBoewz1qeh0jVCMoN70CCWJirfBsKUD_Q&oe=6ADBDECE)
+
+![Image 7](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858088509_18081077531419033_3827294909640450782_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAxMTM0NDM5NTg0ODYwMjY4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-KTlIBwhkgIQ7kNvwFZndK3&_nc_oc=AdpxryvcvzVarqWv45FLamHOEqPNTrnagf5wFAIixrP0zaGwhOwCjBuk84UAdUcm-sw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQPiZUdqrphAvygtWhBWJscJL_SZwRrcdBKKzDblazOKgw&oe=6ADBE2ED)
+
+![Image 8](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/850007539_18081077489419033_9049013825457464847_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMTM0NDM5NTc4OTcxMjkxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ECIcqDL6m88Q7kNvwFJ0Mzo&_nc_oc=AdoFKTpeNmFivNfsMVXR_-8E3vc6SS8ih3v_pAJ7wu0dSdSSBRIbIX4Gt7-NREVJcd4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQMa9NdwFJx90AcmDcSQBIVGMUAsiR5YMUGS4NzaR5IyfA&oe=6ADBE0ED)
+
+![Image 9](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858088712_18081077528419033_3729902368913726679_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAxMTM0NDM5NjAxNjM4MDMwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xcqAeOCDzdwQ7kNvwH7kiKB&_nc_oc=AdqUCVlZZqGK0dx4-k7ncjDk2yFQRpqIXL9SP2bDiaLf6qQhT8GtSPzR8DxxSTIr0_g&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQOG1uHhLDfSwzzCpUmBhi1ESGaJoXacc8W_kUtpk7TzdQ&oe=6ADBCCEA)
+
+![Image 10](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858088799_18081077570419033_2565755167728836350_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=NDAxMTM0NDM5NjY5NTgzMzAxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=GmcaGKqDGKIQ7kNvwEoVLfK&_nc_oc=AdplcyX6R-33jtjAKqrCLpwzdSqeMpLLVWHkiMbabe-vyhh7vpbh3RBJtdwSo31e-70&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQNUAPCyl2JhNV0rixV3LzHrpUGfg_a51J5Jr6kvlskCmw&oe=6ADBDC65)
+
+![Image 11](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/851059194_18081077564419033_5973886918365871504_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMTM0NDM5NjI2Nzg0MjE3Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=HPu_je7PfAYQ7kNvwEsEQsp&_nc_oc=AdoDojR0ZJ5a4AQtvp3wJvxNQoSvYnmpmrYaaFBmDL3DCEnekdfh_ESFuyHBD700HiU&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TvNTYP7UBstEB-0JDwpA7A&_nc_ss=7b289&oh=00_AQOp9dnW39hvdIqlgrxeMCzuwffyHP47ekDTTIim21CzrQ&oe=6ADBD804)
+
+106
+
+10
+
+6
+
+60
+
+[![Image 12: guliuguliu__888's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722447623_18067845926419033_7265718511565988568_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rmeLMzhIK2oQ7kNvwEGT00M&_nc_oc=AdoKuFmFSlZCYgXp4v_-FOsTIsU43PmB81kAZn2L2Qh5pxaIgRRhpKUYWev4A8Nsb4M&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=j_-IKCOCoQPD_tdtcx7baQ&_nc_ss=7b289&oh=00_AQN7AXo5X3fLY2hDsPLBRvQxPlKNg0KQKTuQ0d8BMl3uAg&oe=6ADBD470)](https://www.threads.com/@guliuguliu__888)
+
+[guliuguliu__888](https://www.threads.com/@guliuguliu__888)
+
+[1h](https://www.threads.com/@guliuguliu__888/post/DerKHrGE4zN)
+
+·Author
+
+M6-M7 可以鑽 600-800 次，M9 只剩 100-200 次 ▎③ AI 伺服器：PCB 價值量直接翻好幾倍 Rubin 機櫃的 PCB content，從 GB300 的 US$35,100 跳到 VR200 的 US$116,730（+233%） 交換器也一路往上疊 800G 要 36-40 層（M8）、1.6T 要 44-50 層（M8/M9） 1.6T 光模組板 mSAP 已經是必要製程 GS 估光模組 mSAP TAM 從 2025 年 US$0.5bn 成長到 2028E US$7.1bn，CAGR 87% 臻鼎 1.6T 光模組 mSAP 3Q26 量產，良率 80%+ 朝 90% 改善中 ▎④ ABF 載板：缺口估法差了 2-3 倍 2027-28 年缺口：凱基 26%、BofA 10-16%、福邦 26-46%、GS 34-51% 同一題考卷，每個人寫出來的答案都不一樣哈哈 但有一件事大家都同意：真的很缺！！ ABF 交期從 3-4 個月拉長到 12 個月以上 全球五大載板廠 2026 年 capex 合計約 US$3.9bn，年增 94%
+
+5
+
+1
+
+[![Image 13: guliuguliu__888's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722447623_18067845926419033_7265718511565988568_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rmeLMzhIK2oQ7kNvwEGT00M&_nc_oc=AdoKuFmFSlZCYgXp4v_-FOsTIsU43PmB81kAZn2L2Qh5pxaIgRRhpKUYWev4A8Nsb4M&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=j_-IKCOCoQPD_tdtcx7baQ&_nc_ss=7b289&oh=00_AQN7AXo5X3fLY2hDsPLBRvQxPlKNg0KQKTuQ0d8BMl3uAg&oe=6ADBD470)](https://www.threads.com/@guliuguliu__888)
+
+[guliuguliu__888](https://www.threads.com/@guliuguliu__888)
+
+[1h](https://www.threads.com/@guliuguliu__888/post/DerKHrmk6DE)
+
+·Author
+
+真正卡脖子的是設備 長廣的 ABF 真空壓膜機全球市占約 95%，訂單能見度看到 2031 年 交期從 6-8 個月拉長到 36 個月 ▎⑤ 玻璃基板：到底什麼時候來？ 積極派（野村、郭明錤）估 2027-2029 初 保守派（JPM、Corning）估 2029-2032 時程差了 3-5 年，就像等桃園公車一樣（？） 欣興公司法說也明確表示，量產不早於 2029-2030 年 目前只有 SKC 子公司 Absolics 進入小量生產 逛展時記得問清楚，廠商講的是「暫時載板 Carrier」還是「Glass Core / Interposer」，這兩個時程差很多！ ▎⑥ PTFE：台廠正面對打 台光電和台虹在 8/25 同一天，就 PTFE 材料特性、供應商家數公開唱反調 台虹規劃 2027 年初備妥月產 10 萬張 PTFE CCL NVIDIA 在 OCP Global Summit 2026 首度展示 NVLink PTFE 樣品 不過媒體也傳出 VR300 交換托盤可能轉向碳氫（HC）路線，目前都還沒有官方證實 而 PTFE 真正的瓶頸在 PCB 加工良率，僅 10-30%
+
+1
+
+[![Image 14: guliuguliu__888's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722447623_18067845926419033_7265718511565988568_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rmeLMzhIK2oQ7kNvwEGT00M&_nc_oc=AdoKuFmFSlZCYgXp4v_-FOsTIsU43PmB81kAZn2L2Qh5pxaIgRRhpKUYWev4A8Nsb4M&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=j_-IKCOCoQPD_tdtcx7baQ&_nc_ss=7b289&oh=00_AQN7AXo5X3fLY2hDsPLBRvQxPlKNg0KQKTuQ0d8BMl3uAg&oe=6ADBD470)](https://www.threads.com/@guliuguliu__888)
+
+[guliuguliu__888](https://www.threads.com/@guliuguliu__888)
+
+[1h](https://www.threads.com/@guliuguliu__888/post/DerKHq6k_Wh)
+
+·Author
+
+材料再厲害，板廠做不出來也是白搭啊～ ▎⑦ 泰國產能：板廠都在搬家 金像電泰國廠月產值從 2Q26 NT$600mn 拉到 3Q26 NT$1.3bn 定穎 2027 年泰國產能將占全公司 50% 以上 TPCA 官方資料顯示，2026 年台灣 PCB 相關資本支出達 2,300 億元 欣興從 254 億上修到 540 億、臻鼎 500 億上修到 800 億+、金像電 170 億上修到 190 億
+
+逛展小任務，我幫大家準備了一些問題( ˶'ᵕ'˶) ▎A. CCL 材料廠 台光電（2383） ・M9 實際量產良率多少？LPU 用的 M9 能不能如期 4Q26 出貨？ ・ABF CCL 目標 1 年內市占翻倍，目前實際出貨量和客戶數？ ・怎麼回應台虹對 PTFE 的公開反駁？ 台燿（6274） ・2027 年 M9 新專案（switch、AI 伺服器、光模組）認證進度？ ・M10 送樣是否仍排 2027 年？ ・重銅 CCL（3oz→6oz）出貨給哪些客戶？ 聯茂（6213） ・1H26 M4 以下占比約 70%，M7 以上占比什麼時候能拉上來？
+
+1
+
+1
+
+[![Image 15: guliuguliu__888's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722447623_18067845926419033_7265718511565988568_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rmeLMzhIK2oQ7kNvwEGT00M&_nc_oc=AdoKuFmFSlZCYgXp4v_-FOsTIsU43PmB81kAZn2L2Qh5pxaIgRRhpKUYWev4A8Nsb4M&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=j_-IKCOCoQPD_tdtcx7baQ&_nc_ss=7b289&oh=00_AQN7AXo5X3fLY2hDsPLBRvQxPlKNg0KQKTuQ0d8BMl3uAg&oe=6ADBD470)](https://www.threads.com/@guliuguliu__888)
+
+[guliuguliu__888](https://www.threads.com/@guliuguliu__888)
+
+[1h](https://www.threads.com/@guliuguliu__888/post/DerKHp5Ex8g)
+
+·Author
+
+・無錫擴產能不能加速追上 M7/M8 缺口？ 南亞（1303） ・M9/M10 驗證是否照 1H27 時程推進？ ・自研 HC 樹脂不用石英布也能達到理想電性，實際 Df/Dk 數據是多少？ ・新港廠新增 30 萬張/月 CCL 產能什麼時候投產？ 騰輝電子-KY（6672） ・台達電電源板、高電壓板認證是否已完成量產？ ・下一代 AI server compute/switch tray 是否仍是 1Q27/2Q27 小量出貨？ ▎B. 上游材料：銅箔、玻纖布、石英布 金居（8358） ・雲林三廠 HVLP 產能，市場估 800 噸到 1,200 噸/月都有，公司最新說法是多少？ ・東南亞新子公司的選址和資本支出規模？ 台玻（1802） ・NT$20 億投入 Low-Dk/Low-CTE T 布產線，什麼時候投產？ ・T-glass 送樣是否已通過主要客戶驗證？ 富喬（1815） ・LDK2 占比 3Q26 目標 40%，實際有沒有達標？ ・泰國新廠 500 台織布機的設備到位進度？ 德宏（5475） ・年底石英布產能能不能達到 100 萬米/月？
+
+1
+
+[![Image 16: guliuguliu__888's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722447623_18067845926419033_7265718511565988568_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rmeLMzhIK2oQ7kNvwEGT00M&_nc_oc=AdoKuFmFSlZCYgXp4v_-FOsTIsU43PmB81kAZn2L2Qh5pxaIgRRhpKUYWev4A8Nsb4M&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=j_-IKCOCoQPD_tdtcx7baQ&_nc_ss=7b289&oh=00_AQN7AXo5X3fLY2hDsPLBRvQxPlKNg0KQKTuQ0d8BMl3uAg&oe=6ADBD470)](https://www.threads.com/@guliuguliu__888)
+
+[guliuguliu__888](https://www.threads.com/@guliuguliu__888)
+
+[1h](https://www.threads.com/@guliuguliu__888/post/DerKHq6kz08)
+
+·Author
+
+・2027 年擴產到 150-200 萬米/月是否照計畫？ ▎C. PTFE 卡位戰 台虹（8039） ・2027 年初月產 10 萬張 PTFE CCL，設備進廠了嗎？交期有沒有延誤？ ・首個 Switch 客戶是誰？有沒有具體訂單？ ・OCP 展示的樣品跟公司揭露的配方有什麼差異？ 勤凱（4760） ・管理層說已量產 M10 PTFE 材料，具體應用、客戶和出貨量是什麼？ ・勤凱做的是導電漿料，跟台虹、台光電的 PTFE CCL 是同一個層次嗎？ ▎D. ABF/BT 載板三雄 欣興（3037） ・EMIB-T 量產排 2027 年、首階段良率目標 50%，實際驗證進度？ ・玻璃核心基板「不早於 2029-2030 年量產」的說法有沒有變？ 南電（8046） ・NT$46.8bn 新產能什麼時候投產？各家估 2H28 到 2029 都有 ・公司建議看 lead time 而不是缺口百分比，那現在實際交期多長？ 景碩（3189） ・Vera CPU ABF 市占的口徑一直在變，現在最新的實際數字是多少？ ・玻璃芯基板時程是 2028-2029 還是 2030 年？ ▎E.
+
+1
+
+[![Image 17: guliuguliu__888's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722447623_18067845926419033_7265718511565988568_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rmeLMzhIK2oQ7kNvwEGT00M&_nc_oc=AdoKuFmFSlZCYgXp4v_-FOsTIsU43PmB81kAZn2L2Qh5pxaIgRRhpKUYWev4A8Nsb4M&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=j_-IKCOCoQPD_tdtcx7baQ&_nc_ss=7b289&oh=00_AQN7AXo5X3fLY2hDsPLBRvQxPlKNg0KQKTuQ0d8BMl3uAg&oe=6ADBD470)](https://www.threads.com/@guliuguliu__888)
+
+[guliuguliu__888](https://www.threads.com/@guliuguliu__888)
+
+[1h](https://www.threads.com/@guliuguliu__888/post/DerKHrYEw9B)
+
+·Author
+
+PCB 板廠 金像電（2368） ・ASIC 大客戶專案是否如期 4Q26 出貨？ ・Google TPU v8t（34 層 N+M）是否仍排 1Q27 量產？ ・市場質疑 HDI 融合設計良率不足，實際數字是多少？ 臻鼎（4958） ・1.6T 光模組 mSAP 良率實際到多少了？ ・switch tray 3Q26 末是否已切入？ 華通（2313） ・Starlink V3 板（HDI 20 層以上、M7→M8）量產進度？ ・2027 年光模組 PCB 目標 NT$250 億，客戶是誰？ 定穎投控（3715） ・泰國廠滿載時程，公司說 4Q26、外部估 1Q27，差在哪裡？ ・光模組訂單 2H27 才能爭取，目前談判進度？ 博智（8155） ・宣稱技術能力可達 72 層，實際有沒有量產？ ・越南合資廠到底是「明年 Q2 量產」還是「2027 上半年試產、下半年量產」？ 健鼎（3044） ・CCL 漲價轉嫁給客戶的幅度和時間差？ ・越南廠 2H26 的實際貢獻？ ▎F. 設備廠 長廣（7795） ・日本知立廠月產能年底能不能到 24 台、2027 年 28 台？
+
+1
+
+[![Image 18: guliuguliu__888's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722447623_18067845926419033_7265718511565988568_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rmeLMzhIK2oQ7kNvwEGT00M&_nc_oc=AdoKuFmFSlZCYgXp4v_-FOsTIsU43PmB81kAZn2L2Qh5pxaIgRRhpKUYWev4A8Nsb4M&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=j_-IKCOCoQPD_tdtcx7baQ&_nc_ss=7b289&oh=00_AQN7AXo5X3fLY2hDsPLBRvQxPlKNg0KQKTuQ0d8BMl3uAg&oe=6ADBD470)](https://www.threads.com/@guliuguliu__888)
+
+[guliuguliu__888](https://www.threads.com/@guliuguliu__888)
+
+[1h](https://www.threads.com/@guliuguliu__888/post/DerKHr7k3z8)
+
+·Author
+
+・EMIB-T 用的新款真空壓膜機，是否優先供日本客戶？ ・晶圓級真空壓膜設備樣品機是否遞延到 1Q27？ 鈦昇（8027） ・CPO 測試平台（1.6T/3.2T）推出後的驗證結果？ ・FOPLP 第 4 條線擴產進度，2027 年會新增客戶嗎？ 大量（3167） ・TM4 量測機控深精度 ±2mil，224Gbps 需求下的接單狀況？ ・1.6T 光模組 mSAP 路由設備市占是否維持 50% 以上？ 群翊（6664） ・2026/27 訂單已滿載，楊梅二廠 2028 年開出產能是否照計畫？ ・FOPLP 設備除了 SpaceX，還有其他客戶嗎？ 牧德（3563） ・設備交期從 3-5 個月拉長到近 1 年，有沒有開始緩解？ ・mSAP 外觀檢查設備 4Q26 出貨是否如期？ 揚博（2493） ・TPCA 首展的 AmpleWin-X 實際訂單進度？ ・客戶要求提前下 1-2 年長單，目前排程到什麼時候？ 川寶（1595） ・TGV 示範代工線二期是否如期完成？ ・目前是送樣階段，還是已經有量產級訂單？ 志聖（2467） ・先進封裝資本支出占比目標 8-10%，什麼時候達成？
+
+1
+
+[![Image 19: guliuguliu__888's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722447623_18067845926419033_7265718511565988568_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rmeLMzhIK2oQ7kNvwEGT00M&_nc_oc=AdoKuFmFSlZCYgXp4v_-FOsTIsU43PmB81kAZn2L2Qh5pxaIgRRhpKUYWev4A8Nsb4M&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=j_-IKCOCoQPD_tdtcx7baQ&_nc_ss=7b289&oh=00_AQN7AXo5X3fLY2hDsPLBRvQxPlKNg0KQKTuQ0d8BMl3uAg&oe=6ADBD470)](https://www.threads.com/@guliuguliu__888)
+
+[guliuguliu__888](https://www.threads.com/@guliuguliu__888)
+
+[1h](https://www.threads.com/@guliuguliu__888/post/DerKHquk7dK)
+
+·Author
+
+・美國鳳凰城據點是否已正式落地？ ▎G. 耗材 尖點（8021） ・月產能 3,500 萬支，擴到 2026 年 4,500 萬支、2028 年底 9,000 萬支是否照時程？ ・PTFE 容易黏鑽針、石英纖維又會加速磨損，鑽針設計有什麼新對策？ ・玻璃基板 TGV 會不會提前侵蝕機鑽需求？ ▎H. 攤位上的樣品也要看！ ・M9/M10 CCL 樣品：Df/Dk 跟 Rubin Ultra 目標 Df<0.0004 差多少？是不是去玻纖版本？ ・PTFE 樣品：板材是不是還偏軟？鑽孔孔壁有沒有毛屑？（直接驗證台光電 vs 台虹的爭議） ・1.6T/3.2T 光模組板：細線路實物，現場良率跟法說講的一不一樣 ・玻璃芯基板：展示尺寸有沒有到 510×515mm？樣品良率能不能套用到真實量產？ ・正交背板：材料路線定案了沒？ ・78 層以上高多層板：良率和交期？
+
+問到答案的朋友，歡迎回來留言分享 也可以在底下留言你最想問什麼問題 我會帶著大家的問題去展場問問看( ੭˙ᗜ˙)੭
+
+[![Image 20: yushuo_o811's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/854069408_17975704518138856_6349664725167527194_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=hK5yMTG7gL4Q7kNvwEyvU6b&_nc_oc=AdpaB8doSHbsXl18_k0-A2NeDldIYapEnmkX8oZbFLGB-yNXqEeyySNRaFU4X1febFQ&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=j_-IKCOCoQPD_tdtcx7baQ&_nc_ss=7b289&oh=00_AQMaVqPOaHHnHMxOkZXWMQhnpvjR3g7pVgJLlAG5DdUJAg&oe=6ADBF13B)](https://www.threads.com/@yushuo_o811)
+
+[yushuo_o811](https://www.threads.com/@yushuo_o811)
+
+[1h](https://www.threads.com/@yushuo_o811/post/DerLdTrCacn)
+
+![Image 21: guliuguliu__888's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722447623_18067845926419033_7265718511565988568_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rmeLMzhIK2oQ7kNvwEGT00M&_nc_oc=AdoKuFmFSlZCYgXp4v_-FOsTIsU43PmB81kAZn2L2Qh5pxaIgRRhpKUYWev4A8Nsb4M&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=j_-IKCOCoQPD_tdtcx7baQ&_nc_ss=7b289&oh=00_AQN7AXo5X3fLY2hDsPLBRvQxPlKNg0KQKTuQ0d8BMl3uAg&oe=6ADBD470)
+
+推
+
+2
+
+1
+
+[![Image 22: guliuguliu__888's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722447623_18067845926419033_7265718511565988568_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rmeLMzhIK2oQ7kNvwEGT00M&_nc_oc=AdoKuFmFSlZCYgXp4v_-FOsTIsU43PmB81kAZn2L2Qh5pxaIgRRhpKUYWev4A8Nsb4M&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=j_-IKCOCoQPD_tdtcx7baQ&_nc_ss=7b289&oh=00_AQN7AXo5X3fLY2hDsPLBRvQxPlKNg0KQKTuQ0d8BMl3uAg&oe=6ADBD470)](https://www.threads.com/@guliuguliu__888)
+
+[guliuguliu__888](https://www.threads.com/@guliuguliu__888)
+
+[53m](https://www.threads.com/@guliuguliu__888/post/DerNoKjk_r1)
+
+·Author
+
+謝謝老闆
+
+Related threads
+
+[![Image 23: lacoste9955's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/601678920_17843940096653376_8224476334307200497_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEohoZkOL99aGvpfRxkXLSFCeU48Bguej-BKOHfkfLlPb5WqYlNHFoOp2Ut_SKxaao&_nc_ohc=dYwzCIxmq7wQ7kNvwFzEmdC&_nc_gid=j_-IKCOCoQPD_tdtcx7baQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMuJ4HdoafDDLy-MY-7R6NSkYqlrwVQ7xRT-dRrYjAOmA&oe=6ADBF82B&_nc_sid=10d13b)](https://www.threads.com/@lacoste9955)
+
+[lacoste9955](https://www.threads.com/@lacoste9955)
+
+[10/09/26](https://www.threads.com/@lacoste9955/post/DeRzd4RkqwZ)
+
+Post not available
+
+[![Image 24: trader.jojome's profile picture](https://scontent-sea5-1.cdn
+```
+
+## 相關頁面
+
+<!-- [[]] -->
