@@ -13,7 +13,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from watchlist import (COMPANIES, OFF_CHAIN, SEGMENT_DESC, SEGMENT_ORDER,  # noqa: E402
-                       companies_in, name_of, neighbours, peers)
+                       companies_in, name_of, neighbours, peers,
+                       segment_neighbours)
 
 KB = Path(__file__).resolve().parent.parent
 DATA = KB / "data"
@@ -210,15 +211,18 @@ updated: {today}
 
 def build_segment(segment, rev, val, positions) -> str:
     members = sorted(companies_in(segment), key=lambda c: -(rev.get(c, {}).get("yoy_pct") or -999))
-    i = SEGMENT_ORDER.index(segment)
-    up = SEGMENT_ORDER[i - 1] if i > 0 else None
-    down = SEGMENT_ORDER[i + 1] if i < len(SEGMENT_ORDER) - 1 else None
+    up, down = segment_neighbours(segment)
 
     lines = [f"**這個環節在做什麼**：{SEGMENT_DESC[segment]}\n"]
-    flow = " → ".join(filter(None, [f"[[{up}]]" if up else None,
-                                    f"**{segment}**",
-                                    f"[[{down}]]" if down else None]))
-    lines.append(f"**位置**：{flow}\n")
+    if up or down:
+        flow = " → ".join(filter(None, [f"[[{up}]]" if up else None,
+                                        f"**{segment}**",
+                                        f"[[{down}]]" if down else None]))
+        lines.append(f"**位置**：{flow}\n")
+    else:
+        # 橫跨型環節：講清楚為什麼沒有上下游，比硬給一個錯的好
+        lines.append("**位置**：橫跨型環節，不在「銅箔→玻纖布→樹脂→CCL→PCB→載板」"
+                     "這條材料流上，**上下游推導無意義**\n")
     lines.append(f"**所屬產業鏈**：[[AI伺服器PCB鏈]]\n")
     lines.append("## 成員\n")
     lines.append("| 公司 | 月營收 YoY | 本益比 | 持倉 |")

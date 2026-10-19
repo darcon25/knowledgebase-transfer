@@ -20,7 +20,9 @@ SEGMENTS = [
     ("封測", "封裝測試，先進封裝（CoWoS、Cu-Cu）需求的直接受惠者"),
     ("記憶體", "DRAM／NAND／HBM 與控制 IC，AI 伺服器的另一個瓶頸，價格循環與 PCB 鏈不同步"),
     ("光通訊CPO", "光模組、光引擎與 FAU 等零組件，機櫃之間的資料搬運，CPO 是下一代整合方向"),
-    ("電源散熱", "伺服器電源與散熱，功耗上升的受惠者"),
+    ("散熱", "伺服器散熱——氣冷、液冷與熱交換，功耗上升的直接受惠者"),
+    ("電力基建", "伺服器供電架構——機架電源、800V HVDC 與電源管理。"
+                 "⚠️ 橫跨型環節，不在 PCB 材料流上，上下游推導無意義（見 CROSS_SEGMENTS）"),
     ("終端需求", "晶片與伺服器品牌／代工，整條鏈的需求源頭"),
 ]
 
@@ -76,16 +78,16 @@ COMPANIES = {
     "3363": ("上詮", "光通訊CPO"),
     "3163": ("波若威", "光通訊CPO"),
     "3450": ("聯鈞", "光通訊CPO"),
-    "2308": ("台達電", "電源散熱"),
-    "3324": ("雙鴻", "電源散熱"),
-    "3017": ("奇鋐", "電源散熱"),
-    "3665": ("貿聯-KY", "電源散熱"),
-    # ── 電源散熱（2026-09-14 新增，來源：台股散熱投資地圖、投資產業地圖 #023、禾伸堂法說）
-    "3653": ("健策", "電源散熱"),
-    "2421": ("建準", "電源散熱"),
-    "8996": ("高力", "電源散熱"),
-    "3026": ("禾伸堂", "電源散熱"),
-    "2301": ("光寶科", "電源散熱"),
+    "2308": ("台達電", "電力基建"),
+    "3324": ("雙鴻", "散熱"),
+    "3017": ("奇鋐", "散熱"),
+    "3665": ("貿聯-KY", "散熱"),
+    # ── 散熱（2026-09-14 新增，來源：台股散熱投資地圖、投資產業地圖 #023、禾伸堂法說）
+    "3653": ("健策", "散熱"),
+    "2421": ("建準", "散熱"),
+    "8996": ("高力", "散熱"),
+    "3026": ("禾伸堂", "散熱"),
+    "2301": ("光寶科", "電力基建"),
     "2330": ("台積電", "終端需求"),
     "2382": ("廣達", "終端需求"),
     "3231": ("緯創", "終端需求"),
@@ -104,6 +106,17 @@ OFF_CHAIN = {
 SEGMENT_ORDER = [name for name, _ in SEGMENTS]
 SEGMENT_DESC = dict(SEGMENTS)
 
+# 橫跨型環節：不在「銅箔→玻纖布→樹脂→CCL→PCB→載板」這條材料流上，
+# 而是服務整條鏈（設備）或與它平行（記憶體、光通訊、電力）。
+# ⚠️ 2026-09-14 就在各 wiki 頁用文字標註「上下游推導沒意義」，但**程式照樣會算**，
+#   因為 neighbours() 只看清單前後相鄰。2026-10-19 改成程式層面擋掉：
+#     · 這些環節本身的上下游一律回 (None, None)
+#     · 算別人的上下游時跳過它們，不讓它們擠進材料流的相鄰關係
+CROSS_SEGMENTS = frozenset({"設備", "IC設計服務", "記憶體", "光通訊CPO", "電力基建"})
+
+# 只含材料流環節、照上下游排序，供 neighbours() 推導相鄰關係
+CHAIN_ORDER = [s for s in SEGMENT_ORDER if s not in CROSS_SEGMENTS]
+
 
 def segment_of(code: str) -> str:
     return COMPANIES.get(code, (None, None))[1]
@@ -115,15 +128,26 @@ def peers(code: str) -> list:
     return [c for c, (_, s) in COMPANIES.items() if s == seg and c != code]
 
 
+def segment_neighbours(segment: str) -> tuple:
+    """(上游環節, 下游環節)；橫跨型環節回 (None, None)。
+
+    硬推出來的相鄰關係沒有意義，寧可不給。材料流環節之間也會跳過橫跨型環節，
+    例如「載板」的下游是「鑽針耗材」而不是中間插進來的「設備」。
+    ⚠️ 公司頁與環節頁都必須走這一支，不要各自複製 index 相鄰的算法
+    （2026-10-19 前 build_pages.build_segment 就是自己算，漏掉這層防護）。
+    """
+    if segment in CROSS_SEGMENTS or segment not in CHAIN_ORDER:
+        return (None, None)
+    i = CHAIN_ORDER.index(segment)
+    up = CHAIN_ORDER[i - 1] if i > 0 else None
+    down = CHAIN_ORDER[i + 1] if i < len(CHAIN_ORDER) - 1 else None
+    return (up, down)
+
+
 def neighbours(code: str) -> tuple:
     """(上游環節, 下游環節)，用於推導傳導路徑。"""
     seg = segment_of(code)
-    if seg is None:
-        return (None, None)
-    i = SEGMENT_ORDER.index(seg)
-    up = SEGMENT_ORDER[i - 1] if i > 0 else None
-    down = SEGMENT_ORDER[i + 1] if i < len(SEGMENT_ORDER) - 1 else None
-    return (up, down)
+    return (None, None) if seg is None else segment_neighbours(seg)
 
 
 def companies_in(segment: str) -> list:
