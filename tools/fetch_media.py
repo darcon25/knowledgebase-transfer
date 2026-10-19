@@ -42,6 +42,17 @@ PAUSE = 3  # r.jina.ai 免費額度有速率限制，篇與篇之間停一下
 IMG_RE = re.compile(r"!\[Image \d+(?::\s*(?P<alt>[^\]]*))?\]\((?P<url>https?://[^)\s]+)\)")
 VIDEO_HINT = "having trouble playing this video"
 
+# 原貼文被刪除／改私密時，Threads 會把 /share/ 連結導回首頁。
+# ⚠️ 這是會污染資料的坑（2026-10-19 查到）：Jina 這時回的是**首頁推薦牆**，
+# 裡面有一堆陌生人的大頭貼和內容圖，而且每次請求內容都不一樣。
+# extract_main_media 無從分辨，照原邏輯會把陌生人的圖當成這則貼文的圖抓下來存進 shot_ 檔。
+# 所以一定要在解析之前先攔下來。
+GONE_HINTS = ("?error=invalid_post", "&error=invalid_post")
+
+
+class PostGone(Exception):
+    """原貼文已刪除或改為私密，救不回來了（跟「暫時抓不到」要分開處理）。"""
+
 EXT_BY_TYPE = {
     "image/jpeg": ".jpg", "image/jpg": ".jpg", "image/png": ".png",
     "image/webp": ".webp", "image/gif": ".gif", "image/heic": ".heic",
@@ -82,6 +93,33 @@ def is_profile_pic(alt: str, url: str) -> bool:
     if alt and "profile picture" in alt:
         return True
     return bool(re.search(r"/t51\.[\d.]+-19/", url))
+
+
+NON_CONTENT_HOSTS = ("giphy.com", "tenor.com", "static.cdninstagram.com")
+
+
+def is_content_image(url: str) -> bool:
+    """留言區的 giphy／tenor 梗圖、介面用的 static 小圖都不是貼文內容。
+
+    n8n 的 media_count 沒濾這些，所以 frontmatter 宣告的張數會虛胖。
+    2026-10-19 實例：threads_2026-10-18_美國資料中心計畫延宕 宣告 3 張，三張全是 giphy 梗圖。
+    """
+    if any(h in url for h in NON_CONTENT_HOSTS):
+        return False
+    return not is_profile_pic("", url)
+
+
+def frontmatter_media(text: str) -> list:
+    """n8n 寫在 frontmatter 的 media_urls，當 Jina 重抓失敗時的備援來源。
+
+    ⚠️ 這些網址帶簽章、約一週過期，所以只能當備援不能當主要來源；
+    過期的會在下載階段吃 403，照樣會被記成失敗，不會假裝成功。
+    """
+    block = re.search(r"^media_urls:\s*\n((?:[ \t]*-[ \t]*\S.*\n)+)", text[:20000], re.M)
+    if not block:
+        return []
+    urls = re.findall(r'^[ \t]*-[ \t]*"?(https?://[^"\n]+?)"?[ \t]*$', block.group(1), re.M)
+    return [{"url": u, "alt": "", "is_video": False} for u in urls if is_content_image(u)]
 
 
 def extract_main_media(markdown: str) -> list:
@@ -273,6 +311,7 @@ def main() -> int:
     no_images = 0
     failed = []
     incomplete = []
+    gone = []
     results = {}
 
     for path in note_candidates(args.file):
@@ -298,15 +337,32 @@ def main() -> int:
             time.sleep(PAUSE)
             continue
 
+        if any(h in md for h in GONE_HINTS):
+            n_declared = len(frontmatter_media(text))
+            log("    ❌ 原貼文已刪除或改為私密（Jina 回 error=invalid_post）")
+            log(f"       frontmatter 還留著 {n_declared} 個圖片網址，但簽章約一週就過期，救不回來了")
+            gone.append((path.name, f"原貼文已不存在，{n_declared} 張圖永久遺失"))
+            if not args.dry_run:
+                clear_failed(retry, path.name)
+                results[f"raw/{path.name}"] = (
+                    f"{today} 原貼文已刪除或改私密，{n_declared} 張圖永久遺失（不再重試）")
+            time.sleep(PAUSE)
+            continue
+
         try:
             media = extract_main_media(md)
         except LookupError as e:
-            # 解析失敗要當成失敗處理，下次會重試；不可記成「沒有圖」
-            n = mark_failed(retry, path.name, str(e))
-            log(f"    ⚠️ 解析失敗（第 {n} 次）：{e}（稍後會再重試）")
-            failed.append((path.name, f"{e}（累計 {n} 次）"))
-            time.sleep(PAUSE)
-            continue
+            # 解析失敗不可記成「沒有圖」。先試 frontmatter 的 media_urls 備援，
+            # 真的連備援都沒有才記成失敗讓下次重試。
+            media = frontmatter_media(text)
+            if media:
+                log(f"    ↩️ 原頁解析失敗（{e}），改用 frontmatter media_urls 備援")
+            else:
+                n = mark_failed(retry, path.name, str(e))
+                log(f"    ⚠️ 解析失敗（第 {n} 次）：{e}（稍後會再重試）")
+                failed.append((path.name, f"{e}（累計 {n} 次）"))
+                time.sleep(PAUSE)
+                continue
 
         if not media:
             log("    · 主文沒有圖")
@@ -357,7 +413,10 @@ def main() -> int:
         save_retry(retry)
 
     log("\n===== 完成 =====")
-    log(f"處理 {done} 篇：補到圖 {got_images} 篇、確認沒圖 {no_images} 篇、失敗 {len(failed)} 篇")
+    log(f"處理 {done} 篇：補到圖 {got_images} 篇、確認沒圖 {no_images} 篇、"
+        f"失敗 {len(failed)} 篇、原貼文已不存在 {len(gone)} 篇")
+    for name, why in gone:
+        log(f"  🗑 {name}：{why}")
     for name, why in failed:
         log(f"  ❌ {name}：{why}")
     if incomplete:

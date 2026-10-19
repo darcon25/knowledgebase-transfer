@@ -101,7 +101,6 @@
     "raw/threads_2026-09-21_CoreWeave財報亮點與風險.md": "2026-09-21 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-09-21_CoreWeave財報亮點與風險.md",
     "raw/threads_2026-09-21_CPO對高階CCL的影響時間軸.md": "2026-09-21 fetch_media 自動確認：主文沒有圖",
     "raw/threads_2026-09-21_中信投顧欣銓目標價400元.md": "2026-09-21 fetch_media 自動補齊 2 張（圖、圖），見 raw/shot_2026-09-21_中信投顧欣銓目標價400元.md",
-    "raw/threads_2026-09-21_緯穎股價與營收脫鉤.md": "2026-09-21 fetch_media 自動確認：主文沒有圖",
     "raw/instagram_2026-09-21_斗山擴CCL產能大摩點名台廠.md": "2026-09-22 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-09-22_斗山擴CCL產能大摩點名台廠.md",
     "raw/threads_2026-09-21_RubinUltra減配HBM轉ScaleUp.md": "2026-09-22 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-09-22_RubinUltra減配HBM轉ScaleUp.md",
     "raw/threads_2026-09-21_2027封測四檔成長路徑.md": "2026-09-22 fetch_media 自動補齊 2 張（圖、圖），見 raw/shot_2026-09-22_2027封測四檔成長路徑.md",
@@ -149,7 +148,9 @@
     "raw/threads_2026-10-16_ABF供不應求外資目標價.md": "2026-10-16 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-10-16_ABF供不應求外資目標價.md",
     "raw/threads_2026-10-18_光寶雲達OCP展110kW電源.md": "2026-10-19 fetch_media 自動補齊 1 張（圖），見 raw/shot_2026-10-19_光寶雲達OCP展110kW電源.md",
     "raw/threads_2026-10-18_美國資料中心計畫延宕.md": "2026-10-19 fetch_media 自動確認：主文沒有圖",
-    "raw/threads_2026-10-18_NPO近封裝光學圖解.md": "2026-10-19 fetch_media 自動補齊 3 張（圖、圖、圖），見 raw/shot_2026-10-19_NPO近封裝光學圖解.md"
+    "raw/threads_2026-10-18_NPO近封裝光學圖解.md": "2026-10-19 fetch_media 自動補齊 3 張（圖、圖、圖），見 raw/shot_2026-10-19_NPO近封裝光學圖解.md",
+    "raw/threads_2026-10-18_大摩美國AI電力缺口.md": "2026-10-19 fetch_media 自動確認：主文沒有圖",
+    "raw/threads_2026-09-21_緯穎股價與營收脫鉤.md": "2026-10-19 原貼文已刪除或改私密，6 張圖永久遺失（不再重試）"
   },
   "duplicate_accepted": {
     "https://www.threads.com/share/BAWtWRBFvr": "2026-09-14 同一則貼文（FOMO 研究院光模組）被傳了兩次，n8n 各存一份：raw/threads_2026-09-14_vtuypwd8.md（已補圖並消化）與 raw/threads_2026-09-14_pwhwol1r.md（純重複）。依 raw/ 唯讀原則不刪除，以 vtuypwd8 為主。"

@@ -112,6 +112,25 @@ MEDIA_HINTS = ("一張圖", "如下圖", "這張圖", "這張表", "附圖", "�
                "整理了一張", "如圖", "圖表", "輪播", "第一張", "如下表")
 
 
+def _content_media_urls(text: str) -> int | None:
+    """frontmatter media_urls 裡真正屬於貼文內容的張數；沒有這個欄位回 None。
+
+    為什麼不能直接信 n8n 的 `media_count`：它什麼圖都算。2026-10-19 查到兩種假漏圖——
+      · 美國資料中心計畫延宕：宣告 3 張，三張全是留言區的 giphy 梗圖
+      · 大摩美國AI電力缺口：宣告 1 張，實測是 320x320 的作者大頭貼
+    判定沿用 fetch_media 同一套 CDN 慣例：`t51.*-15` 才是貼文本體，`-19` 是大頭貼。
+    ⚠️ 不可反過來把「抓不到」也算成非內容——緯穎那篇 6 張 `t51.*-15` 是真的輪播圖，
+      原頁解析不到不代表沒有，那是真漏圖，必須繼續報。
+    """
+    block = re.search(r"^media_urls:\s*\n((?:[ \t]*-[ \t]*\S.*\n)+)", text[:20000], re.M)
+    if not block:
+        return None
+    urls = re.findall(r'^[ \t]*-[ \t]*"?(https?://[^"\n]+?)"?[ \t]*$', block.group(1), re.M)
+    noise = ("giphy.com", "tenor.com", "static.cdninstagram.com")
+    return sum(1 for u in urls
+               if not any(h in u for h in noise) and re.search(r"/t51\.[\d.]+-15/", u))
+
+
 def check_media_shortfall() -> list:
     """n8n 說有幾張圖，本機實際抓到幾張——對不起來就報。
 
@@ -121,15 +140,23 @@ def check_media_shortfall() -> list:
     典型會抓到的情況：IG 輪播登出只吐得出前一兩張（Threads 沒這問題）。
     """
     out = []
+    # 原貼文已刪除／改私密的，圖永久救不回來，每天報也沒有人能處理 → 只排除這一種。
+    # 判定是由 fetch_media 看到 Jina 回 error=invalid_post 才寫進去的，不是人工猜的。
+    gone = {k for k, v in
+            ((load_json(DATA / "known_issues.json") or {}).get("media_checked", {})).items()
+            if "永久遺失" in str(v)}
     # 每篇原始筆記宣告的張數
     for f in sorted((KB / "raw").glob("*.md")):
-        if f.name.startswith("shot_"):
+        if f.name.startswith("shot_") or f"raw/{f.name}" in gone:
             continue
         text = f.read_text(encoding="utf-8", errors="ignore")
         m = re.search(r"^media_count:\s*(\d+)\s*$", text[:3000], re.M)
         if not m:
             continue                      # 舊檔沒有這個欄位，跳過
         declared = int(m.group(1))
+        real = _content_media_urls(text)
+        if real is not None:
+            declared = real           # 有 media_urls 就以實際網址為準
         if declared == 0:
             continue
         u = re.search(r'^original_url:\s*"?([^"\n]+)"?\s*$', text[:800], re.M)
