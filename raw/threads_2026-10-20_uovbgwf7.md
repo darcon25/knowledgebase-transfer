@@ -1,0 +1,117 @@
+---
+tags:
+  - source
+  - social_media
+  - threads
+type: social_media
+platform: threads
+date_captured: 2026-10-20
+original_url: "https://www.threads.com/share/_8cNsvWj-"
+media_count: 1
+media_urls:
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858523673_18148934368511169_4779264447655172797_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAxMjAxNTgwMjQ0NjY4MjI3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNDYwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=sZAY-qdsWeEQ7kNvwHUgJ10&_nc_oc=Ado9Vu-0A3JclZ2WxCejfrAUlXq0zl_gy-ivGiEQyGNSqxy5O0nR2BJYMVEHStlkjZk&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=EACp53yhcrbxJWTz3nBICQ&_nc_ss=7b289&oh=00_AQNMfJxST8YRZw8fUlGdOB__WwFgg4pu6WsdRHBNK29oIQ&oe=6ADD3FF9"
+---
+
+# 🧵 2026-10-20 存檔
+
+> 原文：[查看貼文](https://www.threads.com/share/_8cNsvWj-)
+
+## 摘要
+這則Threads貼文討論了AI銅箔公司金居（8358）的股價與基本面矛盾現象。儘管金居月營收大幅成長64%且其HVLP4產品供不應求，但股價卻從高點758元腰斬至469元，引發了投資人對於其基本面是否被低估或大戶出貨套利的疑問。
+
+## 重點整理
+*   **公司標的：** 金居（股票代號：8358），主要產品為AI銅箔。
+*   **基本面利多：** 月營收大幅成長64%，且其高階產品HVLP4市場需求旺盛，出現供不應求的狀況。
+*   **股價表現：** 股價從高點758元腰斬至469元，跌幅顯著。
+*   **核心疑問：** 投資人對於股價與基本面背離的現象感到困惑，質疑是基本面被低估還是有大戶在進行套利操作。
+
+## 關鍵概念
+*   **AI銅箔：** 應用於人工智慧相關硬體的高階銅箔，通常具備高頻高速傳輸、低損耗等特性。
+*   **HVLP4：** 金居生產的一種高階銅箔產品型號，推測為High-Value Low-Profile 4，可能代表其在特定技術或應用上的優勢。
+*   **基本面分析：** 透過公司的財務報表、營收、獲利能力、產業前景等數據來評估其內在價值。
+*   **技術面分析：** 透過股價走勢、成交量、K線圖等市場數據來預測未來股價趨勢。
+*   **大戶套利：** 指資金雄厚的投資者利用其影響力或資訊優勢，在市場上進行買賣操作以獲取價差利潤。
+*   **股價腰斬：** 指股價從高點下跌約50%。
+
+## 可行動洞察
+*   **深入研究金居基本面：** 檢視金居近期的財報（營收、毛利率、EPS）、法說會內容，了解營收成長的驅動力、HVLP4的具體應用與市場佔有率，以及未來展望。
+*   **分析產業趨勢：** 了解AI產業對高階銅箔的需求成長性、競爭格局，以及金居在產業鏈中的地位。
+*   **關注法人與大戶動向：** 查詢金居的法人持股變化、券商進出資料，觀察是否有異常的大額買賣超，以判斷是否有大戶出貨跡象。
+*   **結合技術面分析：** 觀察金居股價的支撐與壓力位、成交量變化，判斷股價是否已止跌或有反彈契機。
+*   **風險評估：** 考慮股價腰斬的原因是否與市場對未來展望的疑慮、競爭加劇、或特定利空消息有關，並評估投資風險。
+*   **多元資訊來源：** 除了社群媒體討論，應參考券商報告、財經新聞、公司公告等多方資訊，進行交叉驗證。
+
+## 主文圖片
+
+原貼文主文有 1 張圖。本機 `tools/fetch_media.py` 會下載成 `raw/shot_*.md`。
+（下列網址帶簽章，約一週後失效，僅作線索。）
+
+1. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858523673_18148934368511169_4779264447655172797_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAxMjAxNTgwMjQ0NjY4MjI3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNDYwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=sZAY-qdsWeEQ7kNvwHUgJ10&_nc_oc=Ado9Vu-0A3JclZ2WxCejfrAUlXq0zl_gy-ivGiEQyGNSqxy5O0nR2BJYMVEHStlkjZk&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=EACp53yhcrbxJWTz3nBICQ&_nc_ss=7b289&oh=00_AQNMfJxST8YRZw8fUlGdOB__WwFgg4pu6WsdRHBNK29oIQ&oe=6ADD3FF9
+
+## 原文（Jina Reader）
+
+```
+Title: 在水一方 (@qiujialing59) on Threads
+
+URL Source: https://www.threads.com/share/_8cNsvWj-
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread](https://www.threads.com/@qiujialing59/post/Detix2iFpij?xmt=AQG05iyECXjR2-df3x-mbYUzHANbI9ZXlRHdmGQ_fVMNlVd3isERxaOOsSYspCO0XU3OoCs&slof=1)
+
+643 views
+
+[![Image 1: qiujialing59's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/849477439_18147301126511169_2097569429983873275_n.jpg?_nc_cat=107&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=2m-t2awvqNAQ7kNvwGsFBnf&_nc_oc=Adojava6w73WaclR9n9PmRDfo71o32pDhBv2k7_aaSttjDMTuspsqhOrMPPWfJocpFA&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=EACp53yhcrbxJWTz3nBICQ&_nc_ss=7b289&oh=00_AQMT_arf5WWoXDkvQOFzvfki9tCPYwurEQMx8FNkk2CA8g&oe=6ADD4E75)](https://www.threads.com/@qiujialing59)
+
+[qiujialing59](https://www.threads.com/@qiujialing59)
+
+[金居 8358](https://www.threads.com/search?q=%E9%87%91%E5%B1%85%208358&serp_type=tags&tag_id=18368856685087470)
+
+[3h](https://www.threads.com/@qiujialing59/post/Detix2iFpij)
+
+月營收衝 64%、HVLP4 搶不到貨，股價卻從 758 腰斬到 469—— 金居這檔 AI 銅箔，到底是基本面在多還是大戶在套？
+
+[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/858523673_18148934368511169_4779264447655172797_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAxMjAxNTgwMjQ0NjY4MjI3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNDYwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=sZAY-qdsWeEQ7kNvwHUgJ10&_nc_oc=Ado9Vu-0A3JclZ2WxCejfrAUlXq0zl_gy-ivGiEQyGNSqxy5O0nR2BJYMVEHStlkjZk&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=EACp53yhcrbxJWTz3nBICQ&_nc_ss=7b289&oh=00_AQNMfJxST8YRZw8fUlGdOB__WwFgg4pu6WsdRHBNK29oIQ&oe=6ADD3FF9)](https://www.threads.com/@qiujialing59/post/Detix2iFpij/media)
+
+10
+
+1
+
+Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+
+*   © 2026
+*   [Threads Terms](https://help.instagram.com/769983657850450)
+*   [Privacy Policy](https://help.instagram.com/515230437301944)
+*   [Cookies Policy](https://help.instagram.com/1896641480634370/)
+*   Report a problem
+
+```
+
+## 相關頁面
+
+<!-- [[]] -->
