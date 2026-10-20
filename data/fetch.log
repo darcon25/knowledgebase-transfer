@@ -758,3 +758,4 @@ fatal: Could not read fro
  * branch            mai
 [2026-10-20 16:06:59] ⚠️ git pull 失敗，仍檢查本機指令：From https://github.com/darcon25/knowledgebase-transfer
  * branch            mai
+[2026-10-20 17:30:57] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
