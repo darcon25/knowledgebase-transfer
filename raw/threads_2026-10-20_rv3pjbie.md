@@ -1,0 +1,134 @@
+---
+tags:
+  - source
+  - social_media
+  - threads
+type: social_media
+platform: threads
+date_captured: 2026-10-20
+original_url: "https://www.threads.com/share/BAX5zC5370"
+media_count: 2
+media_urls:
+  - "https://media4.giphy.com/media/v1.Y2lkPWMzYjBlZTI1aHl4Zmc3NHA5d2xpcGE2am5mdjltcnNxaDBxbmFhc3pxcDkxZm9meSZlcD12MV9naWZzX2dpZklkJmN0PXM/aq7tOXIdgaVbGgojK1/200.gif"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/856557435_18097044926413176_3417865600911264189_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAxMTg3NzQ5NTYyNDM3Mjc2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI5MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=rgEC_R9WXnAQ7kNvwEFcZwN&_nc_oc=Adolj1jA5UD-eSGykG4UzQaPSRa7TZw67h3kEB-sNsWP3yP5e62UC-3JZ4wBtqYNYbA&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=x6T5xH5VfK6mfwYqTXq56Q&_nc_ss=7b289&oh=00_AQNKjTSH-l6ScP8hLReCjoF5TWn5bZV9yoy4uVPByzVmuw&oe=6ADCEBF9"
+---
+
+# 🧵 2026-10-20 存檔
+
+> 原文：[查看貼文](https://www.threads.com/share/BAX5zC5370)
+
+## 摘要
+這篇貼文指出，由於AI需求強勁，PCB（印刷電路板）供應鏈面臨嚴峻挑戰。欣興董事長簡山傑在TPCA Show 2026上揭示了關鍵設備交期長達30個月，以及2027年部分關鍵材料可能出現20%缺口的問題。這顯示AI硬體需求的持續成長，正導致材料與設備供應成為PCB產業擴產的瓶頸，未來競爭將不僅是技術，更是供應能力。
+
+## 重點整理
+*   **AI需求推升PCB供應鏈壓力：** AI的強勁需求導致PCB產業的供應鏈面臨卡關風險。
+*   **關鍵設備交期極長：** 部分關鍵設備的最長交期已達30個月，嚴重影響擴產時程。
+*   **關鍵材料預期短缺：** 預估至2027年，部分關鍵材料（如T-glass玻纖布、CCL、ABF）可能出現20%的缺口。
+*   **供應鏈管理成競爭關鍵：** 未來AI產業的競爭，除了技術領先外，穩定供貨的能力將成為決定勝負的重要因素。
+*   **需求與供應鏈管理的雙重挑戰：** 對PCB產業而言，AI需求是巨大的機會，但如何有效管理供應鏈以滿足需求，則是一大考驗。
+
+## 關鍵概念
+*   **PCB (Printed Circuit Board)：** 印刷電路板，是電子產品中不可或缺的基礎元件，用於承載和連接各種電子零件。
+*   **AI硬體需求：** 指用於支援人工智慧運算和應用的實體硬體設備，例如AI伺服器、AI晶片等，其需求量正快速增長。
+*   **供應鏈管理 (Supply Chain Management, SCM)：** 涉及從原材料採購、生產製造、物流配送到最終客戶的整個流程管理，旨在提高效率、降低成本並確保供應穩定。
+*   **T-glass 玻纖布：** 一種高性能玻璃纖維布，常用於製造高階PCB的基材，特別是對於高速、高頻應用。
+*   **CCL (Copper Clad Laminate)：** 銅箔基板，是製造PCB的主要原材料，由銅箔和絕緣基材（如玻纖布和樹脂）組成。
+*   **ABF (Ajinomoto Build-up Film)：** 味之素增層膜，一種用於高階IC載板（如CPU、GPU封裝）的絕緣材料，對於AI晶片等高性能應用至關重要。
+*   **TPCA Show：** 台灣電路板產業國際展覽會，是PCB產業的重要交流平台。
+
+## 可行動洞察
+*   **關注上游材料與設備供應商：** 作為投資者或產業觀察者，應密切關注T-glass、CCL、ABF等關鍵材料供應商以及PCB設備製造商的產能擴張計畫和交貨狀況，這將是判斷PCB產業未來發展的關鍵指標。
+*   **評估企業供應鏈韌性：** 在評估PCB相關企業時，除了技術實力，更應深入分析其供應鏈管理策略、庫存水位、多元供應商佈局以及與上游廠商的合作關係，以判斷其在供應鏈卡關情況下的應變能力。
+*   **提前佈局關鍵資源：** 對於需要大量AI硬體的企業，應提早與PCB供應商建立長期合作關係，並考慮簽訂長期供貨合約，以確保關鍵零組件的穩定供應。
+*   **探索替代材料與技術：** 產業內應鼓勵研發和導入替代材料或製程技術，以降低對單一關鍵材料或設備的依賴，提升供應鏈的彈性。
+*   **政策制定者可思考：** 政府或產業協會可考慮推動相關政策，鼓勵國內關鍵材料和設備的研發與生產，或建立戰略儲備，以應對未來可能的供應鏈風險。
+
+## 主文圖片
+
+原貼文主文有 2 張圖。本機 `tools/fetch_media.py` 會下載成 `raw/shot_*.md`。
+（下列網址帶簽章，約一週後失效，僅作線索。）
+
+1. https://media4.giphy.com/media/v1.Y2lkPWMzYjBlZTI1aHl4Zmc3NHA5d2xpcGE2am5mdjltcnNxaDBxbmFhc3pxcDkxZm9meSZlcD12MV9naWZzX2dpZklkJmN0PXM/aq7tOXIdgaVbGgojK1/200.gif
+2. https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/856557435_18097044926413176_3417865600911264189_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAxMTg3NzQ5NTYyNDM3Mjc2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI5MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=rgEC_R9WXnAQ7kNvwEFcZwN&_nc_oc=Adolj1jA5UD-eSGykG4UzQaPSRa7TZw67h3kEB-sNsWP3yP5e62UC-3JZ4wBtqYNYbA&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=x6T5xH5VfK6mfwYqTXq56Q&_nc_ss=7b289&oh=00_AQNKjTSH-l6ScP8hLReCjoF5TWn5bZV9yoy4uVPByzVmuw&oe=6ADCEBF9
+
+## 原文（Jina Reader）
+
+```
+Title: 東津 (@dggggg.villager) on Threads
+
+URL Source: https://www.threads.com/share/BAX5zC5370
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread](https://www.threads.com/@dggggg.villager/post/DetDVORExIb?xmt=AQG0eGufKbDpBgNKTarxcQXu9_YnL1NmXa3E47ZgHqta-8YK-qNr-745xMYm2ko-1X5lU7zN&slof=1)
+
+212 views
+
+[![Image 1: dggggg.villager's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/776685840_18087747404413176_8752733630069554145_n.jpg?_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=fMY8RmBUjXkQ7kNvwH9qcL_&_nc_oc=AdqTFY9ar9B-ub3MJcRUoHKndteSPhQfyntlKMqTuxidKSfoN9feUJk-mgZFVYcNQ_s&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=x6T5xH5VfK6mfwYqTXq56Q&_nc_ss=7b289&oh=00_AQPvC3CLi2Ic5FnyGMr9A8-6LqowergnKFdHWzM0IgM4vQ&oe=6ADCDC02)](https://www.threads.com/@dggggg.villager)
+
+[dggggg.villager](https://www.threads.com/@dggggg.villager)
+
+[Pcb](https://www.threads.com/search?q=Pcb&serp_type=tags&tag_id=18399657619051292)
+
+[26m](https://www.threads.com/@dggggg.villager/post/DetDVORExIb)
+
+AI 需求太強，PCB 供應鏈卡關？
+
+欣興董事長簡山傑在 TPCA Show 2026 提出兩個值得關注的數字：
+
+![Image 2](https://media4.giphy.com/media/v1.Y2lkPWMzYjBlZTI1aHl4Zmc3NHA5d2xpcGE2am5mdjltcnNxaDBxbmFhc3pxcDkxZm9meSZlcD12MV9naWZzX2dpZklkJmN0PXM/aq7tOXIdgaVbGgojK1/200.gif)30 個月 部分關鍵設備最長交期。
+
+![Image 3](https://media4.giphy.com/media/v1.Y2lkPWMzYjBlZTI1aHl4Zmc3NHA5d2xpcGE2am5mdjltcnNxaDBxbmFhc3pxcDkxZm9meSZlcD12MV9naWZzX2dpZklkJmN0PXM/aq7tOXIdgaVbGgojK1/200.gif)20% 2027 年部分關鍵材料預估可能缺口。
+
+從 T-glass 玻纖布、CCL 到 ABF AI 硬體需求持續成長 材料與設備供應卻可能成為擴產瓶頸
+
+AI 的下一波競爭，不只比誰有技術 更要比誰有能力穩定供貨
+
+對 PCB 產業而言，需求是機會 供應鏈管理則是考驗
+
+[![Image 4](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/856557435_18097044926413176_3417865600911264189_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAxMTg3NzQ5NTYyNDM3Mjc2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI5MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=rgEC_R9WXnAQ7kNvwEFcZwN&_nc_oc=Adolj1jA5UD-eSGykG4UzQaPSRa7TZw67h3kEB-sNsWP3yP5e62UC-3JZ4wBtqYNYbA&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=x6T5xH5VfK6mfwYqTXq56Q&_nc_ss=7b289&oh=00_AQNKjTSH-l6ScP8hLReCjoF5TWn5bZV9yoy4uVPByzVmuw&oe=6ADCEBF9)](https://www.threads.com/@dggggg.villager/post/DetDVORExIb/media)
+
+7
+
+2
+
+2
+
+Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+
+*   © 2026
+*   [Threads Terms](https://help.instagram.com/769983657850450)
+*   [Privacy Policy](https://help.instagram.com/515230437301944)
+*   [Cookies Policy](https://help.instagram.com/1896641480634370/)
+*   Report a problem
+
+```
+
+## 相關頁面
+
+<!-- [[]] -->
