@@ -766,3 +766,10 @@ fatal: Could not read fro
 [2026-10-20 18:36:41] ❌ 抓取中止：https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL 重試 3 次仍失敗：HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/exchangeReport/BWIBBU_ALL (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
 [2026-10-20 19:46:01] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
 [2026-10-21 06:32:56] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-10-21 18:32:38] === 開始抓取（64 檔）===
+[2026-10-21 18:32:38] ⚠️  第 1/3 次失敗：https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL — HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/exchangeReport/BWIBBU_ALL (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-21 18:32:49] ✅ 估值 61 檔（資料日 2026-10-20）
+[2026-10-21 18:32:50] ✅ 月營收 61 檔（2026-09）
+[2026-10-21 18:32:51] ✅ 毛利率 60 檔（2026Q2）
+[2026-10-21 18:49:30] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E9%A8%B0%E8%BC%9D%E9%9B%BB%E5%AD%90-KY%206672&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2026-10-21 19:07:48] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%8F%B0%E9%81%94%E9%9B%BB%202308&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))

@@ -40,3 +40,4 @@ curl: (6) Could not resolve host: api.telegram.org
 /Users/mmfamily/Max KnowledgeBase/tools/daily.sh: line 80: unexpected EOF while looking for matching `"'
 /Users/mmfamily/Max KnowledgeBase/tools/daily.sh: line 81: syntax error: unexpected end of file
 curl: (6) Could not resolve host: api.telegram.org
+curl: (6) Could not resolve host: api.telegram.org

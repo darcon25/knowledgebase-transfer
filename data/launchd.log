@@ -3073,3 +3073,7 @@ API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
    資料過期: 0
 ⚠️ 失敗階段：抓取 
 ===== 2026-10-20 20:25:45 每日更新結束 =====
+----- git pull -----
+fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': Could not resolve host: github.com
+⚠️ git pull 失敗，繼續用本機現有檔案（可能漏掉 n8n 新存的）
+===== 2026-10-21 18:32:38 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
