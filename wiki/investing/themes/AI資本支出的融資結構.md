@@ -295,3 +295,27 @@ AI 建設的節奏就開始綁在債市的利率與買盤上。
 
 - 貼文被截斷後的**單張 H100 試算全文**（攤提年限、租金、使用率假設皆原文未說明）
 - Maya Zehavi 原始論述的出處
+
+## 🤖 2026-10-21 自動消化：Neocloud 的最大客戶，也是它們的股東和擔保人
+
+來源：`raw/threads_2026-10-20_Neocloud最大客戶即股東.md`（Ricky Wan @tcwanricky，原文只有一句「各Neocloud雲廠商最大客戶」），讀圖 `raw/shot_2026-10-20_Neocloud最大客戶即股東.md`（© 2026 Boring Biz，資料截至 9/30/26）
+
+圖標題：「Neoclouds' Biggest Customers Are Also Their Owners and Guarantors」——Nvidia 持有 8 家中 5 家的股權或認股權，Google 為 3 家兜底。
+
+| 公司 | 口徑・基準日 | 合約積壓（$B） | 依客戶拆分（$B） | 股權關係 | 擔保／兜底／預付 |
+|---|---|---|---|---|---|
+| CoreWeave | backlog, 6/30/26 | 104.2 | Meta 35.2・OpenAI 22.4・Nvidia 6.3・other 40.3 | Nvidia ~10% | Nvidia 買下閒置算力：$6.3B 至 2032 |
+| Nscale | S-1 TCV, 9/26 | 103.0 | Microsoft 43.8・Anthropic 44.6・other 14.6 | Nvidia 股東（+$1B） | Nvidia 兜底約 $0.9B 租約 |
+| Lambda | backlog, 9/26 | 50.0 | Anthropic 35.0・other 15.0 | Nvidia 投資人（Series D） | Nvidia $1.5B GPU 售後回租 |
+| Nebius | RPO, 6/30/26 | 37.5 | Microsoft 17.4・Meta 15.0・other 5.1 | Nvidia 9.3% | — |
+| IREN | signed TCV, 7/26 | 15.9 | Microsoft 9.7・Nvidia 3.4・other 2.8 | Nvidia 認股權 30M 股 @$70 | Microsoft 預付約 20%（~$1.9B） |
+| Hut 8 | lease TCV, 7/26 | 26.6 | Nvidia 19.6・Fluidstack 7.0 | — | Google 擔保 Fluidstack $7.0B 租約 |
+| TeraWulf | lease TCV, 7/26 | 25.7 | Anthropic 19.0・Fluidstack 6.7 | Google ~14%（認股權） | Google 擔保 $3.2B 租金 |
+| Cipher | lease backlog, 8/26 | 11.4 | Amazon ~7.5・Fluidstack ~3.9 | Google 5.4%（認股權） | Google 最多 $1.73B |
+
+- ✅ 讀圖檔驗算：8 列分項加總都等於總額
+- ⚠️ **各列不能相加**：Hut 8 租 Beacon Point 給 Nvidia（$19.6B）→ Lambda 跑 GPU → Anthropic 買算力（$35B），是同一批電力被重複計算，圖上自己標明
+- ⚠️ 口徑不同（backlog／RPO／TCV／lease TCV）、基準日不同；部分合約是「up to」
+- ⚠️ 原筆記的 AI 摘要把 Neocloud 猜成 AWS／Azure／GCP，與圖不符
+- **這件事會怎麼影響這條鏈**：本頁 2026-09-21 記的「NVIDIA 身兼供應商、客戶與股東」從一家（CoreWeave）擴大到 5 家；Google 也以擔保人身分進場。需求有多少是供應商自己撐起來的，是判斷 AI 伺服器訂單品質的線索；對台灣 PCB 鏈的具體影響路徑待確認
+- 同一張表的電力／園區面（前礦商轉 AI 園區）見 [[資料中心電力]]；Nvidia 同時是買方見 [[輝達法說會與AI資本支出]]

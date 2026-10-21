@@ -2,7 +2,13 @@
 
 > 這份文件由 LLM 維護。公司頁與環節頁由 `tools/build_pages.py` 自動產生。
 
-**最後更新**：2026-10-19　**頁面總數**：96
+**最後更新**：2026-10-21　**頁面總數**：96
+
+> 🤖 2026-10-21 消化 14 個來源檔（9 則貼文 + 5 張讀圖），**未新增頁面**。補進
+> [[wiki/investing/chains/AI伺服器PCB鏈]]（TPCA 2026 展前十張圖卡總表；新增矛盾訊號：開展日 ABF／CCL 重挫 vs 缺料敘事）、
+> [[wiki/investing/themes/玻纖布缺料]]、[[wiki/investing/themes/ABF載板隱性減產]]、[[wiki/investing/themes/PTFE與材料世代轉換]]、[[wiki/investing/themes/玻璃基板]]、
+> [[wiki/investing/themes/液冷散熱滲透率]]（Omdia 冷板占比 40%→61%）、[[wiki/investing/themes/AI-ASIC與GoogleTPU供應鏈]]、[[wiki/investing/themes/AI資本支出的融資結構]]（Neocloud 8 家合約積壓）、[[wiki/investing/themes/跨園區光傳輸與薄膜濾光片]]（TrendForce 光纖缺口）；
+> 公司頁 8358、3037、2454、2383、6274、5475、7795、4958、2313、2368、8039、1815、1802。9 組亂碼 ID 檔名已改為可讀主題。
 
 > 🤖 2026-10-19 再消化 1 則貼文（`GPU雲端資金成本差距`），**未新增頁面**。補進
 > [[wiki/investing/themes/AI資本支出的融資結構]]（Hyperscaler 融資利率約 4.9% vs Neocloud 15%，差 10.1 個百分點；原文試算被截斷）。

@@ -1397,3 +1397,25 @@ frontmatter 已加 `original_id:`；15 檔 `git mv` 成功。同步更新 `data/
 ## [2026-10-19] update | 1 個來源檔改名（亂碼 ID → 可讀主題）
 
 `rhabpu4g` → `GPU雲端資金成本差距`，frontmatter 已加 `original_id:`；`git mv` 未獲權限，改用一般搬移（git 會看成刪除＋新增）。同步更新 `data/known_issues.json`、`data/ingested.json`。
+
+## [2026-10-21] ingest | 14 個來源檔（9 則貼文 + 5 張讀圖）
+
+全部走投資線，未新增頁面（overview 不需加連結）。
+- TPCA 2026 展前十張圖卡（@guliuguliu__888）→ [[AI伺服器PCB鏈]] 總表＋五處貼文文字錯誤標註；[[玻纖布缺料]]、[[ABF載板隱性減產]]、[[PTFE與材料世代轉換]]、[[玻璃基板]]；公司頁 2383、6274、8358、5475、1802、1815、7795、3037、4958、2313、2368、8039
+- 欣興董事長 TPCA：設備交期 30 個月、2027 材料缺口 20% → 3037、鏈頁
+- 金居 10/20 收 469.50、貼文稱從 758 腰斬（9 月營收年增 64.63%、月增 4.53%）→ 8358；⚠️ 與 09-16 貼文對「金居能否量產 HVLP4」說法矛盾，已標記
+- 杯米盤勢：TPCA 開展日 ABF／CCL 重挫、玻纖布逆勢強 → 鏈頁新增矛盾訊號
+- Omdia 冷板占比 40%→61%（分母是單相液冷市場）→ [[液冷散熱滲透率]]
+- 口袋證券 14 家 ASIC 分工、聯發科 TPU 延後傳聞 → [[AI-ASIC與GoogleTPU供應鏈]]、2454
+- Boring Biz Neocloud 8 家合約積壓與股權／擔保關係 → [[AI資本支出的融資結構]]
+- TrendForce 光纖缺口 1.8 億芯公里 → [[跨園區光傳輸與薄膜濾光片]]（影響路徑待確認）
+
+**名單外**：智原 3035、生益、三井、古河、定穎、博智、健鼎、勤凱、鈦昇、揚博、川寶、雷科、TPK、時碩、騰雲等，未動 `tools/watchlist.py`。未動「我的論點」、未建 insights。
+⚠️ `聯發科TPU量產延後傳聞`、`TrendForce光纖供需缺口` 原貼文各附 1 張圖，本機沒有讀圖檔，圖中內容未驗證。
+
+## [2026-10-21] update | 9 組來源檔改名（亂碼 ID → 可讀主題）
+
+`p7jya1pa` → `TPCA2026展前七大看點`、`k0j4cjm7` → `Omdia冷板營收占比預估`、`kfo9iyoq` → `AIASIC產業鏈14家分工`、`w4cxc3tl` → `Neocloud最大客戶即股東`、
+`uovbgwf7` → `金居股價腰斬與營收背離`、`fd3r8gf9` → `玻纖布強ABF與CCL重挫盤勢`、`jdkv7fdd` → `TrendForce光纖供需缺口`、`rv3pjbie` → `欣興簡山傑設備交期30月`、`x39ugks3` → `聯發科TPU量產延後傳聞`（共 14 檔）。
+frontmatter 已加 `original_id:`；13 檔 `git mv` 成功，`shot_2026-10-21_金居股價腰斬與營收背離.md` 尚未被 git 追蹤，改用一般搬移。同步更新 `data/known_issues.json`、`data/ingested.json`。
+⚠️ raw/ 只加 `original_id`，**shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名**；`raw/assets/` 圖檔未改名，嵌入仍有效。
