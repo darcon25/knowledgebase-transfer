@@ -3077,3 +3077,65 @@ API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
 fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': Could not resolve host: github.com
 ⚠️ git pull 失敗，繼續用本機現有檔案（可能漏掉 n8n 新存的）
 ===== 2026-10-21 18:32:38 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-10-21 18:32:38] === 開始抓取（64 檔）===
+[2026-10-21 18:32:38] ⚠️  第 1/3 次失敗：https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL — HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/exchangeReport/BWIBBU_ALL (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-21 18:32:49] ✅ 估值 61 檔（資料日 2026-10-20）
+[2026-10-21 18:32:50] ✅ 月營收 61 檔（2026-09）
+[2026-10-21 18:32:51] ✅ 毛利率 60 檔（2026Q2）
+[2026-10-21 18:49:30] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E9%A8%B0%E8%BC%9D%E9%9B%BB%E5%AD%90-KY%206672&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2026-10-21 19:07:48] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%8F%B0%E9%81%94%E9%9B%BB%202308&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2026-10-21 19:25:07] ✅ 新聞 59/59 檔有結果
+[2026-10-21 19:25:07] === 抓取完成 ===
+⏭  2026Q2.json 已有 61 家，跳過
+⏭  2026Q1.json 已有 61 家，跳過
+⏭  2025Q4.json 已有 61 家，跳過
+⏭  2025Q3.json 已有 61 家，跳過
+⏭  2025Q2.json 已有 61 家，跳過
+⏭  2025Q1.json 已有 59 家，跳過
+⏭  2024Q4.json 已有 61 家，跳過
+⏭  2024Q3.json 已有 59 家，跳過
+
+完成：新增/更新 0 季，跳過 8 季
+
+[1] threads_2026-10-20_uovbgwf7.md
+    https://www.threads.com/share/_8cNsvWj-
+    · 主文有 1 張
+      ✅ threads_2026-10-20_uovbgwf7_01.jpg (22 KB)
+      📝 shot_2026-10-21_uovbgwf7.md
+
+[2] threads_2026-10-20_x39ugks3.md
+    https://www.threads.com/share/BAXMIkQ-Gh
+    · 主文沒有圖
+
+===== 完成 =====
+處理 2 篇：補到圖 1 篇、確認沒圖 1 篇、失敗 0 篇、原貼文已不存在 0 篇
+[2026-10-21 19:25:25] 發現 3 個待讀圖檔案
+raw/shot_2026-10-20_kfo9iyoq.md
+raw/shot_2026-10-20_w4cxc3tl.md
+raw/shot_2026-10-21_uovbgwf7.md
+三篇都處理完了，每篇只有 1 張圖，總共 3 張。每張圖我都實際打開看過，內容寫進「## 內容」，`status` 也改成「已讀圖」。這三個 shot_ 檔以外，raw/ 和 wiki/ 我都沒動。
+
+- **最有價值是 `w4cxc3tl`（Neocloud 合約總額表）**：8 家 GPU 雲、AI 園區的合約總額，按客戶拆開，另外列出誰持股、誰擔保。每列的分項加總都和總額對得上。有三個 ⚠️：
+  - 各列不能相加。圖上自己註明 Hut 8、Lambda 有同一批電力被重複計算。
+  - 各家計算口徑和截止日不同。
+  - 原筆記的 AI 摘要把「Neocloud」誤解成 AWS、Azure 這類主流雲，和圖對不上。
+- **`kfo9iyoq`（AI ASIC 14 家分類圖）**：四段分工表已照抄。台股 6、美股 8 和貼文說法一致，但圖上沒有任何數字。其中智原（3035）不在 41 檔追蹤名單裡，算是名單的缺口。
+- **`uovbgwf7`（金居報價截圖）**：圖上只有 10/20 的收盤價 469.50（-3.00%）。我拿本機營收資料對過：貼文說的「營收衝 64%」其實是 9 月的年增率（比去年同月成長 64.63%），月增只有 4.53%，已用 ⚠️ 標出。
+✅ 已送出
+✅ 頁面：新建 0、更新 77（營收 2026-09、估值 2026-10-21、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 10、動能轉折 22、值得推播 3 項
+[2026-10-21 20:32:13] 發現 14 個未消化檔案，啟動自動消化
+raw/shot_2026-10-19_p7jya1pa.md
+raw/shot_2026-10-20_k0j4cjm7.md
+raw/shot_2026-10-20_kfo9iyoq.md
+raw/shot_2026-10-20_w4cxc3tl.md
+raw/shot_2026-10-21_uovbgwf7.md
+raw/threads_2026-10-19_p7jya1pa.md
+raw/threads_2026-10-20_fd3r8gf9.md
+raw/threads_2026-10-20_jdkv7fdd.md
+raw/threads_2026-10-20_k0j4cjm7.md
+raw/threads_2026-10-20_kfo9iyoq.md
+raw/threads_2026-10-20_rv3pjbie.md
+raw/threads_2026-10-20_uovbgwf7.md
+raw/threads_2026-10-20_w4cxc3tl.md
+raw/threads_2026-10-20_x39ugks3.md

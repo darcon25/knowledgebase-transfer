@@ -773,3 +773,5 @@ fatal: Could not read fro
 [2026-10-21 18:32:51] ✅ 毛利率 60 檔（2026Q2）
 [2026-10-21 18:49:30] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E9%A8%B0%E8%BC%9D%E9%9B%BB%E5%AD%90-KY%206672&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
 [2026-10-21 19:07:48] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%8F%B0%E9%81%94%E9%9B%BB%202308&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2026-10-21 19:25:07] ✅ 新聞 59/59 檔有結果
+[2026-10-21 19:25:07] === 抓取完成 ===
