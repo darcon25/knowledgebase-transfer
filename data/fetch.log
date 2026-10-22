@@ -777,3 +777,5 @@ fatal: Could not read fro
 [2026-10-21 19:25:07] === 抓取完成 ===
 [2026-10-22 08:40:46] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
 [2026-10-22 09:48:21] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-10-22 10:26:43] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-10-22 10:32:25] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
