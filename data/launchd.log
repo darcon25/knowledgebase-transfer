@@ -3225,3 +3225,70 @@ API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
    資料過期: 0
 ⚠️ 失敗階段：抓取 
 ===== 2026-10-22 20:00:30 每日更新結束 =====
+----- git pull -----
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+⚠️ git pull 失敗，繼續用本機現有檔案（可能漏掉 n8n 新存的）
+===== 2026-10-23 18:44:32 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-10-23 18:44:32] === 開始抓取（64 檔）===
+[2026-10-23 18:44:36] ✅ 估值 61 檔（資料日 2026-10-22）
+[2026-10-23 18:44:37] ✅ 月營收 61 檔（2026-09）
+[2026-10-23 18:44:42] ✅ 毛利率 60 檔（2026Q2）
+[2026-10-23 18:59:57] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%8F%B0%E7%8E%BB%201802&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%8F%B0%E7%8E%BB%201802&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-23 19:00:02] ⚠️  第 2/3 次失敗：https://news.google.com/rss/search?q=%E5%8F%B0%E7%8E%BB%201802&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%8F%B0%E7%8E%BB%201802&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-23 19:00:07] ⚠️  第 3/3 次失敗：https://news.google.com/rss/search?q=%E5%8F%B0%E7%8E%BB%201802&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%8F%B0%E7%8E%BB%201802&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-23 19:00:07] ⚠️  1802 台玻 新聞抓取失敗：https://news.google.com/rss/search?q=%E5%8F%B0%E7%8E%BB%201802&hl=zh-TW&gl=TW&ceid=TW:zh-Hant 重試 3 次仍失敗：HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%8F%B0%E7%8E%BB%201802&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-23 19:00:08] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%AE%8F%E5%92%8C%201446&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%AE%8F%E5%92%8C%201446&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-23 19:00:13] ⚠️  第 2/3 次失敗：https://news.google.com/rss/search?q=%E5%AE%8F%E5%92%8C%201446&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%AE%8F%E5%92%8C%201446&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-23 19:00:18] ⚠️  第 3/3 次失敗：https://news.google.com/rss/search?q=%E5%AE%8F%E5%92%8C%201446&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%AE%8F%E5%92%8C%201446&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-23 19:00:18] ⚠️  1446 宏和 新聞抓取失敗：https://news.google.com/rss/search?q=%E5%AE%8F%E5%92%8C%201446&hl=zh-TW&gl=TW&ceid=TW:zh-Hant 重試 3 次仍失敗：HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%AE%8F%E5%92%8C%201446&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-23 19:00:19] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%BB%BA%E6%A6%AE%205340&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%BB%BA%E6%A6%AE%205340&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-23 19:00:24] ⚠️  第 2/3 次失敗：https://news.google.com/rss/search?q=%E5%BB%BA%E6%A6%AE%205340&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%BB%BA%E6%A6%AE%205340&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-23 19:01:08] ⚠️  第 3/3 次失敗：https://news.google.com/rss/search?q=%E5%BB%BA%E6%A6%AE%205340&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%BB%BA%E6%A6%AE%205340&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-23 19:01:08] ⚠️  5340 建榮 新聞抓取失敗：https://news.google.com/rss/search?q=%E5%BB%BA%E6%A6%AE%205340&hl=zh-TW&gl=TW&ceid=TW:zh-Hant 重試 3 次仍失敗：HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%BB%BA%E6%A6%AE%205340&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-23 19:01:09] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%BE%B7%E5%AE%8F%205475&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%BE%B7%E5%AE%8F%205475&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-23 19:19:54] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E8%8F%AF%E9%80%9A%202313&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Read timed out. (read timeout=30)
+[2026-10-23 19:39:17] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E9%B4%BB%E6%B5%B7%202317&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2026-10-23 19:39:25] ✅ 新聞 56/59 檔有結果，無結果：1802,1446,5340
+[2026-10-23 19:39:25] === 抓取完成 ===
+⏭  2026Q2.json 已有 61 家，跳過
+⏭  2026Q1.json 已有 61 家，跳過
+⏭  2025Q4.json 已有 61 家，跳過
+⏭  2025Q3.json 已有 61 家，跳過
+⏭  2025Q2.json 已有 61 家，跳過
+⏭  2025Q1.json 已有 59 家，跳過
+⏭  2024Q4.json 已有 61 家，跳過
+⏭  2024Q3.json 已有 59 家，跳過
+
+完成：新增/更新 0 季，跳過 8 季
+
+[1] instagram_2026-10-22_6obc5qzo.md
+    https://www.instagram.com/p/DexpSRRDMC2/?obrf=bWVuNGczYWI1dTRi
+    ❌ 讀不到原貼文（第 4 次失敗）：403 Client Error: Forbidden for url: https://r.jina.ai/https://www.instagram.com/p/DexpSRRDMC2/?obrf=bWVuNGczYWI1dTRi
+
+===== 完成 =====
+處理 1 篇：補到圖 0 篇、確認沒圖 0 篇、失敗 1 篇、原貼文已不存在 0 篇
+  ❌ instagram_2026-10-22_6obc5qzo.md：403 Client Error: Forbidden for url: https://r.jina.ai/https://www.instagram.com/p/DexpSRRDMC2/?obrf（累計 4 次）
+[2026-10-23 19:39:33] 沒有待讀圖的檔案，不啟動 Claude
+✅ 頁面：新建 0、更新 77（營收 2026-09、估值 2026-10-23、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 17、動能轉折 22、值得推播 5 項
+[2026-10-23 19:39:34] 發現 1 個未消化檔案，啟動自動消化
+raw/instagram_2026-10-22_6obc5qzo.md
+Failed to authenticate: OAuth session expired and could not be refreshed
+✅ 已送出
+✅ 健檢完成：5 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 1
+   疑似截斷: 0
+   圖片未確認: 1
+   圖片張數對不上: 3
+   圖片連結壞掉: 0
+   圖片尚未判讀: 0
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+===== 2026-10-23 19:56:02 每日更新結束 =====
