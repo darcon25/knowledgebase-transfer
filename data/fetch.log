@@ -831,3 +831,4 @@ fatal: Could not read fro
 [2026-10-25 18:38:46] ✅ 月營收 61 檔（2026-09）
 [2026-10-25 18:54:42] ⚠️  第 1/3 次失敗：https://openapi.twse.com.tw/v1/opendata/t187ap17_L — HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/opendata/t187ap17_L (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
 [2026-10-25 19:10:11] ✅ 毛利率 60 檔（2026Q2）
+[2026-10-25 19:25:15] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%8D%97%E4%BA%9E%201303&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%8D%97%E4%BA%9E%201303&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
