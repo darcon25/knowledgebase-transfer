@@ -1,11 +1,11 @@
 ---
 tags: [health]
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 # 知識庫健檢
 
-**檢查時間**：2026-10-25 20:25　**發現問題**：11 項
+**檢查時間**：2026-10-26 18:31　**發現問題**：12 項
 
 > 這頁由 `tools/health_check.py` 每天自動覆寫，只查規則能判定的問題。
 > 需要判讀的（訊號矛盾、摘要失真、論點過期）請叫 kb-auditor 稽核。
@@ -14,22 +14,22 @@ updated: 2026-10-25
 
 - ✅ 沒有問題
 
-## 尚未消化（5）
+## 尚未消化（6）
 
 - 尚未消化：raw/instagram_2026-10-22_6obc5qzo.md
 - 尚未消化：raw/instagram_2026-10-24_8vlx7dxe.md
 - 尚未消化：raw/instagram_2026-10-25_qht2qrjb.md
 - 尚未消化：raw/shot_2026-10-24_6obc5qzo.md
 - 尚未消化：raw/shot_2026-10-24_8vlx7dxe.md
+- 尚未消化：raw/shot_2026-10-25_qht2qrjb.md
 
 ## 疑似截斷（0）
 
 - ✅ 沒有問題
 
-## 圖片未確認（1）
+## 圖片未確認（0）
 
-- 圖片未確認：raw/instagram_2026-10-25_qht2qrjb.md
-    https://www.instagram.com/p/De5-255E8SS/
+- ✅ 沒有問題
 
 ## 圖片張數對不上（3）
 
@@ -41,10 +41,11 @@ updated: 2026-10-25
 
 - ✅ 沒有問題
 
-## 圖片尚未判讀（2）
+## 圖片尚未判讀（3）
 
 - 圖片尚未判讀：raw/shot_2026-10-24_6obc5qzo.md
 - 圖片尚未判讀：raw/shot_2026-10-24_8vlx7dxe.md
+- 圖片尚未判讀：raw/shot_2026-10-25_qht2qrjb.md
 
 ## 斷連結（0）
 
