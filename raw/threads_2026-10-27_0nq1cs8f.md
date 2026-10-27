@@ -1,0 +1,277 @@
+---
+tags:
+  - source
+  - social_media
+  - threads
+type: social_media
+platform: threads
+date_captured: 2026-10-27
+original_url: "https://www.threads.com/share/BAS1rWMH62"
+media_count: 0
+---
+
+# 🧵 2026-10-27 存檔
+
+> 原文：[查看貼文](https://www.threads.com/share/BAS1rWMH62)
+
+## 摘要
+這篇貼文深入探討了近期科技股下跌的原因，指出市場擔憂的並非AI需求不足，而是AI基礎設施建設，特別是資料中心的電力供應和許可問題，導致「晶片買了卻開不了機」的爛尾局面。作者透過分析產業鏈和具體案例（如Oracle在新墨西哥州的資料中心延誤），強調了電力、許可和法律法規已成為AI發展的關鍵瓶頸，並指出目前真正受影響的是資料中心開發商及其金主。
+
+## 重點整理
+*   **AI基礎設施瓶頸：** 市場擔憂的不是AI晶片需求，而是資料中心建設速度跟不上晶片採購速度，主要卡在電力供應和營建許可。
+*   **「晶片買了卻開不了機」：** Elon Musk的言論點出核心問題，即大量算力可能因資料中心未完成而閒置，導致投資效益無法實現。
+*   **產業鏈影響：** 問題已從上游晶片供應轉移到中下游的電網、變壓器、資料中心開發商及相關金主，這些環節正承受延誤和財務壓力。
+*   **具體案例佐證：** Oracle在德州和新墨西哥州的資料中心專案對比，明確顯示了州級法規和許可對建設進度的巨大影響，新墨西哥州因空污許可和電網問題導致專案停滯。
+*   **高槓桿與高資本支出風險：** AI基礎設施項目多為高槓桿、高資本支出，一旦遭遇延誤，利息成本和資金壓力將大幅增加，對投資者構成風險。
+
+## 關鍵概念
+*   **算力困境 (Compute Capacity Bottleneck)：** 指的是雖然有足夠的AI晶片（算力硬體），但因基礎設施（如電力、資料中心空間）不足而無法有效運作的狀況。
+*   **爛尾局面 (Stalled Projects)：** 指的是投資巨大但因各種原因（如許可、電力）無法完成或投入運營的項目。
+*   **表後燃氣微電網 (Behind-the-meter Gas Microgrid)：** 一種在用戶端自行發電的微型電網，通常用於解決大型設施（如資料中心）的電力需求，減少對傳統電網的依賴。
+*   **不可抗力 (Force Majeure)：** 合同條款中指因無法預見或控制的事件（如自然災害、政府行為）導致合同無法履行，可免除一方責任。Oracle案例中即因許可問題援引此條款。
+*   **定價倒掛 (Valuation Inversion)：** 指的是在資本市場中，距離實質獲利兌現越遠的標的，反而享有越高的估值倍數，暗示市場對未來預期過於樂觀或存在泡沫。
+
+## 可行動洞察
+*   **重新評估AI投資風險：** 在評估AI相關投資時，除了關注晶片和模型技術，更應深入研究其基礎設施（電力、土地、許可、供應鏈穩定性）的成熟度和潛在瓶頸。
+*   **關注基礎設施供應商：** 考慮將投資目光轉向解決AI基礎設施瓶頸的相關產業，例如電力基礎設施、能源管理、資料中心開發商（需仔細評估其專案執行能力和風險管理）、甚至法律諮詢服務等。
+*   **研究各國/地區法規：** 深入了解不同國家或地區在資料中心建設、電力供應、環境許可等方面的法規差異，這將直接影響專案的進度與成本。
+*   **追蹤能源技術創新：** 關注微電網、核能、再生能源等能為資料中心提供穩定且大規模電力的新技術發展，這些可能是未來解決電力瓶頸的關鍵。
+*   **警惕高估值泡沫：** 對於那些離實質獲利兌現尚遠但估值已極高的AI基礎設施相關公司，應保持警惕，進行更嚴謹的財務分析和風險評估。
+
+## 原文（Jina Reader）
+
+```
+Title: 不預測漲跌 (@gooptions) on Threads
+
+URL Source: https://www.threads.com/share/BAS1rWMH62
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread](https://www.threads.com/@gooptions/post/De9deZ3Ej-P?xmt=AQG04I3SCfiIF_YAE8OVwlS82x1d0KoHrdol2uueucXpGYqsAIUHXkzXBbe1GFYOE9nWMP57&slof=1)
+
+397 views
+
+![Image 1: 90s.pm.investing's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/551810985_17849630169558063_1385292716221034571_n.jpg?_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=MmwXXEn_wrEQ7kNvwFgmukd&_nc_oc=AdpbafMHXbaUAbZoo1_-ZueKQTCXZiX2k77Fi26l6VoVZavXg6bbXCGXroVgFil5an8&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=Jp1zonGJ24Fx67BTDj27kA&_nc_ss=7b289&oh=00_AQO2yaygwAveaxd7vognkDaZrpxGPyYfzUoQUmhf63iFeg&oe=6AE62DE3)
+
+[![Image 2: 90s.pm.investing's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/551810985_17849630169558063_1385292716221034571_n.jpg?_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=MmwXXEn_wrEQ7kNvwFgmukd&_nc_oc=AdpbafMHXbaUAbZoo1_-ZueKQTCXZiX2k77Fi26l6VoVZavXg6bbXCGXroVgFil5an8&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=Jp1zonGJ24Fx67BTDj27kA&_nc_ss=7b289&oh=00_AQO2yaygwAveaxd7vognkDaZrpxGPyYfzUoQUmhf63iFeg&oe=6AE62DE3)](https://www.threads.com/@90s.pm.investing)
+
+[90s.pm.investing](https://www.threads.com/@90s.pm.investing)
+
+[1d](https://www.threads.com/@90s.pm.investing/post/De7QIfRGCFh)
+
+這兩個星期科技股跌得很急，我一直在想，市場到底在怕什麼？
+
+期間看到不少報道，說對沖基金正大舉沽空 AI 基建相關股票。直到今天凌晨看到 Elon Musk 在 X 留了一句話：「我們會看到大量算力困在未完成的資料中心。」 我突然把這兩件事連起來了——會不會華爾街真正擔心的，就是這種「晶片買了卻開不了機」的爛尾局面？
+
+順著這條線，我把整條產業鏈由上游的電網、變壓器，一路拆到下游的新雲、Nvidia 和記憶體，做成了一棵問題樹去查數據。
+
+查完之後，我的結論和市場現在的恐慌有點不一樣：
+
+這不是 AI 需求出問題，是蓋房子的速度趕不上買晶片的速度。 AWS 產能賣到 2027 年，H100 的租金還在漲 44%。
+
+既然是機房卡在電和許可，現在真正虧錢的是「蓋機房的開發商」和「借錢給他們的金主」（例如收到 Oracle 不可抗力通知的 Blue Owl、被 Microsoft 退租的 Nscale）。
+
+51
+
+15
+
+10
+
+[![Image 3: gooptions's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/654019138_18062674220365274_820832012251681718_n.jpg?_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=t4VztmCJouMQ7kNvwEEHntD&_nc_oc=Ado0o9_HvNHonkYnquaC3F8doC3X52ZrtrZaBs7fOb1ssRn6NaDEH338anqkqDTpVDs&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=Jp1zonGJ24Fx67BTDj27kA&_nc_ss=7b289&oh=00_AQNZRHiz7kaCHvwz4YNXTA1uwVbUYjBj_ViReczE7Z29VQ&oe=6AE606D0)](https://www.threads.com/@gooptions)
+
+[gooptions](https://www.threads.com/@gooptions)
+
+[16h](https://www.threads.com/@gooptions/post/De9deZ3Ej-P)
+
+![Image 4: 90s.pm.investing's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/551810985_17849630169558063_1385292716221034571_n.jpg?_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=MmwXXEn_wrEQ7kNvwFgmukd&_nc_oc=AdpbafMHXbaUAbZoo1_-ZueKQTCXZiX2k77Fi26l6VoVZavXg6bbXCGXroVgFil5an8&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=Jp1zonGJ24Fx67BTDj27kA&_nc_ss=7b289&oh=00_AQO2yaygwAveaxd7vognkDaZrpxGPyYfzUoQUmhf63iFeg&oe=6AE62DE3)
+
+機房卡在電和許可這段，Oracle 6/10 法說剛好有一組對照：德州 Shackelford 和新墨西哥 Doña Ana 兩個場址，簽約只差一個月，都走表後燃氣微電網，導引都是 2027 上半年開始交付。德州那座已有 115 MW 上線，比進度提前逾一個月；新墨西哥那座零 MW，沒有空污許可、沒有管線，也沒有電網。同一家公司、同一套做法，結果差在落在哪個州。
+
+3
+
+1
+
+1
+
+[![Image 5: 90s.pm.investing's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/551810985_17849630169558063_1385292716221034571_n.jpg?_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=MmwXXEn_wrEQ7kNvwFgmukd&_nc_oc=AdpbafMHXbaUAbZoo1_-ZueKQTCXZiX2k77Fi26l6VoVZavXg6bbXCGXroVgFil5an8&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=Jp1zonGJ24Fx67BTDj27kA&_nc_ss=7b289&oh=00_AQO2yaygwAveaxd7vognkDaZrpxGPyYfzUoQUmhf63iFeg&oe=6AE62DE3)](https://www.threads.com/@90s.pm.investing)
+
+[90s.pm.investing](https://www.threads.com/@90s.pm.investing)
+
+[16h](https://www.threads.com/@90s.pm.investing/post/De9e5lSDdCI)
+
+·Author
+
+很多人都看輕了法律
+
+Related threads
+
+[![Image 6: traderkm_analysis's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/812990954_18060217976553544_4537576012076911732_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHJWCfCDBrZMnmwaipHfU63pFgp4WKrUVitTVy96emGuArP_wv7qnLvKc8Ye5i2UP4&_nc_ohc=Xq5z-fftgykQ7kNvwED5x9e&_nc_gid=Jp1zonGJ24Fx67BTDj27kA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOeBfQ6JfthEwQf2XiEOOUdREZdM6KOIbhae6vsyECUYA&oe=6AE6107C&_nc_sid=10d13b)](https://www.threads.com/@traderkm_analysis)
+
+[traderkm_analysis](https://www.threads.com/@traderkm_analysis)
+
+[09/25/26](https://www.threads.com/@traderkm_analysis/post/DdsI6z1mB6c)
+
+AI 現在最大的問題，可能已經不是買不到 GPU
+
+而是，你有 GPU，也不代表你有電可以開機
+
+Oracle 相關的 New Mexico 大型 AI data center，最近因為電力供應延誤，可能整個項目要再推遲大約一年
+
+這個項目規模不是小打小鬧
+
+Blue Owl 已經投入大約 30 億美元 equity
+
+背後還有大約 180 億美元 loans
+
+而它又是 OpenAI / Stargate 整個 AI infrastructure chain 裡的一部分
+
+我覺得這件事很值得看，因為過去市場一直在問
+
+NVIDIA 出不出到貨 GPU 夠不夠 HBM 夠不夠
+
+但現在真正的 bottleneck 開始慢慢往後移
+
+變成電從哪裡來 grid 什麼時候接好 誰承擔 delay 這一年利息誰付
+
+這才是 AI infrastructure 最現實的地方
+
+你可以有最強的模型
+
+可以有最貴的 GPU
+
+但 data center 沒有 power
+
+全部都只是紙上算力
+
+更麻煩的是
+
+AI infrastructure 現在很多項目都是高槓桿、高 CapEx
+
+Translate
+
+4
+
+4
+
+2
+
+[![Image 7: neo_report's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/846872001_18124634743756224_679638698335446450_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHJWCfCDBrZMnmwaipHfU63pFgp4WKrUVitTVy96emGuArP_wv7qnLvKc8Ye5i2UP4&_nc_ohc=ztEAN4OZHn4Q7kNvwHxR9-2&_nc_gid=Jp1zonGJ24Fx67BTDj27kA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPjIBXfd81rkcUx2lW7Z0ikAExu-N5MeFYOnLJO1stG_w&oe=6AE61B84&_nc_sid=10d13b)](https://www.threads.com/@neo_report)
+
+[neo_report](https://www.threads.com/@neo_report)
+
+[美股](https://www.threads.com/search?q=%E7%BE%8E%E8%82%A1&serp_type=tags&tag_id=18276457747091566)
+
+[10/11/26](https://www.threads.com/@neo_report/post/DeXHMC_mtW-)
+
+每週市場回顧：Oracle因管線許可問題，對新墨西哥州資料中心園區宣布不可抗力，顯示專案可能延誤多年。公司股價因此大幅下跌，五年期信用違約交換利差升至約261個基點新高；投資人日訂於10月28日。完整報告請見：[neoreports.substack.com/p/wee…](https://l.threads.com/?u=https%3A%2F%2Fneoreports.substack.com%2Fp%2Fweekly-ai-investment-review-261011&e=AUAUJ_6fuvVI7dV1M8-HeRMea1qNBGwXH5m5uscbQSMw-fyusRuCunzP0XFmIRXZoRXnReA0RQYa7ufDGBtIjMRuHd2yq6XfSjBZeSQ18_bg7Yl7exc)
+
+Translate
+
+[![Image 8: Weekly AI Investment Review](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/15659889244318952419?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%215L0I%21%2Cw_1200%2Ch_675%2Cc_fill%2Cf_jpg%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Cg_auto%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F86f09dd6-28b1-4862-91d2-0ca781899034_1200x630.png&utld=substackcdn.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=Jp1zonGJ24Fx67BTDj27kA&_nc_ad=z-m&_nc_cid=0&_nc_zt=3&oh=06_Q3_EAfcgj6o9hn6KgXIbifC8MPaQsNy20W3HqYaUsAmLXmIL&oe=6AE23668) ![Image 9](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/5582389580875971711?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21XyeM%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12c00aac-cf4f-496e-92b9-c109ff27df35%2Ffavicon-48x48.png&utld=substackcdn.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=Jp1zonGJ24Fx67BTDj27kA&_nc_ad=z-m&_nc_cid=0&_nc_zt=3&oh=06_Q3_EAVlePD178PSSkHzHvZ57HuJulsN3M98b6QmSMBTZZJv7&oe=6AE21D40) neoreports.substack.com Weekly AI Investment Review](https://l.threads.com/?u=https%3A%2F%2Fneoreports.substack.com%2Fp%2Fweekly-ai-investment-review-261011%3Futm_id%3D97760_v0_s00_e0_tv4&e=AUBDkS4uLxZVksIEms8q8zOy-jl3fnsEyxBY_ZPh6DqcLJFLohqIk8OlGvE9EUyUMqeO5U_glJHRI4eOufj35_gGZpo1gsUYRHqusLHdmFyhrely5l4)
+
+2
+
+[![Image 10: afterwork.alpha's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/606746746_17856327207592748_1016290922623529154_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHJWCfCDBrZMnmwaipHfU63pFgp4WKrUVitTVy96emGuArP_wv7qnLvKc8Ye5i2UP4&_nc_ohc=l3Js1ezfX98Q7kNvwEb6WP6&_nc_gid=Jp1zonGJ24Fx67BTDj27kA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOqrmZ4abPwZk74V9O-9iisf8Y7e4uJ7juiOhU02jOMOA&oe=6AE61965&_nc_sid=10d13b)](https://www.threads.com/@afterwork.alpha)
+
+[afterwork.alpha](https://www.threads.com/@afterwork.alpha)
+
+[09/30/26](https://www.threads.com/@afterwork.alpha/post/Dd5XtbKlRW_)
+
+在高速光傳輸的板塊狂歡中，資本市場正同時為三種截然不同的商業化維度定價：已落袋的營收、鎖定未來的訂單，以及剛剛開展的故事。
+
+隨著 AI 運算叢集邁向跨機櫃的超大規模擴展，晶片與晶片之間的傳輸瓶頸，將資料中心互聯（DCI）與光通訊推上了風口浪尖。然而，當仔細審視各家設備商與器件廠的財務報表，會發現定價邏輯出現了顯著的倒掛——離實質獲利兌現越遠的標的，往往享有越膨脹的估值倍數。
+
+▋三個階段的定價倒掛
+
+當前光通訊族群清晰地切分為三個發展階段：
+
+第一階段是營收實質兌現的代表思科（Cisco）。在剛過去的財年裡，思科從超大型雲端客戶獲取了 93 億美元的 AI 相關訂單，年增長達 4.5 倍。其中自研晶片的交換機與路由器佔六成，光模組 Acacia 佔四成；本財年 AI 營收指引更直接翻倍至 75 億美元。然而，思科在二級市場僅獲得約 21 倍的前瞻本益比。
+
+Translate
+
+2
+
+4
+
+[![Image 11: superman.marketing's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/363878311_1431565427690626_112859254500823065_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NzkuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHJWCfCDBrZMnmwaipHfU63pFgp4WKrUVitTVy96emGuArP_wv7qnLvKc8Ye5i2UP4&_nc_ohc=RiiJhHPaEn4Q7kNvwEg2vR_&_nc_gid=Jp1zonGJ24Fx67BTDj27kA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPAwhEaZA4L_7ApulW5oO6Z4IPcMe8i_w97BhVC0mNsDg&oe=6AE62F0E&_nc_sid=10d13b)](https://www.threads.com/@superman.marketing)
+
+[superman.marketing](https://www.threads.com/@superman.marketing)
+
+[10/04/26](https://www.threads.com/@superman.marketing/post/DeFqKN9iG4t)
+
+💡Oracle 宣布其 AI 資料中心計畫遭遇不可抗力挑戰，這一消息引起市場高度關注，導致華爾街開市前股價下跌約5%。Oracle 究竟遇到了什麼不可控因素？看下去你就知道！
+
+Translate
+
+2
+
+[![Image 12: lin_stock01's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/829016890_17948759565287805_9190522298427171403_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHJWCfCDBrZMnmwaipHfU63pFgp4WKrUVitTVy96emGuArP_wv7qnLvKc8Ye5i2UP4&_nc_ohc=ylvaEEy0Fo0Q7kNvwE4sPPC&_nc_gid=Jp1zonGJ24Fx67BTDj27kA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQP5pQzIFZ5DWjKbNK84RyeUJcPI6stVJsG79qdqkkn9dQ&oe=6AE60ECC&_nc_sid=10d13b)](https://www.threads.com/@lin_stock01)
+
+[lin_stock01](https://www.threads.com/@lin_stock01)
+
+[10/04/26](https://www.threads.com/@lin_stock01/post/DeEcULmkhgP)
+
+股市創新高, 終於可以回頭聊真正的 “瓶頸” AI 離不開硬體, 硬體股價上半年都翻了2.3倍 那還有哪幾家股價相對便宜, 會漲的？
+
+（詳細分析, 文長慎入, 想看報牌直接滑到最底下）
+
+不曉得大家有沒有印象, 一年以來 我一直強調資料中心是「吃電怪物＋吃水怪物」 AI 的盡頭是電力, 但先別說我冷飯熱炒 我想說的是 “根據事實, 我認為還沒漲完！” 傳統電網已難以負荷, 具體有多緊繃？
+
+📍圖一, Forbes 數據, 耗電有多兇 "截至2024年, 資料中心的耗電量已經超過了整個俄亥俄州的用電量。現在2026, 仍在持續飆升, 預計2030年, 其耗電量將等於整個德州的用電量。許多資料中心開發商目前面臨的問題是, 根本沒有足夠的電力儲備"
+
+📍圖二, 資料中心的錢花去哪 如Oracle 和 CoreWeave 一個典型的 40 兆瓦資料中心, 建設成本約為 5 億美元。 當中一半, $250M 用於購買硬體設備（CPU, GPU, 和漲翻的記憶體等） 第二大宗是電力能源設備花費$70Ｍ
+
+Translate
+
+1
+
+2
+
+Log in or sign up for Threads See what people are talking about and join the conversation.
+
+Continue with Instagram
+
+[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+
+*   © 2026
+*   [Threads Terms](https://help.instagram.com/769983657850450)
+*   [Privacy Policy](https://help.instagram.com/515230437301944)
+*   [Cookies Policy](https://help.instagram.com/1896641480634370/)
+*   Report a problem 
+
+Say more with Threads
+
+Join Threads to share thoughts, find out what's going on, follow your people and more.
+
+Continue with Instagram
+
+```
+
+## 相關頁面
+
+<!-- [[]] -->
