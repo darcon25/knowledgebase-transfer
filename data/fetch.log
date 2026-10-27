@@ -846,3 +846,9 @@ fatal: Could not read fro
 [2026-10-27 02:23:50] ⚠️ git pull 失敗，仍檢查本機指令：From https://github.com/darcon25/knowledgebase-transfer
  * branch            mai
 [2026-10-27 08:42:56] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-10-27 18:39:48] === 開始抓取（64 檔）===
+[2026-10-27 18:39:51] ✅ 估值 61 檔（資料日 2026-10-22）
+[2026-10-27 18:39:52] ✅ 月營收 61 檔（2026-09）
+[2026-10-27 18:39:53] ✅ 毛利率 60 檔（2026Q2）
+[2026-10-27 18:41:26] ✅ 新聞 59/59 檔有結果
+[2026-10-27 18:41:26] === 抓取完成 ===

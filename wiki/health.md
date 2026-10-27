@@ -16,13 +16,13 @@ updated: 2026-10-27
 
 ## 尚未消化（7）
 
-- 尚未消化：raw/instagram_2026-10-22_6obc5qzo.md
-- 尚未消化：raw/instagram_2026-10-24_8vlx7dxe.md
-- 尚未消化：raw/instagram_2026-10-25_qht2qrjb.md
-- 尚未消化：raw/shot_2026-10-24_6obc5qzo.md
-- 尚未消化：raw/shot_2026-10-24_8vlx7dxe.md
-- 尚未消化：raw/shot_2026-10-25_qht2qrjb.md
-- 尚未消化：raw/threads_2026-10-26_h8x2s2wp.md
+- 尚未消化：raw/instagram_2026-10-22_全球晶圓廠建廠潮38座.md
+- 尚未消化：raw/instagram_2026-10-24_臻鼎AI轉型與毛利率.md
+- 尚未消化：raw/instagram_2026-10-25_AWS產能訂到2028電力記憶體缺.md
+- 尚未消化：raw/shot_2026-10-24_全球晶圓廠建廠潮38座.md
+- 尚未消化：raw/shot_2026-10-24_臻鼎AI轉型與毛利率.md
+- 尚未消化：raw/shot_2026-10-25_AWS產能訂到2028電力記憶體缺.md
+- 尚未消化：raw/threads_2026-10-26_Prismark高階PCB成長預測.md
 
 ## 疑似截斷（0）
 
@@ -44,9 +44,9 @@ updated: 2026-10-27
 
 ## 圖片尚未判讀（3）
 
-- 圖片尚未判讀：raw/shot_2026-10-24_6obc5qzo.md
-- 圖片尚未判讀：raw/shot_2026-10-24_8vlx7dxe.md
-- 圖片尚未判讀：raw/shot_2026-10-25_qht2qrjb.md
+- 圖片尚未判讀：raw/shot_2026-10-24_全球晶圓廠建廠潮38座.md
+- 圖片尚未判讀：raw/shot_2026-10-24_臻鼎AI轉型與毛利率.md
+- 圖片尚未判讀：raw/shot_2026-10-25_AWS產能訂到2028電力記憶體缺.md
 
 ## 斷連結（0）
 

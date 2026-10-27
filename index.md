@@ -2,7 +2,13 @@
 
 > 這份文件由 LLM 維護。公司頁與環節頁由 `tools/build_pages.py` 自動產生。
 
-**最後更新**：2026-10-21　**頁面總數**：96
+**最後更新**：2026-10-27　**頁面總數**：96
+
+> 🤖 2026-10-27 消化 10 個來源檔（6 則貼文 + 4 張讀圖），**未新增頁面**。補進
+> [[wiki/investing/themes/資料中心電力]]（AWS 產能訂到 2028、Oracle 德州 vs 新墨西哥場址對照）、[[wiki/investing/themes/AI資本支出的融資結構]]（Blue Owl／Nscale）、
+> [[wiki/investing/themes/半導體結構性失衡]]（TrendForce 10/26 交期表、全球新建 38 座 12 吋廠）、[[wiki/investing/themes/ABF載板隱性減產]]、
+> [[wiki/investing/chains/AI伺服器PCB鏈]]（Prismark：18 層以上 CAGR 30.3%、整體 2027–2030 放緩至 8.25%）、[[wiki/investing/segments/PCB]]；
+> 公司頁 4958、2330、6770、2408、2344。6 組亂碼 ID 檔名已改為可讀主題。
 
 > 🤖 2026-10-21 消化 14 個來源檔（9 則貼文 + 5 張讀圖），**未新增頁面**。補進
 > [[wiki/investing/chains/AI伺服器PCB鏈]]（TPCA 2026 展前十張圖卡總表；新增矛盾訊號：開展日 ABF／CCL 重挫 vs 缺料敘事）、
