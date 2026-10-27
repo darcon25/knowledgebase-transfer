@@ -1419,3 +1419,22 @@ frontmatter 已加 `original_id:`；15 檔 `git mv` 成功。同步更新 `data/
 `uovbgwf7` → `金居股價腰斬與營收背離`、`fd3r8gf9` → `玻纖布強ABF與CCL重挫盤勢`、`jdkv7fdd` → `TrendForce光纖供需缺口`、`rv3pjbie` → `欣興簡山傑設備交期30月`、`x39ugks3` → `聯發科TPU量產延後傳聞`（共 14 檔）。
 frontmatter 已加 `original_id:`；13 檔 `git mv` 成功，`shot_2026-10-21_金居股價腰斬與營收背離.md` 尚未被 git 追蹤，改用一般搬移。同步更新 `data/known_issues.json`、`data/ingested.json`。
 ⚠️ raw/ 只加 `original_id`，**shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名**；`raw/assets/` 圖檔未改名，嵌入仍有效。
+
+## [2026-10-27] ingest | 10 個來源檔（6 則貼文 + 4 張讀圖）
+
+全部走投資線，未新增頁面（overview 不需加連結）。
+- 臻鼎萬寶投顧輪播：整體毛利率 2025H1 16.5% → 2026H1 22.4%、ABF 長期毛利目標 50–60%、2027/2028/2029 時程 → 4958、[[ABF載板隱性減產]]（輪播只抓到 6 張中的 2 張）
+- TrendForce 全球新建 38 座 12 吋廠（台積電台灣 +17、美國 +7）→ 2330、6770、[[半導體結構性失衡]]
+- AWS 產能訂到 2028、電力與記憶體短缺過 2027 仍不會結束、2026 capex 約 2,200 億美元 → [[資料中心電力]]、2408、2344
+- Oracle 德州 115 MW 上線 vs 新墨西哥 0 MW（許可、管線、電網）→ [[資料中心電力]]、[[AI資本支出的融資結構]]
+- TrendForce 10/26 交期表：只有 MLCC 由 32 週拉長到 35 週，其餘與 09-28 期相同 → [[半導體結構性失衡]]、[[ABF載板隱性減產]]
+- Prismark PCB 2025–2030：18 層以上 CAGR 30.3%、整體 11%、2027–2030 8.25% → [[AI伺服器PCB鏈]]、[[PCB]]
+
+**名單外**：聯電、世界先進、勝宏科技、大量、定穎、Blue Owl、Nscale，未動 `tools/watchlist.py`。未動「我的論點」、未建 insights。
+
+## [2026-10-27] update | 6 組來源檔改名（亂碼 ID → 可讀主題）
+
+`6obc5qzo` → `全球晶圓廠建廠潮38座`、`8vlx7dxe` → `臻鼎AI轉型與毛利率`、`qht2qrjb` → `AWS產能訂到2028電力記憶體缺`、
+`h8x2s2wp` → `Prismark高階PCB成長預測`、`0nq1cs8f` → `資料中心卡在電力與許可`、`4xdkdqfr` → `TrendForce1026零組件交期`（共 10 檔，全部 `git mv` 成功）。
+frontmatter 已加 `original_id:`；同步更新 `data/known_issues.json`、`data/ingested.json`、`index.md`、`wiki/health.md`。
+⚠️ 照 10-21 的做法，shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名；`raw/assets/` 圖檔未改名，嵌入仍有效。
