@@ -1,0 +1,158 @@
+---
+tags:
+  - source
+  - social_media
+  - threads
+type: social_media
+platform: threads
+date_captured: 2026-10-28
+original_url: "https://www.threads.com/share/BAVDaa-snP"
+media_count: 10
+media_urls:
+  - "https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/855608058_122126463111370137_5177438941009652541_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAxMjQ2MDk2Mjg3ODY5MTkxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8yB2Ov4c71cQ7kNvwEcFcS4&_nc_oc=AdobF2e8aIaNqlUNCXqwYsG9G6AO3cYqT0WWxp7b4325Q1wM519QlMID2u-1WtGx-zM&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQS5a3WV_F7a6J1E9KyiYNChG1N0caazNrNk1igGy1a2yQ&oe=6AE74B97"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/855655109_122126463147370137_1103332717490280507_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAxMjQ2MDk2NDk3NTgwOTU0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=u8KBOJZttLMQ7kNvwGEpoEe&_nc_oc=Adq4X73bd12lWgmDWQy1p3aR0BMdgmWr-EG82t0gH8f7ibJsf2eXKsKlcmF5LWToS1M&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQTuRGTV-GNpZeIYwYU-4nvdANdF-W-6-yVtD6Q5n3iqlg&oe=6AE73510"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/857438969_122126463267370137_3800165938594448044_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAxMjQ2MDk2MzM5MDM4MDg4MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=3fW3ZQDgBd4Q7kNvwHwv2GL&_nc_oc=AdrJtuv8uO-_jMDmjQ9fsRDf5tnjntI--AE58lMyCKp0YTPhDKyHZtW2-GgdBsGZbG4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQT9IAq6axctmjRtaKL1brALX2lJxJlIoiaChonRdrKBew&oe=6AE739C4"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/854835411_122126463381370137_2162977327551127232_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAxMjQ2MDk2NDk0MjI4NDAyNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Bpgkez64wEYQ7kNvwG7t_ZT&_nc_oc=Adoy668Sv_adjFQir86NS44QKdH1eKSLpPis-xHNYF0dEOuSAPR87fG04O1mUKr4poU&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQTd2Ioe3LmH8q9eTx_zgBXGUG0iBsHK_TuaLlhipJQk8g&oe=6AE71791"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/858012228_122126463345370137_9090033013005344515_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMjQ2MDk2NDEwMzQyNjE2MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SKxevJmZW-sQ7kNvwGUNMnM&_nc_oc=Adrld_0G-zrjjDD-HAE-PWiSV7GeiwxHhz4GSrau03oqm4sO4fv-6MyIGieLTPjdzfo&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQSJJQkO7N5eVCn3ZVyZqF1sreXFZHx9cCKaUtiWzLwENg&oe=6AE723EE"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/857131698_122126463357370137_4986243844104340003_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAxMjQ2MDk2NTU5NjU5ODY4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=aMwJjr-KqWQQ7kNvwGL62Av&_nc_oc=AdqxAQkVyVRWPASj-k0EzWNPyITPtI66ZLEEArfFdhNdyynTMsVHXMMsRp1wmEBMIDs&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQSNRDZ4fsvrw3unYhYIDj7fZfz5uPQha4AeaT-DBepnZA&oe=6AE7356D"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/855562788_122126463243370137_7942372727974335686_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAxMjQ2MDk2NTE4NTU2MzYwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mpcpgx2HJ4kQ7kNvwGFI_Es&_nc_oc=Adr6ugwgXWuMlnBFP2K25MBrxwALKvVtGST4C4SuTZA-b-9wO4w07i424Sh-liOf2F8&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQTSkb7wr19L4BOaM2AVuTb_gDHdle7aeHy-ij6L2H32Nw&oe=6AE72C52"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/857603466_122126463249370137_2539824887310048212_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAxMjQ2MDk2NDU5ODM0Mjc2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7fq0lInz8sEQ7kNvwG1AlLQ&_nc_oc=AdqQ6YH7CJVLzmTZ7yh7viav47bJhC3e2utRDNCvZExDFdmtWGMf-cRwBZjf3I1TFlQ&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQS1WA43tRrTV7BR59vljFJ0fRyqKgHLhijUMSwwfaoi3g&oe=6AE74585"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/858284244_122126463327370137_7224743513264380163_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAxMjQ2MDk2NDg4MzU1MzI0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QHie62zRleQQ7kNvwE9YXuB&_nc_oc=AdpYtox7LS4vZ0c8w64XQQS9FYU_dJG-7zbOBWFCT1J95xz5cGqj9YrC-v9FSDH4BHU&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQRgO-xEs1a4vO-zxL5qwSXi_YAL8l_a-hST65X1Xrg_TQ&oe=6AE7289F"
+  - "https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/855074709_122126463351370137_9190118760460434657_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=NDAxMjQ2MDk2NDcwNzM5OTE0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6vBWKgty87AQ7kNvwEeOh1M&_nc_oc=AdqZB_ArreDw1ZFZx7z1Rez0VnReLUiYoUgDGWIdkjq1MBugrrSJfFeEvk5s60bd8dg&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQQLHDUwcEYHkE9NcXiiRUikUYUkLJJX9nr8xwi6lOoTVw&oe=6AE72DE5"
+---
+
+# 🧵 2026-10-28 存檔
+
+> 原文：[查看貼文](https://www.threads.com/share/BAVDaa-snP)
+
+## 摘要
+這篇貼文深入探討了AI晶片散熱設計的演進，指出隨著AI晶片發熱量增加，散熱設計趨勢是減少中間層、拆除不必要的蓋子，並提高單價。文章透過生動的比喻和名詞解釋，介紹了六種封裝散熱設計的演變，強調了「能少穿一件就少穿一件」的終極目標。
+
+## 重點整理
+*   **AI晶片散熱需求劇增：** 隨著AI晶片發熱量越來越大，散熱設計成為關鍵挑戰，且設計不斷改版。
+*   **散熱設計趨勢：** 核心趨勢是「蓋子越拆越多、層越來越少、單價一路往上」，目標是減少熱傳導路徑上的阻礙。
+*   **關鍵名詞解釋：** 介紹了TIM（熱介面材料）、Lid（金屬蓋子）和MCL（蓋子直接變冷板）三個重要概念，有助於理解散熱原理。
+*   **「少穿一件」原則：** 散熱的終極目標是減少熱從晶片傳導到冷板中間的層數，每多一層就多一段溫差。
+*   **設計演進方向：** 從「無蓋＋補強框」到「可拆蓋」，再到「MCL」，顯示了將「撐平整」和「導熱」功能分離，並最終將蓋子與冷卻功能整合的趨勢。
+
+## 關鍵概念
+*   **AI晶片散熱：** 針對AI晶片高功耗、高發熱特性所發展的散熱技術。
+*   **熱介面材料 (TIM)：** 填充晶片與散熱器之間微小縫隙的材料，提高熱傳導效率。
+*   **Lid (金屬蓋子)：** 覆蓋在晶片上的金屬蓋，主要功能是攤開熱量並維持封裝平整。
+*   **MCL (Micro-Channel Liquid Cooling Lid / 蓋子直接變冷板)：** 一種將冷卻功能直接整合到晶片蓋子中的設計，有效減少熱傳導層數。
+*   **熱傳導路徑優化：** 透過減少中間層、優化材料等方式，縮短熱從晶片傳導至散熱器的路徑，降低熱阻。
+
+## 可行動洞察
+*   **關注散熱技術發展：** AI產業的快速發展將持續推動散熱技術的創新。作為知識管理助手，應持續追蹤相關技術，特別是MCL等新興設計，並將其納入知識庫。
+*   **深入研究TIM材料：** TIM在散熱中扮演關鍵角色。可以進一步研究不同TIM材料的特性、應用場景及未來發展趨勢，例如液態金屬TIM等。
+*   **分析各散熱方案的成本效益：** 貼文提到「單價一路往上」，這表示先進散熱方案的成本是重要的考量因素。可以分析不同散熱設計的成本結構、製造難度及市場接受度。
+*   **探討散熱設計對晶片性能的影響：** 良好的散熱不僅能延長晶片壽命，更能確保晶片在高負載下維持最佳性能。可以深入研究散熱效率與晶片運算能力之間的關係。
+*   **應用「少穿一件」原則於其他領域：** 這種減少中間層、簡化流程的思維模式，不僅適用於散熱，也可以應用於其他需要優化效率、減少阻礙的領域，例如軟體架構設計、供應鏈管理等。
+
+## 主文圖片
+
+原貼文主文有 10 張圖。本機 `tools/fetch_media.py` 會下載成 `raw/shot_*.md`。
+（下列網址帶簽章，約一週後失效，僅作線索。）
+
+1. https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/855608058_122126463111370137_5177438941009652541_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAxMjQ2MDk2Mjg3ODY5MTkxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8yB2Ov4c71cQ7kNvwEcFcS4&_nc_oc=AdobF2e8aIaNqlUNCXqwYsG9G6AO3cYqT0WWxp7b4325Q1wM519QlMID2u-1WtGx-zM&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQS5a3WV_F7a6J1E9KyiYNChG1N0caazNrNk1igGy1a2yQ&oe=6AE74B97
+2. https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/855655109_122126463147370137_1103332717490280507_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAxMjQ2MDk2NDk3NTgwOTU0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=u8KBOJZttLMQ7kNvwGEpoEe&_nc_oc=Adq4X73bd12lWgmDWQy1p3aR0BMdgmWr-EG82t0gH8f7ibJsf2eXKsKlcmF5LWToS1M&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQTuRGTV-GNpZeIYwYU-4nvdANdF-W-6-yVtD6Q5n3iqlg&oe=6AE73510
+3. https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/857438969_122126463267370137_3800165938594448044_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAxMjQ2MDk2MzM5MDM4MDg4MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=3fW3ZQDgBd4Q7kNvwHwv2GL&_nc_oc=AdrJtuv8uO-_jMDmjQ9fsRDf5tnjntI--AE58lMyCKp0YTPhDKyHZtW2-GgdBsGZbG4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQT9IAq6axctmjRtaKL1brALX2lJxJlIoiaChonRdrKBew&oe=6AE739C4
+4. https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/854835411_122126463381370137_2162977327551127232_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAxMjQ2MDk2NDk0MjI4NDAyNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Bpgkez64wEYQ7kNvwG7t_ZT&_nc_oc=Adoy668Sv_adjFQir86NS44QKdH1eKSLpPis-xHNYF0dEOuSAPR87fG04O1mUKr4poU&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQTd2Ioe3LmH8q9eTx_zgBXGUG0iBsHK_TuaLlhipJQk8g&oe=6AE71791
+5. https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/858012228_122126463345370137_9090033013005344515_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMjQ2MDk2NDEwMzQyNjE2MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SKxevJmZW-sQ7kNvwGUNMnM&_nc_oc=Adrld_0G-zrjjDD-HAE-PWiSV7GeiwxHhz4GSrau03oqm4sO4fv-6MyIGieLTPjdzfo&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQSJJQkO7N5eVCn3ZVyZqF1sreXFZHx9cCKaUtiWzLwENg&oe=6AE723EE
+6. https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/857131698_122126463357370137_4986243844104340003_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAxMjQ2MDk2NTU5NjU5ODY4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=aMwJjr-KqWQQ7kNvwGL62Av&_nc_oc=AdqxAQkVyVRWPASj-k0EzWNPyITPtI66ZLEEArfFdhNdyynTMsVHXMMsRp1wmEBMIDs&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQSNRDZ4fsvrw3unYhYIDj7fZfz5uPQha4AeaT-DBepnZA&oe=6AE7356D
+7. https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/855562788_122126463243370137_7942372727974335686_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAxMjQ2MDk2NTE4NTU2MzYwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mpcpgx2HJ4kQ7kNvwGFI_Es&_nc_oc=Adr6ugwgXWuMlnBFP2K25MBrxwALKvVtGST4C4SuTZA-b-9wO4w07i424Sh-liOf2F8&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQTSkb7wr19L4BOaM2AVuTb_gDHdle7aeHy-ij6L2H32Nw&oe=6AE72C52
+8. https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/857603466_122126463249370137_2539824887310048212_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAxMjQ2MDk2NDU5ODM0Mjc2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7fq0lInz8sEQ7kNvwG1AlLQ&_nc_oc=AdqQ6YH7CJVLzmTZ7yh7viav47bJhC3e2utRDNCvZExDFdmtWGMf-cRwBZjf3I1TFlQ&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQS1WA43tRrTV7BR59vljFJ0fRyqKgHLhijUMSwwfaoi3g&oe=6AE74585
+9. https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/858284244_122126463327370137_7224743513264380163_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAxMjQ2MDk2NDg4MzU1MzI0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QHie62zRleQQ7kNvwE9YXuB&_nc_oc=AdpYtox7LS4vZ0c8w64XQQS9FYU_dJG-7zbOBWFCT1J95xz5cGqj9YrC-v9FSDH4BHU&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQRgO-xEs1a4vO-zxL5qwSXi_YAL8l_a-hST65X1Xrg_TQ&oe=6AE7289F
+10. https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/855074709_122126463351370137_9190118760460434657_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=NDAxMjQ2MDk2NDcwNzM5OTE0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6vBWKgty87AQ7kNvwEeOh1M&_nc_oc=AdqZB_ArreDw1ZFZx7z1Rez0VnReLUiYoUgDGWIdkjq1MBugrrSJfFeEvk5s60bd8dg&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQQLHDUwcEYHkE9NcXiiRUikUYUkLJJX9nr8xwi6lOoTVw&oe=6AE72DE5
+
+## 原文（Jina Reader）
+
+```
+Title: 股溜股溜 (@guliuguliu__888) on Threads
+
+URL Source: https://www.threads.com/share/BAVDaa-snP
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread](https://www.threads.com/@guliuguliu__888/post/DfAIfnvk_SG?xmt=AQG059VmW7ky_ojlAeY7cu9-IEzJM7LV_HkqMJb216ppj9CAsuX_tWg0gmQrN2_sA2I1Wghe&slof=1)
+
+8.3K views
+
+[![Image 1: guliuguliu__888's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722447623_18067845926419033_7265718511565988568_n.jpg?_nc_cat=109&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=aVaPZ8L3bdYQ7kNvwEtswTe&_nc_oc=AdoQZUM3cYx4pJlZUKMHrI3cll_-7OFxdmkzmVoOPT-AFTGxCrnfidIvIHpqEFU_XQc&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQSMJ42qGk8xywnXS9iN-1HkKgJruOPQ1yoXZKIXy5SAnQ&oe=6AE74170)](https://www.threads.com/@guliuguliu__888)
+
+[guliuguliu__888](https://www.threads.com/@guliuguliu__888)
+
+[散熱族群](https://www.threads.com/search?q=%E6%95%A3%E7%86%B1%E6%97%8F%E7%BE%A4&serp_type=tags&tag_id=18405806710104500)
+
+[11h](https://www.threads.com/@guliuguliu__888/post/DfAIfnvk_SG)
+
+【封裝散熱：六種散熱設計一次看懂】 AI晶片越來越燙，散熱設計也一直在改版～ 先講結論：蓋子越拆越多、層越來越少、單價一路往上 熱從晶片走到冷板，中間每多一層，就多一段溫差 想像大冬天穿了發熱衣＋毛衣＋羽絨外套，熱氣要從身體跑出去，每多一件就多卡一層 晶片也是一樣，散熱的終極目標就是：能少穿一件就少穿一件！ 嗨嗨這裡是股溜股溜( ˶'ᵕ'˶) 今天先帶大家認識三個名詞，再把六種封裝散熱設計排在一起看～ ▎先認識三個名詞 TIM：熱介面材料，填在晶片和蓋子（或冷板）之間的小縫隙 表面看起來很平，放大看其實坑坑巴巴，TIM 就像抹在吐司上的果醬，把縫縫都補滿，熱才傳得過去 Lid：蓋在晶片上的金屬蓋子，負責把熱攤開，也幫忙撐住封裝的平整 MCL：蓋子直接變冷板（！ 蓋子本身就帶著冷卻的功能，等於把中間那一層直接省掉 ▎1. 蓋子越拆越多 無蓋＋補強框 → 單片蓋 → 雙片蓋 → 可拆蓋 以前一片蓋子要同時「撐平整」又要「導熱」，一人分飾兩角 現在這兩件事一步步分給不同零件，各司其職～ ▎2. 層越來越少 可拆蓋在上機前就拆掉，冷板直接隔一層 TIM 貼在晶片上
+
+![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/855608058_122126463111370137_5177438941009652541_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAxMjQ2MDk2Mjg3ODY5MTkxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8yB2Ov4c71cQ7kNvwEcFcS4&_nc_oc=AdobF2e8aIaNqlUNCXqwYsG9G6AO3cYqT0WWxp7b4325Q1wM519QlMID2u-1WtGx-zM&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQS5a3WV_F7a6J1E9KyiYNChG1N0caazNrNk1igGy1a2yQ&oe=6AE74B97)
+
+guliuguliu__888
+
+![Image 3](https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/855655109_122126463147370137_1103332717490280507_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAxMjQ2MDk2NDk3NTgwOTU0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=u8KBOJZttLMQ7kNvwGEpoEe&_nc_oc=Adq4X73bd12lWgmDWQy1p3aR0BMdgmWr-EG82t0gH8f7ibJsf2eXKsKlcmF5LWToS1M&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQTuRGTV-GNpZeIYwYU-4nvdANdF-W-6-yVtD6Q5n3iqlg&oe=6AE73510)
+
+![Image 4](https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/857438969_122126463267370137_3800165938594448044_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAxMjQ2MDk2MzM5MDM4MDg4MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=3fW3ZQDgBd4Q7kNvwHwv2GL&_nc_oc=AdrJtuv8uO-_jMDmjQ9fsRDf5tnjntI--AE58lMyCKp0YTPhDKyHZtW2-GgdBsGZbG4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQT9IAq6axctmjRtaKL1brALX2lJxJlIoiaChonRdrKBew&oe=6AE739C4)
+
+![Image 5](https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/854835411_122126463381370137_2162977327551127232_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAxMjQ2MDk2NDk0MjI4NDAyNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Bpgkez64wEYQ7kNvwG7t_ZT&_nc_oc=Adoy668Sv_adjFQir86NS44QKdH1eKSLpPis-xHNYF0dEOuSAPR87fG04O1mUKr4poU&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQTd2Ioe3LmH8q9eTx_zgBXGUG0iBsHK_TuaLlhipJQk8g&oe=6AE71791)
+
+![Image 6](https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/858012228_122126463345370137_9090033013005344515_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMjQ2MDk2NDEwMzQyNjE2MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SKxevJmZW-sQ7kNvwGUNMnM&_nc_oc=Adrld_0G-zrjjDD-HAE-PWiSV7GeiwxHhz4GSrau03oqm4sO4fv-6MyIGieLTPjdzfo&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQSJJQkO7N5eVCn3ZVyZqF1sreXFZHx9cCKaUtiWzLwENg&oe=6AE723EE)
+
+![Image 7](https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/857131698_122126463357370137_4986243844104340003_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAxMjQ2MDk2NTU5NjU5ODY4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=aMwJjr-KqWQQ7kNvwGL62Av&_nc_oc=AdqxAQkVyVRWPASj-k0EzWNPyITPtI66ZLEEArfFdhNdyynTMsVHXMMsRp1wmEBMIDs&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQSNRDZ4fsvrw3unYhYIDj7fZfz5uPQha4AeaT-DBepnZA&oe=6AE7356D)
+
+![Image 8](https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/855562788_122126463243370137_7942372727974335686_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAxMjQ2MDk2NTE4NTU2MzYwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=mpcpgx2HJ4kQ7kNvwGFI_Es&_nc_oc=Adr6ugwgXWuMlnBFP2K25MBrxwALKvVtGST4C4SuTZA-b-9wO4w07i424Sh-liOf2F8&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQTSkb7wr19L4BOaM2AVuTb_gDHdle7aeHy-ij6L2H32Nw&oe=6AE72C52)
+
+![Image 9](https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/857603466_122126463249370137_2539824887310048212_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAxMjQ2MDk2NDU5ODM0Mjc2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7fq0lInz8sEQ7kNvwG1AlLQ&_nc_oc=AdqQ6YH7CJVLzmTZ7yh7viav47bJhC3e2utRDNCvZExDFdmtWGMf-cRwBZjf3I1TFlQ&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQS1WA43tRrTV7BR59vljFJ0fRyqKgHLhijUMSwwfaoi3g&oe=6AE74585)
+
+![Image 10](https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/858284244_122126463327370137_7224743513264380163_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAxMjQ2MDk2NDg4MzU1MzI0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QHie62zRleQQ7kNvwE9YXuB&_nc_oc=AdpYtox7LS4vZ0c8w64XQQS9FYU_dJG-7zbOBWFCT1J95xz5cGqj9YrC-v9FSDH4BHU&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQRgO-xEs1a4vO-zxL5qwSXi_YAL8l_a-hST65X1Xrg_TQ&oe=6AE7289F)
+
+![Image 11](https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/855074709_122126463351370137_9190118760460434657_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=NDAxMjQ2MDk2NDcwNzM5OTE0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6vBWKgty87AQ7kNvwEeOh1M&_nc_oc=AdqZB_ArreDw1ZFZx7z1Rez0VnReLUiYoUgDGWIdkjq1MBugrrSJfFeEvk5s60bd8dg&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=t3F78PrwA-CH6t--bBpJ0A&_nc_ss=7b289&oh=00_AQQLHDUwcEYHkE9NcXiiRUikUYUkLJJX9nr8xwi6lOoTVw&oe=6AE72DE5)
+
+210
+
+7
+
+28
+
+100
+
+Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+
+*   © 2026
+*   [Threads Terms](https://help.instagram.com/769983657850450)
+*   [Privacy Policy](https://help.instagram.com/515230437301944)
+*   [Cookies Policy](https://help.instagram.com/1896641480634370/)
+*   Report a problem
+
+```
+
+## 相關頁面
+
+<!-- [[]] -->
