@@ -1,1 +1,7 @@
-{}
+{
+  "raw/threads_2026-10-28_南亞M系列與漲價更新.md": {
+    "attempts": 1,
+    "last_error": "HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.threads.com/share/BAcEOrL-uF (Caused by NameResolutionError(\"HTTPSConnection(host='r.jina.ai', port=443): F",
+    "last_try": "2026-10-28T18:35:44"
+  }
+}

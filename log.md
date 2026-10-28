@@ -1438,3 +1438,19 @@ frontmatter 已加 `original_id:`；13 檔 `git mv` 成功，`shot_2026-10-21_�
 `h8x2s2wp` → `Prismark高階PCB成長預測`、`0nq1cs8f` → `資料中心卡在電力與許可`、`4xdkdqfr` → `TrendForce1026零組件交期`（共 10 檔，全部 `git mv` 成功）。
 frontmatter 已加 `original_id:`；同步更新 `data/known_issues.json`、`data/ingested.json`、`index.md`、`wiki/health.md`。
 ⚠️ 照 10-21 的做法，shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名；`raw/assets/` 圖檔未改名，嵌入仍有效。
+
+## [2026-10-28] ingest | 高盛大摩 TPCA 展後報告、元大欣興、南亞更新、六種封裝散熱設計、券商研究入口
+
+消化 10 個來源檔（6 則貼文 + 4 張讀圖），未新增頁面。
+- 公司頁事件時間軸：3037 欣興（元大目標價 1,010→1,300、季度預估）、8046 南電、2383 台光電（高盛 ABF CCL、PTFE 對照）、1303 南亞（M 系列占比、漲價、各細項毛利率）、3653 健策、3017 奇鋐、2330 台積電（矽內微柱 4–5.3 kW）
+- 驅動因素頁：ABF載板隱性減產、PTFE與材料世代轉換、玻纖布缺料、液冷散熱滲透率
+- 一般收藏：topics/投資資訊工具（五家賣方 + 四家外銀研究入口）
+- ⚠️ 糾錯：原筆記 AI 摘要把 EMC、TUC 當成材料，讀圖確認是公司代號；南亞「超車 M9 挑戰 M10」出自 Related threads 他人貼文
+未動「我的論點」、未建 insights。
+
+## [2026-10-28] update | 6 組來源檔改名（亂碼 ID → 可讀主題）
+
+`51ho1xd2` → `高盛大摩TPCA展報告`、`6ncj34g0` → `南亞M系列與漲價更新`、`8jsan66y` → `元大欣興目標價1300`、
+`9sj7m568` → `四家外銀研究入口`、`jodcp57i` → `五家賣方免費研究連結`、`rirshxfx` → `六種封裝散熱設計`（共 10 檔，全部 `git mv` 成功）。
+frontmatter 已加 `original_id:`；同步更新 `data/known_issues.json`、`data/media_retry.json`、`data/ingested.json`、`index.md`。
+照既有做法，shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名；`raw/assets/` 圖檔未改名，嵌入仍有效。

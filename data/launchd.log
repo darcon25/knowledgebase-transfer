@@ -3525,3 +3525,73 @@ raw/threads_2026-10-27_4xdkdqfr.md
    數字不符: 0
    資料過期: 0
 ===== 2026-10-27 20:38:26 每日更新結束 =====
+----- git pull -----
+fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': Could not resolve host: github.com
+⚠️ git pull 失敗，繼續用本機現有檔案（可能漏掉 n8n 新存的）
+===== 2026-10-28 18:35:33 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-10-28 18:35:33] === 開始抓取（64 檔）===
+[2026-10-28 18:35:33] ⚠️  第 1/3 次失敗：https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL — HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/exchangeReport/BWIBBU_ALL (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-28 18:35:38] ⚠️  第 2/3 次失敗：https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL — HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/exchangeReport/BWIBBU_ALL (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-28 18:35:43] ⚠️  第 3/3 次失敗：https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL — HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/exchangeReport/BWIBBU_ALL (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-10-28 18:35:43] ❌ 抓取中止：https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL 重試 3 次仍失敗：HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/exchangeReport/BWIBBU_ALL (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
+⏭  2026Q2.json 已有 61 家，跳過
+⏭  2026Q1.json 已有 61 家，跳過
+⏭  2025Q4.json 已有 61 家，跳過
+⏭  2025Q3.json 已有 61 家，跳過
+⏭  2025Q2.json 已有 61 家，跳過
+⏭  2025Q1.json 已有 59 家，跳過
+⏭  2024Q4.json 已有 61 家，跳過
+⏭  2024Q3.json 已有 59 家，跳過
+
+完成：新增/更新 0 季，跳過 8 季
+
+[1] threads_2026-10-28_6ncj34g0.md
+    https://www.threads.com/share/BAcEOrL-uF
+    ❌ 讀不到原貼文（第 1 次失敗）：HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.threads.com/share/BAcEOrL-uF (Caused by NameResolutionError("HTTPSConnection(host='r.jina.ai', port=443): Failed to resolve 'r.jina.ai' ([Errno 8] nodename nor servname provided, or not known)"))
+
+===== 完成 =====
+處理 1 篇：補到圖 0 篇、確認沒圖 0 篇、失敗 1 篇、原貼文已不存在 0 篇
+  ❌ threads_2026-10-28_6ncj34g0.md：HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.threads（累計 1 次）
+[2026-10-28 18:35:47] 沒有待讀圖的檔案，不啟動 Claude
+✅ 頁面：新建 0、更新 77（營收 2026-09、估值 2026-10-27、毛利率 2026Q2）
+✅ 今日值得注意：估值跳動 5、動能轉折 22、值得推播 4 項
+[2026-10-28 18:35:48] 發現 10 個未消化檔案，啟動自動消化
+raw/shot_2026-10-28_51ho1xd2.md
+raw/shot_2026-10-28_8jsan66y.md
+raw/shot_2026-10-28_jodcp57i.md
+raw/shot_2026-10-28_rirshxfx.md
+raw/threads_2026-10-28_51ho1xd2.md
+raw/threads_2026-10-28_6ncj34g0.md
+raw/threads_2026-10-28_8jsan66y.md
+raw/threads_2026-10-28_9sj7m568.md
+raw/threads_2026-10-28_jodcp57i.md
+raw/threads_2026-10-28_rirshxfx.md
+這 10 個檔案都消化完了，沒有新增頁面。我沒有跑 `git diff` 確認改動只增不刪（那個指令需要你核准）；不過每段新內容都插在 `AUTO:END` 之後、「還缺什麼」之前，自動產生的區塊沒有動到。
+
+- **公司頁事件時間軸**：更新了 3037 欣興、8046 南電、2383 台光電、1303 南亞、3653 健策、3017 奇鋐、2330 台積電七頁。重點有：元大把欣興目標價從 1,010 調到 1,300 元並附季度預估、高盛與大摩看完 TPCA 展後的 PCB 偏好排名、南亞 M 系列營收占比與漲價節奏、六種封裝散熱設計各對應哪家台廠。
+- **驅動因素頁與一般收藏**：在「ABF 載板隱性減產」「PTFE 與材料世代轉換」「玻纖布缺料」「液冷散熱滲透率」四頁各加一段。另外兩篇只是券商研究網站連結，歸進 `topics/投資資訊工具`。
+- **抓到的錯**：
+  - 原筆記的 AI 摘要把 EMC、TUC 當成材料，讀圖後確認是公司代號。
+  - 摘要說兩份外資報告「聚焦 ABF」，其實第 3 張圖整張講的是 PTFE。
+  - 「南亞超車 M9」那句出自別人的貼文，不是南亞自己說的。
+  
+  這三點都已在頁面上用 ⚠️ 標出。
+- **一個需要你判斷的地方**：圖上沒寫 EMC、TUC 對應台股哪家公司。我依貼文「看好台光電跨入 ABF CCL」把 EMC 的內容記在台光電頁，頁上也註明了這是推斷。TUC 沒有寫進任何公司頁。
+- **改名與收尾**：6 組亂碼檔名都已用 `git mv` 改成看得懂的主題（例如 `threads_2026-10-28_六種封裝散熱設計.md`），frontmatter 補了 `original_id`。`data/ingested.json`（新增 10 筆）、`known_issues.json`、`media_retry.json`、`index.md`、`log.md` 都已同步更新。
+
+依照之前的做法，`raw/` 裡讀圖檔的 `source_note` 與對應筆記連結仍指向舊檔名，圖片檔也沒改名，圖片顯示不受影響。
+✅ 已送出
+✅ 健檢完成：4 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 0
+   疑似截斷: 0
+   圖片未確認: 1
+   圖片張數對不上: 3
+   圖片連結壞掉: 0
+   圖片尚未判讀: 0
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+⚠️ 失敗階段：抓取 
+===== 2026-10-28 20:14:09 每日更新結束 =====

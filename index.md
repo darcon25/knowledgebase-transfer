@@ -2,7 +2,12 @@
 
 > 這份文件由 LLM 維護。公司頁與環節頁由 `tools/build_pages.py` 自動產生。
 
-**最後更新**：2026-10-27　**頁面總數**：96
+**最後更新**：2026-10-28　**頁面總數**：96
+
+> 🤖 2026-10-28 消化 10 個來源檔（6 則貼文 + 4 張讀圖），**未新增頁面**。補進
+> [[wiki/investing/themes/ABF載板隱性減產]]（高盛／大摩 TPCA 展後：缺口 2027–28 加深、ABF 壓合機交期 2 年+）、[[wiki/investing/themes/PTFE與材料世代轉換]]（PTFE 良率 10–15% vs M9+Q-glass 80–90%）、
+> [[wiki/investing/themes/玻纖布缺料]]、[[wiki/investing/themes/液冷散熱滲透率]]（六種封裝散熱設計、單價 US$10→200+）、[[wiki/topics/投資資訊工具]]（9 家券商公開研究入口）；
+> 公司頁 3037、8046、2383、1303、3653、3017、2330。6 組亂碼 ID 檔名已改為可讀主題。
 
 > 🤖 2026-10-27 消化 10 個來源檔（6 則貼文 + 4 張讀圖），**未新增頁面**。補進
 > [[wiki/investing/themes/資料中心電力]]（AWS 產能訂到 2028、Oracle 德州 vs 新墨西哥場址對照）、[[wiki/investing/themes/AI資本支出的融資結構]]（Blue Owl／Nscale）、
