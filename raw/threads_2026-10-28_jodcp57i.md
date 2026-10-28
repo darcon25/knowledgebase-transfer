@@ -1,0 +1,125 @@
+---
+tags:
+  - source
+  - social_media
+  - threads
+type: social_media
+platform: threads
+date_captured: 2026-10-28
+original_url: "https://www.threads.com/share/_7FnYjKX9"
+media_count: 2
+media_urls:
+  - "https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8334049388374128110?url=https%3A%2F%2Fwww.citigroup.com%2Frcs%2Fv1%2FsiteIds%2Fcitigpa%2Fasset%2F66b6da6c475c6d4ff9504595.jpg&utld=citigroup.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=axEzsqqeYhRN-PjcM6xe4A&_nc_zt=3&oh=06_Q3_EAXLycMFXpjJN1TRD0Hh_bJppr9UGiDHtFjSOCFZgr7H3&oe=6AE356E2"
+  - "https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/6898964359611080682?url=https%3A%2F%2Fwww.citigroup.com%2Fglobal%2Fcitigroup-ui%2Fakpublic%2Fimages%2Fgpa_favicon.ico&utld=citigroup.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=axEzsqqeYhRN-PjcM6xe4A&_nc_zt=3&oh=06_Q3_EAXJljyQ1yJK4jHedqvo6JZrrMF_zMkD_atIZwL2qTskX&oe=6AE339AA"
+---
+
+# 🧵 2026-10-28 存檔
+
+> 原文：[查看貼文](https://www.threads.com/share/_7FnYjKX9)
+
+## 摘要
+這則貼文分享了五家主要賣方銀行（高盛、摩根大通、摩根士丹利、美國銀行、花旗）提供免費研究報告的連結。作者建議將這些連結收藏起來，定期瀏覽，以獲取深入且有價值的投資點子，甚至提出可以利用AI來自動化這個過程。
+
+## 重點整理
+*   **免費研究報告來源：** 貼文提供了五家知名賣方銀行（Goldman Sachs, JPM, Morgan Stanley, BofA, Citi）的官方研究報告入口連結。
+*   **報告價值：** 這些報告被認為內容深入，且能提供有價值的投資點子。
+*   **獲取頻率：** 報告是不定期發布的，需要持續關注。
+*   **建議操作：** 建議使用者將這些連結加入書籤，並每天固定刷閱，以不錯過新發布的報告。
+*   **AI應用潛力：** 作者提出可以利用AI來自動化監控和整理這些報告的流程。
+
+## 關鍵概念
+*   **賣方銀行（Sell-side banks）：** 指那些提供研究、交易、銷售等服務給機構投資者和企業的金融機構。其研究報告通常是免費提供給客戶，但有時也會公開部分內容。
+*   **投資研究報告（Investment Research Reports）：** 由金融分析師撰寫，分析特定公司、行業或宏觀經濟趨勢，旨在提供投資建議和洞察。
+*   **書籤（Bookmarks）：** 瀏覽器功能，用於保存網頁連結以便快速再次訪問。
+*   **AI自動化（AI Automation）：** 利用人工智慧技術來執行重複性或耗時的任務，例如自動抓取、分析或摘要網路內容。
+
+## 可行動洞察
+*   **建立研究報告資料庫：** 我可以立即將貼文中的五個連結加入我的瀏覽器書籤，並創建一個專門的資料夾來存放這些重要的金融研究來源。
+*   **定期瀏覽習慣：** 規劃一個固定的時間（例如每天早上或每週一次）來瀏覽這些銀行的研究頁面，以獲取最新的市場洞察和投資機會。
+*   **探索AI工具應用：** 研究是否有現成的AI工具或我可以自行開發的簡單腳本，來自動監控這些網站的更新，並將新發布的報告摘要或通知我，以提高效率。
+*   **擴展研究來源：** 以此為起點，進一步探索其他可靠的免費或付費金融研究報告來源，例如其他投行、獨立研究機構或學術機構。
+*   **分析報告內容：** 不僅是閱讀，更要學習如何分析這些專業報告的結構、論點和數據，提升自己的金融分析能力。
+
+## 主文圖片
+
+原貼文主文有 2 張圖。本機 `tools/fetch_media.py` 會下載成 `raw/shot_*.md`。
+（下列網址帶簽章，約一週後失效，僅作線索。）
+
+1. https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8334049388374128110?url=https%3A%2F%2Fwww.citigroup.com%2Frcs%2Fv1%2FsiteIds%2Fcitigpa%2Fasset%2F66b6da6c475c6d4ff9504595.jpg&utld=citigroup.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=axEzsqqeYhRN-PjcM6xe4A&_nc_zt=3&oh=06_Q3_EAXLycMFXpjJN1TRD0Hh_bJppr9UGiDHtFjSOCFZgr7H3&oe=6AE356E2
+2. https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/6898964359611080682?url=https%3A%2F%2Fwww.citigroup.com%2Fglobal%2Fcitigroup-ui%2Fakpublic%2Fimages%2Fgpa_favicon.ico&utld=citigroup.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=axEzsqqeYhRN-PjcM6xe4A&_nc_zt=3&oh=06_Q3_EAXJljyQ1yJK4jHedqvo6JZrrMF_zMkD_atIZwL2qTskX&oe=6AE339AA
+
+## 原文（Jina Reader）
+
+```
+Title: @s31f_du311 on Threads
+
+URL Source: https://www.threads.com/share/_7FnYjKX9
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread](https://www.threads.com/@s31f_du311/post/De_65pAj-5s?xmt=AQG0wwwsCeXzQh9Q_FiimIMipNfuCXIl5Y9-DsKD2bd1edd-hbyP54pnpEyC4elt9Q_TlFk&slof=1)
+
+16.6K views
+
+[![Image 1: s31f_du311's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/848110739_18151402156586385_3546534885962424705_n.jpg?_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=jn8kj7yQ4NkQ7kNvwHot37j&_nc_oc=Adoag8CBr8z1iDMiaGM_CmU5AThAGmhpwBdxlT8z5qB_xn7Jq4jPSxUJcsuxAKMbyfQ&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=axEzsqqeYhRN-PjcM6xe4A&_nc_ss=7b289&oh=00_AQTwBqClQKJXuQ3UV-_nbp0iWe5kYzmGKSIcnQtOEWSORQ&oe=6AE74128)](https://www.threads.com/@s31f_du311)
+
+[s31f_du311](https://www.threads.com/@s31f_du311)
+
+[13h](https://www.threads.com/@s31f_du311/post/De_65pAj-5s)
+
+這篇非常適合收藏起來，開一個視窗全部加到書籤裡，每天固定刷一刷(乾脆叫AI做)
+
+來自LeoPTrudel 2026/10/27 11:24
+
+賣方銀行（sell-side banks）提供的免費研究報告可透過下方連結取得。他們會不定期發布這些報告，其中有些內容非常深入，或是能提供非常有價值的投資點子。
+
+Goldman Sachs: [goldmansachs.com/insig…](https://l.threads.com/?u=https%3A%2F%2Fgoldmansachs.com%2Finsights%2Freports&e=AUD633s-V_4D_R3AUiFlYcuhj3wuiH3bP2t2IGdkixQUnfIwWb9mqiaw5jT83CeDzcbrKR_gKW_Lca-yvZKWZdOVWP_3THaQ4dD-t0FqVMNYoJElGT4) JPM: [jpmorgan.com/insig…](https://l.threads.com/?u=https%3A%2F%2Fjpmorgan.com%2Finsights%2Fglobal-research&e=AUD633s-V_4D_R3AUiFlYcuhj3wuiH3bP2t2IGdkixQUnfIwWb9mqiaw5jT83CeDzcbrKR_gKW_Lca-yvZKWZdOVWP_3THaQ4dD-t0FqVMNYoJElGT4) Morgan Stanley: [morganstanley.com/insig…](https://l.threads.com/?u=https%3A%2F%2Fmorganstanley.com%2Finsights&e=AUD633s-V_4D_R3AUiFlYcuhj3wuiH3bP2t2IGdkixQUnfIwWb9mqiaw5jT83CeDzcbrKR_gKW_Lca-yvZKWZdOVWP_3THaQ4dD-t0FqVMNYoJElGT4) BofA: [business.bofa.com/en-us…](https://l.threads.com/?u=https%3A%2F%2Fbusiness.bofa.com%2Fen-us%2Fcontent%2Fmarket-strategies-insights.html&e=AUD633s-V_4D_R3AUiFlYcuhj3wuiH3bP2t2IGdkixQUnfIwWb9mqiaw5jT83CeDzcbrKR_gKW_Lca-yvZKWZdOVWP_3THaQ4dD-t0FqVMNYoJElGT4) Citi: [citigroup.com/globa…](https://l.threads.com/?u=https%3A%2F%2Fcitigroup.com%2Fglobal%2Finsights%2Ftags%2Fciti-research&e=AUD633s-V_4D_R3AUiFlYcuhj3wuiH3bP2t2IGdkixQUnfIwWb9mqiaw5jT83CeDzcbrKR_gKW_Lca-yvZKWZdOVWP_3THaQ4dD-t0FqVMNYoJElGT4)
+
+[![Image 2: Research](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8334049388374128110?url=https%3A%2F%2Fwww.citigroup.com%2Frcs%2Fv1%2FsiteIds%2Fcitigpa%2Fasset%2F66b6da6c475c6d4ff9504595.jpg&utld=citigroup.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=axEzsqqeYhRN-PjcM6xe4A&_nc_zt=3&oh=06_Q3_EAXLycMFXpjJN1TRD0Hh_bJppr9UGiDHtFjSOCFZgr7H3&oe=6AE356E2) ![Image 3](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/6898964359611080682?url=https%3A%2F%2Fwww.citigroup.com%2Fglobal%2Fcitigroup-ui%2Fakpublic%2Fimages%2Fgpa_favicon.ico&utld=citigroup.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=axEzsqqeYhRN-PjcM6xe4A&_nc_zt=3&oh=06_Q3_EAXJljyQ1yJK4jHedqvo6JZrrMF_zMkD_atIZwL2qTskX&oe=6AE339AA) citigroup.com Research](https://l.threads.com/?u=https%3A%2F%2Fcitigroup.com%2Fglobal%2Finsights%2Ftags%2Fciti-research&e=AUBTndsmu6BiTDRpGk_9emebtRZaCL1R-cNN8X3VbZaA5L45lVDf_6IfWaG21zPa1acE_lRyZhpoh-7N1-2iOyYXOojD3WbrGxJZQwIMLkau97WqZYA)
+
+346
+
+17
+
+95
+
+534
+
+Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+
+*   © 2026
+*   [Threads Terms](https://help.instagram.com/769983657850450)
+*   [Privacy Policy](https://help.instagram.com/515230437301944)
+*   [Cookies Policy](https://help.instagram.com/1896641480634370/)
+*   Report a problem
+
+```
+
+## 相關頁面
+
+<!-- [[]] -->
