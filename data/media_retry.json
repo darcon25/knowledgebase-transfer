@@ -1,22 +1,22 @@
 {
   "raw/threads_2026-10-28_南亞M系列與漲價更新.md": {
-    "attempts": 2,
+    "attempts": 3,
     "last_error": "HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.threads.com/share/BAcEOrL-uF (Caused by NameResolutionError(\"HTTPSConnection(host='r.jina.ai', port=443): F",
-    "last_try": "2026-10-29T09:06:32"
+    "last_try": "2026-10-29T15:33:01"
   },
   "raw/threads_2026-10-28_ekg2x590.md": {
-    "attempts": 1,
+    "attempts": 2,
     "last_error": "HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.threads.com/share/BAtyWCfKWx (Caused by NameResolutionError(\"HTTPSConnection(host='r.jina.ai', port=443): F",
-    "last_try": "2026-10-29T09:06:23"
+    "last_try": "2026-10-29T15:32:51"
   },
   "raw/threads_2026-10-28_w8y4fcy6.md": {
-    "attempts": 1,
+    "attempts": 2,
     "last_error": "HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.threads.com/share/BAhUKzoHTi (Caused by NameResolutionError(\"HTTPSConnection(host='r.jina.ai', port=443): F",
-    "last_try": "2026-10-29T09:06:26"
+    "last_try": "2026-10-29T15:32:54"
   },
   "raw/threads_2026-10-28_yqaf068x.md": {
-    "attempts": 1,
+    "attempts": 2,
     "last_error": "HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.threads.com/share/BAPSR9GatH (Caused by NameResolutionError(\"HTTPSConnection(host='r.jina.ai', port=443): F",
-    "last_try": "2026-10-29T09:06:29"
+    "last_try": "2026-10-29T15:32:57"
   }
 }
