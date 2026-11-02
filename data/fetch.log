@@ -890,3 +890,25 @@ fatal: Could not read fro
 [2026-10-29 18:44:50] ❌ 抓取中止：https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL 重試 3 次仍失敗：HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/exchangeReport/BWIBBU_ALL (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
 [2026-10-29 19:06:19] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
 [2026-10-30 09:39:06] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': F
+[2026-10-30 13:20:10] === 開機檢查開始 ===
+[2026-10-30 13:20:20] ✅ 網路正常｜⚠️ git pull 跳過（fatal: Cannot fast-forward to multiple branches.）
+[2026-10-30 13:20:23] ✅ 已通知：11 項待處理
+[2026-10-30 18:36:55] === 開始抓取（64 檔）===
+[2026-10-30 18:36:56] ✅ 估值 61 檔（資料日 2026-10-29）
+[2026-10-30 18:36:57] ✅ 月營收 61 檔（2026-09）
+[2026-10-30 18:36:57] ✅ 毛利率 60 檔（2026Q2）
+[2026-10-30 19:11:08] ✅ 新聞 59/59 檔有結果
+[2026-10-30 19:11:08] === 抓取完成 ===
+[2026-10-31 18:30:07] === 開始抓取（64 檔）===
+[2026-10-31 18:30:10] ✅ 估值 61 檔（資料日 2026-10-30）
+[2026-10-31 18:30:11] ✅ 月營收 61 檔（2026-09）
+[2026-10-31 18:30:11] ✅ 毛利率 60 檔（2026Q2）
+[2026-10-31 18:31:35] ✅ 新聞 59/59 檔有結果
+[2026-10-31 18:31:35] === 抓取完成 ===
+[2026-11-01 18:30:04] === 開始抓取（64 檔）===
+[2026-11-01 18:30:06] ✅ 估值 61 檔（資料日 2026-10-30）
+[2026-11-01 18:30:07] ✅ 月營收 61 檔（2026-09）
+[2026-11-01 18:30:07] ✅ 毛利率 10 檔（2026Q3）
+[2026-11-01 18:46:54] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%81%A5%E7%AD%96%203653&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%81%A5%E7%AD%96%203653&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NewConnectionError("HTTPSConnection(host='news.google.com', port=443): Failed to establish a new connection: [Errno 51] Network is unreachable"))
+[2026-11-01 18:47:43] ✅ 新聞 59/59 檔有結果
+[2026-11-01 18:47:43] === 抓取完成 ===

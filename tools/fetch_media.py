@@ -41,6 +41,7 @@ PAUSE = 3  # r.jina.ai 免費額度有速率限制，篇與篇之間停一下
 # Jina 轉出來的 markdown 圖片：![Image 3: 某某's profile picture](網址)
 IMG_RE = re.compile(r"!\[Image \d+(?::\s*(?P<alt>[^\]]*))?\]\((?P<url>https?://[^)\s]+)\)")
 VIDEO_HINT = "having trouble playing this video"
+TAG_LINK_RE = re.compile(r"[^\]\n]*\]\(https://www\.threads\.com/search\?[^)]*serp_type=tags")
 
 # 原貼文被刪除／改私密時，Threads 會把 /share/ 連結導回首頁。
 # ⚠️ 這是會污染資料的坑（2026-10-19 查到）：Jina 這時回的是**首頁推薦牆**，
@@ -143,15 +144,19 @@ def extract_main_media(markdown: str) -> list:
 
     out, seen = [], set()
     for pos, stop, alt, url in hits:
-        if pos >= end or is_profile_pic(alt, url):
+        # 作者也會在內文插 giphy 動圖當裝飾（2026-11-02 欣興那篇），跟留言區梗圖一樣排除
+        if pos >= end or is_profile_pic(alt, url) or not is_content_image(url):
             continue
         key = url.split("?")[0]
         if key in seen:
             continue
         seen.add(key)
-        # 影片只抓得到縮圖，標記出來免得日後誤以為圖抓壞了。
         # ⚠️ 要從比對結束的位置往後看——圖片網址本身就可能長達七百字元。
         tail = markdown[stop:stop + 300]
+        # Threads 話題標籤（例如「Investing」）前面的小圖示不是貼文內容（2026-11-02 查到）
+        if TAG_LINK_RE.match(tail):
+            continue
+        # 影片只抓得到縮圖，標記出來免得日後誤以為圖抓壞了。
         out.append({"url": url, "alt": alt, "is_video": VIDEO_HINT in tail})
     return out
 
@@ -363,6 +368,16 @@ def main() -> int:
                 failed.append((path.name, f"{e}（累計 {n} 次）"))
                 time.sleep(PAUSE)
                 continue
+
+        # ⚠️ Jina 同一則貼文每次回的內容不一樣（2026-11-02 查到）：有時主文的圖不在，
+        # 單次「沒圖」不可當定論，否則永久記進 known_issues 再也不重試。
+        # n8n 當初存到真內容圖（t51.*-15，與 health_check 同標準）時，改用備援，下載不到就記失敗重試。
+        if not media:
+            declared = [m for m in frontmatter_media(text)
+                        if re.search(r"/t51\.[\d.]+-15/", m["url"])]
+            if declared:
+                log(f"    ↩️ Jina 這次沒看到主文的圖，但 n8n 存過 {len(declared)} 張內容圖，改用備援")
+                media = declared
 
         if not media:
             log("    · 主文沒有圖")

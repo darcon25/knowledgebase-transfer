@@ -6,8 +6,9 @@ type: screenshot
 date_captured: 2026-10-30
 image: assets/threads_2026-10-28_yqaf068x_01.jpg
 original_url: "https://www.threads.com/share/BAPSR9GatH"
-image_count: 3
-expected_min: 3
+original_id: yqaf068x
+image_count: 4
+expected_min: 4
 captured_by: fetch_media
 source_note: "threads_2026-10-28_yqaf068x.md"
 status: 已讀圖
@@ -25,6 +26,8 @@ n8n 管道把這些網址丟掉了，所以由本機補。
 
 ![[threads_2026-10-28_yqaf068x_01.jpg]]
 
+![[threads_2026-10-28_yqaf068x_02.jpg]]
+
 ![[threads_2026-10-28_yqaf068x_03.jpg]]
 
 ![[threads_2026-10-28_yqaf068x_04.jpg]]
@@ -33,7 +36,7 @@ n8n 管道把這些網址丟掉了，所以由本機補。
 
 KeyBanc Capital Markets 2026-10-26 的博通（AVGO）Company Update，分析師 John Vinh, CFA、Ryan Rosumny、Tracy Bai。
 
-⚠️ **圖片不完整**：原筆記寫主文有 4 張圖，本機只有 `_01`、`_03`、`_04` 三張，**`_02` 沒下載到**。下面的「圖 1～3」對應檔名 01、03、04。
+原本 `_02` 沒下載到，**2026-11-02 已補抓**，內容見下方「補圖｜Meta MTIA 路線圖」。「圖 1～3」對應檔名 01、03、04。
 
 ### 圖 1｜報告首頁：Broadcom Wins Anthropic ASIC
 
@@ -82,6 +85,21 @@ KeyBanc Capital Markets 2026-10-26 的博通（AVGO）Company Update，分析師
 3. **Google TPU**：AVGO／MTK 的分工看法不變；加入 TPU v9i（Whale Fish）：N3 製程，用兩顆 Sun Fish die 組成的 MCM。預期 AVGO 保有 Merope/Blade Runner（TPU v10i，台積電 N2P），**v10i 有 16 個 compute dies，Sun Fish 只有 2 個**，ASP 會明顯提升。AVGO 保有效能較高的推論 TPU，MTK 保有訓練 TPU（Zebra Fish、Humu Fish、Ice Fish）。
 4. **OpenAI Jalapeño 今年放量（100K 顆）**。先前寫 2H27 量產是筆誤，實際 2H26 量產、今年生產 100K 顆。
 
+### 補圖｜Meta MTIA 路線圖（檔名 _02，2026-11-02 補抓）
+
+| 晶片／版本 | 時程 | 得標者 | 說明 |
+|---|---|---|---|
+| MTIA 400 Iris（training） | 2H26 放量 | Broadcom | 只有訓練版；Iris 原有推論版，已**取消** |
+| MTIA 450 Arke（inference） | 1Q27 放量 | Broadcom | 原本開放 MRVL/MTK 競標，最後給 AVGO；較高階的 Arke 訓練 SKU（AVGO）原訂 1Q27 放量，**已取消** |
+| MTIA 500 Olympus（training） | **取消** | Broadcom | 已取消，由 Phoebe/Apollo（MTIA v600/v700）取代 |
+| MTIA 500 Astrid（inference） | 2H27 放量 | Broadcom | — |
+| MTIA 600 Phoebe（inference） | 2027 年底量產 | **GUC 創意** | AVGO 輸掉次世代推論案給 GUC，價格可能是關鍵 |
+| MTIA 700 Apollo（training） | 2028 放量 | Broadcom / MediaTek | 先前說給 MTK，進一步查證後**尚未決標** |
+| MTIA 800 Etha | 2028 年底／1H29 放量 | Broadcom / MediaTek | — |
+| Total MTIA | | Broadcom | **2026 年 30–50 萬顆，2027 年 60–80 萬顆** |
+
+與圖 1 內文一致：Apollo 未決標、GUC 拿下 Phoebe。新增資訊是 MTIA 總量與 Arke 歸 AVGO。
+
 ### 圖 2｜Google TPU 與 OpenAI 路線圖表
 
 | 晶片／版本 | 時程 | 得標者 | 說明 | 規模 |
@@ -123,7 +141,8 @@ OpenAI 表：**Jalapeno — Broadcom**。先前說 2H27 量產是筆誤，**2H26
 
 ### 為什麼這幾張圖重要
 
-原筆記的文字摘要只有貼文作者轉述的四點，**沒有任何出貨量、CoWoS 配額、財測數字**。這三張圖補上了：
+原筆記的文字摘要只有貼文作者轉述的四點，**沒有任何出貨量、CoWoS 配額、財測數字**。這四張圖補上了：
+- **Meta MTIA 逐代得標者與總量**（2026 年 30–50 萬、2027 年 60–80 萬顆）
 - **Google TPU 逐代得標者與出貨量**（2026 年 4M、2027 年 8.3M），以及 AVGO／MTK 的 CoWoS 承諾量（250K→450K vs 30K→180K）
 - **Intel EMIB-T 切入 TPU 與 Anthropic ASIC 的具體營收估計**（$12.5–15B、$40–80B）
 - KeyBanc 對 AVGO 的 EPS／營收預估、目標價 $575、F27/F28 AI 營收 $115B/$230B

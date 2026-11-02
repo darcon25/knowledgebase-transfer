@@ -2,7 +2,18 @@
 
 > 這份文件由 LLM 維護。公司頁與環節頁由 `tools/build_pages.py` 自動產生。
 
-**最後更新**：2026-10-28　**頁面總數**：96
+**最後更新**：2026-11-02　**頁面總數**：96
+
+> 🤖 2026-11-02 消化 4 張讀圖（對應的 4 則貼文先前已消化），**未新增頁面**，主要是用圖片糾正貼文文字：
+> [[wiki/investing/themes/AI資本支出的融資結構]]（大摩流向圖：9 項支出方明細；⚠️ 貼文「輝達 6,900 億」圖上沒有）、[[wiki/investing/themes/AI-ASIC與GoogleTPU供應鏈]]、[[wiki/investing/themes/CoWoS-L與EMIB-T封裝路線之爭]]（凱基：Humufish 因載板短缺延到 2Q28、Zebrafish 上修）、
+> [[wiki/investing/themes/跨園區光傳輸與薄膜濾光片]]（光纖資料中心占比、Verizon–Corning 長約）、[[wiki/investing/themes/長期合約LTA與AI營收佔比]]、[[wiki/investing/themes/玻纖布缺料]]、[[wiki/investing/themes/ABF載板隱性減產]]、[[wiki/investing/chains/AI伺服器PCB鏈]]（欣興 20% 缺口沒綁特定材料）；
+> 公司頁 2454、3037、2317、2382、3231。
+
+> 🤖 2026-10-30 消化 5 個來源檔（3 則貼文 + 2 張讀圖），**未新增頁面**。補進
+> [[wiki/investing/themes/ABF載板隱性減產]]（輔大 PCB 月報：Rubin 載板用量 17x、ABF 評分 4.75、上一輪見頂領先時間軸）、[[wiki/investing/chains/AI伺服器PCB鏈]]（30 家台廠五段中位數；⚠️ 新增矛盾：Prismark 2026 產值 1,000 億 vs 1,134 億）、
+> [[wiki/investing/themes/AI-ASIC與GoogleTPU供應鏈]]（KeyBanc：博通拿下 Anthropic ASIC、TPU 2027 年 830 萬顆）、[[wiki/investing/themes/博通AI營收展望]]（目標價 575 美元）、[[wiki/investing/themes/CoWoS-L與EMIB-T封裝路線之爭]]（Humu Fish 延到 2Q28）、
+> [[wiki/investing/themes/AI資本支出的融資結構]]（大摩：2027 年 AI capex 1.58 兆美元、輝達 43.7%）、[[wiki/investing/themes/玻纖布缺料]]、[[wiki/investing/themes/PTFE與材料世代轉換]]、[[wiki/investing/themes/銅箔報價與銅價]]；
+> 公司頁 3037、8046、3189、4958、7795、8021、2467、2383、8358、2313、1446、2454、3443、2330。3 組亂碼 ID 檔名已改為可讀主題。
 
 > 🤖 2026-10-28 消化 10 個來源檔（6 則貼文 + 4 張讀圖），**未新增頁面**。補進
 > [[wiki/investing/themes/ABF載板隱性減產]]（高盛／大摩 TPCA 展後：缺口 2027–28 加深、ABF 壓合機交期 2 年+）、[[wiki/investing/themes/PTFE與材料世代轉換]]（PTFE 良率 10–15% vs M9+Q-glass 80–90%）、

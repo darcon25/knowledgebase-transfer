@@ -1,0 +1,87 @@
+{
+  "period": "115Q3",
+  "roc_year": 115,
+  "season": 3,
+  "companies": {
+    "2301": {
+      "name": "光寶科",
+      "revenue": 153513764.0,
+      "cost": 114895676.0,
+      "gross_profit": 38618088.0,
+      "eps": 8.08,
+      "gross_margin": 25.16
+    },
+    "2308": {
+      "name": "台達電",
+      "revenue": 539667536.0,
+      "cost": 348244081.0,
+      "gross_profit": 191423455.0,
+      "eps": 26.64,
+      "gross_margin": 35.47
+    },
+    "2383": {
+      "name": "台光電",
+      "revenue": 141226994.0,
+      "cost": 92544063.0,
+      "gross_profit": 48682931.0,
+      "eps": 82.92,
+      "gross_margin": 34.47
+    },
+    "2467": {
+      "name": "志聖",
+      "revenue": 8022519.0,
+      "cost": 4255579.0,
+      "gross_profit": 3766940.0,
+      "eps": 10.67,
+      "gross_margin": 46.95
+    },
+    "3037": {
+      "name": "欣興",
+      "revenue": 132986108.0,
+      "cost": 100432460.0,
+      "gross_profit": 32553648.0,
+      "eps": 17.85,
+      "gross_margin": 24.48
+    },
+    "3443": {
+      "name": "創意",
+      "revenue": 44098869.0,
+      "cost": 34131210.0,
+      "gross_profit": 9967659.0,
+      "eps": 40.84,
+      "gross_margin": 22.6
+    },
+    "3563": {
+      "name": "牧德",
+      "revenue": 3002746.0,
+      "cost": 1195691.0,
+      "gross_profit": 1807055.0,
+      "eps": 14.92,
+      "gross_margin": 60.18
+    },
+    "8039": {
+      "name": "台虹",
+      "revenue": 7605357.0,
+      "cost": 5881769.0,
+      "gross_profit": 1723588.0,
+      "eps": 2.33,
+      "gross_margin": 22.66
+    },
+    "6274": {
+      "name": "台燿",
+      "revenue": 42303815.0,
+      "cost": 28897575.0,
+      "gross_profit": 13406240.0,
+      "eps": 25.41,
+      "gross_margin": 31.69
+    },
+    "6510": {
+      "name": "精測",
+      "revenue": 4901661.0,
+      "cost": 2097464.0,
+      "gross_profit": 2804197.0,
+      "eps": 42.2,
+      "gross_margin": 57.21
+    }
+  }
+}

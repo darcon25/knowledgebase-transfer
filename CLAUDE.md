@@ -43,6 +43,7 @@
 | **launchd 沒有 `USER` 變數** | `claude -p` 讀不到 Keychain 憑證，回「OAuth session expired」，**自動消化與讀圖整段靜默失敗** | 三支呼叫 claude 的腳本開頭都 `export USER="${USER:-$(id -un)}"` |
 | **daily.sh 沒有 git pull** | github-sync 是 Obsidian 外掛，**Obsidian 沒開就不同步**，n8n 存的新檔本機根本沒有 | daily.sh 與 catchup.sh 開頭都先 `git pull --ff-only` |
 | Jina 回錯誤頁被當成「沒有圖」 | 暫時性失敗被永久記進 known_issues，再也不重試 | 解析不到大頭貼就判定為抓取失敗（丟 LookupError），下次重試 |
+| **Jina 同一則貼文每次回的不一樣**（2026-11-02） | 某次沒抓到主文圖就被永久記成「主文沒有圖」，4 篇漏圖再也不重試 | Jina 說沒圖但 n8n 的 `media_urls` 有 `t51.*-15` 內容圖時，改用備援，下載不到就記失敗重試；另濾掉內文 giphy 與話題標籤小圖示 |
 | vault 沒有 `.gitignore` | `.env` 會被自動推上 GitHub | 已補，**不要拿掉** |
 
 **共同教訓**：終端機測得過 ≠ 排程跑得動。用

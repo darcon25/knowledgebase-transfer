@@ -137,3 +137,31 @@ status: 新建（先進封裝第一份逐年規格路線圖；⚠️ 全文未�
 - [[CPU市佔與ARM競爭]]（同日消化的台廠 CPU 對照表，走的是 ABF 載板 → 先進封裝這條線）
 - [[ABF載板隱性減產]]、[[封測]]、[[載板]]、[[設備]]、[[記憶體]]
 - [[AI伺服器PCB鏈]]
+
+## 🤖 2026-10-30 自動消化：KeyBanc——Google 訓練 TPU 與 Anthropic ASIC 都排了 Intel EMIB-T
+
+來源：`raw/threads_2026-10-28_KeyBanc博通拿下AnthropicASIC.md`，讀圖 `raw/shot_2026-10-30_KeyBanc博通拿下AnthropicASIC.md`（KeyBanc 2026-10-26）
+
+本頁「要盯什麼」第 1 項（Google 有沒有採用 EMIB-T），KeyBanc 給的答案是**有，而且不只一代**：
+
+| 晶片 | 時程 | 分工 | KeyBanc 估 Intel 營收 |
+|---|---|---|---|
+| TPU v9t Humu Fish（訓練） | **從 4Q27 延到 2Q28**（compute tile 重新投片） | [[2454 聯發科]] + Intel EMIB-T | 全生命週期 125–150 億美元 |
+| TPU v9ti Trigger Fish（訓練＋推論） | 2028 放量 | 聯發科 + Intel EMIB-T，採 HBM4E | 原文未說明（量 100–200 萬顆） |
+| TPU v10t Ice Fish | 2029 年底／1H30 | 聯發科 + Intel EMIB-T | 125–150 億美元 |
+| Anthropic ASIC v1 | 2028 年底／2029 年初 | 博通；Anthropic 評估 Intel 18AP 前段 + 先進封裝 | 前段加封裝 400–800 億美元 |
+
+- KeyBanc：儘管 EMIB-T 基板良率有挑戰，認為 Humu Fish 轉回 CoWoS 的可能性極低
+- 同一份報告：聯發科 2028 年的 CoWoS 產能應能支應 Zebra Fish 後段；博通 CoWoS 承諾量 2026 年 25 萬 → 2027 年 45 萬
+- ⚠️ 本頁「還缺什麼」的良率數字仍空白——KeyBanc 只說「有挑戰」，沒給數字
+- 這件事會怎麼影響這條鏈：EMIB-T 在 ASIC 端的份額變大，對 [[2330 台積電]] CoWoS 的影響路徑待確認；TPU 逐代表見 [[AI-ASIC與GoogleTPU供應鏈]]
+
+## 🤖 2026-11-02 自動消化：凱基——Humufish（EMIB-T）延到 2Q28，原因是載板短缺與良率
+
+讀圖：`raw/shot_2026-11-02_聯發科TPU量產延後傳聞.md`（KGI 聯發科 3Q26 財報前瞻）
+
+- Humufish（Intel EMIB-T）量產爬坡 4Q27 → 2Q28；2028 年出貨 330 萬 → 200 萬顆
+- 延後原因（圖上原文）：**IC 載板供應短缺及生產良率仍存在不確定性**
+- 與上段 KeyBanc 的原因（compute tile 重新投片）不同；兩家時點一致、原因不同，哪個對原文未說明
+- ⚠️ 良率數字 KGI 也沒給，本頁「還缺什麼」仍空白
+- **這件事會怎麼影響這條鏈**：影響路徑待確認；載板端見 [[ABF載板隱性減產]]，聯發科見 [[2454 聯發科]]

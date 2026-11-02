@@ -1,0 +1,95 @@
+{
+  "period": "115Q3",
+  "companies": {
+    "2301": {
+      "name": "光寶科",
+      "period": "115Q3",
+      "revenue_mn": 153513.76,
+      "gross_margin": 25.16,
+      "op_margin": 13.65,
+      "pretax_margin": 15.72,
+      "net_margin": 11.95
+    },
+    "2308": {
+      "name": "台達電",
+      "period": "115Q3",
+      "revenue_mn": 539667.54,
+      "gross_margin": 35.47,
+      "op_margin": 16.97,
+      "pretax_margin": 18.49,
+      "net_margin": 14.28
+    },
+    "2383": {
+      "name": "台光電",
+      "period": "115Q3",
+      "revenue_mn": 141226.99,
+      "gross_margin": 34.47,
+      "op_margin": 27.3,
+      "pretax_margin": 27.39,
+      "net_margin": 21.04
+    },
+    "2467": {
+      "name": "志聖",
+      "period": "115Q3",
+      "revenue_mn": 8022.52,
+      "gross_margin": 46.95,
+      "op_margin": 23.84,
+      "pretax_margin": 27.78,
+      "net_margin": 21.65
+    },
+    "3037": {
+      "name": "欣興",
+      "period": "115Q3",
+      "revenue_mn": 132986.11,
+      "gross_margin": 24.48,
+      "op_margin": 14.99,
+      "pretax_margin": 26.35,
+      "net_margin": 21.91
+    },
+    "3443": {
+      "name": "創意",
+      "period": "115Q3",
+      "revenue_mn": 44098.87,
+      "gross_margin": 22.6,
+      "op_margin": 13.72,
+      "pretax_margin": 14.3,
+      "net_margin": 12.41
+    },
+    "3563": {
+      "name": "牧德",
+      "period": "115Q3",
+      "revenue_mn": 3002.75,
+      "gross_margin": 60.18,
+      "op_margin": 38.84,
+      "pretax_margin": 40.62,
+      "net_margin": 31.8
+    },
+    "8039": {
+      "name": "台虹",
+      "period": "115Q3",
+      "revenue_mn": 7605.36,
+      "gross_margin": 22.66,
+      "op_margin": 6.29,
+      "pretax_margin": 9.38,
+      "net_margin": 8.18
+    },
+    "6274": {
+      "name": "台燿",
+      "period": "115Q3",
+      "revenue_mn": 42303.82,
+      "gross_margin": 31.69,
+      "op_margin": 25.42,
+      "pretax_margin": 25.75,
+      "net_margin": 17.63
+    },
+    "6510": {
+      "name": "精測",
+      "period": "115Q3",
+      "revenue_mn": 4901.66,
+      "gross_margin": 57.21,
+      "op_margin": 33.41,
+      "pretax_margin": 34.59,
+      "net_margin": 28.2
+    }
+  }
+}

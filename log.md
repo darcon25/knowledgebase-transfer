@@ -1454,3 +1454,36 @@ frontmatter 已加 `original_id:`；同步更新 `data/known_issues.json`、`dat
 `9sj7m568` → `四家外銀研究入口`、`jodcp57i` → `五家賣方免費研究連結`、`rirshxfx` → `六種封裝散熱設計`（共 10 檔，全部 `git mv` 成功）。
 frontmatter 已加 `original_id:`；同步更新 `data/known_issues.json`、`data/media_retry.json`、`data/ingested.json`、`index.md`。
 照既有做法，shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名；`raw/assets/` 圖檔未改名，嵌入仍有效。
+
+## [2026-10-30] ingest | 輔大 PCB 產業月報、KeyBanc 博通 Anthropic ASIC、大摩 2027 AI 資本支出
+
+消化 5 個來源檔（3 則貼文 + 2 張讀圖），未新增頁面。
+- 驅動因素頁：ABF載板隱性減產（Rubin 載板 17x、ABF 評分 4.75、上一輪「設備合約負債 → 股價 → 毛利率」見頂時間軸）、AI-ASIC與GoogleTPU供應鏈（TPU 逐代得標、2026/2027 出貨 400 萬／830 萬顆、CoWoS 承諾量）、博通AI營收展望（KeyBanc 目標價 575、F27/F28 AI 營收 1,150／2,300 億美元）、CoWoS-L與EMIB-T封裝路線之爭（Humu Fish 延至 2Q28、Intel EMIB-T 營收估計）、AI資本支出的融資結構（大摩 1.58 兆、輝達 6,900 億）、玻纖布缺料、PTFE與材料世代轉換、銅箔報價與銅價
+- 鏈頁：AI伺服器PCB鏈 加 30 家台廠五段中位數、全球前十大；**⚠️ 新增矛盾訊號：Prismark 2026 年全球 PCB 產值 1,000 億+ vs 1,134 億美元**
+- 公司頁事件時間軸：3037、8046、3189、4958、7795、8021、2467、2383、8358、2313、1446、2454、3443、2330
+- ⚠️ 讀圖發現的來源內部矛盾已逐條標註（ABF 層數口徑、ABF 中位數、評分文字 vs 表格、KeyBanc 的 TPU 總量／v10i die 數／Jalapeño 生命週期量）
+- 大摩 AI capex 貼文附圖 1 張本機無讀圖檔；KeyBanc 原貼 4 張只抓到 3 張
+**名單外**：健鼎、大量、亞泰金屬、東台、Intel、Marvell，未動 `tools/watchlist.py`。未動「我的論點」、未建 insights。
+
+## [2026-10-30] update | 3 組來源檔改名（亂碼 ID → 可讀主題）
+
+`ekg2x590` → `輔大PCB產業研究月報`、`yqaf068x` → `KeyBanc博通拿下AnthropicASIC`、`w8y4fcy6` → `大摩2027AI資本支出預估`（共 5 檔）。
+⚠️ `git mv` 在本次執行環境需要授權而無法使用，改用一般 `mv`，git 會在下次 commit 時以刪除＋新增呈現（內容相同，git 通常仍能偵測為改名）。
+frontmatter 已加 `original_id:`；同步更新 `data/known_issues.json`、`data/ingested.json`、`wiki/health.md`。
+照既有做法，shot_ 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名；`raw/assets/` 圖檔未改名，嵌入仍有效。
+
+## [2026-11-02] ingest | 4 張讀圖（TrendForce 光纖、大摩 2027 capex、欣興董事長、凱基聯發科）
+
+對應的 4 則貼文已在 10-21／10-30 消化過，這次用圖片補數字、糾正貼文。全部走投資線，未新增頁面（overview 不需加連結）。
+- 大摩流向圖：9 項支出方明細（Google $375B…Nebius $37B，租賃 $195B 另列）、五大類別 → [[AI資本支出的融資結構]]；Hon Hai／Quanta／Wistron／MediaTek 出現在圖上 → 2317、2382、3231、2454。⚠️ 貼文「輝達 6,900 億、S&P 1.03 兆、台韓 5,500 億」圖上都沒有；中欄五類加總 $1,734B ≠ $1.58T
+- 凱基聯發科 3Q26 前瞻：目標價 6,600→5,500、Humufish 因 IC 載板短缺與良率延到 2Q28、Zebrafish 2028 上修 80→180 萬顆 → 2454、[[AI-ASIC與GoogleTPU供應鏈]]、[[CoWoS-L與EMIB-T封裝路線之爭]]、[[ABF載板隱性減產]]。⚠️ 貼文「TPU 延後」「tape out 不順」與報告不符；KGI 與 KeyBanc 對延後原因說法不同
+- 欣興董事長圖卡：出處經濟日報；「20% 缺口」沒有明確綁 T-glass／CCL／ABF → 3037、[[玻纖布缺料]]、[[ABF載板隱性減產]]、[[AI伺服器PCB鏈]]
+- TrendForce 光纖：資料中心占比 18–20% → 30–35%、Verizon–Corning 長約 2027–2032 → [[跨園區光傳輸與薄膜濾光片]]、[[長期合約LTA與AI營收佔比]]
+- 4 檔檔名已是可讀主題，不改名。未動「我的論點」、未建 insights、未碰 AUTO 區塊。
+
+## [2026-11-02] update | fetch_media 修正：單次「沒圖」不再當定論
+健檢 5 項「圖片張數對不上」。根因：Jina 對同一則貼文每次回的內容不一樣，fetch_media 只要一次沒看到主文圖就永久記進 known_issues 為「主文沒有圖」，之後不再重試。
+- 修正 `tools/fetch_media.py`：Jina 說沒圖、但 n8n 的 `media_urls` 有 `t51.*-15` 內容圖時改用備援；主文區也排除 giphy 動圖與 Threads 話題標籤小圖示
+- 清掉 4 筆錯誤判定並補抓：TrendForce 光纖、欣興簡山傑、聯發科 TPU 延後、大摩 2027 capex（各 1 張），已讀圖並消化
+- KeyBanc 博通那篇補回當時下載失敗的 `_02`（Meta MTIA 路線圖：Arke 歸 AVGO、Phoebe 歸 GUC、Apollo 未決標；MTIA 總量 2026 年 30–50 萬、2027 年 60–80 萬顆），寫進 shot 檔
+- 健檢 5 項 → 0 項
