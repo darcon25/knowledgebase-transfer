@@ -71,6 +71,20 @@ bash tools/read_shots.sh     || failed="${failed}讀圖 "
 bash tools/auto_ingest.sh    || failed="${failed}自動消化 "
 "$PY" tools/health_check.py  || failed="${failed}健檢 "
 
+# 備份到 GitHub：github-sync 是 Obsidian 外掛，Obsidian 沒開就不推（2026-10-30～11-02 斷了三天）
+echo "----- git 備份 -----"
+KB="/Users/mmfamily/Max KnowledgeBase"
+git -C "$KB" add -A
+if ! git -C "$KB" diff --cached --quiet; then
+    git -C "$KB" commit -q -m "daily.sh 自動備份 $(date '+%Y-%m-%d %H:%M')" || failed="${failed}備份 "
+fi
+if git -C "$KB" pull --rebase -q origin main 2>&1 && git -C "$KB" push -q origin main 2>&1; then
+    echo "✅ 已推上 GitHub"
+else
+    git -C "$KB" rebase --abort 2>/dev/null
+    failed="${failed}備份 "
+fi
+
 if [ -n "$failed" ]; then
     echo "⚠️ 失敗階段：$failed"
     alert "🚨 知識庫每日更新有階段失敗：${failed}
