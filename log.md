@@ -1487,3 +1487,6 @@ frontmatter 已加 `original_id:`；同步更新 `data/known_issues.json`、`dat
 - 清掉 4 筆錯誤判定並補抓：TrendForce 光纖、欣興簡山傑、聯發科 TPU 延後、大摩 2027 capex（各 1 張），已讀圖並消化
 - KeyBanc 博通那篇補回當時下載失敗的 `_02`（Meta MTIA 路線圖：Arke 歸 AVGO、Phoebe 歸 GUC、Apollo 未決標；MTIA 總量 2026 年 30–50 萬、2027 年 60–80 萬顆），寫進 shot 檔
 - 健檢 5 項 → 0 項
+
+## [2026-11-02] update | daily.sh 加入自動備份到 GitHub
+github-sync 是 Obsidian 外掛，Obsidian 沒開就不推（10-30～11-02 斷了三天）。daily.sh 最後一步改為 commit → pull --rebase → push，失敗會併入每日告警。
