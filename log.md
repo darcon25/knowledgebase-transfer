@@ -1490,3 +1490,9 @@ frontmatter 已加 `original_id:`；同步更新 `data/known_issues.json`、`dat
 
 ## [2026-11-02] update | daily.sh 加入自動備份到 GitHub
 github-sync 是 Obsidian 外掛，Obsidian 沒開就不推（10-30～11-02 斷了三天）。daily.sh 最後一步改為 commit → pull --rebase → push，失敗會併入每日告警。
+
+## [2026-11-02] ingest | xAI Colossus 2 四棟機房規模（自動消化）
+來源 `raw/threads_2026-11-02_xAIColossus2四棟機房.md` ＋ 讀圖 `raw/shot_2026-11-02_xAIColossus2四棟機房.md`（原 ID 7cfvqu6o，已改名並在 frontmatter 留 original_id）。
+- A-2 主題相關：[[資料中心電力]] 新增段落（四棟各約 20–22 萬顆 GB300、年底約 120 萬顆；作者估一棟滿載連冷卻 50 多萬瓩≈台電尖峰 1.2%）；相關貼文（xAI 算力出租、GMI Cloud 募資）分開標示
+- [[8358 金居]] 事件時間軸：相關貼文中的董座專訪標題（只有標題）
+- 更新 index.md、data/ingested.json、data/known_issues.json 的舊檔名。未動「我的論點」、未建 insights、未碰 AUTO 區塊。

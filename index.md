@@ -4,6 +4,9 @@
 
 **最後更新**：2026-11-02　**頁面總數**：96
 
+> 🤖 2026-11-02 自動消化 xAI Colossus 2 一則貼文＋讀圖，**未新增頁面**：
+> [[wiki/investing/themes/資料中心電力]]（四棟機房各約 20–22 萬顆 GB300、年底約 120 萬顆；作者估一棟滿載連冷卻 50 多萬瓩≈台電尖峰 1.2%）；公司頁 8358（董座專訪標題，只有標題）。
+
 > 🤖 2026-11-02 消化 4 張讀圖（對應的 4 則貼文先前已消化），**未新增頁面**，主要是用圖片糾正貼文文字：
 > [[wiki/investing/themes/AI資本支出的融資結構]]（大摩流向圖：9 項支出方明細；⚠️ 貼文「輝達 6,900 億」圖上沒有）、[[wiki/investing/themes/AI-ASIC與GoogleTPU供應鏈]]、[[wiki/investing/themes/CoWoS-L與EMIB-T封裝路線之爭]]（凱基：Humufish 因載板短缺延到 2Q28、Zebrafish 上修）、
 > [[wiki/investing/themes/跨園區光傳輸與薄膜濾光片]]（光纖資料中心占比、Verizon–Corning 長約）、[[wiki/investing/themes/長期合約LTA與AI營收佔比]]、[[wiki/investing/themes/玻纖布缺料]]、[[wiki/investing/themes/ABF載板隱性減產]]、[[wiki/investing/chains/AI伺服器PCB鏈]]（欣興 20% 缺口沒綁特定材料）；
