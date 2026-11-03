@@ -19,6 +19,14 @@
       "eps": 26.64,
       "gross_margin": 35.47
     },
+    "2344": {
+      "name": "華邦電",
+      "revenue": 180427134.0,
+      "cost": 62266142.0,
+      "gross_profit": 118160992.0,
+      "eps": 15.32,
+      "gross_margin": 65.49
+    },
     "2383": {
       "name": "台光電",
       "revenue": 141226994.0,
@@ -42,6 +50,14 @@
       "gross_profit": 32553648.0,
       "eps": 17.85,
       "gross_margin": 24.48
+    },
+    "3189": {
+      "name": "景碩",
+      "revenue": 38140960.0,
+      "cost": 27595405.0,
+      "gross_profit": 10545555.0,
+      "eps": 8.38,
+      "gross_margin": 27.65
     },
     "3443": {
       "name": "創意",
