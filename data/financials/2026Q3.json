@@ -35,6 +35,14 @@
       "eps": 82.92,
       "gross_margin": 34.47
     },
+    "2408": {
+      "name": "南亞科",
+      "revenue": 265284971.0,
+      "cost": 51848594.0,
+      "gross_profit": 213436377.0,
+      "eps": 49.28,
+      "gross_margin": 80.46
+    },
     "2467": {
       "name": "志聖",
       "revenue": 8022519.0,
@@ -42,6 +50,14 @@
       "gross_profit": 3766940.0,
       "eps": 10.67,
       "gross_margin": 46.95
+    },
+    "3026": {
+      "name": "禾伸堂",
+      "revenue": 12254222.0,
+      "cost": 8953966.0,
+      "gross_profit": 3300256.0,
+      "eps": 11.09,
+      "gross_margin": 26.93
     },
     "3037": {
       "name": "欣興",
