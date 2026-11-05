@@ -941,3 +941,4 @@ fatal: Could not read fro
 [2026-11-04 18:32:51] ⚠️  第 3/3 次失敗：https://openapi.twse.com.tw/v1/opendata/t187ap05_L — Expecting value: line 1 column 1 (char 0)
 [2026-11-04 18:32:51] ❌ 抓取中止：https://openapi.twse.com.tw/v1/opendata/t187ap05_L 重試 3 次仍失敗：Expecting value: line 1 column 1 (char 0)
 [2026-11-05 09:12:38] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-11-05 14:08:08] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
