@@ -19,6 +19,15 @@
       "pretax_margin": 18.49,
       "net_margin": 14.28
     },
+    "2344": {
+      "name": "華邦電",
+      "period": "115Q3",
+      "revenue_mn": 180427.13,
+      "gross_margin": 65.49,
+      "op_margin": 47.28,
+      "pretax_margin": 47.98,
+      "net_margin": 38.49
+    },
     "2383": {
       "name": "台光電",
       "period": "115Q3",
@@ -27,6 +36,15 @@
       "op_margin": 27.3,
       "pretax_margin": 27.39,
       "net_margin": 21.04
+    },
+    "2408": {
+      "name": "南亞科",
+      "period": "115Q3",
+      "revenue_mn": 265284.97,
+      "gross_margin": 80.45,
+      "op_margin": 74.57,
+      "pretax_margin": 76.66,
+      "net_margin": 61.77
     },
     "2467": {
       "name": "志聖",
@@ -37,6 +55,15 @@
       "pretax_margin": 27.78,
       "net_margin": 21.65
     },
+    "3026": {
+      "name": "禾伸堂",
+      "period": "115Q3",
+      "revenue_mn": 12254.22,
+      "gross_margin": 26.93,
+      "op_margin": 16.34,
+      "pretax_margin": 18.19,
+      "net_margin": 14.62
+    },
     "3037": {
       "name": "欣興",
       "period": "115Q3",
@@ -45,6 +72,15 @@
       "op_margin": 14.99,
       "pretax_margin": 26.35,
       "net_margin": 21.91
+    },
+    "3189": {
+      "name": "景碩",
+      "period": "115Q3",
+      "revenue_mn": 38140.96,
+      "gross_margin": 27.65,
+      "op_margin": 15.17,
+      "pretax_margin": 15.73,
+      "net_margin": 13.95
     },
     "3443": {
       "name": "創意",

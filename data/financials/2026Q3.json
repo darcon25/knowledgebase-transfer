@@ -99,6 +99,22 @@
       "eps": 2.33,
       "gross_margin": 22.66
     },
+    "8046": {
+      "name": "南電",
+      "revenue": 41130983.0,
+      "cost": 31199035.0,
+      "gross_profit": 9931948.0,
+      "eps": 10.63,
+      "gross_margin": 24.15
+    },
+    "3163": {
+      "name": "波若威",
+      "revenue": 1905358.0,
+      "cost": 1593159.0,
+      "gross_profit": 312199.0,
+      "eps": 4.92,
+      "gross_margin": 16.39
+    },
     "6274": {
       "name": "台燿",
       "revenue": 42303815.0,
