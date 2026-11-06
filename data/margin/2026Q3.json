@@ -109,6 +109,24 @@
       "pretax_margin": 9.38,
       "net_margin": 8.18
     },
+    "8046": {
+      "name": "南電",
+      "period": "115Q3",
+      "revenue_mn": 41130.98,
+      "gross_margin": 24.15,
+      "op_margin": 20.85,
+      "pretax_margin": 21.95,
+      "net_margin": 16.7
+    },
+    "3163": {
+      "name": "波若威",
+      "period": "115Q3",
+      "revenue_mn": 1905.36,
+      "gross_margin": 16.39,
+      "op_margin": 3.1,
+      "pretax_margin": 25.71,
+      "net_margin": 24.45
+    },
     "6274": {
       "name": "台燿",
       "period": "115Q3",
