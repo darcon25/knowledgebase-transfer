@@ -1,6 +1,15 @@
 {
   "period": "115Q3",
   "companies": {
+    "1802": {
+      "name": "台玻",
+      "period": "115Q3",
+      "revenue_mn": 36440.33,
+      "gross_margin": 25.38,
+      "op_margin": 15.68,
+      "pretax_margin": 13.61,
+      "net_margin": 12.89
+    },
     "2301": {
       "name": "光寶科",
       "period": "115Q3",
@@ -18,6 +27,15 @@
       "op_margin": 16.97,
       "pretax_margin": 18.49,
       "net_margin": 14.28
+    },
+    "2313": {
+      "name": "華通",
+      "period": "115Q3",
+      "revenue_mn": 62124.65,
+      "gross_margin": 19.37,
+      "op_margin": 10.77,
+      "pretax_margin": 9.99,
+      "net_margin": 8.34
     },
     "2344": {
       "name": "華邦電",
@@ -45,6 +63,15 @@
       "op_margin": 74.57,
       "pretax_margin": 76.66,
       "net_margin": 61.77
+    },
+    "2421": {
+      "name": "建準",
+      "period": "115Q3",
+      "revenue_mn": 16580.63,
+      "gross_margin": 31.91,
+      "op_margin": 16.63,
+      "pretax_margin": 17.33,
+      "net_margin": 13.5
     },
     "2467": {
       "name": "志聖",
@@ -100,6 +127,24 @@
       "pretax_margin": 40.62,
       "net_margin": 31.8
     },
+    "6213": {
+      "name": "聯茂",
+      "period": "115Q3",
+      "revenue_mn": 36290.5,
+      "gross_margin": 24.65,
+      "op_margin": 18.21,
+      "pretax_margin": 18.33,
+      "net_margin": 12.82
+    },
+    "8021": {
+      "name": "尖點",
+      "period": "115Q3",
+      "revenue_mn": 5496.44,
+      "gross_margin": 41.01,
+      "op_margin": 26.81,
+      "pretax_margin": 26.86,
+      "net_margin": 18.78
+    },
     "8039": {
       "name": "台虹",
       "period": "115Q3",
@@ -144,6 +189,15 @@
       "op_margin": 33.41,
       "pretax_margin": 34.59,
       "net_margin": 28.2
+    },
+    "8299": {
+      "name": "群聯",
+      "period": "115Q3",
+      "revenue_mn": 194931.54,
+      "gross_margin": 61.99,
+      "op_margin": 38.02,
+      "pretax_margin": 43.58,
+      "net_margin": 36.91
     }
   }
 }

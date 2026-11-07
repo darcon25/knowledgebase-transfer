@@ -957,3 +957,12 @@ fatal: Could not read fro
 [2026-11-06 19:40:31] ⚠️  第 2/3 次失敗：https://news.google.com/rss/search?q=%E5%8F%B0%E8%99%B9%208039&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
 [2026-11-06 22:02:58] ✅ 新聞 59/59 檔有結果
 [2026-11-06 22:02:58] === 抓取完成 ===
+[2026-11-07 18:31:58] === 開始抓取（64 檔）===
+[2026-11-07 18:37:06] ⚠️  第 1/3 次失敗：https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL — HTTPSConnectionPool(host='openapi.twse.com.tw', port=443): Max retries exceeded with url: /v1/exchangeReport/BWIBBU_ALL (Caused by NameResolutionError("HTTPSConnection(host='openapi.twse.com.tw', port=443): Failed to resolve 'openapi.twse.com.tw' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-11-07 18:54:25] ✅ 估值 61 檔（資料日 2026-11-06）
+[2026-11-07 18:54:34] ✅ 月營收 61 檔（2026-09）
+[2026-11-07 18:54:34] ✅ 毛利率 22 檔（2026Q3）
+[2026-11-07 20:01:17] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E6%9F%8F%E6%89%BF%206141&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E6%9F%8F%E6%89%BF%206141&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-11-07 20:39:12] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E9%B4%BB%E6%B5%B7%202317&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2026-11-07 21:11:37] ✅ 新聞 59/59 檔有結果
+[2026-11-07 21:11:37] === 抓取完成 ===
