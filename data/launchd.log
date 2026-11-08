@@ -4150,3 +4150,51 @@ Already up to date.
    數字不符: 0
    資料過期: 0
 ----- git 備份 -----
+✅ 已推上 GitHub
+===== 2026-11-07 21:48:51 每日更新結束 =====
+----- git pull -----
+From https://github.com/darcon25/knowledgebase-transfer
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+✅ 已同步遠端
+===== 2026-11-08 18:42:44 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-11-08 18:42:44] === 開始抓取（64 檔）===
+[2026-11-08 18:42:45] ✅ 估值 61 檔（資料日 2026-11-06）
+[2026-11-08 18:42:47] ✅ 月營收 61 檔（2026-09）
+[2026-11-08 18:58:36] ✅ 毛利率 22 檔（2026Q3）
+[2026-11-08 19:10:56] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%8D%97%E4%BA%9E%201303&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%8D%97%E4%BA%9E%201303&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-11-08 19:47:08] ✅ 新聞 59/59 檔有結果
+[2026-11-08 19:47:08] === 抓取完成 ===
+♻️  2026Q3.json 只有 4 家（名單 64 家），重抓
+   上市 18 家
+   上櫃 4 家
+✅ 2026Q3.json：22 家
+⏭  2026Q2.json 已有 61 家，跳過
+⏭  2026Q1.json 已有 61 家，跳過
+⏭  2025Q4.json 已有 61 家，跳過
+⏭  2025Q3.json 已有 61 家，跳過
+⏭  2025Q2.json 已有 61 家，跳過
+⏭  2025Q1.json 已有 59 家，跳過
+⏭  2024Q4.json 已有 61 家，跳過
+
+完成：新增/更新 1 季，跳過 7 季
+
+===== 完成 =====
+處理 0 篇：補到圖 0 篇、確認沒圖 0 篇、失敗 0 篇、原貼文已不存在 0 篇
+[2026-11-08 19:47:17] 沒有待讀圖的檔案，不啟動 Claude
+✅ 頁面：新建 0、更新 77（營收 2026-09、估值 2026-11-08、毛利率 2026Q3）
+✅ 今日值得注意：估值跳動 0、動能轉折 22、值得推播 2 項
+[2026-11-08 19:47:18] 沒有未消化的檔案，不啟動 Claude
+✅ 健檢完成：0 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 0
+   疑似截斷: 0
+   圖片未確認: 0
+   圖片張數對不上: 0
+   圖片連結壞掉: 0
+   圖片尚未判讀: 0
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+----- git 備份 -----
