@@ -974,3 +974,16 @@ fatal: Could not read fro
 [2026-11-08 19:10:56] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%8D%97%E4%BA%9E%201303&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%8D%97%E4%BA%9E%201303&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
 [2026-11-08 19:47:08] ✅ 新聞 59/59 檔有結果
 [2026-11-08 19:47:08] === 抓取完成 ===
+[2026-11-09 07:56:50] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-11-09 10:29:58] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-11-09 11:32:34] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-11-09 11:50:08] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-11-09 11:55:38] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-11-09 18:34:15] === 開始抓取（64 檔）===
+[2026-11-09 18:34:17] ✅ 估值 61 檔（資料日 2026-11-06）
+[2026-11-09 18:34:18] ✅ 月營收 61 檔（2026-09）
+[2026-11-09 18:34:18] ✅ 毛利率 22 檔（2026Q3）
+[2026-11-09 18:59:44] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%BF%97%E8%B6%85%208213&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%BF%97%E8%B6%85%208213&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-11-09 19:20:19] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E8%90%AC%E6%BD%A4%206187&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2026-11-09 19:21:05] ✅ 新聞 59/59 檔有結果
+[2026-11-09 19:21:05] === 抓取完成 ===

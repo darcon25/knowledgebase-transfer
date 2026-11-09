@@ -115,6 +115,14 @@
       "eps": 14.92,
       "gross_margin": 60.18
     },
+    "3711": {
+      "name": "日月光投控",
+      "revenue": 608886833.0,
+      "cost": 479955356.0,
+      "gross_profit": 128931477.0,
+      "eps": 14.17,
+      "gross_margin": 21.17
+    },
     "6213": {
       "name": "聯茂",
       "revenue": 36290498.0,
@@ -122,6 +130,14 @@
       "gross_profit": 8944079.0,
       "eps": 12.8,
       "gross_margin": 24.65
+    },
+    "6672": {
+      "name": "騰輝電子-KY",
+      "revenue": 5351803.0,
+      "cost": 3270000.0,
+      "gross_profit": 2081803.0,
+      "eps": 10.97,
+      "gross_margin": 38.9
     },
     "8021": {
       "name": "尖點",
