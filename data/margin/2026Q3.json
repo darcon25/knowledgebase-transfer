@@ -127,6 +127,15 @@
       "pretax_margin": 40.62,
       "net_margin": 31.8
     },
+    "3711": {
+      "name": "日月光投控",
+      "period": "115Q3",
+      "revenue_mn": 608886.83,
+      "gross_margin": 21.17,
+      "op_margin": 11.79,
+      "pretax_margin": 12.58,
+      "net_margin": 10.5
+    },
     "6213": {
       "name": "聯茂",
       "period": "115Q3",
@@ -135,6 +144,15 @@
       "op_margin": 18.21,
       "pretax_margin": 18.33,
       "net_margin": 12.82
+    },
+    "6672": {
+      "name": "騰輝電子-KY",
+      "period": "115Q3",
+      "revenue_mn": 5351.8,
+      "gross_margin": 38.9,
+      "op_margin": 20.56,
+      "pretax_margin": 20.1,
+      "net_margin": 15.9
     },
     "8021": {
       "name": "尖點",

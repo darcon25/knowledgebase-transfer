@@ -1504,3 +1504,11 @@ github-sync 是 Obsidian 外掛，Obsidian 沒開就不推（10-30～11-02 斷�
 - ⚠️ 原貼文輪播 7 張只抓到 2 張；圖上毛利率 34.1% 與公司頁數據區 35.5% 不同，待人工確認
 - `git mv` 需要授權無法使用，改用一般 `mv`。照既有做法，shot 檔內的 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名；`raw/assets/` 圖檔未改名。
 - 更新 index.md、data/ingested.json、data/known_issues.json。未動「我的論點」、未建 insights、未碰 AUTO 區塊。
+
+## [2026-11-10] ingest | CoreWeave 致函德州州長＋期中選舉對 AI 供應鏈獲利影響（自動消化）
+來源 `raw/instagram_2026-11-09_CoreWeave致函德州州長.md`、`raw/instagram_2026-11-10_期中選舉對AI供應鏈獲利影響.md` ＋ 兩篇讀圖 shot 檔（原 ID vfqfprah、0as7benv，已改名並在 frontmatter 留 original_id）。
+- A-2 主題：[[資料中心電力]] 新增德州資料中心許可段落（CoreWeave 信中四項承諾與規模數字、ToAlpha 五種情境估算）；[[液冷散熱滲透率]] 新增封閉循環液冷作為用水承諾
+- A-1 名單公司：[[3231 緯創]]、[[2382 廣達]]、[[3017 奇鋐]]、[[3653 健策]] 事件時間軸（Nvidia 機櫃鏈少 3.5～4%，僅貼文文字、圖上沒有）
+- ⚠️ 貼文寫 51 座／1.5 GW 為「全球」，信上原文是「北美與歐洲」；ToAlpha 輪播 2 張只抓到封面 1 張
+- 前三檔用 `git mv`；`shot_2026-11-10` 未納入版控，改用一般搬移。照既有做法，shot 檔內 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名；`raw/assets/` 圖檔未改名
+- 更新 index.md、data/ingested.json、data/known_issues.json。未新增頁面、未動「我的論點」、未建 insights、未碰 AUTO 區塊。
