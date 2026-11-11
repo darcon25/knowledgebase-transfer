@@ -1007,3 +1007,18 @@ fatal: Could not read fro
 [2026-11-10 18:36:57] ✅ 毛利率 24 檔（2026Q3）
 [2026-11-10 18:38:18] ✅ 新聞 59/59 檔有結果
 [2026-11-10 18:38:18] === 抓取完成 ===
+[2026-11-11 08:38:37] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-11-11 09:24:34] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-11-11 09:52:02] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-11-11 09:58:41] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-11-11 10:40:41] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-11-11 13:06:11] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-11-11 16:41:19] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C
+[2026-11-11 18:36:45] === 開始抓取（64 檔）===
+[2026-11-11 18:36:53] ✅ 估值 61 檔（資料日 2026-11-10）
+[2026-11-11 18:36:54] ✅ 月營收 61 檔（2026-09）
+[2026-11-11 18:36:55] ✅ 毛利率 34 檔（2026Q3）
+[2026-11-11 19:17:31] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%98%89%E8%81%AF%E7%9B%8A%206153&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%98%89%E8%81%AF%E7%9B%8A%206153&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-11-11 20:38:34] ✅ 新聞 59/59 檔有結果
+[2026-11-11 20:38:34] === 抓取完成 ===
+[2026-11-11 20:49:39] ⚠️ git pull 失敗，仍檢查本機指令：fatal: unable to access 'https://github.com/darcon25/knowledgebase-transfer/': C

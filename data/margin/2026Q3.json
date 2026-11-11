@@ -1,6 +1,15 @@
 {
   "period": "115Q3",
   "companies": {
+    "1446": {
+      "name": "宏和",
+      "period": "115Q3",
+      "revenue_mn": 517.38,
+      "gross_margin": 40.87,
+      "op_margin": 23.8,
+      "pretax_margin": 33.34,
+      "net_margin": 31.97
+    },
     "1802": {
       "name": "台玻",
       "period": "115Q3",
@@ -36,6 +45,15 @@
       "op_margin": 10.77,
       "pretax_margin": 9.99,
       "net_margin": 8.34
+    },
+    "2316": {
+      "name": "楠梓電",
+      "period": "115Q3",
+      "revenue_mn": 3624.4,
+      "gross_margin": 5.09,
+      "op_margin": -6.26,
+      "pretax_margin": 84.29,
+      "net_margin": 66.68
     },
     "2344": {
       "name": "華邦電",
@@ -81,6 +99,15 @@
       "op_margin": 23.84,
       "pretax_margin": 27.78,
       "net_margin": 21.65
+    },
+    "3017": {
+      "name": "奇鋐",
+      "period": "115Q3",
+      "revenue_mn": 157248.26,
+      "gross_margin": 32.18,
+      "op_margin": 26.93,
+      "pretax_margin": 27.13,
+      "net_margin": 20.06
     },
     "3026": {
       "name": "禾伸堂",
@@ -136,6 +163,24 @@
       "pretax_margin": 12.58,
       "net_margin": 10.5
     },
+    "4958": {
+      "name": "臻鼎-KY",
+      "period": "115Q3",
+      "revenue_mn": 153783.28,
+      "gross_margin": 24.65,
+      "op_margin": 9.74,
+      "pretax_margin": 9.99,
+      "net_margin": 8.25
+    },
+    "6153": {
+      "name": "嘉聯益",
+      "period": "115Q3",
+      "revenue_mn": 4403.64,
+      "gross_margin": -2.17,
+      "op_margin": -21.05,
+      "pretax_margin": -16.3,
+      "net_margin": -16.36
+    },
     "6213": {
       "name": "聯茂",
       "period": "115Q3",
@@ -181,6 +226,15 @@
       "pretax_margin": 21.95,
       "net_margin": 16.7
     },
+    "8213": {
+      "name": "志超",
+      "period": "115Q3",
+      "revenue_mn": 16632.74,
+      "gross_margin": 12.39,
+      "op_margin": 4.96,
+      "pretax_margin": 4.82,
+      "net_margin": 3.51
+    },
     "3163": {
       "name": "波若威",
       "period": "115Q3",
@@ -189,6 +243,33 @@
       "op_margin": 3.1,
       "pretax_margin": 25.71,
       "net_margin": 24.45
+    },
+    "3485": {
+      "name": "敘豐",
+      "period": "115Q3",
+      "revenue_mn": 478.29,
+      "gross_margin": 51.73,
+      "op_margin": 36.5,
+      "pretax_margin": 45.17,
+      "net_margin": 36.0
+    },
+    "5340": {
+      "name": "建榮",
+      "period": "115Q3",
+      "revenue_mn": 2179.82,
+      "gross_margin": 23.7,
+      "op_margin": 19.27,
+      "pretax_margin": 19.89,
+      "net_margin": 15.91
+    },
+    "6187": {
+      "name": "萬潤",
+      "period": "115Q3",
+      "revenue_mn": 7089.74,
+      "gross_margin": 51.22,
+      "op_margin": 31.08,
+      "pretax_margin": 33.59,
+      "net_margin": 27.48
     },
     "6274": {
       "name": "台燿",
@@ -216,6 +297,15 @@
       "op_margin": 38.02,
       "pretax_margin": 43.58,
       "net_margin": 36.91
+    },
+    "8358": {
+      "name": "金居",
+      "period": "115Q3",
+      "revenue_mn": 8505.96,
+      "gross_margin": 27.53,
+      "op_margin": 24.58,
+      "pretax_margin": 24.66,
+      "net_margin": 19.66
     }
   }
 }

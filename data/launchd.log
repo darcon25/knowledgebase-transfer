@@ -4320,3 +4320,97 @@ raw/shot_2026-11-10_0as7benv.md
    數字不符: 0
    資料過期: 0
 ----- git 備份 -----
+✅ 已推上 GitHub
+===== 2026-11-10 19:25:11 每日更新結束 =====
+----- git pull -----
+From https://github.com/darcon25/knowledgebase-transfer
+ * branch            main       -> FETCH_HEAD
+   5e54ba8..06757f4  main       -> origin/main
+Updating 5e54ba8..06757f4
+Fast-forward
+ raw/instagram_2026-11-11_4mbl7zvd.md | 175 +++++++++++++++++++++++++++++++++++
+ 1 file changed, 175 insertions(+)
+ create mode 100644 raw/instagram_2026-11-11_4mbl7zvd.md
+✅ 已同步遠端
+===== 2026-11-11 18:36:45 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-11-11 18:36:45] === 開始抓取（64 檔）===
+[2026-11-11 18:36:53] ✅ 估值 61 檔（資料日 2026-11-10）
+[2026-11-11 18:36:54] ✅ 月營收 61 檔（2026-09）
+[2026-11-11 18:36:55] ✅ 毛利率 34 檔（2026Q3）
+[2026-11-11 19:17:31] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%98%89%E8%81%AF%E7%9B%8A%206153&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%E5%98%89%E8%81%AF%E7%9B%8A%206153&hl=zh-TW&gl=TW&ceid=TW:zh-Hant (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-11-11 20:38:34] ✅ 新聞 59/59 檔有結果
+[2026-11-11 20:38:34] === 抓取完成 ===
+♻️  2026Q3.json 只有 34 家（名單 64 家），重抓
+   上市 34 家
+   上櫃 11 家
+✅ 2026Q3.json：45 家
+⏭  2026Q2.json 已有 61 家，跳過
+⏭  2026Q1.json 已有 61 家，跳過
+⏭  2025Q4.json 已有 61 家，跳過
+⏭  2025Q3.json 已有 61 家，跳過
+⏭  2025Q2.json 已有 61 家，跳過
+⏭  2025Q1.json 已有 59 家，跳過
+⏭  2024Q4.json 已有 61 家，跳過
+
+完成：新增/更新 1 季，跳過 7 季
+
+[1] instagram_2026-11-11_4mbl7zvd.md
+    https://www.instagram.com/p/DflLHgrD40R/?vrfl=OWVubnhqa3gxdnN6
+    · 主文有 1 張
+      ✅ instagram_2026-11-11_4mbl7zvd_01.jpg (201 KB)
+      📝 shot_2026-11-11_4mbl7zvd.md
+
+[2] threads_2026-11-11_618bbk0s.md
+    https://www.threads.com/share/BAAZ0cblbr
+    · 主文有 1 張
+      ❌ 第 1 張下載失敗：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+===== 完成 =====
+處理 2 篇：補到圖 1 篇、確認沒圖 0 篇、失敗 1 篇、原貼文已不存在 0 篇
+  ❌ threads_2026-11-11_618bbk0s.md：圖片全部下載失敗（累計 1 次）
+[2026-11-11 20:50:51] 發現 1 個待讀圖檔案
+raw/shot_2026-11-11_4mbl7zvd.md
+我讀完了 1 篇、1 張圖：`raw/shot_2026-11-11_4mbl7zvd.md`。圖是 TechNews 做的「九家科技大廠帳上負債 vs 表外承諾」長條圖。「表外承諾」指公司已經簽約、但還沒記在帳上當負債的未來付款，例如租約、擔保。
+
+- **抄進檔案的內容**：九家公司的帳上負債、表外承諾分項和倍數都整理成表格了，另外還有微軟和甲骨文的 CDS 對照表。CDS 是市場替一家公司的債務買違約保險的價格，越高代表市場越擔心這家公司還不出錢。我把九家的倍數逐一驗算過，跟圖上全部吻合。
+- **⚠️ 標了三處不一致**：
+  - 標題寫「三兆美元」，但圖中九家相加只有約 1.66 兆美元。三兆其實是貼文文字裡高盛的 3.2 兆估計，裡面還包含圖上沒畫的 1.9 兆採購承諾。
+  - 「標普調降博通與 Meta 評等展望」和「6,850 億美元須在 2027 年底前付」只出現在貼文文字，圖上沒有。
+  - 圖例分「未起租租賃」和「租賃承諾」兩種，但圖上沒說明兩者差在哪。
+- **最有價值的地方**：同樣是高倍數，微軟 CDS 低於 60 基點，甲骨文約 294 基點，代表市場已經在區分誰的承諾比較讓人擔心。這可以餵給 [[AI資本支出的融資結構]]。
+
+`status` 已改成 `已讀圖`。除了這個檔的「## 內容」和 status 那一行，其他 raw/ 檔案和 wiki/ 都沒動。
+
+另外有三個檔還沒消化進 wiki：`instagram_2026-11-11_4mbl7zvd.md`、這個 shot 檔、`threads_2026-11-11_618bbk0s.md`。要我現在開始消化嗎？
+✅ 已送出
+✅ 頁面：新建 0、更新 77（營收 2026-09、估值 2026-11-11、毛利率 2026Q3）
+✅ 今日值得注意：估值跳動 27、動能轉折 31、值得推播 5 項
+[2026-11-11 21:52:50] 發現 3 個未消化檔案，啟動自動消化
+raw/instagram_2026-11-11_4mbl7zvd.md
+raw/shot_2026-11-11_4mbl7zvd.md
+raw/threads_2026-11-11_618bbk0s.md
+三則來源都消化完了。沒有新增頁面，也沒有點名 41 檔名單裡的公司，所以公司頁、「我的論點」、AUTO 區塊都沒動。
+
+- **IG 表外承諾**：寫進 `wiki/investing/themes/AI資本支出的融資結構.md`。內容是九家大廠帳上負債和表外承諾的對照（表外承諾＝已簽約、將來要付，但還沒列進負債的錢）：微軟 5.5 倍，只有 Amazon 低於 1 倍。另外標註了：貼文標題的「三兆美元」是高盛估的 3.2 兆，不是圖上九家的加總。
+- **Threads 資料中心遞延**：寫進 `wiki/investing/themes/資料中心電力.md`。主文其實只有一句「20% 資料中心遞延到 2029」，轉述自 jukan06。附圖下載失敗，所以沒有讀到。原筆記的 AI 摘要把底下其他作者的期中選舉貼文混成了主文內容，我把那些分開標成「其他作者」。
+- **改名**：三檔都先在 frontmatter 加了 `original_id`，再改名：
+  - `instagram_2026-11-11_科技巨頭表外承諾遠超負債.md`
+  - `shot_2026-11-11_科技巨頭表外承諾遠超負債.md`
+  - `threads_2026-11-11_資料中心兩成遞延至2029.md`
+
+  `git mv` 需要授權沒辦法用，改用一般搬移。照之前的做法，shot 檔裡指向對應筆記的連結和 `raw/assets/` 圖檔沒改名，所以那個連結目前還指向舊檔名。
+- **同步更新**：`data/ingested.json`、`data/known_issues.json`、`data/media_retry.json`（補圖重試紀錄）、`index.md`、`log.md`。
+✅ 已送出
+✅ 健檢完成：3 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 0
+   疑似截斷: 0
+   圖片未確認: 1
+   圖片張數對不上: 2
+   圖片連結壞掉: 0
+   圖片尚未判讀: 0
+   斷連結: 0
+   孤島頁: 0
+   數字不符: 0
+   資料過期: 0
+----- git 備份 -----

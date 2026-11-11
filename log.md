@@ -1512,3 +1512,11 @@ github-sync 是 Obsidian 外掛，Obsidian 沒開就不推（10-30～11-02 斷�
 - ⚠️ 貼文寫 51 座／1.5 GW 為「全球」，信上原文是「北美與歐洲」；ToAlpha 輪播 2 張只抓到封面 1 張
 - 前三檔用 `git mv`；`shot_2026-11-10` 未納入版控，改用一般搬移。照既有做法，shot 檔內 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名；`raw/assets/` 圖檔未改名
 - 更新 index.md、data/ingested.json、data/known_issues.json。未新增頁面、未動「我的論點」、未建 insights、未碰 AUTO 區塊。
+
+## [2026-11-11] ingest | 科技巨頭表外承諾＋資料中心兩成遞延至 2029（自動消化）
+來源 `raw/instagram_2026-11-11_科技巨頭表外承諾遠超負債.md` ＋ 讀圖 `raw/shot_2026-11-11_科技巨頭表外承諾遠超負債.md`、`raw/threads_2026-11-11_資料中心兩成遞延至2029.md`（原 ID 4mbl7zvd、618bbk0s，已改名並在 frontmatter 留 original_id）。
+- A-2 主題：[[AI資本支出的融資結構]] 新增表外承諾段落（九家帳上負債 vs 表外承諾與倍數、微軟／甲骨文 CDS；⚠️ 標題「三兆美元」是高盛 3.2 兆估計，不是圖上加總）
+- A-2 主題：[[資料中心電力]] 新增「20% 資料中心遞延到 2029」（主文只有一句、轉述 jukan06；附圖下載失敗未讀）；同頁相關貼文（期中選舉政策）分開標示為其他作者
+- 未點名名單公司，公司頁未動
+- `git mv` 需要授權無法使用，改用一般 `mv`。照既有做法，shot 檔內 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名；`raw/assets/` 圖檔未改名
+- 更新 index.md、data/ingested.json、data/known_issues.json、data/media_retry.json 的舊檔名。未新增頁面、未動「我的論點」、未建 insights、未碰 AUTO 區塊。
