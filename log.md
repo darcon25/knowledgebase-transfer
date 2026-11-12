@@ -1520,3 +1520,10 @@ github-sync 是 Obsidian 外掛，Obsidian 沒開就不推（10-30～11-02 斷�
 - 未點名名單公司，公司頁未動
 - `git mv` 需要授權無法使用，改用一般 `mv`。照既有做法，shot 檔內 `source_note` 與 `[[對應筆記]]` 仍指向舊檔名；`raw/assets/` 圖檔未改名
 - 更新 index.md、data/ingested.json、data/known_issues.json、data/media_retry.json 的舊檔名。未新增頁面、未動「我的論點」、未建 insights、未碰 AUTO 區塊。
+
+## [2026-11-12] ingest | 資料中心兩成遞延至 2029 讀圖（自動消化）
+來源 `raw/shot_2026-11-12_資料中心兩成遞延至2029.md`（11-11 貼文的附圖，fetch_media 補抓）。
+- A-2 主題：[[資料中心電力]] 新增段落：圖為 Morgan Stanley 預估美國資料中心容量年增量，2028E 有 4.9 GW 移到 2029E（約 20%），逐年 GW 數字列表
+- ⚠️ 修正 11-11 段的三個未知：「共識」實為大摩一家看法；分母是美國 2028 年新增量；原因只寫「Politics」
+- 未點名名單公司，公司頁未動；檔名已可讀，未改名
+- 更新 index.md、data/ingested.json。未新增頁面、未動「我的論點」、未建 insights、未碰 AUTO 區塊。

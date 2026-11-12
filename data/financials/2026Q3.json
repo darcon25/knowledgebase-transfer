@@ -19,6 +19,14 @@
       "eps": 1.2,
       "gross_margin": 40.87
     },
+    "1717": {
+      "name": "長興",
+      "revenue": 34764965.0,
+      "cost": 26752480.0,
+      "gross_profit": 8012485.0,
+      "eps": 1.54,
+      "gross_margin": 23.05
+    },
     "1802": {
       "name": "台玻",
       "revenue": 36440332.0,
@@ -171,6 +179,14 @@
       "eps": 40.84,
       "gross_margin": 22.6
     },
+    "3450": {
+      "name": "聯鈞",
+      "revenue": 8819377.0,
+      "cost": 6074820.0,
+      "gross_profit": 2744557.0,
+      "eps": 5.85,
+      "gross_margin": 31.12
+    },
     "3563": {
       "name": "牧德",
       "revenue": 3002746.0,
@@ -243,6 +259,22 @@
       "eps": 10.97,
       "gross_margin": 38.9
     },
+    "6770": {
+      "name": "力積電",
+      "revenue": 52205438.0,
+      "cost": 35779659.0,
+      "gross_profit": 16425779.0,
+      "eps": 5.42,
+      "gross_margin": 31.46
+    },
+    "7795": {
+      "name": "長廣",
+      "revenue": 1798055.0,
+      "cost": 998305.0,
+      "gross_profit": 799750.0,
+      "eps": 3.06,
+      "gross_margin": 44.48
+    },
     "8021": {
       "name": "尖點",
       "revenue": 5496440.0,
@@ -274,6 +306,14 @@
       "gross_profit": 2061495.0,
       "eps": 2.13,
       "gross_margin": 12.39
+    },
+    "1815": {
+      "name": "富喬",
+      "revenue": 6717952.0,
+      "cost": 3861188.0,
+      "gross_profit": 2856764.0,
+      "eps": 3.41,
+      "gross_margin": 42.52
     },
     "3163": {
       "name": "波若威",
@@ -346,6 +386,14 @@
       "gross_profit": 2804197.0,
       "eps": 42.2,
       "gross_margin": 57.21
+    },
+    "6664": {
+      "name": "群翊",
+      "revenue": 2207454.0,
+      "cost": 1117990.0,
+      "gross_profit": 1089464.0,
+      "eps": 11.7,
+      "gross_margin": 49.35
     },
     "8299": {
       "name": "群聯",
