@@ -67,6 +67,22 @@
       "eps": 13.31,
       "gross_margin": 5.09
     },
+    "2317": {
+      "name": "鴻海",
+      "revenue": 7661061739.0,
+      "cost": 7194034566.0,
+      "gross_profit": 467027173.0,
+      "eps": 13.35,
+      "gross_margin": 6.1
+    },
+    "2330": {
+      "name": "台積電",
+      "revenue": 3898726974.0,
+      "cost": 1294742208.0,
+      "gross_profit": 2603984766.0,
+      "eps": 78.75,
+      "gross_margin": 66.79
+    },
     "2344": {
       "name": "華邦電",
       "revenue": 180427134.0,
@@ -114,6 +130,14 @@
       "gross_profit": 5290854.0,
       "eps": 7.93,
       "gross_margin": 31.91
+    },
+    "2454": {
+      "name": "聯發科",
+      "revenue": 469390909.0,
+      "cost": 252179552.0,
+      "gross_profit": 217211357.0,
+      "eps": 47.94,
+      "gross_margin": 46.28
     },
     "2467": {
       "name": "志聖",
@@ -227,6 +251,14 @@
       "eps": 7.66,
       "gross_margin": 24.65
     },
+    "5469": {
+      "name": "瀚宇博",
+      "revenue": 52797145.0,
+      "cost": 44307788.0,
+      "gross_profit": 8489357.0,
+      "eps": 4.07,
+      "gross_margin": 16.08
+    },
     "6153": {
       "name": "嘉聯益",
       "revenue": 4403639.0,
@@ -306,6 +338,14 @@
       "gross_profit": 2061495.0,
       "eps": 2.13,
       "gross_margin": 12.39
+    },
+    "8996": {
+      "name": "高力",
+      "revenue": 9470912.0,
+      "cost": 6819692.0,
+      "gross_profit": 2651220.0,
+      "eps": 14.39,
+      "gross_margin": 27.99
     },
     "1815": {
       "name": "富喬",
