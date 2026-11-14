@@ -73,6 +73,24 @@
       "pretax_margin": 84.29,
       "net_margin": 66.68
     },
+    "2317": {
+      "name": "鴻海",
+      "period": "115Q3",
+      "revenue_mn": 7661061.74,
+      "gross_margin": 6.1,
+      "op_margin": 3.73,
+      "pretax_margin": 3.75,
+      "net_margin": 2.84
+    },
+    "2330": {
+      "name": "台積電",
+      "period": "115Q3",
+      "revenue_mn": 3898726.97,
+      "gross_margin": 66.79,
+      "op_margin": 59.05,
+      "pretax_margin": 63.13,
+      "net_margin": 52.4
+    },
     "2344": {
       "name": "華邦電",
       "period": "115Q3",
@@ -126,6 +144,15 @@
       "op_margin": 16.63,
       "pretax_margin": 17.33,
       "net_margin": 13.5
+    },
+    "2454": {
+      "name": "聯發科",
+      "period": "115Q3",
+      "revenue_mn": 469390.91,
+      "gross_margin": 46.28,
+      "op_margin": 15.52,
+      "pretax_margin": 18.87,
+      "net_margin": 16.44
     },
     "2467": {
       "name": "志聖",
@@ -351,6 +378,15 @@
       "op_margin": 4.96,
       "pretax_margin": 4.82,
       "net_margin": 3.51
+    },
+    "8996": {
+      "name": "高力",
+      "period": "115Q3",
+      "revenue_mn": 9470.91,
+      "gross_margin": 27.99,
+      "op_margin": 17.65,
+      "pretax_margin": 18.16,
+      "net_margin": 14.11
     },
     "1815": {
       "name": "富喬",
