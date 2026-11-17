@@ -100,6 +100,15 @@
       "pretax_margin": 47.98,
       "net_margin": 38.49
     },
+    "2360": {
+      "name": "致茂",
+      "period": "115Q3",
+      "revenue_mn": 43315.37,
+      "gross_margin": 59.83,
+      "op_margin": 39.72,
+      "pretax_margin": 43.77,
+      "net_margin": 34.53
+    },
     "2368": {
       "name": "金像電",
       "period": "115Q3",
@@ -262,6 +271,15 @@
       "pretax_margin": 20.86,
       "net_margin": 16.67
     },
+    "3665": {
+      "name": "貿聯-KY",
+      "period": "115Q3",
+      "revenue_mn": 72019.74,
+      "gross_margin": 30.86,
+      "op_margin": 17.83,
+      "pretax_margin": 17.29,
+      "net_margin": 13.26
+    },
     "3711": {
       "name": "日月光投控",
       "period": "115Q3",
@@ -288,6 +306,15 @@
       "op_margin": 8.08,
       "pretax_margin": 8.96,
       "net_margin": 5.99
+    },
+    "6141": {
+      "name": "柏承",
+      "period": "115Q3",
+      "revenue_mn": 1884.09,
+      "gross_margin": 11.35,
+      "op_margin": -5.19,
+      "pretax_margin": -10.69,
+      "net_margin": -13.47
     },
     "6153": {
       "name": "嘉聯益",
@@ -450,6 +477,15 @@
       "op_margin": 19.27,
       "pretax_margin": 19.89,
       "net_margin": 15.91
+    },
+    "5475": {
+      "name": "德宏",
+      "period": "115Q3",
+      "revenue_mn": 1630.84,
+      "gross_margin": 39.73,
+      "op_margin": 26.93,
+      "pretax_margin": 26.77,
+      "net_margin": 26.77
     },
     "6187": {
       "name": "萬潤",
