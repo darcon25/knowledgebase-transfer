@@ -5193,3 +5193,51 @@ Already up to date.
    數字不符: 0
    資料過期: 0
 ----- git 備份 -----
+✅ 已推上 GitHub
+===== 2026-11-20 18:33:00 每日更新結束 =====
+----- git pull -----
+From https://github.com/darcon25/knowledgebase-transfer
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+✅ 已同步遠端
+===== 2026-11-21 18:30:02 每日更新開始（/Library/Frameworks/Python.framework/Versions/3.14/bin/python3）=====
+[2026-11-21 18:30:02] === 開始抓取（64 檔）===
+[2026-11-21 18:30:07] ✅ 估值 61 檔（資料日 2026-11-20）
+[2026-11-21 18:30:09] ✅ 月營收 61 檔（2026-10）
+[2026-11-21 18:30:11] ✅ 毛利率 60 檔（2026Q3）
+[2026-11-21 18:30:58] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E7%89%A7%E5%BE%B7%203563&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E7%89%A7%E5%BE%B7%203563&hl=zh-TW&gl=TW&ceid=TW:zh-Hant
+[2026-11-21 18:31:06] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E8%90%AC%E6%BD%A4%206187&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E8%90%AC%E6%BD%A4%206187&hl=zh-TW&gl=TW&ceid=TW:zh-Hant
+[2026-11-21 18:31:21] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%8D%97%E4%BA%9E%E7%A7%91%202408&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E5%8D%97%E4%BA%9E%E7%A7%91%202408&hl=zh-TW&gl=TW&ceid=TW:zh-Hant
+[2026-11-21 18:31:30] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E5%8A%9B%E7%A9%8D%E9%9B%BB%206770&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E5%8A%9B%E7%A9%8D%E9%9B%BB%206770&hl=zh-TW&gl=TW&ceid=TW:zh-Hant
+[2026-11-21 18:32:00] ✅ 新聞 59/59 檔有結果
+[2026-11-21 18:32:00] === 抓取完成 ===
+⏭  2026Q3.json 已有 56 家，跳過
+⏭  2026Q2.json 已有 61 家，跳過
+⏭  2026Q1.json 已有 61 家，跳過
+⏭  2025Q4.json 已有 61 家，跳過
+⏭  2025Q3.json 已有 61 家，跳過
+⏭  2025Q2.json 已有 61 家，跳過
+⏭  2025Q1.json 已有 59 家，跳過
+⏭  2024Q4.json 已有 61 家，跳過
+
+完成：新增/更新 0 季，跳過 8 季
+
+===== 完成 =====
+處理 0 篇：補到圖 0 篇、確認沒圖 0 篇、失敗 0 篇、原貼文已不存在 0 篇
+[2026-11-21 18:32:00] 沒有待讀圖的檔案，不啟動 Claude
+✅ 頁面：新建 0、更新 77（營收 2026-10、估值 2026-11-21、毛利率 2026Q3）
+✅ 今日值得注意：估值跳動 39、動能轉折 19、值得推播 5 項
+[2026-11-21 18:32:01] 沒有未消化的檔案，不啟動 Claude
+✅ 健檢完成：2 項問題，已寫入 wiki/health.md
+   重複存檔: 0
+   尚未消化: 0
+   疑似截斷: 0
+   圖片未確認: 0
+   圖片張數對不上: 1
+   圖片連結壞掉: 0
+   圖片尚未判讀: 0
+   斷連結: 0
+   孤島頁: 1
+   數字不符: 0
+   資料過期: 0
+----- git 備份 -----
