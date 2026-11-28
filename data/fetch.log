@@ -1615,3 +1615,9 @@ curl failed to verify the legitimacy of the se
 [2026-11-27 18:31:25] ⚠️  第 1/3 次失敗：https://news.google.com/rss/search?q=%E6%95%98%E8%B1%90%203485&hl=zh-TW&gl=TW&ceid=TW:zh-Hant — 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E6%95%98%E8%B1%90%203485&hl=zh-TW&gl=TW&ceid=TW:zh-Hant
 [2026-11-27 18:32:21] ✅ 新聞 59/59 檔有結果
 [2026-11-27 18:32:21] === 抓取完成 ===
+[2026-11-28 18:32:56] === 開始抓取（64 檔）===
+[2026-11-28 18:32:59] ✅ 估值 61 檔（資料日 2026-11-27）
+[2026-11-28 18:33:00] ✅ 月營收 61 檔（2026-10）
+[2026-11-28 18:33:00] ✅ 毛利率 60 檔（2026Q3）
+[2026-11-28 18:34:28] ✅ 新聞 59/59 檔有結果
+[2026-11-28 18:34:28] === 抓取完成 ===
